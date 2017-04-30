@@ -1,0 +1,41 @@
+#!/bin/bash
+
+set -e
+
+cd "$(dirname "$0")"
+make
+cd standard-lists
+
+#pure
+../ds3-armor > pure_physical &
+../ds3-armor --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 -f 1 > pure_fire &
+../ds3-armor --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 -m 1 > pure_magic &
+../ds3-armor --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 -l 1 > pure_lightning &
+../ds3-armor --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 -d 1 > pure_dark &
+wait
+
+#physical + x * elemental with x from 0.1 to 0.9 in steps of 0.1
+for p in {1..9}; do
+	../ds3-armor -f 0.$p > fire_0.$p &
+	../ds3-armor -m 0.$p > magic_0.$p &
+	../ds3-armor -l 0.$p > lightning_0.$p &
+	../ds3-armor -d 0.$p > dark_0.$p &
+	wait
+done
+
+#as above, but unbalanced
+for p in {1..9}; do
+	../ds3-armor --balanced 0 -f 0.$p > fire_unbalanced_0.$p &
+	../ds3-armor --balanced 0 -m 0.$p > magic_unbalanced_0.$p &
+	../ds3-armor --balanced 0 -l 0.$p > lightning_unbalanced_0.$p &
+	../ds3-armor --balanced 0 -d 0.$p > dark_unbalanced_0.$p &
+	wait
+done
+
+#as above but all elemental damages have same weight
+for p in {1..9}; do
+	w=`bc <<< "scale=4; $p/40"`
+	echo $w
+	../ds3-armor -f $w -m $w -l $w -d $w > elemental_0.$p &
+done
+wait

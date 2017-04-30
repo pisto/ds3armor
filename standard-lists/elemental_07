@@ -1,0 +1,213 @@
+weight | physical | vs_strike | vs_slash | vs_thrust |  magic |   fire | lightning |   dark | armor pieces
+   4.1 |    5.976 |     5.976 |    5.976 |     5.012 | 19.191 | 16.215 |    17.801 | 19.191 | Ragged Mask, Master's Attire, Master's Gloves, Loincloth
+   4.4 |    6.943 |     6.170 |    5.686 |     5.303 | 20.436 | 19.389 |    21.660 | 21.503 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
+   4.7 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.305 |    22.147 | 21.584 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Loincloth
+   4.9 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    22.471 | 22.400 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
+   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    22.018 | 23.103 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth
+   5.4 |    7.145 |     7.239 |    7.145 |     6.373 | 23.582 | 21.919 |    22.503 | 23.183 | Shira's Crown, Clandestine Coat, Master's Gloves, Loincloth
+   5.6 |    7.800 |     7.613 |    7.613 |     6.846 | 23.982 | 21.919 |    22.827 | 23.982 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Loincloth
+   5.8 |    7.983 |     8.076 |    7.983 |     7.218 | 24.122 | 22.224 |    23.526 | 24.357 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+   6.1 |    8.262 |     8.262 |    8.262 |     7.218 | 24.357 | 22.465 |    23.367 | 24.357 | Ragged Mask, Clandestine Coat, Sorcerer Gloves, Loincloth
+   6.3 |    8.356 |     8.262 |    8.170 |     7.593 | 24.989 | 23.108 |    24.318 | 25.222 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+   6.5 |    8.728 |     8.355 |    8.263 |     7.687 | 25.068 | 22.706 |    24.635 | 25.300 | Cleric Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+   6.6 |    8.633 |     8.448 |    8.448 |     7.593 | 25.222 | 23.346 |    24.161 | 25.222 | Old Sorcerer Hat, Clandestine Coat, Sorcerer Gloves, Loincloth
+   6.7 |    8.452 |     8.264 |    7.983 |     7.312 | 25.652 | 23.696 |    25.062 | 25.642 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+   6.8 |    7.983 |     8.732 |    7.983 |     7.501 | 25.169 | 24.432 |    24.657 | 26.364 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Fire Keeper Skirt
+   6.9 |    8.265 |     8.639 |    8.265 |     8.066 | 25.411 | 23.778 |    25.628 | 26.043 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
+   7.1 |    8.270 |     9.779 |    8.555 |     8.076 | 25.515 | 23.807 |    24.703 | 26.161 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Archdeacon Skirt
+   7.2 |    8.823 |     8.449 |    8.170 |     7.687 | 26.502 | 24.563 |    25.838 | 26.492 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+   7.3 |    8.452 |    10.232 |    8.921 |     8.444 | 25.652 | 24.105 |    25.385 | 26.525 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Archdeacon Skirt
+   7.4 |    8.636 |     8.823 |    8.450 |     8.438 | 26.263 | 24.644 |    26.398 | 26.889 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
+   7.6 |    8.730 |    10.413 |    9.197 |     8.444 | 25.883 | 24.340 |    25.230 | 26.525 | Ragged Mask, Clandestine Coat, Sorcerer Gloves, Archdeacon Skirt
+   7.7 |    8.913 |     9.008 |    8.728 |     8.438 | 26.492 | 24.877 |    26.246 | 26.889 | Old Sorcerer Hat, Clandestine Coat, Sorcerer Gloves, Court Sorcerer Trousers
+   7.8 |    8.823 |    10.413 |    9.106 |     8.814 | 26.502 | 24.967 |    26.158 | 27.365 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Archdeacon Skirt
+   8.0 |    9.193 |    10.504 |    9.198 |     8.906 | 26.580 | 24.575 |    26.468 | 27.442 | Cleric Hat, Clandestine Coat, Court Sorcerer Gloves, Archdeacon Skirt
+   8.1 |    9.099 |    10.594 |    9.381 |     8.814 | 26.730 | 25.200 |    26.005 | 27.365 | Old Sorcerer Hat, Clandestine Coat, Sorcerer Gloves, Archdeacon Skirt
+   8.3 |    9.468 |    10.685 |    9.473 |     8.906 | 26.807 | 24.809 |    26.315 | 27.442 | Cleric Hat, Clandestine Coat, Sorcerer Gloves, Archdeacon Skirt
+   8.4 |    8.915 |    11.684 |    9.658 |     9.184 | 26.580 | 25.203 |    26.545 | 27.747 | Archdeacon White Crown, Clandestine Coat, Court Sorcerer Gloves, Archdeacon Skirt
+   8.7 |    9.191 |    11.862 |    9.932 |     9.184 | 26.807 | 25.434 |    26.392 | 27.747 | Archdeacon White Crown, Clandestine Coat, Sorcerer Gloves, Archdeacon Skirt
+   8.9 |    9.283 |    11.952 |    9.841 |     9.276 | 26.807 | 25.665 |    26.469 | 27.822 | Archdeacon White Crown, Clandestine Coat, Pyromancer Wrap, Archdeacon Skirt
+   9.1 |   12.275 |    10.232 |   12.724 |    10.723 | 25.652 | 24.279 |    23.925 | 26.525 | Ragged Mask, Jailer Robe, Court Sorcerer Gloves, Archdeacon Skirt
+   9.2 |   12.451 |     8.823 |   12.273 |    10.718 | 26.263 | 24.817 |    24.958 | 26.889 | Old Sorcerer Hat, Jailer Robe, Court Sorcerer Gloves, Court Sorcerer Trousers
+   9.4 |   12.541 |    10.413 |   12.989 |    10.723 | 25.883 | 24.513 |    23.768 | 26.525 | Ragged Mask, Jailer Robe, Sorcerer Gloves, Archdeacon Skirt
+   9.5 |   12.716 |     9.008 |   12.539 |    10.718 | 26.492 | 25.050 |    24.803 | 26.889 | Old Sorcerer Hat, Jailer Robe, Sorcerer Gloves, Court Sorcerer Trousers
+   9.6 |   12.630 |    10.413 |   12.901 |    11.084 | 26.502 | 25.140 |    24.714 | 27.365 | Old Sorcerer Hat, Jailer Robe, Court Sorcerer Gloves, Archdeacon Skirt
+   9.8 |   12.984 |    10.504 |   12.989 |    11.174 | 26.580 | 24.749 |    25.029 | 27.442 | Cleric Hat, Jailer Robe, Court Sorcerer Gloves, Archdeacon Skirt
+   9.9 |   12.894 |    10.594 |   13.165 |    11.084 | 26.730 | 25.371 |    24.558 | 27.365 | Old Sorcerer Hat, Jailer Robe, Sorcerer Gloves, Archdeacon Skirt
+  10.1 |   13.248 |    10.685 |   13.253 |    11.174 | 26.807 | 24.981 |    24.874 | 27.442 | Cleric Hat, Jailer Robe, Sorcerer Gloves, Archdeacon Skirt
+  10.2 |   12.718 |    11.684 |   13.430 |    11.445 | 26.580 | 25.374 |    25.108 | 27.747 | Archdeacon White Crown, Jailer Robe, Court Sorcerer Gloves, Archdeacon Skirt
+  10.5 |   12.983 |    11.862 |   13.693 |    11.445 | 26.807 | 25.605 |    24.953 | 27.747 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Archdeacon Skirt
+  10.7 |   13.071 |    11.952 |   13.605 |    11.535 | 26.807 | 25.836 |    25.030 | 27.822 | Archdeacon White Crown, Jailer Robe, Pyromancer Wrap, Archdeacon Skirt
+  10.9 |   13.336 |    12.934 |   14.217 |    12.520 | 26.049 | 24.682 |    24.409 | 26.699 | Archdeacon White Crown, Jailer Robe, Follower Gloves, Archdeacon Skirt
+  11.2 |   14.409 |    13.334 |   15.115 |    13.725 | 25.300 | 23.842 |    23.733 | 24.983 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Follower Boots
+  11.4 |   14.496 |    13.422 |   15.029 |    13.812 | 25.300 | 24.078 |    23.812 | 25.061 | Archdeacon White Crown, Jailer Robe, Pyromancer Wrap, Follower Boots
+  11.5 |   15.136 |    11.348 |   16.040 |    12.732 | 25.706 | 25.866 |    24.387 | 26.809 | Old Sorcerer Hat, Jailer Robe, Court Sorcerer Gloves, Black Leggings
+  11.7 |   15.481 |    11.438 |   16.125 |    12.821 | 25.784 | 25.478 |    24.704 | 26.886 | Cleric Hat, Jailer Robe, Court Sorcerer Gloves, Black Leggings
+  11.8 |   15.393 |    11.528 |   16.295 |    12.732 | 25.936 | 26.095 |    24.231 | 26.809 | Old Sorcerer Hat, Jailer Robe, Sorcerer Gloves, Black Leggings
+  12.0 |   15.737 |    11.617 |   16.380 |    12.821 | 26.014 | 25.709 |    24.548 | 26.886 | Cleric Hat, Jailer Robe, Sorcerer Gloves, Black Leggings
+  12.1 |   15.222 |    12.606 |   16.551 |    13.087 | 25.784 | 26.098 |    24.783 | 27.194 | Archdeacon White Crown, Jailer Robe, Court Sorcerer Gloves, Black Leggings
+  12.4 |   15.479 |    12.782 |   16.804 |    13.087 | 26.014 | 26.327 |    24.627 | 27.194 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Black Leggings
+  12.6 |   15.565 |    12.871 |   16.719 |    13.175 | 26.014 | 26.555 |    24.705 | 27.270 | Archdeacon White Crown, Jailer Robe, Pyromancer Wrap, Black Leggings
+  12.8 |   15.822 |    13.843 |   17.309 |    14.141 | 25.247 | 25.412 |    24.081 | 26.138 | Archdeacon White Crown, Jailer Robe, Follower Gloves, Black Leggings
+  13.2 |   17.352 |    14.438 |   16.092 |    14.637 | 24.666 | 26.086 |    23.814 | 25.378 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Fallen Knight Trousers
+  13.3 |   16.164 |    12.606 |   17.478 |    13.790 | 26.091 | 25.793 |    24.549 | 27.345 | Archdeacon White Crown, Jailer Robe, Pontiff Knight Gauntlets, Black Leggings
+  13.4 |   17.435 |    14.525 |   16.007 |    14.723 | 24.666 | 26.316 |    23.893 | 25.455 | Archdeacon White Crown, Jailer Robe, Pyromancer Wrap, Fallen Knight Trousers
+  13.5 |   16.764 |    13.401 |   18.405 |    14.844 | 25.017 | 25.108 |    23.847 | 26.515 | Archdeacon White Crown, Jailer Robe, Dancer's Gauntlets, Black Leggings
+  13.6 |   16.250 |    13.401 |   18.152 |    13.878 | 25.784 | 25.793 |    24.471 | 27.043 | Archdeacon White Crown, Jailer Robe, Leather Gauntlets, Black Leggings
+  13.9 |   16.592 |    14.285 |   18.068 |    14.405 | 25.937 | 26.403 |    24.159 | 26.364 | Archdeacon White Crown, Jailer Robe, Leonhard's Gauntlets, Black Leggings
+  14.2 |   16.700 |    17.714 |   17.369 |    16.600 | 24.669 | 25.758 |    23.425 | 22.818 | Archdeacon White Crown, Leonhard's Garb, Court Sorcerer Gloves, Black Leggings
+  14.4 |   17.995 |    14.081 |   18.245 |    15.549 | 25.864 | 25.535 |    23.485 | 26.168 | Archdeacon White Crown, Jailer Robe, Court Sorcerer Gloves, Elite Knight Leggings
+  14.5 |   16.952 |    17.881 |   17.619 |    16.600 | 24.902 | 25.988 |    23.266 | 22.818 | Archdeacon White Crown, Leonhard's Garb, Sorcerer Gloves, Black Leggings
+  14.6 |   17.534 |    14.461 |   18.827 |    15.284 | 25.247 | 26.022 |    23.613 | 26.440 | Archdeacon White Crown, Jailer Robe, Knight Gauntlets, Black Leggings
+  14.7 |   18.243 |    14.254 |   18.492 |    15.549 | 26.093 | 25.766 |    23.326 | 26.168 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Elite Knight Leggings
+  14.9 |   18.326 |    14.341 |   18.410 |    15.635 | 26.093 | 25.996 |    23.406 | 26.244 | Archdeacon White Crown, Jailer Robe, Pyromancer Wrap, Elite Knight Leggings
+  15.1 |   18.574 |    15.297 |   18.988 |    16.574 | 25.328 | 24.844 |    22.771 | 25.097 | Archdeacon White Crown, Jailer Robe, Follower Gloves, Elite Knight Leggings
+  15.2 |   17.534 |    14.285 |   19.164 |    15.723 | 25.861 | 26.631 |    24.861 | 26.515 | Archdeacon White Crown, Jailer Robe, Dragonslayer Gauntlets, Black Leggings
+  15.6 |   18.215 |    18.463 |   19.205 |    18.287 | 23.891 | 24.763 |    22.472 | 22.098 | Archdeacon White Crown, Leonhard's Garb, Dancer's Gauntlets, Black Leggings
+  15.7 |   17.710 |    18.463 |   18.955 |    17.359 | 24.669 | 25.452 |    23.107 | 22.658 | Archdeacon White Crown, Leonhard's Garb, Leather Gauntlets, Black Leggings
+  15.8 |   17.007 |    16.371 |   17.260 |    16.479 | 26.411 | 25.675 |    25.515 | 26.720 | Archdeacon White Crown, Clandestine Coat, Sorcerer Gloves, Lapp's Leggings
+  15.9 |   18.989 |    14.863 |   19.814 |    16.318 | 25.864 | 25.228 |    23.168 | 26.015 | Archdeacon White Crown, Jailer Robe, Leather Gauntlets, Elite Knight Leggings
+  16.0 |   18.046 |    19.295 |   18.871 |    17.865 | 24.824 | 26.064 |    22.790 | 21.938 | Archdeacon White Crown, Leonhard's Garb, Leonhard's Gauntlets, Black Leggings
+  16.2 |   19.320 |    15.731 |   19.731 |    16.830 | 26.017 | 25.842 |    22.850 | 25.326 | Archdeacon White Crown, Jailer Robe, Leonhard's Gauntlets, Elite Knight Leggings
+  16.3 |   19.101 |    18.079 |   20.369 |    18.080 | 22.352 | 24.652 |    23.170 | 25.006 | Archdeacon White Crown, Alva Armor, Court Sorcerer Gloves, Black Leggings
+  16.5 |   20.149 |    13.032 |   19.987 |    17.860 | 26.343 | 26.834 |    24.061 | 26.571 | Old Sorcerer Hat, Jailer Robe, Court Sorcerer Gloves, Black Iron Leggings
+  16.7 |   20.149 |    14.995 |   19.987 |    18.227 | 26.104 | 25.382 |    23.816 | 26.333 | Old Sorcerer Hat, Jailer Robe, Court Sorcerer Gloves, Lapp's Leggings
+  16.8 |   19.702 |    15.390 |   20.719 |    17.428 | 25.472 | 26.176 |    24.150 | 26.579 | Lapp's Helm, Jailer Robe, Court Sorcerer Gloves, Black Leggings
+  16.9 |   20.474 |    15.081 |   20.068 |    18.310 | 26.182 | 24.992 |    24.136 | 26.411 | Cleric Hat, Jailer Robe, Court Sorcerer Gloves, Lapp's Leggings
+  17.0 |   20.391 |    15.167 |   20.230 |    18.227 | 26.333 | 25.613 |    23.658 | 26.333 | Old Sorcerer Hat, Jailer Robe, Sorcerer Gloves, Lapp's Leggings
+  17.1 |   20.230 |    14.265 |   20.474 |    18.194 | 26.421 | 27.063 |    24.459 | 26.957 | Archdeacon White Crown, Jailer Robe, Court Sorcerer Gloves, Black Iron Leggings
+  17.3 |   20.230 |    16.201 |   20.474 |    18.559 | 26.182 | 25.616 |    24.215 | 26.720 | Archdeacon White Crown, Jailer Robe, Court Sorcerer Gloves, Lapp's Leggings
+  17.4 |   20.472 |    14.438 |   20.715 |    18.194 | 26.649 | 27.289 |    24.302 | 26.957 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Black Iron Leggings
+  17.6 |   20.472 |    16.371 |   20.715 |    18.559 | 26.411 | 25.846 |    24.058 | 26.720 | Archdeacon White Crown, Jailer Robe, Sorcerer Gloves, Lapp's Leggings
+  17.8 |   20.553 |    16.455 |   20.634 |    18.641 | 26.411 | 26.076 |    24.137 | 26.796 | Archdeacon White Crown, Jailer Robe, Pyromancer Wrap, Lapp's Leggings
+  18.0 |   20.794 |    17.387 |   21.196 |    19.547 | 25.648 | 24.925 |    23.508 | 25.657 | Archdeacon White Crown, Jailer Robe, Follower Gloves, Lapp's Leggings
+  18.1 |   19.346 |    18.196 |   21.091 |    21.170 | 25.136 | 24.889 |    25.986 | 24.147 | Ragged Mask, Dragonslayer Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  18.2 |   19.508 |    16.913 |   20.682 |    21.166 | 25.752 | 25.423 |    26.991 | 24.522 | Old Sorcerer Hat, Dragonslayer Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
+  18.4 |   19.591 |    18.362 |   21.330 |    21.170 | 25.368 | 25.122 |    25.833 | 24.147 | Ragged Mask, Dragonslayer Armor, Sorcerer Gloves, Archdeacon Skirt
+  18.5 |   19.752 |    17.081 |   20.923 |    21.166 | 25.982 | 25.653 |    26.840 | 24.522 | Old Sorcerer Hat, Dragonslayer Armor, Sorcerer Gloves, Court Sorcerer Trousers
+  18.6 |   19.673 |    18.362 |   21.250 |    21.489 | 25.993 | 25.743 |    26.753 | 25.014 | Old Sorcerer Hat, Dragonslayer Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  18.8 |   19.999 |    18.445 |   21.330 |    21.569 | 26.070 | 25.355 |    27.060 | 25.093 | Cleric Hat, Dragonslayer Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  18.9 |   19.916 |    18.527 |   21.489 |    21.489 | 26.222 | 25.972 |    26.601 | 25.014 | Old Sorcerer Hat, Dragonslayer Armor, Sorcerer Gloves, Archdeacon Skirt
+  19.1 |   20.241 |    18.609 |   21.568 |    21.569 | 26.299 | 25.586 |    26.909 | 25.093 | Cleric Hat, Dragonslayer Armor, Sorcerer Gloves, Archdeacon Skirt
+  19.2 |   19.754 |    19.520 |   21.729 |    21.808 | 26.070 | 25.976 |    27.137 | 25.408 | Archdeacon White Crown, Dragonslayer Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  19.5 |   19.997 |    19.683 |   21.966 |    21.808 | 26.299 | 26.204 |    26.985 | 25.408 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Archdeacon Skirt
+  19.7 |   20.078 |    19.764 |   21.887 |    21.887 | 26.299 | 26.433 |    27.061 | 25.486 | Archdeacon White Crown, Dragonslayer Armor, Pyromancer Wrap, Archdeacon Skirt
+  20.2 |   21.309 |    21.024 |   23.252 |    23.821 | 24.782 | 24.455 |    25.799 | 22.555 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Follower Boots
+  20.4 |   22.147 |    20.980 |   22.389 |    22.624 | 25.483 | 24.795 |    24.544 | 26.358 | Old Sorcerer Hat, Lapp's Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  20.5 |   21.977 |    19.214 |   24.089 |    22.945 | 25.191 | 26.463 |    26.436 | 24.440 | Old Sorcerer Hat, Dragonslayer Armor, Court Sorcerer Gloves, Black Leggings
+  20.7 |   22.294 |    19.296 |   24.166 |    23.023 | 25.269 | 26.079 |    26.744 | 24.520 | Cleric Hat, Dragonslayer Armor, Court Sorcerer Gloves, Black Leggings
+  20.8 |   22.214 |    19.377 |   24.319 |    22.945 | 25.423 | 26.690 |    26.283 | 24.440 | Old Sorcerer Hat, Dragonslayer Armor, Sorcerer Gloves, Black Leggings
+  21.0 |   22.226 |    22.101 |   22.861 |    22.938 | 25.561 | 25.031 |    24.939 | 26.745 | Archdeacon White Crown, Lapp's Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  21.1 |   22.056 |    20.360 |   24.550 |    23.257 | 25.269 | 26.693 |    26.821 | 24.838 | Archdeacon White Crown, Dragonslayer Armor, Court Sorcerer Gloves, Black Leggings
+  21.4 |   22.292 |    20.521 |   24.779 |    23.257 | 25.501 | 26.920 |    26.669 | 24.838 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Black Leggings
+  21.6 |   22.371 |    20.601 |   24.703 |    23.335 | 25.501 | 27.147 |    26.745 | 24.915 | Archdeacon White Crown, Dragonslayer Armor, Pyromancer Wrap, Black Leggings
+  22.1 |   22.004 |    23.473 |   20.165 |    23.192 | 27.831 | 25.801 |    27.112 | 26.693 | Old Sorcerer Hat, Cathedral Knight Armor, Sorcerer Gloves, Archdeacon Skirt
+  22.2 |   24.014 |    22.030 |   24.136 |    24.626 | 24.144 | 26.682 |    25.878 | 22.963 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Fallen Knight Trousers
+  22.3 |   24.381 |    21.805 |   25.186 |    24.059 | 24.675 | 25.524 |    24.217 | 25.794 | Old Sorcerer Hat, Lapp's Armor, Court Sorcerer Gloves, Black Leggings
+  22.4 |   21.846 |    24.406 |   20.409 |    23.504 | 27.683 | 25.804 |    27.644 | 27.079 | Archdeacon White Crown, Cathedral Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
+  22.5 |   24.688 |    21.884 |   25.262 |    24.136 | 24.755 | 25.135 |    24.534 | 25.872 | Cleric Hat, Lapp's Armor, Court Sorcerer Gloves, Black Leggings
+  22.6 |   24.610 |    21.963 |   25.413 |    24.059 | 24.909 | 25.755 |    24.060 | 25.794 | Old Sorcerer Hat, Lapp's Armor, Sorcerer Gloves, Black Leggings
+  22.7 |   22.083 |    24.559 |   20.650 |    23.504 | 27.907 | 26.033 |    27.494 | 27.079 | Archdeacon White Crown, Cathedral Knight Armor, Sorcerer Gloves, Archdeacon Skirt
+  22.8 |   24.916 |    22.042 |   25.489 |    24.136 | 24.988 | 25.367 |    24.378 | 25.872 | Cleric Hat, Lapp's Armor, Sorcerer Gloves, Black Leggings
+  22.9 |   24.457 |    22.914 |   25.641 |    24.367 | 24.755 | 25.758 |    24.614 | 26.184 | Archdeacon White Crown, Lapp's Armor, Court Sorcerer Gloves, Black Leggings
+  23.2 |   24.686 |    23.070 |   25.866 |    24.367 | 24.988 | 25.988 |    24.457 | 26.184 | Archdeacon White Crown, Lapp's Armor, Sorcerer Gloves, Black Leggings
+  23.4 |   24.763 |    23.148 |   25.791 |    24.443 | 24.988 | 26.217 |    24.535 | 26.261 | Archdeacon White Crown, Lapp's Armor, Pyromancer Wrap, Black Leggings
+  23.7 |   24.011 |    24.119 |   22.808 |    24.616 | 26.823 | 26.292 |    26.948 | 26.133 | Old Sorcerer Hat, Cathedral Knight Armor, Court Sorcerer Gloves, Black Leggings
+  23.9 |   24.319 |    24.195 |   22.887 |    24.692 | 26.900 | 25.907 |    27.254 | 26.210 | Cleric Hat, Cathedral Knight Armor, Court Sorcerer Gloves, Black Leggings
+  24.0 |   24.241 |    24.272 |   23.042 |    24.616 | 27.049 | 26.520 |    26.796 | 26.133 | Old Sorcerer Hat, Cathedral Knight Armor, Sorcerer Gloves, Black Leggings
+  24.2 |   24.549 |    24.349 |   23.120 |    24.692 | 27.126 | 26.136 |    27.103 | 26.210 | Cleric Hat, Cathedral Knight Armor, Sorcerer Gloves, Black Leggings
+  24.3 |   24.088 |    25.195 |   23.278 |    24.922 | 26.900 | 26.523 |    27.330 | 26.521 | Archdeacon White Crown, Cathedral Knight Armor, Court Sorcerer Gloves, Black Leggings
+  24.6 |   24.318 |    25.346 |   23.510 |    24.922 | 27.126 | 26.751 |    27.179 | 26.521 | Archdeacon White Crown, Cathedral Knight Armor, Sorcerer Gloves, Black Leggings
+  24.8 |   24.395 |    25.422 |   23.433 |    24.998 | 27.126 | 26.978 |    27.255 | 26.597 | Archdeacon White Crown, Cathedral Knight Armor, Pyromancer Wrap, Black Leggings
+  25.4 |   25.995 |    26.764 |   22.856 |    26.261 | 25.798 | 26.511 |    26.394 | 24.688 | Archdeacon White Crown, Cathedral Knight Armor, Sorcerer Gloves, Fallen Knight Trousers
+  25.5 |   26.586 |    20.748 |   27.657 |    27.472 | 25.832 | 27.423 |    26.118 | 24.194 | Old Sorcerer Hat, Dragonslayer Armor, Court Sorcerer Gloves, Black Iron Leggings
+  25.7 |   26.586 |    22.537 |   27.657 |    27.796 | 25.592 | 25.983 |    25.880 | 23.949 | Old Sorcerer Hat, Dragonslayer Armor, Court Sorcerer Gloves, Lapp's Leggings
+  25.8 |   26.175 |    22.897 |   28.319 |    27.091 | 24.955 | 26.770 |    26.205 | 24.202 | Lapp's Helm, Dragonslayer Armor, Court Sorcerer Gloves, Black Leggings
+  25.9 |   26.884 |    22.616 |   27.731 |    27.869 | 25.670 | 25.596 |    26.191 | 24.029 | Cleric Hat, Dragonslayer Armor, Court Sorcerer Gloves, Lapp's Leggings
+  26.0 |   26.518 |    24.395 |   27.969 |    26.661 | 24.832 | 26.294 |    24.692 | 25.496 | Archdeacon White Crown, Lapp's Armor, Dragonslayer Gauntlets, Black Leggings
+  26.1 |   26.661 |    21.872 |   28.097 |    27.767 | 25.910 | 27.651 |    26.505 | 24.593 | Archdeacon White Crown, Dragonslayer Armor, Court Sorcerer Gloves, Black Iron Leggings
+  26.3 |   26.661 |    23.636 |   28.097 |    28.089 | 25.670 | 26.215 |    26.268 | 24.348 | Archdeacon White Crown, Dragonslayer Armor, Court Sorcerer Gloves, Lapp's Leggings
+  26.4 |   26.883 |    22.030 |   28.315 |    27.767 | 26.140 | 27.874 |    26.353 | 24.593 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Black Iron Leggings
+  26.6 |   26.883 |    23.791 |   28.315 |    28.089 | 25.900 | 26.443 |    26.115 | 24.348 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Lapp's Leggings
+  26.8 |   26.957 |    23.868 |   28.242 |    28.162 | 25.900 | 26.671 |    26.192 | 24.427 | Archdeacon White Crown, Dragonslayer Armor, Pyromancer Wrap, Lapp's Leggings
+  27.3 |   28.848 |    23.290 |   28.703 |    28.521 | 25.321 | 26.497 |    23.890 | 25.553 | Old Sorcerer Hat, Lapp's Armor, Court Sorcerer Gloves, Black Iron Leggings
+  27.4 |   26.825 |    24.392 |   28.339 |    28.331 | 25.990 | 26.374 |    26.821 | 25.082 | Archdeacon White Crown, Dragonslayer Armor, Court Sorcerer Gloves, Harald Legion Leggings
+  27.6 |   28.449 |    25.370 |   29.355 |    28.145 | 24.438 | 25.836 |    23.979 | 25.560 | Lapp's Helm, Lapp's Armor, Court Sorcerer Gloves, Black Leggings
+  27.7 |   27.047 |    24.545 |   28.556 |    28.331 | 26.220 | 26.602 |    26.669 | 25.082 | Archdeacon White Crown, Dragonslayer Armor, Sorcerer Gloves, Harald Legion Leggings
+  27.9 |   28.920 |    24.378 |   29.137 |    28.811 | 25.400 | 26.727 |    24.288 | 25.944 | Archdeacon White Crown, Lapp's Armor, Court Sorcerer Gloves, Black Iron Leggings
+  28.1 |   28.920 |    26.085 |   29.137 |    29.129 | 25.158 | 25.273 |    24.044 | 25.704 | Archdeacon White Crown, Lapp's Armor, Court Sorcerer Gloves, Lapp's Leggings
+  28.2 |   29.135 |    24.531 |   29.351 |    28.811 | 25.631 | 26.954 |    24.131 | 25.944 | Archdeacon White Crown, Lapp's Armor, Sorcerer Gloves, Black Iron Leggings
+  28.4 |   29.135 |    26.235 |   29.351 |    29.129 | 25.390 | 25.504 |    23.887 | 25.704 | Archdeacon White Crown, Lapp's Armor, Sorcerer Gloves, Lapp's Leggings
+  28.6 |   29.207 |    26.310 |   29.280 |    29.200 | 25.390 | 25.735 |    23.965 | 25.781 | Archdeacon White Crown, Lapp's Armor, Pyromancer Wrap, Lapp's Leggings
+  28.9 |   28.790 |    25.635 |   26.511 |    29.117 | 27.526 | 26.875 |    26.940 | 25.970 | Cleric Hat, Cathedral Knight Armor, Court Sorcerer Gloves, Black Iron Leggings
+  29.0 |   28.100 |    27.578 |   27.110 |    28.672 | 26.592 | 26.600 |    26.718 | 25.900 | Lapp's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Black Leggings
+  29.1 |   28.790 |    27.314 |   26.511 |    29.433 | 27.291 | 25.423 |    26.704 | 25.730 | Cleric Hat, Cathedral Knight Armor, Court Sorcerer Gloves, Lapp's Leggings
+  29.2 |   29.079 |    26.817 |   29.375 |    29.367 | 25.480 | 25.435 |    24.614 | 26.424 | Archdeacon White Crown, Lapp's Armor, Court Sorcerer Gloves, Harald Legion Leggings
+  29.3 |   28.572 |    26.615 |   26.884 |    29.333 | 27.526 | 27.483 |    27.017 | 26.282 | Archdeacon White Crown, Cathedral Knight Armor, Court Sorcerer Gloves, Black Iron Leggings
+  29.5 |   28.572 |    28.272 |   26.884 |    29.649 | 27.291 | 26.044 |    26.781 | 26.043 | Archdeacon White Crown, Cathedral Knight Armor, Court Sorcerer Gloves, Lapp's Leggings
+  29.6 |   28.789 |    26.764 |   27.106 |    29.333 | 27.751 | 27.707 |    26.865 | 26.282 | Archdeacon White Crown, Cathedral Knight Armor, Sorcerer Gloves, Black Iron Leggings
+  29.8 |   28.789 |    28.417 |   27.106 |    29.649 | 27.517 | 26.272 |    26.630 | 26.043 | Archdeacon White Crown, Cathedral Knight Armor, Sorcerer Gloves, Lapp's Leggings
+  30.0 |   28.861 |    28.490 |   27.032 |    29.720 | 27.517 | 26.501 |    26.705 | 26.119 | Archdeacon White Crown, Cathedral Knight Armor, Pyromancer Wrap, Lapp's Leggings
+  30.5 |   29.366 |    26.615 |   27.697 |    29.905 | 27.826 | 27.184 |    26.789 | 26.435 | Archdeacon White Crown, Cathedral Knight Armor, Pontiff Knight Gauntlets, Black Iron Leggings
+  30.6 |   28.732 |    28.982 |   27.130 |    29.885 | 27.605 | 26.204 |    27.330 | 26.760 | Archdeacon White Crown, Cathedral Knight Armor, Court Sorcerer Gloves, Harald Legion Leggings
+  30.8 |   29.438 |    27.283 |   28.287 |    29.977 | 27.526 | 27.184 |    26.714 | 26.129 | Archdeacon White Crown, Cathedral Knight Armor, Leather Gauntlets, Black Iron Leggings
+  30.9 |   28.948 |    29.126 |   27.351 |    29.885 | 27.829 | 26.432 |    27.179 | 26.760 | Archdeacon White Crown, Cathedral Knight Armor, Sorcerer Gloves, Harald Legion Leggings
+  31.1 |   29.727 |    28.025 |   28.214 |    30.405 | 27.676 | 27.782 |    26.411 | 25.442 | Archdeacon White Crown, Cathedral Knight Armor, Leonhard's Gauntlets, Black Iron Leggings
+  31.3 |   29.727 |    29.650 |   28.214 |    30.716 | 27.441 | 26.349 |    26.174 | 25.200 | Archdeacon White Crown, Cathedral Knight Armor, Leonhard's Gauntlets, Lapp's Leggings
+  31.6 |   30.232 |    29.795 |   28.066 |    30.929 | 26.690 | 26.577 |    26.326 | 25.046 | Archdeacon White Crown, Cathedral Knight Armor, Fallen Knight Gauntlets, Lapp's Leggings
+  31.7 |   30.376 |    27.877 |   28.731 |    30.763 | 27.826 | 27.258 |    25.730 | 25.671 | Archdeacon White Crown, Cathedral Knight Armor, Brass Gauntlets, Black Iron Leggings
+  31.8 |   30.520 |    28.173 |   28.878 |    31.120 | 27.002 | 27.408 |    25.881 | 25.518 | Archdeacon White Crown, Cathedral Knight Armor, Knight Gauntlets, Black Iron Leggings
+  32.0 |   30.520 |    29.795 |   28.878 |    31.427 | 26.765 | 25.967 |    25.642 | 25.276 | Archdeacon White Crown, Cathedral Knight Armor, Knight Gauntlets, Lapp's Leggings
+  32.1 |   30.061 |    28.970 |   29.392 |    30.835 | 26.668 | 27.130 |    26.794 | 25.208 | Lapp's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Black Leggings
+  32.2 |   30.592 |    28.099 |   29.100 |    30.905 | 27.152 | 27.857 |    26.184 | 25.824 | Archdeacon White Crown, Cathedral Knight Armor, Black Knight Gauntlets, Black Iron Leggings
+  32.3 |   31.013 |    28.223 |   31.586 |    31.509 | 25.557 | 25.973 |    24.692 | 25.738 | Archdeacon White Crown, Lapp's Armor, Dragonslayer Gauntlets, Harald Legion Leggings
+  32.4 |   30.520 |    28.025 |   29.174 |    31.477 | 27.601 | 28.006 |    27.092 | 25.594 | Archdeacon White Crown, Cathedral Knight Armor, Dragonslayer Gauntlets, Black Iron Leggings
+  32.6 |   30.520 |    29.650 |   29.174 |    31.783 | 27.366 | 26.577 |    26.857 | 25.353 | Archdeacon White Crown, Cathedral Knight Armor, Dragonslayer Gauntlets, Lapp's Leggings
+  32.8 |   32.676 |    28.440 |   32.676 |    32.669 | 24.843 | 25.352 |    23.405 | 25.076 | Lapp's Helm, Lapp's Armor, Court Sorcerer Gloves, Lapp's Leggings
+  32.9 |   32.880 |    26.935 |   32.880 |    32.367 | 25.318 | 27.031 |    23.492 | 25.318 | Lapp's Helm, Lapp's Armor, Sorcerer Gloves, Black Iron Leggings
+  33.1 |   32.880 |    28.585 |   32.880 |    32.669 | 25.076 | 25.582 |    23.246 | 25.076 | Lapp's Helm, Lapp's Armor, Sorcerer Gloves, Lapp's Leggings
+  33.3 |   32.948 |    28.657 |   32.812 |    32.737 | 25.076 | 25.813 |    23.325 | 25.153 | Lapp's Helm, Lapp's Armor, Pyromancer Wrap, Lapp's Leggings
+  33.6 |   30.953 |    29.064 |   28.952 |    32.049 | 27.901 | 27.857 |    27.017 | 25.976 | Archdeacon White Crown, Cathedral Knight Armor, Cathedral Knight Gauntlets, Black Iron Leggings
+  33.7 |   30.676 |    30.347 |   29.412 |    32.012 | 27.679 | 26.736 |    27.406 | 26.077 | Archdeacon White Crown, Cathedral Knight Armor, Dragonslayer Gauntlets, Harald Legion Leggings
+  33.9 |   32.827 |    29.149 |   32.903 |    32.895 | 25.167 | 25.513 |    23.979 | 25.802 | Lapp's Helm, Lapp's Armor, Court Sorcerer Gloves, Harald Legion Leggings
+  34.0 |   32.347 |    28.953 |   30.536 |    32.863 | 27.221 | 27.559 |    26.402 | 25.658 | Lapp's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Black Iron Leggings
+  34.2 |   32.347 |    30.558 |   30.536 |    33.163 | 26.985 | 26.121 |    26.165 | 25.417 | Lapp's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Lapp's Leggings
+  34.3 |   32.552 |    29.097 |   30.747 |    32.863 | 27.447 | 27.783 |    26.249 | 25.658 | Lapp's Helm, Cathedral Knight Armor, Sorcerer Gloves, Black Iron Leggings
+  34.5 |   32.620 |    29.169 |   30.677 |    32.931 | 27.447 | 28.007 |    26.326 | 25.735 | Lapp's Helm, Cathedral Knight Armor, Pyromancer Wrap, Black Iron Leggings
+  34.7 |   32.620 |    30.768 |   30.677 |    33.230 | 27.211 | 26.578 |    26.088 | 25.495 | Lapp's Helm, Cathedral Knight Armor, Pyromancer Wrap, Lapp's Leggings
+  35.2 |   33.099 |    28.953 |   31.308 |    33.406 | 27.522 | 27.260 |    26.173 | 25.813 | Lapp's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Black Iron Leggings
+  35.3 |   32.499 |    31.245 |   30.770 |    33.387 | 27.300 | 26.281 |    26.718 | 26.141 | Lapp's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Harald Legion Leggings
+  35.6 |   32.703 |    31.384 |   30.980 |    33.387 | 27.525 | 26.509 |    26.566 | 26.141 | Lapp's Helm, Cathedral Knight Armor, Sorcerer Gloves, Harald Legion Leggings
+  35.8 |   32.771 |    31.454 |   30.910 |    33.454 | 27.525 | 26.737 |    26.642 | 26.217 | Lapp's Helm, Cathedral Knight Armor, Pyromancer Wrap, Harald Legion Leggings
+  36.0 |   33.440 |    31.892 |   31.799 |    34.176 | 27.136 | 26.426 |    25.552 | 24.567 | Lapp's Helm, Cathedral Knight Armor, Leonhard's Gauntlets, Lapp's Leggings
+  36.3 |   33.919 |    32.032 |   31.659 |    34.379 | 26.382 | 26.654 |    25.705 | 24.413 | Lapp's Helm, Cathedral Knight Armor, Fallen Knight Gauntlets, Lapp's Leggings
+  36.4 |   34.055 |    30.175 |   32.290 |    34.221 | 27.522 | 27.335 |    25.104 | 25.042 | Lapp's Helm, Cathedral Knight Armor, Brass Gauntlets, Black Iron Leggings
+  36.5 |   34.192 |    30.462 |   32.431 |    34.560 | 26.695 | 27.484 |    25.257 | 24.888 | Lapp's Helm, Cathedral Knight Armor, Knight Gauntlets, Black Iron Leggings
+  36.7 |   34.192 |    32.032 |   32.431 |    34.852 | 26.457 | 26.045 |    25.016 | 24.644 | Lapp's Helm, Cathedral Knight Armor, Knight Gauntlets, Lapp's Leggings
+  36.8 |   33.317 |    31.871 |   32.099 |    33.993 | 27.300 | 25.977 |    26.414 | 25.988 | Lapp's Helm, Cathedral Knight Armor, Leather Gauntlets, Harald Legion Leggings
+  36.9 |   34.260 |    30.390 |   32.641 |    34.357 | 26.845 | 27.932 |    25.562 | 25.196 | Lapp's Helm, Cathedral Knight Armor, Black Knight Gauntlets, Black Iron Leggings
+  37.1 |   34.192 |    30.318 |   32.711 |    34.900 | 27.296 | 28.082 |    26.478 | 24.965 | Lapp's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Black Iron Leggings
+  37.3 |   34.192 |    31.892 |   32.711 |    35.190 | 27.061 | 26.654 |    26.241 | 24.722 | Lapp's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Lapp's Leggings
+  37.8 |   34.340 |    32.705 |   32.658 |    35.071 | 26.774 | 26.205 |    25.578 | 25.375 | Lapp's Helm, Cathedral Knight Armor, Knight Gauntlets, Harald Legion Leggings
+  38.0 |   34.192 |    32.866 |   31.957 |    34.174 | 27.218 | 27.447 |    26.952 | 25.208 | Lapp's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Exile Leggings
+  38.1 |   34.807 |    30.965 |   33.062 |    35.239 | 27.146 | 27.708 |    25.791 | 25.350 | Lapp's Helm, Cathedral Knight Armor, Lapp's Gauntlets, Black Iron Leggings
+  38.2 |   34.408 |    32.636 |   32.868 |    34.869 | 26.924 | 26.661 |    25.882 | 25.681 | Lapp's Helm, Cathedral Knight Armor, Black Knight Gauntlets, Harald Legion Leggings
+  38.3 |   34.602 |    31.324 |   32.501 |    35.443 | 27.597 | 27.932 |    26.402 | 25.350 | Lapp's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Black Iron Leggings
+  38.4 |   34.340 |    32.566 |   32.938 |    35.408 | 27.375 | 26.813 |    26.794 | 25.452 | Lapp's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Harald Legion Leggings
+  38.9 |   34.269 |    32.280 |   32.866 |    35.061 | 27.147 | 27.043 |    27.176 | 26.311 | Winged Knight Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Harald Legion Leggings
+  39.0 |   34.944 |    30.821 |   33.203 |    35.103 | 27.447 | 28.306 |    26.555 | 26.429 | Lapp's Helm, Cathedral Knight Armor, Winged Knight Gauntlets, Black Iron Leggings
+  39.2 |   34.944 |    32.383 |   33.203 |    35.393 | 27.211 | 26.883 |    26.318 | 26.190 | Lapp's Helm, Cathedral Knight Armor, Winged Knight Gauntlets, Lapp's Leggings
+  39.4 |   34.953 |    33.192 |   33.287 |    35.745 | 27.225 | 26.433 |    26.110 | 25.834 | Lapp's Helm, Cathedral Knight Armor, Lapp's Gauntlets, Harald Legion Leggings
+  39.6 |   34.749 |    33.539 |   32.728 |    35.947 | 27.675 | 26.661 |    26.718 | 25.834 | Lapp's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+  40.0 |   35.090 |    33.053 |   33.497 |    35.879 | 27.225 | 26.509 |    26.946 | 26.064 | Lapp's Helm, Cathedral Knight Armor, Catarina Gauntlets, Harald Legion Leggings
+  40.3 |   35.090 |    33.053 |   33.427 |    35.610 | 27.525 | 27.041 |    26.870 | 26.906 | Lapp's Helm, Cathedral Knight Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  40.8 |   35.020 |    32.768 |   33.356 |    35.264 | 27.297 | 27.271 |    27.252 | 27.749 | Winged Knight Helm, Cathedral Knight Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  41.1 |   35.090 |    32.484 |   33.427 |    35.264 | 27.449 | 27.194 |    28.015 | 27.289 | Catarina Helm, Cathedral Knight Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  41.2 |   35.090 |    33.053 |   33.497 |    35.879 | 27.911 | 27.049 |    27.709 | 25.599 | Morne's Helm, Cathedral Knight Armor, Catarina Gauntlets, Harald Legion Leggings
+  41.5 |   35.090 |    33.053 |   33.427 |    35.610 | 28.209 | 27.577 |    27.634 | 26.446 | Morne's Helm, Cathedral Knight Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  44.6 |   35.642 |    32.236 |   35.703 |    34.853 | 26.627 | 28.720 |    25.581 | 27.250 | Lapp's Helm, Havel's Armor, Catarina Gauntlets, Harald Legion Leggings
+  44.9 |   35.642 |    32.236 |   35.636 |    34.579 | 26.930 | 29.236 |    25.503 | 28.078 | Lapp's Helm, Havel's Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  45.4 |   35.573 |    31.948 |   35.567 |    34.228 | 26.700 | 29.459 |    25.892 | 28.908 | Winged Knight Helm, Havel's Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  45.7 |   35.642 |    31.661 |   35.636 |    34.228 | 26.853 | 29.385 |    26.670 | 28.455 | Catarina Helm, Havel's Armor, Winged Knight Gauntlets, Harald Legion Leggings
+  45.8 |   35.642 |    32.236 |   35.703 |    34.853 | 27.319 | 29.244 |    26.358 | 26.792 | Morne's Helm, Havel's Armor, Catarina Gauntlets, Harald Legion Leggings
+  46.1 |   35.642 |    32.236 |   35.636 |    34.579 | 27.619 | 29.756 |    26.281 | 27.626 | Morne's Helm, Havel's Armor, Winged Knight Gauntlets, Harald Legion Leggings
