@@ -37,9 +37,9 @@ A versatile build probably needs `--balanced 1`.
 
 I generated a number of sensible default with this program in the [standard-lists](https://github.com/pisto/ds3armor/tree/master/standard-lists) folder.
 
-* pure_{physical,fire,magic,lightning,dark}: score based only on {physical,fire,magic,lightning,dark}
-* {fire,magic,lightning,dark,mixed}_{weight}: physical (weight 1) averaged with elemental at some specified weight between 0.1 and 0.9 - mixed is an average of all elemental damages with the same weights
-* {fire,magic,lightning,dark}_unbalanced_{weight}: same as above but with `--balanced 0`
+* pure\_{physical,fire,magic,lightning,dark}: score based only on {physical,fire,magic,lightning,dark}
+* {fire,magic,lightning,dark,mixed}\_{weight}: physical (weight 1) averaged with elemental at some specified weight between 0.1 and 0.9 - mixed is an average of all elemental damages with the same weights
+* {fire,magic,lightning,dark}\_unbalanced\_{weight}: same as above but with `--balanced 0`
 
 ## Download program
 Windows x64 builds are available [here](https://github.com/pisto/ds3armor/releases). You need a processor with the AVX instruction set to run the build (most processors from 2012 should work), otherwise you'll need to recompile from source.
