@@ -438,7 +438,10 @@ int main(int argc, char** argv){
 	}
 
 	float weight_total = 0;
-	for(int i = 0; i < 8; i++) weight_total += abs(weights.all[i]);
+	for(int i = 0; i < 8; i++) if(weights.all[i] < 0){
+		cerr<<"no weight can be negative"<<endl;
+		return 1;
+	} else weight_total += weights.all[i];
 	if(weight_total == 0.){
 		cerr<<"At least one weight must be > 0"<<endl;
 		return 1;
