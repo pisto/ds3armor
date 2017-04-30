@@ -16,7 +16,7 @@ union vec_absorptions {
 	struct { float2 v2[2]; };
 	float8 all;
 };
-const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic ", "fire  ", "lightning", "dark  "};
+const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
 
 enum armor_type { HEAD, BODY, ARMS, LEGS };
 struct armor {
@@ -410,7 +410,7 @@ int main(int argc, char** argv){
 	try {
 		using namespace boost::program_options;
 		options.add_options()
-			("physical,p", value(&weights.physical)->default_value(0.25), "physical absorption weight")
+			("physical", value(&weights.physical)->default_value(0.25), "physical absorption weight")
 			("vs_strike", value(&weights.vs_strike)->default_value(0.25), "vs_strike absorption weight")
 			("vs_slash", value(&weights.vs_slash)->default_value(0.25), "vs_slash absorption weight")
 			("vs_thrust", value(&weights.vs_thrust)->default_value(0.25), "vs_thrust absorption weight")
@@ -476,11 +476,17 @@ int main(int argc, char** argv){
 	}
 
 	cout<<"weight | ";
-	for(int i = 0; i < 8; i++) if(weights.all[i] != 0) cout<<absorption_names[i]<<" | ";
+	int namelens[8];
+	for(int i = 0; i < 8; i++){
+		namelens[i] = max((int)strlen(absorption_names[i]), 6);
+		printf("%6s | ", absorption_names[i]);
+	}
 	cout<<"armor pieces"<<endl;
-	for(auto& best: weightrank) if(best.head){
+	float bestscore = 0;
+	for(auto& best: weightrank) if(best.head && bestscore < best.score){
+		bestscore = best.score;
 		printf("%6.1f | ", best.weight / 10.);
-		for(int i = 0; i < 8; i++) if(weights.all[i] != 0) printf("%*.3f | ", int(strlen(absorption_names[i])), best.absorptions.all[i]);
+		for(int i = 0; i < 8; i++) printf("%*.3f | ", namelens[i], best.absorptions.all[i]);
 		printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
 		cout<<endl;
 	}
