@@ -4,6 +4,7 @@
 #include <boost/program_options.hpp>
 using namespace std;
 
+//vector ops to make things fast
 typedef float __attribute__((vector_size(32))) float8;
 typedef float __attribute__((vector_size(16))) float4;
 typedef float __attribute__((vector_size(8))) float2;
@@ -16,7 +17,6 @@ union vec_absorptions {
 	struct { float2 v2[2]; };
 	float8 all;
 };
-const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
 
 enum armor_type { HEAD, BODY, ARMS, LEGS };
 struct armor {
@@ -401,6 +401,10 @@ struct armorset{
 
 armorset weightrank[601];	//60.0 is the maximum weight
 
+#ifdef __x86_64__
+//XXX this would be so nice but it crashes gcc 6.3
+//__attribute__((target_clones("default","avx","avx2")))
+#endif
 int main(int argc, char** argv){
 
 	vec_absorptions weights;
@@ -475,8 +479,9 @@ int main(int argc, char** argv){
 		}
 	}
 
-	cout<<"weight | ";
+	const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
 	int namelens[8];
+	cout<<"weight | ";
 	for(int i = 0; i < 8; i++){
 		namelens[i] = max((int)strlen(absorption_names[i]), 6);
 		printf("%6s | ", absorption_names[i]);
