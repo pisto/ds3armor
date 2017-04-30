@@ -36,6 +36,6 @@ done
 for p in {1..9}; do
 	w=`bc <<< "scale=4; $p/40"`
 	echo $w
-	../ds3-armor -f $w -m $w -l $w -d $w > elemental_0.$p &
+	../ds3-armor -f $w -m $w -l $w -d $w > mixed_0.$p &
 done
 wait
