@@ -1,7 +1,7 @@
 # ds3armor
 Dark Souls 3 armor optimizer
 
-An extesion of the idea proposed [here](https://www.reddit.com/r/darksouls3/comments/682wel/the_best_armor_combinations_based_on_absorption/) by [/u/mound_maker](https://www.reddit.com/user/mound_maker).
+An extesion of the idea proposed [here](https://www.reddit.com/r/darksouls3/comments/682wel/the_best_armor_combinations_based_on_absorption/) by [/u/mound_maker](https://www.reddit.com/user/mound_maker). Armor data obtained from [Mugenmonkey](https://mugenmonkey.com/).
 
 In the original topic a number of top tier armor pieces were put together to form a top tier armor set, sorted by weight. This program calculates all possible combinations of all armor pieces and sorts them by weight, then by an user-defined "score" based on absorption.
 
@@ -31,7 +31,7 @@ There are two possible averages:
 * balanced average (`--balanced 1`, the default): use harmonic averages, in order to penalize sets with a specific weakness
 * unbalanced average (`--balanced 0`): use normal averages, weaknesses of a set are less likely to penalize the set
 
-A more versatile build probably need `--balanced 1`.
+A versatile build probably needs `--balanced 1`.
 
 ## Precompiled lists
 
