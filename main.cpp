@@ -422,7 +422,7 @@ int main(int argc, char** argv){
 			("fire,f", value(&weights.fire)->default_value(0), "fire absorption weight ")
 			("lightning,l", value(&weights.lightning)->default_value(0), "lightning absorption weight")
 			("dark,d", value(&weights.dark)->default_value(0), "dark absorption weight")
-			("harmonic", value(&harmonic_mean)->default_value(true), "use harmonic averages (skew results toward lowest values)")
+			("balanced", value(&harmonic_mean)->default_value(true), "penalize sets with a specific weakness using harmonic averages")
 			("help", "produce help message")
 			;
 		variables_map vm;
