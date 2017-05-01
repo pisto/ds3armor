@@ -41,9 +41,9 @@ wait
 
 #contrain Crown of Dusk
 ../ds3-armor --duskcrown 1 > duskcrown_pure_physical &
-../ds3-armor --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 -m 1 > duskcrown_pure_magic &
+../ds3-armor --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 -m 1 --duskcrown 1 > duskcrown_pure_magic &
 for p in {1..9}; do
 	w=`bc <<< "scale=4; $p/30"`
-	../ds3-armor -f $w -l $w -d $w > duskcrown_mixed_no_magic_0.$p &
+	../ds3-armor -f $w -l $w -d $w --duskcrown 1 > duskcrown_mixed_no_magic_0.$p &
 done
 wait
