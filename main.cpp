@@ -514,20 +514,19 @@ int main(int argc, char** argv){
 	for(auto& bestn: weightrank){
 		tiers.insert(tiers.end(), bestn, bestn + BESTN_TOT);
 		sort(tiers.begin(), tiers.end());
-		if(bestscore < tiers[0].score){
-			bestscore = tiers[0].score;
-			for(unsigned int i = 0; i < min(maxtiers, (unsigned int)tiers.size()); i++){
-				auto& best = tiers[i];
-				if(!best.head) break;
-				if(!i) cout<<string(prevlen, '=')<<endl;
-				prevlen = printf(!i ? "best" : "    ");
-				prevlen += printf("%6.1f | ", best.weight / 10.);
-				if(duskcrown) best.absorptions.magic -= 30;
-				for(int i = 0; i < 8; i++) prevlen += printf(duskcrown && i == 4 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
-				prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
-				cout<<endl;
-			}
-			tiers.clear();
+		if(bestscore >= tiers[0].score) continue;
+		bestscore = tiers[0].score;
+		for(unsigned int i = 0; i < min(maxtiers, (unsigned int)tiers.size()); i++){
+			auto& best = tiers[i];
+			if(!best.head) break;
+			if(!i) cout<<string(prevlen, '=')<<endl;
+			prevlen = printf(!i ? "best" : "    ");
+			prevlen += printf("%6.1f | ", best.weight / 10.);
+			if(duskcrown) best.absorptions.magic -= 30;
+			for(int i = 0; i < 8; i++) prevlen += printf(duskcrown && i == 4 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
+			prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
+			cout<<endl;
 		}
+		tiers.clear();
 	}
 }
