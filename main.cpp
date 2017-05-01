@@ -506,7 +506,7 @@ int main(int argc, char** argv){
 	float bestscore = 0;
 	vector<armorset> tiers;
 	for(auto& bestn: weightrank){
-		tiers.insert(tiers.end(), bestn, bestn + maxtiers);
+		tiers.insert(tiers.end(), bestn, bestn + BESTN_TOT);
 		sort(tiers.begin(), tiers.end());
 		if(bestscore < tiers[0].score){
 			bestscore = tiers[0].score;
