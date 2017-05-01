@@ -37,6 +37,12 @@ A versatile build probably needs `--balanced 1`.
 
 The program outpus for each target weight the best set but then also a number of tiers (maximum is specified by `--maxtiers arg`). The best set is prepended in the list with `best`.
 
+### Symbol of Avarice and Crown of Dusk
+
+Symbol of Avarice is never considered for the head piece.
+
+Crown of Dusk as well is always excluded, except if you pass the argument `--duskcrown 1`, which actually enforces it, for mages.
+
 ## Precompiled lists
 
 I generated a number of sensible default with this program in the [standard-lists](https://github.com/pisto/ds3armor/tree/master/standard-lists) folder.
@@ -44,9 +50,10 @@ I generated a number of sensible default with this program in the [standard-list
 * pure\_{physical,fire,magic,lightning,dark}: score based only on {physical,fire,magic,lightning,dark}
 * {fire,magic,lightning,dark,mixed}\_{weight}: physical (weight 1) averaged with elemental at some specified weight between 0.1 and 0.9 - mixed is an average of all elemental damages with the same weights
 * {fire,magic,lightning,dark}\_unbalanced\_{weight}: same as above but with `--balanced 0`
+* duskcrown\_\*: some runs similar to above but with `--duskcrown 1`
 
 ## Download program
-Windows x64 builds are available [here](https://github.com/pisto/ds3armor/releases). You need a processor with the AVX instruction set to run the build (most processors from 2012 should work), otherwise you'll need to recompile from source.
+Windows x64 builds are available [here](https://github.com/pisto/ds3armor/releases).
 
 ## Building the program
 The build depends on GCC and [Boost.Program_options](http://www.boost.org/doc/libs/1_64_0/doc/html/program_options.html). `make` should suffice in most occasions. To cross compile specify your compiler program with `make CXX=compiler`.
