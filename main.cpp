@@ -1,6 +1,7 @@
 #include <vector>
 #include <iostream>
 #include <cstring>
+#include <algorithm>
 #include <boost/program_options.hpp>
 using namespace std;
 
@@ -395,20 +396,24 @@ const armor ds3armors[] {{22,"Alva Armor",90,12.4,10.2,12.4,11.4,9.5,11.4,9.5,10
 struct armorset{
 	vec_absorptions absorptions;
 	const armor *head = 0, *body, *arms, *legs;
-	float score;
+	float score = 0;
 	unsigned short weight;
+	bool operator <(const armorset& o) const { return score != o.score ? score > o.score : weight < o.weight; }
 };
 
-armorset weightrank[601];	//60.0 is the maximum weight
+const int BESTN_TOT = 50;
+armorset weightrank[601][BESTN_TOT];	//60.0 is the maximum weight
 
 #ifdef __x86_64__
 //XXX this would be so nice but it crashes gcc 6.3
 //__attribute__((target_clones("default","avx","avx2")))
 #endif
 int main(int argc, char** argv){
+	memset(weightrank, 0, sizeof(weightrank));
 
 	vec_absorptions weights;
 	bool harmonic_mean;
+	unsigned int maxtiers;
 
 	boost::program_options::options_description options("Options for ds3armor");
 	try {
@@ -423,6 +428,7 @@ int main(int argc, char** argv){
 			("lightning,l", value(&weights.lightning)->default_value(0), "lightning absorption weight")
 			("dark,d", value(&weights.dark)->default_value(0), "dark absorption weight")
 			("balanced", value(&harmonic_mean)->default_value(true), "penalize sets with a specific weakness using harmonic averages")
+			("maxtiers", value(&maxtiers)->default_value(10), "max number of tiers to display")
 			("help", "produce help message")
 			;
 		variables_map vm;
@@ -431,6 +437,10 @@ int main(int argc, char** argv){
 		if(vm.count("help")){
 			cerr<<options<<endl;
 			return 0;
+		}
+		if(!maxtiers || maxtiers > BESTN_TOT){
+			cerr<<"maxtiers must be between 1 and"<<BESTN_TOT<<endl;
+			return 1;
 		}
 	} catch(const boost::program_options::error& e){
 		cerr<<"Failed to parse command line: "<<e.what()<<endl<<options<<endl;
@@ -475,8 +485,11 @@ int main(int argc, char** argv){
 					candidate.absorptions.all = 100 - (body_legs_arms_abs * (head->absorptions.all - 100)) / 1000000;
 					candidate.weight = body_legs_arms_weight + head->weight;
 					candidate.score = score(candidate);
-					auto& best = weightrank[candidate.weight];
-					if(!best.head || candidate.score > best.score) best = candidate;
+					auto& bestn = weightrank[candidate.weight];
+					if(!bestn[BESTN_TOT - 1].head || bestn[BESTN_TOT - 1].score < candidate.score){
+						bestn[BESTN_TOT - 1] = candidate;
+						sort(bestn, bestn + BESTN_TOT);
+					}
 				}
 			}
 		}
@@ -484,18 +497,29 @@ int main(int argc, char** argv){
 
 	const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
 	int namelens[8];
-	cout<<"weight | ";
+	cout<<"    weight | ";
 	for(int i = 0; i < 8; i++){
 		namelens[i] = max((int)strlen(absorption_names[i]), 6);
 		printf("%6s | ", absorption_names[i]);
 	}
 	cout<<"armor pieces"<<endl;
 	float bestscore = 0;
-	for(auto& best: weightrank) if(best.head && bestscore < best.score){
-		bestscore = best.score;
-		printf("%6.1f | ", best.weight / 10.);
-		for(int i = 0; i < 8; i++) printf("%*.3f | ", namelens[i], best.absorptions.all[i]);
-		printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
-		cout<<endl;
+	vector<armorset> tiers;
+	for(auto& bestn: weightrank){
+		tiers.insert(tiers.end(), bestn, bestn + maxtiers);
+		sort(tiers.begin(), tiers.end());
+		if(bestscore < tiers[0].score){
+			bestscore = tiers[0].score;
+			for(unsigned int i = 0; i < min(maxtiers, (unsigned int)tiers.size()); i++){
+				auto& best = tiers[i];
+				if(!best.head) break;
+				cout<<(!i ? "best" : "    ");
+				printf("%6.1f | ", best.weight / 10.);
+				for(int i = 0; i < 8; i++) printf("%*.3f | ", namelens[i], best.absorptions.all[i]);
+				printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
+				cout<<endl;
+			}
+			tiers.clear();
+		}
 	}
 }
