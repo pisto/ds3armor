@@ -1,6 +1,7 @@
 #include <vector>
 #include <iostream>
 #include <cstring>
+#include <string>
 #include <algorithm>
 #include <boost/program_options.hpp>
 using namespace std;
@@ -30,7 +31,8 @@ struct armor {
 };
 
 //from mugenmonkey
-const armor ds3armors[] {{22,"Alva Armor",90,12.4,10.2,12.4,11.4,9.5,11.4,9.5,10.9,59,35,37,21,11,BODY},
+const armor ds3armors[] {
+		{22,"Alva Armor",90,12.4,10.2,12.4,11.4,9.5,11.4,9.5,10.9,59,35,37,21,11,BODY},
 		{23,"Alva Gauntlets",33,3.1,2.5,3.1,2.8,2.3,2.8,2.3,2.7,22,14,15,10,2.5,ARMS},
 		{21,"Alva Helm",42,4.4,3.6,4.4,4,3.4,4,3.4,3.8,28,18,19,12,3.7,HEAD},
 		{24,"Alva Leggings",55,7.1,5.8,7.1,6.5,5.4,6.5,5.4,6.2,36,21,22,12,6.7,LEGS},
@@ -412,7 +414,7 @@ int main(int argc, char** argv){
 	memset(weightrank, 0, sizeof(weightrank));
 
 	vec_absorptions weights;
-	bool harmonic_mean;
+	bool harmonic_mean, duskcrown;
 	unsigned int maxtiers;
 
 	boost::program_options::options_description options("Options for ds3armor");
@@ -428,6 +430,7 @@ int main(int argc, char** argv){
 			("lightning,l", value(&weights.lightning)->default_value(0), "lightning absorption weight")
 			("dark,d", value(&weights.dark)->default_value(0), "dark absorption weight")
 			("balanced", value(&harmonic_mean)->default_value(true), "penalize sets with a specific weakness using harmonic averages")
+			("duskcrown", value(&duskcrown)->default_value(false), "force the Crown of Dusk")
 			("maxtiers", value(&maxtiers)->default_value(10), "max number of tiers to display")
 			("help", "produce help message")
 			;
@@ -467,7 +470,10 @@ int main(int argc, char** argv){
 	};
 
 	vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
-	for(auto& a: ds3armors) armor_by_type[a.type].push_back(&a);
+	for(auto& a: ds3armors){
+		if(a.id == 306) continue;	//exclude Symbol of Avarice
+		if(a.type == HEAD ? duskcrown == (a.id == 2) : true) armor_by_type[a.type].push_back(&a);	//use Crown of Dusk only if selected by the user (and force it)
+	}
 
 	armorset candidate;
 	for(auto body: armor_by_type[BODY]){
@@ -496,13 +502,13 @@ int main(int argc, char** argv){
 	}
 
 	const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
-	int namelens[8];
-	cout<<"    weight | ";
+	int namelens[8], prevlen = printf("    weight | ");
 	for(int i = 0; i < 8; i++){
 		namelens[i] = max((int)strlen(absorption_names[i]), 6);
-		printf("%6s | ", absorption_names[i]);
+		prevlen += printf("%6s | ", absorption_names[i]);
 	}
-	cout<<"armor pieces"<<endl;
+	prevlen += printf("armor pieces");
+	cout<<endl;
 	float bestscore = 0;
 	vector<armorset> tiers;
 	for(auto& bestn: weightrank){
@@ -513,10 +519,12 @@ int main(int argc, char** argv){
 			for(unsigned int i = 0; i < min(maxtiers, (unsigned int)tiers.size()); i++){
 				auto& best = tiers[i];
 				if(!best.head) break;
-				cout<<(!i ? "best" : "    ");
-				printf("%6.1f | ", best.weight / 10.);
-				for(int i = 0; i < 8; i++) printf("%*.3f | ", namelens[i], best.absorptions.all[i]);
-				printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
+				if(!i) cout<<string(prevlen, '=')<<endl;
+				prevlen = printf(!i ? "best" : "    ");
+				prevlen += printf("%6.1f | ", best.weight / 10.);
+				if(duskcrown) best.absorptions.magic -= 30;
+				for(int i = 0; i < 8; i++) prevlen += printf(duskcrown && i == 4 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
+				prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
 				cout<<endl;
 			}
 			tiers.clear();
