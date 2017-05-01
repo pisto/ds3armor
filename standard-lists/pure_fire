@@ -1,53 +1,505 @@
-weight | physical | vs_strike | vs_slash | vs_thrust |  magic |   fire | lightning |   dark | armor pieces
-   4.1 |    5.976 |     5.976 |    5.976 |     5.012 | 19.191 | 16.215 |    17.801 | 19.191 | Ragged Mask, Master's Attire, Master's Gloves, Loincloth
-   4.4 |    6.943 |     6.170 |    5.686 |     5.303 | 20.436 | 19.389 |    21.660 | 21.503 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
-   4.7 |    6.660 |     5.885 |    5.400 |     5.016 | 20.601 | 20.388 |    21.903 | 21.829 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Loincloth
-   4.8 |    6.566 |     5.790 |    5.305 |     4.920 | 20.767 | 20.721 |    21.741 | 21.666 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Loincloth
-   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    22.018 | 23.103 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth
-   5.2 |    6.459 |     6.846 |    6.459 |     6.079 | 22.036 | 21.928 |    20.852 | 22.836 | Ragged Mask, Antiquated Dress, Master's Gloves, Loincloth
-   5.4 |    7.145 |     7.145 |    7.145 |     6.184 | 23.263 | 22.000 |    22.261 | 23.422 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Loincloth
-   5.5 |    6.176 |     6.563 |    6.176 |     5.794 | 22.198 | 22.896 |    21.098 | 23.157 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Loincloth
-   5.6 |    6.081 |     6.469 |    6.081 |     5.699 | 22.360 | 23.218 |    20.934 | 22.996 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Loincloth
-   5.9 |    7.023 |     7.407 |    7.023 |     6.644 | 23.387 | 23.355 |    21.979 | 23.859 | Ragged Mask, Antiquated Dress, Pale Shade Gloves, Loincloth
-   6.0 |    6.929 |     7.407 |    6.929 |     6.644 | 23.149 | 23.672 |    22.060 | 24.173 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Loincloth
-   6.1 |    6.269 |     6.656 |    6.269 |     5.984 | 22.946 | 23.734 |    21.856 | 23.819 | Ragged Mask, Antiquated Dress, Master's Gloves, Cornyx's Skirt
-   6.2 |    6.741 |     7.126 |    6.741 |     6.361 | 23.546 | 24.305 |    22.222 | 24.175 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Loincloth
-   6.3 |    6.647 |     7.033 |    6.647 |     6.267 | 23.706 | 24.622 |    22.060 | 24.017 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Loincloth
-   6.4 |    6.553 |     7.033 |    6.553 |     6.267 | 23.468 | 24.933 |    22.140 | 24.331 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Loincloth
-   6.5 |    6.176 |     7.230 |    6.176 |     6.081 | 23.272 | 25.085 |    22.266 | 25.196 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
-   6.6 |    6.081 |     7.137 |    6.081 |     5.987 | 23.432 | 25.398 |    22.104 | 25.040 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Fire Keeper Skirt
-   6.9 |    7.023 |     8.068 |    7.023 |     6.929 | 24.444 | 25.531 |    23.134 | 25.879 | Ragged Mask, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
-   7.0 |    6.929 |     8.068 |    6.929 |     6.929 | 24.209 | 25.839 |    23.213 | 26.186 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
-   7.1 |    6.551 |     6.937 |    6.551 |     6.266 | 24.439 | 26.056 |    23.208 | 25.141 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Cornyx's Skirt
-   7.2 |    6.741 |     7.789 |    6.741 |     6.647 | 24.601 | 26.454 |    23.373 | 26.187 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
-   7.3 |    6.647 |     7.696 |    6.647 |     6.553 | 24.758 | 26.762 |    23.213 | 26.033 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
-   7.4 |    6.553 |     7.696 |    6.553 |     6.553 | 24.524 | 27.065 |    23.293 | 26.339 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
-   7.8 |    7.028 |     7.412 |    7.028 |     6.648 | 24.677 | 27.158 |    24.120 | 25.227 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Conjurator Boots
-   7.9 |    6.934 |     7.412 |    6.934 |     6.648 | 24.443 | 27.459 |    24.198 | 25.536 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Conjurator Boots
-   8.6 |    7.683 |     8.158 |    7.683 |     7.212 | 24.601 | 27.688 |    25.299 | 26.001 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Conjurator Boots
-  12.6 |   11.130 |     9.920 |   11.130 |    10.489 | 24.211 | 27.763 |    24.990 | 25.617 | Conjurator Hood, Antiquated Dress, Black Iron Gauntlets, Conjurator Boots
-  12.8 |   12.011 |    11.228 |   12.387 |    12.105 | 24.997 | 27.907 |    23.929 | 26.953 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
-  13.2 |   12.458 |    10.955 |   12.832 |    12.194 | 25.149 | 28.000 |    24.749 | 25.850 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Conjurator Boots
-  13.3 |   12.370 |    10.955 |   12.744 |    12.194 | 24.916 | 28.297 |    24.827 | 26.156 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Conjurator Boots
-  14.8 |   15.030 |    11.866 |   15.030 |    14.554 | 24.849 | 28.406 |    23.375 | 25.696 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Black Iron Leggings
-  15.5 |   15.715 |    12.576 |   15.715 |    15.070 | 25.006 | 28.632 |    24.488 | 26.161 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
-  19.5 |   18.862 |    14.254 |   18.862 |    18.070 | 24.618 | 28.706 |    24.176 | 25.778 | Conjurator Hood, Antiquated Dress, Black Iron Gauntlets, Black Iron Leggings
-  20.1 |   20.074 |    15.239 |   20.416 |    19.631 | 25.552 | 28.940 |    23.932 | 26.010 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Black Iron Leggings
-  20.2 |   19.993 |    15.239 |   20.336 |    19.631 | 25.320 | 29.234 |    24.011 | 26.316 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
-  21.3 |   21.893 |    16.351 |   21.893 |    21.494 | 24.515 | 29.284 |    25.045 | 25.149 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Conjurator Boots
-  24.2 |   22.981 |    16.865 |   23.310 |    22.470 | 24.934 | 29.307 |    23.697 | 25.933 | Black Iron Helm, Antiquated Dress, Black Iron Gauntlets, Black Iron Leggings
-  25.1 |   23.142 |    17.550 |   23.471 |    22.470 | 25.474 | 29.454 |    24.482 | 27.004 | Black Iron Helm, Antiquated Dress, Winged Knight Gauntlets, Black Iron Leggings
-  25.5 |   25.555 |    19.148 |   25.873 |    25.634 | 24.911 | 29.498 |    23.670 | 26.111 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Fire Keeper Skirt
-  25.9 |   25.933 |    18.899 |   26.250 |    25.710 | 25.064 | 29.588 |    24.493 | 24.996 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Conjurator Boots
-  26.0 |   25.858 |    18.899 |   26.175 |    25.710 | 24.831 | 29.880 |    24.571 | 25.306 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Conjurator Boots
-  27.5 |   28.109 |    19.728 |   28.109 |    27.707 | 24.764 | 29.986 |    23.114 | 24.840 | Pyromancer Crown , Black Iron Armor, Antiquated Gloves, Black Iron Leggings
-  28.2 |   28.689 |    20.375 |   28.689 |    28.143 | 24.921 | 30.207 |    24.231 | 25.310 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
-  31.8 |   26.220 |    23.333 |   26.446 |    25.166 | 26.457 | 30.213 |    25.679 | 26.922 | Black Iron Helm, Havel's Armor, Antiquated Gloves, Conjurator Boots
-  32.2 |   31.351 |    21.903 |   31.351 |    30.681 | 24.532 | 30.279 |    23.918 | 24.923 | Conjurator Hood, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
-  32.8 |   32.377 |    22.800 |   32.666 |    32.002 | 25.467 | 30.508 |    23.674 | 25.157 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Black Iron Leggings
-  32.9 |   32.309 |    22.800 |   32.598 |    32.002 | 25.235 | 30.795 |    23.752 | 25.467 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
-  36.9 |   34.836 |    24.282 |   35.115 |    34.403 | 24.848 | 30.867 |    23.437 | 25.080 | Black Iron Helm, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
-  37.8 |   34.972 |    24.906 |   35.251 |    34.403 | 25.389 | 31.011 |    24.225 | 26.163 | Black Iron Helm, Black Iron Armor, Winged Knight Gauntlets, Black Iron Leggings
-  38.7 |   32.639 |    27.021 |   32.845 |    31.504 | 26.853 | 31.124 |    24.872 | 27.080 | Black Iron Helm, Havel's Armor, Antiquated Gloves, Black Iron Leggings
-  42.7 |   35.154 |    28.421 |   35.352 |    33.923 | 26.474 | 31.196 |    24.562 | 26.701 | Black Iron Helm, Havel's Armor, Black Iron Gauntlets, Black Iron Leggings
-  43.6 |   35.290 |    29.011 |   35.488 |    33.923 | 27.004 | 31.339 |    25.338 | 27.760 | Black Iron Helm, Havel's Armor, Winged Knight Gauntlets, Black Iron Leggings
+    weight | physical | vs_strike | vs_slash | vs_thrust |  magic |   fire | lightning |   dark | armor pieces
+best   4.1 |    5.976 |     5.976 |    5.976 |     5.012 | 19.191 | 16.215 |    17.801 | 19.191 | Ragged Mask, Master's Attire, Master's Gloves, Loincloth
+best   4.4 |    6.943 |     6.170 |    5.686 |     5.303 | 20.436 | 19.389 |    21.660 | 21.503 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.4 |    5.691 |     5.691 |    5.691 |     4.724 | 19.359 | 17.254 |    18.056 | 19.527 | Old Sage's Blindfold, Master's Attire, Master's Gloves, Loincloth
+       4.4 |    5.691 |     5.786 |    5.691 |     4.916 | 19.695 | 17.168 |    18.312 | 19.275 | Shira's Crown, Master's Attire, Master's Gloves, Loincloth
+       4.4 |    5.691 |     4.931 |    5.121 |     3.955 | 15.999 | 16.908 |    17.375 | 18.687 | Crown of Dusk, Master's Attire, Master's Gloves, Loincloth
+best   4.7 |    6.660 |     5.885 |    5.400 |     5.016 | 20.601 | 20.388 |    21.903 | 21.829 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.7 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.305 |    22.147 | 21.584 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.7 |    6.660 |     5.126 |    4.828 |     4.250 | 17.293 | 20.055 |    21.254 | 21.013 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.5 |    5.596 |     5.596 |    5.596 |     4.628 | 19.527 | 17.600 |    17.886 | 19.359 | Pyromancer Crown , Master's Attire, Master's Gloves, Loincloth
+       4.6 |    6.737 |     5.691 |    6.071 |     5.108 | 19.023 | 17.341 |    18.397 | 19.947 | Desert Pyromancer Hood, Master's Attire, Master's Gloves, Loincloth
+       4.6 |    6.357 |     6.166 |    6.166 |     5.396 | 20.115 | 17.168 |    18.653 | 20.115 | Old Sorcerer Hat, Master's Attire, Master's Gloves, Loincloth
+       4.7 |    6.259 |     6.071 |    5.976 |     5.107 | 20.097 | 17.066 |    18.721 | 20.015 | Ragged Mask, Master's Attire, Violet Wrappings, Loincloth
+       4.7 |    5.691 |     5.691 |    5.691 |     4.724 | 19.275 | 16.475 |    17.971 | 19.695 | Hood Of Prayer, Master's Attire, Master's Gloves, Loincloth
+       4.5 |    5.881 |     5.786 |    5.691 |     4.820 | 19.023 | 15.869 |    18.567 | 15.999 | Blindfold Mask, Master's Attire, Master's Gloves, Loincloth
+best   4.8 |    6.566 |     5.790 |    5.305 |     4.920 | 20.767 | 20.721 |    21.741 | 21.666 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |    6.849 |     5.980 |    5.400 |     5.111 | 20.270 | 19.056 |    22.390 | 18.402 | Blindfold Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |    6.543 |     6.543 |    6.543 |     5.584 | 20.592 | 17.747 |    18.972 | 20.262 | Ragged Mask, Master's Attire, Pale Shade Gloves, Loincloth
+       4.8 |    6.543 |     6.637 |    6.543 |     5.774 | 20.262 | 17.491 |    19.390 | 20.509 | Ragged Mask, Master's Attire, Court Sorcerer Gloves, Loincloth
+       4.8 |    5.691 |     5.786 |    5.691 |     4.724 | 19.947 | 17.341 |    18.738 | 20.115 | Black Witch Veil, Master's Attire, Master's Gloves, Loincloth
+       4.8 |    5.976 |     5.691 |    6.547 |     4.820 | 19.527 | 17.254 |    18.653 | 19.359 | Ringed Knight Hood, Master's Attire, Master's Gloves, Loincloth
+       4.8 |    5.881 |     6.071 |    5.881 |     4.820 | 19.863 | 17.168 |    18.567 | 19.863 | Maiden Hood, Master's Attire, Master's Gloves, Loincloth
+       4.8 |    5.881 |     5.881 |    5.881 |     4.820 | 19.695 | 16.908 |    18.397 | 19.779 | Sorcerer Hood, Master's Attire, Master's Gloves, Loincloth
+       4.8 |    6.737 |     6.261 |    6.261 |     5.492 | 20.199 | 16.735 |    18.993 | 20.199 | Cleric Hat, Master's Attire, Master's Gloves, Loincloth
+       4.8 |    6.737 |     6.357 |    6.737 |     5.780 | 19.611 | 15.090 |    16.779 | 17.595 | Painting Guardian Hood, Master's Attire, Master's Gloves, Loincloth
+best   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    22.018 | 23.103 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth
+       5.1 |    7.503 |     6.735 |    6.255 |     5.873 | 21.815 | 20.862 |    22.775 | 22.543 | Ragged Mask, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.1 |    7.503 |     6.829 |    6.255 |     6.063 | 21.490 | 20.617 |    23.174 | 22.783 | Ragged Mask, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
+       4.9 |    7.695 |     5.885 |    5.782 |     5.399 | 20.270 | 20.472 |    22.228 | 22.237 | Desert Pyromancer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.1 |    6.660 |     5.980 |    5.400 |     5.016 | 21.180 | 20.472 |    22.553 | 22.400 | Black Witch Veil, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.1 |    6.943 |     5.885 |    6.259 |     5.111 | 20.767 | 20.388 |    22.471 | 21.666 | Ringed Knight Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.9 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    22.471 | 22.400 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.1 |    6.849 |     6.264 |    5.591 |     5.111 | 21.097 | 20.305 |    22.390 | 22.155 | Maiden Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.0 |    7.223 |     6.264 |    5.686 |     5.398 | 21.328 | 20.207 |    22.536 | 22.303 | Ragged Mask, Desert Pyromancer Garb, Violet Wrappings, Loincloth
+       5.1 |    6.849 |     6.075 |    5.591 |     5.111 | 20.932 | 20.055 |    22.228 | 22.074 | Sorcerer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+best   5.2 |    6.459 |     6.846 |    6.459 |     6.079 | 22.036 | 21.928 |    20.852 | 22.836 | Ragged Mask, Antiquated Dress, Master's Gloves, Loincloth
+       5.2 |    7.410 |     6.735 |    6.160 |     5.873 | 21.571 | 21.190 |    22.855 | 22.863 | Ragged Mask, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
+       5.2 |    7.597 |     6.735 |    6.255 |     5.873 | 21.328 | 20.453 |    23.014 | 22.303 | Ragged Mask, Desert Pyromancer Garb, Desert Pyromancer Gloves, Loincloth
+       5.2 |    7.789 |     6.454 |    6.163 |     5.399 | 20.767 | 19.889 |    22.065 | 21.829 | Thrall Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.2 |    6.754 |     6.170 |    5.496 |     5.303 | 20.684 | 19.805 |    22.471 | 21.992 | Court Sorcerer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.2 |    7.319 |     6.264 |    7.403 |     5.973 | 20.022 | 19.472 |    22.065 | 19.544 | Grave Warden Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.2 |    6.943 |     6.363 |    5.976 |     5.303 | 22.392 | 19.389 |    21.211 | 22.036 | Ragged Mask, Antiquated Plain Garb, Master's Gloves, Loincloth
+       5.2 |    6.165 |     6.165 |    6.165 |     5.202 | 20.922 | 19.106 |    19.055 | 20.428 | Pyromancer Crown , Master's Attire, Pale Shade Gloves, Loincloth
+       5.2 |    6.165 |     6.259 |    6.165 |     5.297 | 20.510 | 19.102 |    19.307 | 20.922 | Old Sage's Blindfold, Master's Attire, Antiquated Gloves, Loincloth
+       5.2 |    6.165 |     6.354 |    6.165 |     5.488 | 20.841 | 19.018 |    19.558 | 20.674 | Shira's Crown, Master's Attire, Antiquated Gloves, Loincloth
+best   5.4 |    7.145 |     7.145 |    7.145 |     6.184 | 23.263 | 22.000 |    22.261 | 23.422 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Loincloth
+       5.4 |    7.145 |     7.239 |    7.145 |     6.373 | 23.582 | 21.919 |    22.503 | 23.183 | Shira's Crown, Clandestine Coat, Master's Gloves, Loincloth
+       5.4 |    7.223 |     6.452 |    5.970 |     5.587 | 21.977 | 21.843 |    23.015 | 22.865 | Old Sage's Blindfold, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.4 |    7.223 |     6.546 |    5.970 |     5.778 | 22.302 | 21.761 |    23.255 | 22.623 | Shira's Crown, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.4 |    6.943 |     6.839 |    5.686 |     5.592 | 21.534 | 21.678 |    22.819 | 23.586 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
+       5.4 |    7.145 |     6.396 |    6.583 |     5.427 | 20.065 | 21.674 |    21.614 | 22.623 | Crown of Dusk, Clandestine Coat, Master's Gloves, Loincloth
+       5.4 |    7.223 |     6.546 |    5.970 |     5.778 | 21.653 | 21.601 |    23.413 | 23.104 | Old Sage's Blindfold, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
+       5.4 |    6.658 |     6.170 |    5.398 |     5.111 | 21.196 | 21.593 |    22.488 | 22.502 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Antiquated Skirt
+       5.4 |    6.848 |     5.885 |    5.305 |     5.015 | 21.655 | 21.526 |    22.616 | 22.464 | Pyromancer Crown , Desert Pyromancer Garb, Violet Wrappings, Loincloth
+       5.4 |    7.223 |     6.641 |    5.970 |     5.968 | 21.980 | 21.519 |    23.651 | 22.863 | Shira's Crown, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
+best   5.5 |    6.176 |     6.563 |    6.176 |     5.794 | 22.198 | 22.896 |    21.098 | 23.157 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Loincloth
+       5.5 |    6.176 |     6.658 |    6.176 |     5.984 | 22.522 | 22.815 |    21.344 | 22.916 | Shira's Crown, Antiquated Dress, Master's Gloves, Loincloth
+       5.5 |    6.176 |     5.810 |    5.608 |     5.035 | 18.956 | 22.573 |    20.442 | 22.355 | Crown of Dusk, Antiquated Dress, Master's Gloves, Loincloth
+       5.5 |    7.051 |     7.051 |    7.051 |     6.089 | 23.422 | 22.327 |    22.099 | 23.263 | Pyromancer Crown , Clandestine Coat, Master's Gloves, Loincloth
+       5.5 |    7.129 |     6.358 |    5.875 |     5.492 | 22.140 | 22.170 |    22.855 | 22.704 | Pyromancer Crown , Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.5 |    7.129 |     6.452 |    5.875 |     5.587 | 21.734 | 22.167 |    23.095 | 23.184 | Old Sage's Blindfold, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
+       5.5 |    7.129 |     6.546 |    5.875 |     5.778 | 22.060 | 22.085 |    23.335 | 22.943 | Shira's Crown, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
+       5.5 |    7.129 |     6.452 |    5.875 |     5.683 | 21.817 | 21.929 |    23.253 | 22.943 | Pyromancer Crown , Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
+       5.5 |    7.129 |     5.697 |    5.306 |     4.826 | 18.473 | 21.841 |    22.455 | 22.382 | Crown of Dusk, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
+       5.5 |    7.316 |     6.452 |    5.970 |     5.587 | 21.491 | 21.439 |    23.254 | 22.626 | Old Sage's Blindfold, Desert Pyromancer Garb, Desert Pyromancer Gloves, Loincloth
+best   5.6 |    6.081 |     6.469 |    6.081 |     5.699 | 22.360 | 23.218 |    20.934 | 22.996 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Loincloth
+       5.6 |    7.035 |     6.358 |    5.780 |     5.492 | 21.897 | 22.492 |    22.935 | 23.023 | Pyromancer Crown , Desert Pyromancer Garb, Antiquated Gloves, Loincloth
+       5.6 |    6.470 |     5.693 |    5.207 |     4.919 | 21.528 | 22.230 |    22.894 | 22.825 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Cornyx's Skirt
+       5.6 |    6.470 |     5.788 |    5.207 |     5.111 | 21.855 | 22.149 |    23.134 | 22.583 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Cornyx's Skirt
+       5.6 |    8.175 |     7.145 |    7.519 |     6.562 | 22.943 | 22.082 |    22.584 | 23.822 | Desert Pyromancer Hood, Clandestine Coat, Master's Gloves, Loincloth
+       5.6 |    8.251 |     6.452 |    6.349 |     5.968 | 21.652 | 21.925 |    23.335 | 23.267 | Desert Pyromancer Hood, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.6 |    7.800 |     7.613 |    7.613 |     6.846 | 23.982 | 21.919 |    22.827 | 23.982 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Loincloth
+       5.6 |    6.470 |     4.933 |    4.634 |     4.152 | 18.259 | 21.905 |    22.253 | 22.019 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Cornyx's Skirt
+       5.6 |    6.375 |     5.885 |    5.111 |     4.823 | 21.528 | 21.895 |    22.976 | 23.323 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Skirt Of Prayer
+       5.6 |    7.136 |     6.077 |    5.400 |     5.112 | 22.203 | 21.895 |    23.472 | 23.157 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Loincloth (TRC)
+best   5.9 |    7.023 |     7.407 |    7.023 |     6.644 | 23.387 | 23.355 |    21.979 | 23.859 | Ragged Mask, Antiquated Dress, Pale Shade Gloves, Loincloth
+       5.9 |    7.023 |     7.501 |    7.023 |     6.833 | 23.069 | 23.117 |    22.382 | 24.095 | Ragged Mask, Antiquated Dress, Court Sorcerer Gloves, Loincloth
+       5.7 |    7.216 |     6.563 |    6.554 |     6.174 | 21.874 | 22.977 |    21.426 | 23.558 | Desert Pyromancer Hood, Antiquated Dress, Master's Gloves, Loincloth
+       5.9 |    6.176 |     6.658 |    6.176 |     5.794 | 22.765 | 22.977 |    21.754 | 23.718 | Black Witch Veil, Antiquated Dress, Master's Gloves, Loincloth
+       5.8 |    6.566 |     6.462 |    5.305 |     5.210 | 21.860 | 22.972 |    22.899 | 23.745 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
+       5.9 |    6.459 |     6.563 |    7.027 |     5.889 | 22.360 | 22.896 |    21.672 | 22.996 | Ringed Knight Hood, Antiquated Dress, Master's Gloves, Loincloth
+       5.8 |    6.280 |     5.790 |    5.015 |     4.727 | 21.524 | 22.889 |    22.568 | 22.664 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Antiquated Skirt
+       5.7 |    6.838 |     7.034 |    6.649 |     6.459 | 22.927 | 22.815 |    21.672 | 23.718 | Old Sorcerer Hat, Antiquated Dress, Master's Gloves, Loincloth
+       5.9 |    6.365 |     6.940 |    6.365 |     5.889 | 22.684 | 22.815 |    21.590 | 23.478 | Maiden Hood, Antiquated Dress, Master's Gloves, Loincloth
+       5.9 |    7.890 |     7.983 |    7.890 |     7.030 | 24.200 | 22.785 |    23.208 | 24.435 | Ragged Mask, Clandestine Coat, Antiquated Gloves, Loincloth
+best   6.0 |    6.929 |     7.407 |    6.929 |     6.644 | 23.149 | 23.672 |    22.060 | 24.173 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Loincloth
+       6.0 |    7.117 |     7.407 |    7.023 |     6.644 | 22.910 | 22.958 |    22.221 | 23.623 | Ragged Mask, Antiquated Dress, Desert Pyromancer Gloves, Loincloth
+       6.0 |    7.237 |     7.237 |    7.237 |     6.372 | 24.001 | 22.848 |    23.008 | 24.082 | Ragged Mask, Clandestine Coat, Master's Gloves, Cornyx's Skirt
+       6.0 |    7.425 |     7.238 |    7.145 |     6.278 | 24.123 | 22.792 |    23.131 | 24.203 | Old Sage's Blindfold, Clandestine Coat, Violet Wrappings, Loincloth
+       6.0 |    7.425 |     7.332 |    7.145 |     6.467 | 24.439 | 22.711 |    23.371 | 23.966 | Shira's Crown, Clandestine Coat, Violet Wrappings, Loincloth
+       6.0 |    7.315 |     6.545 |    6.063 |     5.777 | 22.728 | 22.693 |    23.755 | 23.529 | Ragged Mask, Desert Pyromancer Garb, Pale Shade Gloves, Cornyx's Skirt
+       6.0 |    6.660 |     7.145 |    7.145 |     5.308 | 23.529 | 22.538 |    22.619 | 23.954 | Old Sage's Blindfold, Black Witch Garb, Master's Gloves, Loincloth
+       6.0 |    7.898 |     7.614 |    7.426 |     6.562 | 24.654 | 22.516 |    23.585 | 24.409 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.0 |    7.143 |     7.426 |    7.143 |     6.277 | 24.001 | 22.516 |    23.090 | 24.572 | Ragged Mask, Clandestine Coat, Master's Gloves, Skirt Of Prayer
+       6.0 |    7.223 |     6.933 |    5.686 |     5.686 | 22.414 | 22.473 |    23.683 | 24.365 | Ragged Mask, Desert Pyromancer Garb, Violet Wrappings, Fire Keeper Skirt
+best   6.1 |    6.269 |     6.656 |    6.269 |     5.984 | 22.946 | 23.734 |    21.856 | 23.819 | Ragged Mask, Antiquated Dress, Master's Gloves, Cornyx's Skirt
+       6.1 |    6.458 |     6.657 |    6.176 |     5.889 | 23.070 | 23.679 |    21.981 | 23.940 | Old Sage's Blindfold, Antiquated Dress, Violet Wrappings, Loincloth
+       6.1 |    6.458 |     6.751 |    6.176 |     6.079 | 23.391 | 23.599 |    22.224 | 23.702 | Shira's Crown, Antiquated Dress, Violet Wrappings, Loincloth
+       6.1 |    7.704 |     7.704 |    7.704 |     6.748 | 24.592 | 23.426 |    23.368 | 24.437 | Old Sage's Blindfold, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.1 |    6.936 |     7.036 |    6.459 |     6.175 | 23.608 | 23.406 |    22.442 | 24.147 | Ragged Mask, Antiquated Dress, Master's Gloves, Loincloth (TRC)
+       6.1 |    6.173 |     6.846 |    6.173 |     5.888 | 22.946 | 23.406 |    21.940 | 24.310 | Ragged Mask, Antiquated Dress, Master's Gloves, Skirt Of Prayer
+       6.1 |    6.458 |     5.904 |    5.608 |     5.130 | 19.865 | 23.359 |    21.332 | 23.146 | Crown of Dusk, Antiquated Dress, Violet Wrappings, Loincloth
+       6.1 |    6.553 |     7.594 |    7.211 |     6.456 | 23.228 | 23.355 |    22.140 | 24.095 | Ragged Mask, Antiquated Dress, Black Witch Wrappings, Loincloth
+       6.1 |    6.835 |     7.314 |    6.929 |     6.644 | 23.308 | 23.355 |    22.221 | 24.016 | Ragged Mask, Antiquated Dress, Karla's Gloves, Loincloth
+       6.1 |    7.704 |     7.797 |    7.704 |     6.936 | 24.907 | 23.346 |    23.607 | 24.201 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Loincloth
+best   6.2 |    6.741 |     7.126 |    6.741 |     6.361 | 23.546 | 24.305 |    22.222 | 24.175 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Loincloth
+       6.2 |    6.741 |     7.220 |    6.741 |     6.550 | 23.865 | 24.226 |    22.464 | 23.938 | Shira's Crown, Antiquated Dress, Pale Shade Gloves, Loincloth
+       6.2 |    6.459 |     7.511 |    6.459 |     6.366 | 23.112 | 24.145 |    22.023 | 24.884 | Ragged Mask, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.2 |    6.741 |     7.220 |    6.741 |     6.550 | 23.229 | 24.070 |    22.623 | 24.410 | Old Sage's Blindfold, Antiquated Dress, Court Sorcerer Gloves, Loincloth
+       6.2 |    6.173 |     6.846 |    6.173 |     5.888 | 22.781 | 24.062 |    21.689 | 23.819 | Ragged Mask, Antiquated Dress, Master's Gloves, Antiquated Skirt
+       6.2 |    6.364 |     6.563 |    6.081 |     5.794 | 23.231 | 23.998 |    21.819 | 23.781 | Pyromancer Crown , Antiquated Dress, Violet Wrappings, Loincloth
+       6.2 |    6.741 |     7.314 |    6.741 |     6.739 | 23.549 | 23.991 |    22.864 | 24.173 | Shira's Crown, Antiquated Dress, Court Sorcerer Gloves, Loincloth
+       6.2 |    6.741 |     6.377 |    6.177 |     5.606 | 20.361 | 23.988 |    21.575 | 23.384 | Crown of Dusk, Antiquated Dress, Pale Shade Gloves, Loincloth
+       6.2 |    6.741 |     6.472 |    6.177 |     5.797 | 20.030 | 23.752 |    21.980 | 23.621 | Crown of Dusk, Antiquated Dress, Court Sorcerer Gloves, Loincloth
+       6.2 |    7.611 |     7.611 |    7.611 |     6.654 | 24.749 | 23.746 |    23.209 | 24.279 | Pyromancer Crown , Clandestine Coat, Pale Shade Gloves, Loincloth
+best   6.3 |    6.647 |     7.033 |    6.647 |     6.267 | 23.706 | 24.622 |    22.060 | 24.017 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Loincloth
+       6.3 |    6.647 |     7.126 |    6.647 |     6.361 | 23.308 | 24.618 |    22.302 | 24.488 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Loincloth
+       6.3 |    6.647 |     7.220 |    6.647 |     6.550 | 23.628 | 24.539 |    22.544 | 24.252 | Shira's Crown, Antiquated Dress, Antiquated Gloves, Loincloth
+       6.3 |    6.647 |     7.127 |    6.647 |     6.456 | 23.389 | 24.388 |    22.462 | 24.252 | Pyromancer Crown , Antiquated Dress, Court Sorcerer Gloves, Loincloth
+       6.3 |    6.647 |     6.377 |    6.082 |     5.606 | 20.113 | 24.303 |    21.656 | 23.700 | Crown of Dusk, Antiquated Dress, Antiquated Gloves, Loincloth
+       6.3 |    7.518 |     7.611 |    7.518 |     6.654 | 24.515 | 24.062 |    23.288 | 24.592 | Pyromancer Crown , Clandestine Coat, Antiquated Gloves, Loincloth
+       6.3 |    6.835 |     7.126 |    6.741 |     6.361 | 23.070 | 23.913 |    22.462 | 23.940 | Old Sage's Blindfold, Antiquated Dress, Desert Pyromancer Gloves, Loincloth
+       6.3 |    6.835 |     7.220 |    6.741 |     6.550 | 23.391 | 23.834 |    22.704 | 23.702 | Shira's Crown, Antiquated Dress, Desert Pyromancer Gloves, Loincloth
+       6.3 |    6.956 |     6.956 |    6.956 |     6.088 | 24.159 | 23.805 |    23.247 | 24.398 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Cornyx's Skirt
+       6.3 |    7.496 |     6.657 |    6.554 |     6.268 | 22.750 | 23.758 |    22.305 | 24.337 | Desert Pyromancer Hood, Antiquated Dress, Violet Wrappings, Loincloth
+best   6.4 |    6.553 |     7.033 |    6.553 |     6.267 | 23.468 | 24.933 |    22.140 | 24.331 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Loincloth
+       6.4 |    5.984 |     6.373 |    5.984 |     5.699 | 23.107 | 24.680 |    22.099 | 24.136 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Cornyx's Skirt
+       6.4 |    5.984 |     6.467 |    5.984 |     5.889 | 23.427 | 24.601 |    22.342 | 23.898 | Shira's Crown, Antiquated Dress, Master's Gloves, Cornyx's Skirt
+       6.4 |    7.775 |     7.126 |    7.117 |     6.739 | 23.228 | 24.384 |    22.545 | 24.571 | Desert Pyromancer Hood, Antiquated Dress, Pale Shade Gloves, Loincloth
+       6.4 |    5.984 |     5.618 |    5.416 |     4.938 | 19.903 | 24.364 |    21.451 | 23.344 | Crown of Dusk, Antiquated Dress, Master's Gloves, Cornyx's Skirt
+       6.4 |    5.889 |     6.563 |    5.889 |     5.603 | 23.107 | 24.355 |    22.182 | 24.625 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Skirt Of Prayer
+       6.4 |    6.654 |     6.754 |    6.176 |     5.890 | 23.767 | 24.355 |    22.683 | 24.462 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Loincloth (TRC)
+       6.4 |    6.270 |     7.314 |    6.929 |     6.172 | 23.388 | 24.305 |    22.382 | 24.410 | Old Sage's Blindfold, Antiquated Dress, Black Witch Wrappings, Loincloth
+       6.4 |    6.553 |     7.032 |    6.647 |     6.361 | 23.467 | 24.305 |    22.462 | 24.332 | Old Sage's Blindfold, Antiquated Dress, Karla's Gloves, Loincloth
+       6.4 |    5.889 |     6.658 |    5.889 |     5.793 | 23.427 | 24.276 |    22.425 | 24.389 | Shira's Crown, Antiquated Dress, Master's Gloves, Skirt Of Prayer
+best   6.5 |    6.176 |     7.230 |    6.176 |     6.081 | 23.272 | 25.085 |    22.266 | 25.196 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.5 |    6.176 |     7.324 |    6.176 |     6.271 | 23.591 | 25.007 |    22.508 | 24.962 | Shira's Crown, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.5 |    5.889 |     6.563 |    5.889 |     5.603 | 22.941 | 25.004 |    21.932 | 24.136 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Antiquated Skirt
+       6.5 |    5.890 |     6.279 |    5.890 |     5.603 | 23.267 | 24.995 |    21.937 | 23.977 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Cornyx's Skirt
+       6.5 |    5.889 |     6.658 |    5.889 |     5.793 | 23.262 | 24.925 |    22.175 | 23.898 | Shira's Crown, Antiquated Dress, Master's Gloves, Antiquated Skirt
+       6.5 |    6.176 |     6.482 |    5.608 |     5.324 | 20.075 | 24.771 |    21.619 | 24.415 | Crown of Dusk, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.5 |    7.682 |     7.126 |    7.023 |     6.739 | 22.989 | 24.697 |    22.625 | 24.883 | Desert Pyromancer Hood, Antiquated Dress, Antiquated Gloves, Loincloth
+       6.5 |    5.889 |     5.810 |    5.320 |     4.842 | 19.731 | 24.690 |    21.283 | 23.344 | Crown of Dusk, Antiquated Dress, Master's Gloves, Antiquated Skirt
+       6.5 |    5.794 |     6.469 |    5.794 |     5.508 | 23.267 | 24.672 |    22.020 | 24.468 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Skirt Of Prayer
+       6.5 |    6.560 |     6.660 |    6.081 |     5.795 | 23.926 | 24.672 |    22.522 | 24.304 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Loincloth (TRC)
+best   6.6 |    6.081 |     7.137 |    6.081 |     5.987 | 23.432 | 25.398 |    22.104 | 25.040 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.6 |    5.794 |     6.469 |    5.794 |     5.508 | 23.102 | 25.318 |    21.770 | 23.977 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Antiquated Skirt
+       6.6 |    7.027 |     6.373 |    6.364 |     6.079 | 22.786 | 24.758 |    22.423 | 24.532 | Desert Pyromancer Hood, Antiquated Dress, Master's Gloves, Cornyx's Skirt
+       6.6 |    6.553 |     6.939 |    6.741 |     6.172 | 23.706 | 24.700 |    22.221 | 24.174 | Pyromancer Crown , Antiquated Dress, Cornyx's Wrap, Loincloth
+       6.6 |    7.035 |     7.026 |    5.780 |     5.780 | 22.975 | 24.693 |    24.075 | 25.066 | Pyromancer Crown , Desert Pyromancer Garb, Antiquated Gloves, Fire Keeper Skirt
+       6.6 |    6.553 |     7.127 |    6.553 |     6.172 | 23.626 | 24.622 |    22.301 | 24.252 | Pyromancer Crown , Antiquated Dress, Maiden Gloves, Loincloth
+       6.6 |    6.930 |     7.314 |    6.930 |     6.456 | 23.626 | 24.622 |    22.301 | 24.252 | Pyromancer Crown , Antiquated Dress, Sorcerer Gloves, Loincloth
+       6.6 |    6.458 |     6.939 |    6.741 |     6.078 | 23.310 | 24.622 |    21.899 | 24.331 | Pyromancer Crown , Antiquated Dress, Fire Keeper Gloves, Loincloth
+       6.6 |    6.751 |     6.358 |    5.492 |     5.300 | 22.644 | 24.611 |    23.750 | 24.004 | Pyromancer Crown , Desert Pyromancer Garb, Antiquated Gloves, Antiquated Skirt
+       6.6 |    6.648 |     6.845 |    6.458 |     6.364 | 23.827 | 24.601 |    22.666 | 24.690 | Old Sorcerer Hat, Antiquated Dress, Master's Gloves, Cornyx's Skirt
+best   6.9 |    7.023 |     8.068 |    7.023 |     6.929 | 24.444 | 25.531 |    23.134 | 25.879 | Ragged Mask, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+       6.9 |    6.739 |     7.407 |    6.739 |     6.455 | 24.119 | 25.450 |    22.804 | 24.829 | Ragged Mask, Antiquated Dress, Pale Shade Gloves, Antiquated Skirt
+       6.9 |    6.739 |     7.218 |    6.739 |     6.550 | 24.046 | 25.437 |    23.048 | 25.139 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Cornyx's Skirt
+       6.9 |    7.023 |     8.161 |    7.023 |     7.117 | 24.131 | 25.300 |    23.530 | 26.109 | Ragged Mask, Antiquated Dress, Court Sorcerer Gloves, Fire Keeper Skirt
+       6.9 |    6.739 |     7.501 |    6.739 |     6.643 | 23.804 | 25.219 |    23.202 | 25.061 | Ragged Mask, Antiquated Dress, Court Sorcerer Gloves, Antiquated Skirt
+       6.7 |    7.216 |     7.230 |    6.554 |     6.460 | 22.952 | 25.163 |    22.589 | 25.587 | Desert Pyromancer Hood, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.9 |    6.176 |     7.324 |    6.176 |     6.081 | 23.831 | 25.163 |    22.912 | 25.743 | Black Witch Veil, Antiquated Dress, Master's Gloves, Fire Keeper Skirt
+       6.9 |    7.613 |     6.183 |    6.081 |     5.987 | 22.690 | 25.156 |    22.355 | 24.304 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Desert Pyromancer Skirt
+       6.8 |    6.833 |     7.218 |    6.833 |     6.550 | 24.282 | 25.128 |    22.969 | 24.829 | Ragged Mask, Antiquated Dress, Pale Shade Gloves, Cornyx's Skirt
+       6.9 |    7.403 |     7.596 |    6.929 |     6.739 | 24.699 | 25.116 |    23.625 | 25.461 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Loincloth (TRC)
+best   7.0 |    6.929 |     8.068 |    6.929 |     6.929 | 24.209 | 25.839 |    23.213 | 26.186 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
+       7.0 |    6.644 |     7.407 |    6.644 |     6.455 | 23.883 | 25.759 |    22.884 | 25.139 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Antiquated Skirt
+       7.0 |    6.941 |     6.849 |    6.463 |     6.369 | 23.272 | 25.490 |    22.849 | 24.788 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Pyromancer Trousers
+       7.0 |    6.558 |     6.944 |    6.558 |     6.177 | 23.189 | 25.490 |    23.183 | 24.380 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Conjurator Boots
+       7.0 |    6.268 |     6.467 |    5.984 |     5.793 | 23.969 | 25.444 |    22.971 | 24.909 | Old Sage's Blindfold, Antiquated Dress, Violet Wrappings, Cornyx's Skirt
+       7.0 |    6.941 |     6.943 |    6.463 |     6.557 | 23.591 | 25.412 |    23.090 | 24.553 | Shira's Crown, Antiquated Dress, Master's Gloves, Pyromancer Trousers
+       7.0 |    6.558 |     7.038 |    6.558 |     6.366 | 23.509 | 25.412 |    23.423 | 24.144 | Shira's Crown, Antiquated Dress, Master's Gloves, Conjurator Boots
+       7.0 |    6.268 |     6.561 |    5.984 |     5.983 | 24.286 | 25.366 |    23.211 | 24.674 | Shira's Crown, Antiquated Dress, Violet Wrappings, Cornyx's Skirt
+       7.0 |    7.132 |     7.040 |    6.654 |     6.273 | 24.098 | 25.328 |    23.183 | 25.196 | Old Sage's Blindfold, Antiquated Dress, Master's Gloves, Black Witch Trousers
+       7.0 |    7.132 |     7.133 |    6.654 |     6.462 | 24.414 | 25.250 |    23.423 | 24.962 | Shira's Crown, Antiquated Dress, Master's Gloves, Black Witch Trousers
+best   7.1 |    6.551 |     6.937 |    6.551 |     6.266 | 24.439 | 26.056 |    23.208 | 25.141 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Cornyx's Skirt
+       7.1 |    6.551 |     7.031 |    6.551 |     6.455 | 24.754 | 25.979 |    23.448 | 24.907 | Shira's Crown, Antiquated Dress, Pale Shade Gloves, Cornyx's Skirt
+       7.1 |    6.458 |     7.323 |    6.176 |     6.176 | 24.132 | 25.845 |    23.136 | 25.959 | Old Sage's Blindfold, Antiquated Dress, Violet Wrappings, Fire Keeper Skirt
+       7.1 |    6.551 |     7.031 |    6.551 |     6.455 | 24.126 | 25.827 |    23.605 | 25.373 | Old Sage's Blindfold, Antiquated Dress, Court Sorcerer Gloves, Cornyx's Skirt
+       7.1 |    6.847 |     6.755 |    6.368 |     6.274 | 23.432 | 25.802 |    22.689 | 24.631 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Pyromancer Trousers
+       7.1 |    6.464 |     6.851 |    6.464 |     6.083 | 23.349 | 25.802 |    23.023 | 24.223 | Pyromancer Crown , Antiquated Dress, Master's Gloves, Conjurator Boots
+       7.1 |    6.458 |     7.417 |    6.176 |     6.365 | 24.448 | 25.768 |    23.375 | 25.727 | Shira's Crown, Antiquated Dress, Violet Wrappings, Fire Keeper Skirt
+       7.1 |    6.172 |     6.657 |    5.889 |     5.697 | 23.805 | 25.765 |    22.806 | 24.909 | Old Sage's Blindfold, Antiquated Dress, Violet Wrappings, Antiquated Skirt
+       7.1 |    6.173 |     6.373 |    5.890 |     5.698 | 24.127 | 25.756 |    22.810 | 24.752 | Pyromancer Crown , Antiquated Dress, Violet Wrappings, Cornyx's Skirt
+       7.1 |    6.551 |     7.125 |    6.551 |     6.644 | 24.442 | 25.749 |    23.843 | 25.139 | Shira's Crown, Antiquated Dress, Court Sorcerer Gloves, Cornyx's Skirt
+best   7.2 |    6.741 |     7.789 |    6.741 |     6.647 | 24.601 | 26.454 |    23.373 | 26.187 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+       7.2 |    6.741 |     7.882 |    6.741 |     6.835 | 24.916 | 26.377 |    23.612 | 25.956 | Shira's Crown, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+       7.2 |    6.456 |     7.126 |    6.456 |     6.171 | 24.277 | 26.374 |    23.044 | 25.141 | Old Sage's Blindfold, Antiquated Dress, Pale Shade Gloves, Antiquated Skirt
+       7.2 |    6.457 |     6.843 |    6.457 |     6.172 | 24.596 | 26.365 |    23.049 | 24.985 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Cornyx's Skirt
+       7.2 |    6.456 |     6.937 |    6.456 |     6.266 | 24.204 | 26.362 |    23.288 | 25.450 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Cornyx's Skirt
+       7.2 |    6.456 |     7.220 |    6.456 |     6.360 | 24.592 | 26.297 |    23.284 | 24.907 | Shira's Crown, Antiquated Dress, Pale Shade Gloves, Antiquated Skirt
+       7.2 |    6.456 |     7.031 |    6.456 |     6.455 | 24.520 | 26.285 |    23.527 | 25.217 | Shira's Crown, Antiquated Dress, Antiquated Gloves, Cornyx's Skirt
+       7.2 |    6.741 |     7.882 |    6.741 |     6.835 | 24.288 | 26.226 |    23.768 | 26.416 | Old Sage's Blindfold, Antiquated Dress, Court Sorcerer Gloves, Fire Keeper Skirt
+       7.2 |    6.364 |     7.230 |    6.081 |     6.081 | 24.290 | 26.156 |    22.976 | 25.804 | Pyromancer Crown , Antiquated Dress, Violet Wrappings, Fire Keeper Skirt
+       7.2 |    6.741 |     7.975 |    6.741 |     7.023 | 24.604 | 26.149 |    24.006 | 26.186 | Shira's Crown, Antiquated Dress, Court Sorcerer Gloves, Fire Keeper Skirt
+best   7.3 |    6.647 |     7.696 |    6.647 |     6.553 | 24.758 | 26.762 |    23.213 | 26.033 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+       7.3 |    6.647 |     7.789 |    6.647 |     6.647 | 24.367 | 26.758 |    23.452 | 26.493 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
+       7.3 |    6.361 |     7.033 |    6.361 |     6.076 | 24.434 | 26.682 |    22.884 | 24.985 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Antiquated Skirt
+       7.3 |    6.647 |     7.882 |    6.647 |     6.835 | 24.682 | 26.682 |    23.691 | 26.262 | Shira's Crown, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
+       7.3 |    6.361 |     7.126 |    6.361 |     6.171 | 24.041 | 26.679 |    23.123 | 25.450 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Antiquated Skirt
+       7.3 |    6.362 |     6.843 |    6.362 |     6.172 | 24.362 | 26.670 |    23.128 | 25.295 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Cornyx's Skirt
+       7.3 |    6.361 |     7.220 |    6.361 |     6.360 | 24.358 | 26.602 |    23.363 | 25.217 | Shira's Crown, Antiquated Dress, Antiquated Gloves, Antiquated Skirt
+       7.3 |    6.647 |     7.789 |    6.647 |     6.741 | 24.446 | 26.534 |    23.610 | 26.263 | Pyromancer Crown , Antiquated Dress, Court Sorcerer Gloves, Fire Keeper Skirt
+       7.3 |    6.361 |     7.127 |    6.361 |     6.266 | 24.121 | 26.455 |    23.282 | 25.217 | Pyromancer Crown , Antiquated Dress, Court Sorcerer Gloves, Antiquated Skirt
+       7.3 |    6.647 |     7.045 |    6.082 |     5.894 | 21.215 | 26.452 |    22.815 | 25.725 | Crown of Dusk, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
+best   7.4 |    6.553 |     7.696 |    6.553 |     6.553 | 24.524 | 27.065 |    23.293 | 26.339 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
+       7.4 |    6.267 |     7.033 |    6.267 |     6.076 | 24.199 | 26.986 |    22.963 | 25.295 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Antiquated Skirt
+       7.4 |    7.775 |     7.789 |    7.117 |     7.023 | 24.287 | 26.531 |    23.691 | 26.573 | Desert Pyromancer Hood, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+       7.4 |    6.270 |     7.975 |    6.929 |     6.458 | 24.445 | 26.454 |    23.531 | 26.416 | Old Sage's Blindfold, Antiquated Dress, Black Witch Wrappings, Fire Keeper Skirt
+       7.4 |    6.553 |     7.696 |    6.647 |     6.647 | 24.523 | 26.454 |    23.610 | 26.340 | Old Sage's Blindfold, Antiquated Dress, Karla's Gloves, Fire Keeper Skirt
+       7.4 |    7.493 |     7.126 |    6.833 |     6.549 | 23.961 | 26.451 |    23.364 | 25.532 | Desert Pyromancer Hood, Antiquated Dress, Pale Shade Gloves, Antiquated Skirt
+       7.4 |    7.494 |     6.937 |    6.834 |     6.644 | 23.888 | 26.439 |    23.607 | 25.840 | Desert Pyromancer Hood, Antiquated Dress, Antiquated Gloves, Cornyx's Skirt
+       7.4 |    6.741 |     7.696 |    6.647 |     6.553 | 24.290 | 26.383 |    23.451 | 25.804 | Pyromancer Crown , Antiquated Dress, Desert Pyromancer Gloves, Fire Keeper Skirt
+       7.4 |    7.399 |     8.254 |    7.211 |     7.305 | 25.308 | 26.377 |    23.930 | 26.727 | Old Sorcerer Hat, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+       7.4 |    6.270 |     8.068 |    6.929 |     6.647 | 24.760 | 26.377 |    23.769 | 26.186 | Shira's Crown, Antiquated Dress, Black Witch Wrappings, Fire Keeper Skirt
+best   7.8 |    7.408 |     7.317 |    6.932 |     6.838 | 24.758 | 27.158 |    23.790 | 25.630 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Pyromancer Trousers
+       7.8 |    7.028 |     7.412 |    7.028 |     6.648 | 24.677 | 27.158 |    24.120 | 25.227 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Conjurator Boots
+       7.8 |    7.408 |     7.410 |    6.932 |     6.932 | 24.367 | 27.154 |    24.027 | 26.092 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+       7.8 |    7.027 |     7.505 |    7.027 |     6.742 | 24.285 | 27.154 |    24.355 | 25.691 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Conjurator Boots
+       7.8 |    7.408 |     7.504 |    6.932 |     7.120 | 24.682 | 27.078 |    24.264 | 25.860 | Shira's Crown, Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+       7.8 |    7.027 |     7.598 |    7.027 |     6.930 | 24.601 | 27.078 |    24.591 | 25.458 | Shira's Crown, Antiquated Dress, Antiquated Gloves, Conjurator Boots
+       7.8 |    7.598 |     7.506 |    7.123 |     6.743 | 25.568 | 26.999 |    24.120 | 26.033 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Black Witch Trousers
+       7.8 |    7.598 |     7.600 |    7.123 |     6.837 | 25.181 | 26.996 |    24.355 | 26.493 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Black Witch Trousers
+       7.8 |    7.024 |     8.069 |    6.835 |     6.835 | 24.680 | 26.989 |    23.530 | 26.339 | Pyromancer Crown , Antiquated Dress, Pyromancer Wrap, Fire Keeper Skirt
+       7.8 |    7.028 |     7.505 |    7.028 |     6.836 | 24.365 | 26.932 |    24.511 | 25.459 | Pyromancer Crown , Antiquated Dress, Court Sorcerer Gloves, Conjurator Boots
+best   7.9 |    6.934 |     7.412 |    6.934 |     6.648 | 24.443 | 27.459 |    24.198 | 25.536 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Conjurator Boots
+       7.9 |    7.315 |     7.317 |    6.838 |     6.838 | 24.524 | 27.459 |    23.869 | 25.937 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+       7.9 |    7.505 |     7.506 |    7.029 |     6.743 | 25.337 | 27.301 |    24.198 | 26.339 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Black Witch Trousers
+       7.9 |    7.219 |     7.696 |    7.219 |     6.553 | 25.499 | 27.144 |    24.363 | 26.178 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Karla's Trousers
+       7.9 |    8.527 |     7.410 |    7.401 |     7.307 | 24.287 | 26.928 |    24.264 | 26.172 | Desert Pyromancer Hood, Antiquated Dress, Pale Shade Gloves, Pyromancer Trousers
+       7.9 |    8.151 |     7.505 |    7.496 |     7.118 | 24.206 | 26.928 |    24.592 | 25.772 | Desert Pyromancer Hood, Antiquated Dress, Pale Shade Gloves, Conjurator Boots
+       7.9 |    6.934 |     7.412 |    7.027 |     6.742 | 24.442 | 26.852 |    24.512 | 25.537 | Old Sage's Blindfold, Antiquated Dress, Karla's Gloves, Conjurator Boots
+       7.9 |    7.034 |     7.597 |    7.214 |     6.744 | 24.445 | 26.852 |    24.105 | 26.015 | Old Sage's Blindfold, Antiquated Dress, Black Witch Wrappings, Pyromancer Trousers
+       7.9 |    6.652 |     7.692 |    7.309 |     6.554 | 24.364 | 26.852 |    24.433 | 25.614 | Old Sage's Blindfold, Antiquated Dress, Black Witch Wrappings, Conjurator Boots
+       7.9 |    7.315 |     7.317 |    6.932 |     6.932 | 24.523 | 26.852 |    24.184 | 25.938 | Old Sage's Blindfold, Antiquated Dress, Karla's Gloves, Pyromancer Trousers
+best   8.6 |    7.683 |     8.158 |    7.683 |     7.212 | 24.601 | 27.688 |    25.299 | 26.001 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Conjurator Boots
+       8.6 |    8.061 |     8.064 |    7.589 |     7.401 | 24.682 | 27.688 |    24.974 | 26.400 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+       8.6 |    8.250 |     8.252 |    7.778 |     7.307 | 25.493 | 27.531 |    25.299 | 26.799 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Black Witch Trousers
+       8.6 |    8.435 |     7.690 |    7.214 |     7.495 | 25.076 | 27.459 |    24.816 | 26.709 | Black Witch Hat, Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+       8.6 |    8.058 |     7.785 |    7.309 |     7.306 | 24.995 | 27.459 |    25.142 | 26.311 | Black Witch Hat, Antiquated Dress, Antiquated Gloves, Conjurator Boots
+       8.5 |    7.777 |     8.158 |    7.777 |     7.212 | 24.835 | 27.388 |    25.222 | 25.694 | Conjurator Hood, Antiquated Dress, Pale Shade Gloves, Conjurator Boots
+       8.5 |    8.154 |     8.064 |    7.682 |     7.401 | 24.916 | 27.388 |    24.897 | 26.095 | Conjurator Hood, Antiquated Dress, Pale Shade Gloves, Pyromancer Trousers
+       8.3 |    7.403 |     7.786 |    7.215 |     6.930 | 24.599 | 27.384 |    24.433 | 25.536 | Pyromancer Crown , Antiquated Dress, Pyromancer Wrap, Conjurator Boots
+       8.3 |    7.782 |     7.691 |    7.120 |     7.120 | 24.680 | 27.384 |    24.105 | 25.937 | Pyromancer Crown , Antiquated Dress, Pyromancer Wrap, Pyromancer Trousers
+       8.5 |    8.155 |     7.970 |    7.495 |     7.307 | 25.155 | 27.383 |    24.895 | 26.632 | Karla's Pointed Hat, Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+best  12.6 |   11.130 |     9.920 |   11.130 |    10.489 | 24.211 | 27.763 |    24.990 | 25.617 | Conjurator Hood, Antiquated Dress, Black Iron Gauntlets, Conjurator Boots
+      12.6 |   11.494 |     9.828 |   11.039 |    10.672 | 24.292 | 27.763 |    24.664 | 26.019 | Conjurator Hood, Antiquated Dress, Black Iron Gauntlets, Pyromancer Trousers
+      10.5 |   10.424 |    10.884 |   11.557 |     9.768 | 24.358 | 27.688 |    24.812 | 26.400 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Black Leggings
+      10.6 |    9.919 |    10.199 |    9.267 |     9.085 | 23.899 | 27.688 |    25.145 | 24.926 | Conjurator Hood, Antiquated Dress, Fallen Knight Gauntlets, Conjurator Boots
+      10.6 |   10.288 |    10.107 |    9.174 |     9.270 | 23.981 | 27.688 |    24.819 | 25.331 | Conjurator Hood, Antiquated Dress, Fallen Knight Gauntlets, Pyromancer Trousers
+      11.6 |   10.659 |     9.921 |   10.573 |    10.391 | 24.682 | 27.688 |    25.362 | 25.637 | Conjurator Hood, Antiquated Dress, Dragonslayer Gauntlets, Pyromancer Trousers
+      11.6 |   10.292 |    10.013 |   10.664 |    10.208 | 24.601 | 27.688 |    25.685 | 25.234 | Conjurator Hood, Antiquated Dress, Dragonslayer Gauntlets, Conjurator Boots
+      12.5 |   12.593 |    12.864 |   13.075 |    11.589 | 23.654 | 27.688 |    24.657 | 25.331 | Conjurator Hood, Antiquated Dress, Fallen Knight Gauntlets, Black Leggings
+       9.0 |    8.149 |     8.529 |    7.963 |     7.493 | 24.757 | 27.613 |    25.530 | 26.001 | Conjurator Hood, Antiquated Dress, Pyromancer Wrap, Conjurator Boots
+       9.0 |    8.525 |     8.435 |    7.869 |     7.682 | 24.838 | 27.613 |    25.207 | 26.400 | Conjurator Hood, Antiquated Dress, Pyromancer Wrap, Pyromancer Trousers
+best  12.8 |   12.011 |    11.228 |   12.387 |    12.105 | 24.997 | 27.907 |    23.929 | 26.953 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Fire Keeper Skirt
+      12.8 |   11.742 |    10.590 |   12.119 |    11.657 | 24.674 | 27.829 |    23.603 | 25.917 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Antiquated Skirt
+      12.8 |   10.962 |     9.845 |   10.505 |    10.129 | 24.680 | 27.685 |    24.341 | 26.629 | Pyromancer Crown , Antiquated Dress, Winged Knight Gauntlets, Pyromancer Trousers
+      12.8 |   10.596 |     9.937 |   10.596 |     9.945 | 24.599 | 27.685 |    24.668 | 26.231 | Pyromancer Crown , Antiquated Dress, Winged Knight Gauntlets, Conjurator Boots
+      12.8 |   11.494 |    10.014 |   11.039 |    10.485 | 24.682 | 27.613 |    24.664 | 26.171 | Conjurator Hood, Antiquated Dress, Executioner Gauntlets, Pyromancer Trousers
+      12.8 |   11.130 |    10.106 |   11.130 |    10.302 | 24.601 | 27.613 |    24.990 | 25.771 | Conjurator Hood, Antiquated Dress, Executioner Gauntlets, Conjurator Boots
+      12.7 |   12.100 |    11.228 |   12.476 |    12.105 | 25.230 | 27.608 |    23.851 | 26.650 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Fire Keeper Skirt
+      12.8 |   10.851 |    11.312 |   10.385 |    10.957 | 24.913 | 27.538 |    25.608 | 25.617 | Conjurator Hood, Antiquated Dress, Cathedral Knight Gauntlets, Conjurator Boots
+      12.8 |   11.216 |    11.221 |   10.293 |    11.139 | 24.993 | 27.538 |    25.284 | 26.019 | Conjurator Hood, Antiquated Dress, Cathedral Knight Gauntlets, Pyromancer Trousers
+      12.7 |   11.831 |    10.590 |   12.208 |    11.657 | 24.908 | 27.530 |    23.524 | 25.610 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Antiquated Skirt
+best  13.2 |   12.458 |    10.955 |   12.832 |    12.194 | 25.149 | 28.000 |    24.749 | 25.850 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Conjurator Boots
+      13.2 |   12.816 |    10.864 |   12.743 |    12.374 | 25.230 | 28.000 |    24.423 | 26.250 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Pyromancer Trousers
+      13.2 |   12.996 |    11.046 |   12.922 |    12.284 | 26.035 | 27.843 |    24.749 | 26.650 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Black Witch Trousers
+      13.2 |   12.455 |    11.587 |   12.652 |    12.371 | 25.152 | 27.832 |    24.165 | 26.953 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Fire Keeper Skirt
+      13.2 |   12.458 |    11.045 |   12.832 |    12.372 | 24.839 | 27.776 |    25.138 | 26.080 | Black Iron Helm, Antiquated Dress, Court Sorcerer Gloves, Conjurator Boots
+      13.2 |   12.816 |    10.954 |   12.743 |    12.550 | 24.919 | 27.776 |    24.813 | 26.478 | Black Iron Helm, Antiquated Dress, Court Sorcerer Gloves, Pyromancer Trousers
+      13.2 |   12.187 |    10.952 |   12.385 |    11.924 | 24.830 | 27.754 |    23.840 | 25.917 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Antiquated Skirt
+      13.0 |   11.680 |    11.221 |   10.573 |    10.298 | 24.682 | 27.688 |    25.052 | 26.248 | Conjurator Hood, Antiquated Dress, Exile Gauntlets, Pyromancer Trousers
+      13.0 |   11.316 |    11.312 |   10.664 |    10.114 | 24.601 | 27.688 |    25.376 | 25.848 | Conjurator Hood, Antiquated Dress, Exile Gauntlets, Conjurator Boots
+      13.2 |   12.727 |    11.228 |   13.100 |    12.105 | 26.195 | 27.686 |    24.913 | 26.490 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Karla's Trousers
+best  13.3 |   12.370 |    10.955 |   12.744 |    12.194 | 24.916 | 28.297 |    24.827 | 26.156 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Conjurator Boots
+      13.3 |   12.728 |    10.864 |   12.655 |    12.374 | 24.997 | 28.297 |    24.501 | 26.555 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Pyromancer Trousers
+      13.3 |   12.908 |    11.046 |   12.834 |    12.284 | 25.804 | 28.141 |    24.827 | 26.953 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Black Witch Trousers
+      13.3 |   12.639 |    11.228 |   13.012 |    12.105 | 25.966 | 27.985 |    24.990 | 26.794 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Karla's Trousers
+      13.3 |   12.904 |    10.864 |   12.743 |    12.374 | 24.764 | 27.627 |    24.657 | 26.021 | Black Iron Helm, Antiquated Dress, Desert Pyromancer Gloves, Pyromancer Trousers
+      13.3 |   12.546 |    10.955 |   12.832 |    12.194 | 24.683 | 27.627 |    24.982 | 25.620 | Black Iron Helm, Antiquated Dress, Desert Pyromancer Gloves, Conjurator Boots
+      13.3 |   12.459 |    12.687 |   13.280 |    13.001 | 25.481 | 27.595 |    24.664 | 27.112 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Archdeacon Skirt
+      13.3 |   12.465 |    11.781 |   13.292 |    11.651 | 26.280 | 27.572 |    25.395 | 27.710 | Black Iron Helm, Black Witch Garb, Antiquated Gloves, Fire Keeper Skirt
+      13.3 |   13.045 |    12.774 |   14.324 |    11.954 | 23.888 | 27.538 |    24.269 | 25.866 | Conjurator Hood, Antiquated Dress, Black Knight Gauntlets, Black Leggings
+      13.3 |   11.308 |    10.478 |   11.505 |    10.391 | 24.760 | 27.538 |    25.129 | 26.248 | Conjurator Hood, Antiquated Dress, Gundyr's Gauntlets, Pyromancer Trousers
+best  14.8 |   15.030 |    11.866 |   15.030 |    14.554 | 24.849 | 28.406 |    23.375 | 25.696 | Pyromancer Crown , Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      13.7 |   13.169 |    11.224 |   12.920 |    12.639 | 25.152 | 28.223 |    24.735 | 26.555 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Pyromancer Trousers
+      13.7 |   12.812 |    11.315 |   13.009 |    12.460 | 25.072 | 28.223 |    25.060 | 26.156 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Conjurator Boots
+      14.3 |   13.540 |    11.326 |   14.099 |    12.645 | 25.596 | 28.131 |    25.357 | 26.555 | Black Iron Helm, Cornyx's Garb, Antiquated Gloves, Pyromancer Trousers
+      14.3 |   13.184 |    11.417 |   14.187 |    12.467 | 25.516 | 28.131 |    25.679 | 26.156 | Black Iron Helm, Cornyx's Garb, Antiquated Gloves, Conjurator Boots
+      14.7 |   15.116 |    11.866 |   15.116 |    14.554 | 25.082 | 28.109 |    23.296 | 25.388 | Pyromancer Crown , Antiquated Dress, Pale Shade Gloves, Black Iron Leggings
+      14.7 |   15.116 |    11.955 |   15.116 |    14.640 | 24.692 | 28.106 |    23.534 | 25.851 | Old Sage's Blindfold, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      13.5 |   12.370 |    10.865 |   12.921 |    12.106 | 25.149 | 28.074 |    24.905 | 26.003 | Black Iron Helm, Antiquated Dress, Cornyx's Wrap, Conjurator Boots
+      13.5 |   12.728 |    10.774 |   12.831 |    12.285 | 25.230 | 28.074 |    24.579 | 26.402 | Black Iron Helm, Antiquated Dress, Cornyx's Wrap, Pyromancer Trousers
+      13.7 |   13.347 |    11.405 |   13.098 |    12.550 | 25.958 | 28.067 |    25.060 | 26.953 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Black Witch Trousers
+best  15.5 |   15.715 |    12.576 |   15.715 |    15.070 | 25.006 | 28.632 |    24.488 | 26.161 | Conjurator Hood, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      15.5 |   16.057 |    12.221 |   15.373 |    15.157 | 25.398 | 28.406 |    24.329 | 26.470 | Black Witch Hat, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      15.4 |   15.800 |    12.576 |   15.800 |    15.070 | 25.239 | 28.336 |    24.410 | 25.854 | Conjurator Hood, Antiquated Dress, Pale Shade Gloves, Black Iron Leggings
+      15.2 |   15.459 |    12.222 |   15.288 |    14.813 | 25.005 | 28.332 |    23.612 | 25.696 | Pyromancer Crown , Antiquated Dress, Pyromancer Wrap, Black Iron Leggings
+      15.4 |   15.801 |    12.487 |   15.629 |    14.984 | 25.477 | 28.331 |    24.408 | 26.393 | Karla's Pointed Hat, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      15.5 |   15.886 |    12.310 |   15.458 |    15.070 | 25.634 | 28.331 |    24.329 | 26.703 | Sunless Veil, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      15.2 |   14.971 |    13.598 |   16.406 |    14.614 | 24.674 | 28.297 |    24.337 | 26.555 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Black Leggings
+      15.3 |   14.842 |    12.845 |   14.153 |    14.142 | 24.299 | 28.297 |    24.345 | 25.488 | Black Iron Helm, Antiquated Dress, Fallen Knight Gauntlets, Pyromancer Trousers
+      15.3 |   14.492 |    12.934 |   14.241 |    13.967 | 24.217 | 28.297 |    24.672 | 25.084 | Black Iron Helm, Antiquated Dress, Fallen Knight Gauntlets, Conjurator Boots
+      15.5 |   15.801 |    13.641 |   16.057 |    15.587 | 25.477 | 28.256 |    24.488 | 26.780 | Archdeacon White Crown, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+best  19.5 |   18.862 |    14.254 |   18.862 |    18.070 | 24.618 | 28.706 |    24.176 | 25.778 | Conjurator Hood, Antiquated Dress, Black Iron Gauntlets, Black Iron Leggings
+      17.5 |   17.756 |    14.519 |   17.161 |    16.785 | 24.308 | 28.632 |    24.332 | 25.088 | Conjurator Hood, Antiquated Dress, Fallen Knight Gauntlets, Black Iron Leggings
+      18.5 |   18.096 |    14.342 |   18.437 |    17.813 | 25.006 | 28.632 |    24.878 | 25.395 | Conjurator Hood, Antiquated Dress, Dragonslayer Gauntlets, Black Iron Leggings
+      18.9 |   18.379 |    15.239 |   18.103 |    17.481 | 24.593 | 28.610 |    23.440 | 26.077 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Black Knight Leggings
+      15.9 |   16.140 |    12.929 |   15.970 |    15.328 | 25.161 | 28.558 |    24.722 | 26.161 | Conjurator Hood, Antiquated Dress, Pyromancer Wrap, Black Iron Leggings
+      19.3 |   18.791 |    15.581 |   18.351 |    17.731 | 24.749 | 28.535 |    23.677 | 26.077 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Black Knight Leggings
+      18.2 |   16.163 |    13.295 |   16.092 |    15.468 | 25.152 | 28.521 |    24.969 | 27.240 | Black Iron Helm, Antiquated Dress, Winged Knight Gauntlets, Pyromancer Trousers
+      18.2 |   15.818 |    13.383 |   16.178 |    15.296 | 25.072 | 28.521 |    25.293 | 26.846 | Black Iron Helm, Antiquated Dress, Winged Knight Gauntlets, Conjurator Boots
+      18.3 |   18.182 |    14.430 |   18.352 |    17.127 | 24.541 | 28.484 |    23.942 | 25.625 | Conjurator Hood, Antiquated Dress, Black Knight Gauntlets, Black Iron Leggings
+      18.8 |   18.267 |    14.342 |   18.522 |    17.470 | 24.696 | 28.484 |    24.488 | 25.395 | Conjurator Hood, Antiquated Dress, Ringed Knight Gauntlets, Black Iron Leggings
+best  20.1 |   20.074 |    15.239 |   20.416 |    19.631 | 25.552 | 28.940 |    23.932 | 26.010 | Black Iron Helm, Antiquated Dress, Pale Shade Gloves, Black Iron Leggings
+      20.1 |   20.074 |    15.324 |   20.416 |    19.793 | 25.243 | 28.719 |    24.325 | 26.239 | Black Iron Helm, Antiquated Dress, Court Sorcerer Gloves, Black Iron Leggings
+      20.1 |   20.937 |    15.931 |   20.937 |    20.937 | 24.438 | 28.674 |    23.032 | 25.490 | Pyromancer Crown , Black Iron Armor, Antiquated Gloves, Fire Keeper Skirt
+      19.9 |   19.032 |    15.578 |   18.437 |    17.727 | 25.006 | 28.632 |    24.566 | 26.008 | Conjurator Hood, Antiquated Dress, Exile Gauntlets, Black Iron Leggings
+      19.7 |   18.374 |    14.269 |   18.374 |    17.572 | 25.005 | 28.630 |    23.850 | 26.390 | Pyromancer Crown , Antiquated Dress, Winged Knight Gauntlets, Black Iron Leggings
+      20.1 |   20.695 |    15.326 |   20.695 |    20.534 | 24.113 | 28.597 |    22.701 | 24.434 | Pyromancer Crown , Black Iron Armor, Antiquated Gloves, Antiquated Skirt
+      19.7 |   18.862 |    14.430 |   18.862 |    17.899 | 25.006 | 28.558 |    24.176 | 25.931 | Conjurator Hood, Antiquated Dress, Executioner Gauntlets, Black Iron Leggings
+      20.1 |   18.317 |    15.954 |   19.696 |    17.629 | 24.830 | 28.521 |    24.806 | 27.240 | Black Iron Helm, Antiquated Dress, Winged Knight Gauntlets, Black Leggings
+      19.7 |   18.607 |    15.578 |   18.182 |    18.499 | 25.316 | 28.484 |    24.800 | 25.778 | Conjurator Hood, Antiquated Dress, Cathedral Knight Gauntlets, Black Iron Leggings
+      19.9 |   19.138 |    15.678 |   19.457 |    17.736 | 25.195 | 28.444 |    24.308 | 26.077 | Black Iron Helm, Cornyx's Garb, Antiquated Gloves, Black Knight Leggings
+best  20.2 |   19.993 |    15.239 |   20.336 |    19.631 | 25.320 | 29.234 |    24.011 | 26.316 | Black Iron Helm, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      20.2 |   20.155 |    15.239 |   20.416 |    19.631 | 25.088 | 28.572 |    24.168 | 25.781 | Black Iron Helm, Antiquated Dress, Desert Pyromancer Gloves, Black Iron Leggings
+      20.2 |   18.692 |    14.872 |   19.287 |    17.813 | 25.084 | 28.484 |    24.644 | 26.008 | Conjurator Hood, Antiquated Dress, Gundyr's Gauntlets, Black Iron Leggings
+      20.2 |   21.892 |    16.015 |   21.335 |    21.335 | 23.965 | 28.449 |    23.511 | 26.034 | Desert Pyromancer Hood, Black Iron Armor, Antiquated Gloves, Fire Keeper Skirt
+      20.2 |   19.843 |    15.646 |   19.679 |    18.562 | 24.849 | 28.406 |    23.929 | 25.082 | Golden Crown, Antiquated Dress, Dragonslayer Gauntlets, Black Iron Leggings
+      20.2 |   20.857 |    15.846 |   20.937 |    20.937 | 24.594 | 28.378 |    23.191 | 25.336 | Pyromancer Crown , Black Iron Armor, Karla's Gloves, Fire Keeper Skirt
+      20.2 |   20.617 |    16.100 |   21.176 |    20.777 | 24.516 | 28.378 |    23.111 | 25.413 | Pyromancer Crown , Black Iron Armor, Black Witch Wrappings, Fire Keeper Skirt
+      20.2 |   21.653 |    15.412 |   21.094 |    20.934 | 23.638 | 28.372 |    23.183 | 24.985 | Desert Pyromancer Hood, Black Iron Armor, Antiquated Gloves, Antiquated Skirt
+      20.2 |   20.250 |    16.392 |   20.250 |    19.803 | 25.163 | 28.331 |    23.852 | 26.161 | Lapp's Helm, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      20.2 |   20.375 |    15.497 |   20.935 |    20.373 | 24.191 | 28.300 |    22.781 | 24.356 | Pyromancer Crown , Black Iron Armor, Black Witch Wrappings, Antiquated Skirt
+best  21.3 |   22.213 |    16.265 |   21.813 |    21.655 | 24.596 | 29.284 |    24.719 | 25.552 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Pyromancer Trousers
+      21.3 |   21.893 |    16.351 |   21.893 |    21.494 | 24.515 | 29.284 |    25.045 | 25.149 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Conjurator Boots
+      20.6 |   20.397 |    15.581 |   20.577 |    19.874 | 25.474 | 29.160 |    24.246 | 26.316 | Black Iron Helm, Antiquated Dress, Pyromancer Wrap, Black Iron Leggings
+      21.3 |   22.373 |    16.437 |   21.973 |    21.574 | 25.408 | 29.130 |    25.045 | 25.956 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Black Witch Trousers
+      21.2 |   20.737 |    15.678 |   21.653 |    19.880 | 25.916 | 29.069 |    24.872 | 26.316 | Black Iron Helm, Cornyx's Garb, Antiquated Gloves, Black Iron Leggings
+      20.6 |   21.581 |    15.585 |   21.178 |    21.178 | 24.438 | 29.060 |    23.610 | 25.084 | Pyromancer Crown , Black Iron Armor, Antiquated Gloves, Pyromancer Trousers
+      20.6 |   21.259 |    15.672 |   21.259 |    21.017 | 24.357 | 29.060 |    23.940 | 24.678 | Pyromancer Crown , Black Iron Armor, Antiquated Gloves, Conjurator Boots
+      21.3 |   22.210 |    16.011 |   21.576 |    21.574 | 24.910 | 29.060 |    24.887 | 25.462 | Black Witch Hat, Black Iron Armor, Antiquated Gloves, Conjurator Boots
+      21.3 |   22.529 |    15.925 |   21.496 |    21.734 | 24.990 | 29.060 |    24.561 | 25.865 | Black Witch Hat, Black Iron Armor, Antiquated Gloves, Pyromancer Trousers
+      20.4 |   19.993 |    15.153 |   20.497 |    19.550 | 25.552 | 29.013 |    24.089 | 26.163 | Black Iron Helm, Antiquated Dress, Cornyx's Wrap, Black Iron Leggings
+best  24.2 |   22.981 |    16.865 |   23.310 |    22.470 | 24.934 | 29.307 |    23.697 | 25.933 | Black Iron Helm, Antiquated Dress, Black Iron Gauntlets, Black Iron Leggings
+      23.2 |   24.212 |    18.834 |   25.171 |    23.657 | 24.271 | 29.284 |    24.556 | 25.552 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Black Leggings
+      23.3 |   24.097 |    18.126 |   23.155 |    23.236 | 23.894 | 29.284 |    24.564 | 24.471 | Conjurator Hood, Black Iron Armor, Fallen Knight Gauntlets, Pyromancer Trousers
+      23.3 |   23.785 |    18.210 |   23.233 |    23.079 | 23.812 | 29.284 |    24.890 | 24.062 | Conjurator Hood, Black Iron Armor, Fallen Knight Gauntlets, Conjurator Boots
+      22.2 |   21.931 |    17.122 |   21.702 |    21.253 | 24.625 | 29.234 |    23.854 | 25.246 | Black Iron Helm, Antiquated Dress, Fallen Knight Gauntlets, Black Iron Leggings
+      23.2 |   22.254 |    16.951 |   22.908 |    22.226 | 25.320 | 29.234 |    24.403 | 25.551 | Black Iron Helm, Antiquated Dress, Dragonslayer Gauntlets, Black Iron Leggings
+      21.7 |   22.287 |    16.689 |   22.130 |    21.732 | 24.671 | 29.210 |    25.277 | 25.149 | Conjurator Hood, Black Iron Armor, Pyromancer Wrap, Conjurator Boots
+      21.7 |   22.606 |    16.604 |   22.050 |    21.892 | 24.752 | 29.210 |    24.953 | 25.552 | Conjurator Hood, Black Iron Armor, Pyromancer Wrap, Pyromancer Trousers
+      23.6 |   24.594 |    19.162 |   25.398 |    23.888 | 24.428 | 29.210 |    24.790 | 25.552 | Conjurator Hood, Black Iron Armor, Pyromancer Wrap, Black Leggings
+      24.1 |   24.489 |    18.042 |   24.259 |    23.552 | 24.128 | 29.137 |    24.175 | 25.012 | Conjurator Hood, Black Iron Armor, Black Knight Gauntlets, Pyromancer Trousers
+best  25.1 |   23.142 |    17.550 |   23.471 |    22.470 | 25.474 | 29.454 |    24.482 | 27.004 | Black Iron Helm, Antiquated Dress, Winged Knight Gauntlets, Black Iron Leggings
+      24.3 |   24.411 |    17.957 |   24.338 |    24.184 | 24.596 | 29.284 |    25.108 | 24.780 | Conjurator Hood, Black Iron Armor, Dragonslayer Gauntlets, Pyromancer Trousers
+      24.3 |   24.100 |    18.041 |   24.415 |    24.029 | 24.515 | 29.284 |    25.432 | 24.372 | Conjurator Hood, Black Iron Armor, Dragonslayer Gauntlets, Conjurator Boots
+      24.6 |   23.142 |    18.150 |   22.908 |    22.145 | 25.320 | 29.234 |    24.089 | 26.163 | Black Iron Helm, Antiquated Dress, Exile Gauntlets, Black Iron Leggings
+      24.4 |   22.981 |    17.036 |   23.310 |    22.307 | 25.320 | 29.160 |    23.697 | 26.086 | Black Iron Helm, Antiquated Dress, Executioner Gauntlets, Black Iron Leggings
+      24.5 |   20.165 |    16.659 |   20.165 |    19.373 | 25.477 | 29.159 |    24.170 | 26.470 | Havel's Helm, Antiquated Dress, Antiquated Gloves, Black Iron Leggings
+      24.6 |   24.258 |    18.041 |   24.494 |    23.712 | 24.203 | 29.137 |    25.045 | 24.372 | Conjurator Hood, Black Iron Armor, Ringed Knight Gauntlets, Conjurator Boots
+      24.6 |   24.568 |    17.957 |   24.417 |    23.868 | 24.284 | 29.137 |    24.719 | 24.780 | Conjurator Hood, Black Iron Armor, Ringed Knight Gauntlets, Pyromancer Trousers
+      24.6 |   24.509 |    17.205 |   24.121 |    23.962 | 24.048 | 29.134 |    23.294 | 24.696 | Pyromancer Crown , Black Iron Armor, Black Iron Gauntlets, Pyromancer Trousers
+      24.6 |   24.199 |    17.290 |   24.199 |    23.807 | 23.966 | 29.134 |    23.626 | 24.287 | Pyromancer Crown , Black Iron Armor, Black Iron Gauntlets, Conjurator Boots
+best  25.5 |   25.555 |    19.148 |   25.873 |    25.634 | 24.911 | 29.498 |    23.670 | 26.111 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Fire Keeper Skirt
+      25.5 |   25.327 |    18.567 |   25.646 |    25.255 | 24.588 | 29.422 |    23.343 | 25.064 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Antiquated Skirt
+      25.3 |   25.117 |    17.872 |   24.733 |    24.422 | 24.206 | 29.357 |    24.408 | 25.166 | Conjurator Hood, Black Iron Armor, Black Iron Gauntlets, Pyromancer Trousers
+      25.3 |   24.809 |    17.956 |   24.809 |    24.267 | 24.124 | 29.357 |    24.735 | 24.760 | Conjurator Hood, Black Iron Armor, Black Iron Gauntlets, Conjurator Boots
+      25.2 |   26.047 |    20.638 |   26.455 |    25.198 | 23.566 | 29.284 |    24.401 | 24.471 | Conjurator Hood, Black Iron Armor, Fallen Knight Gauntlets, Black Leggings
+      25.5 |   24.358 |    17.972 |   24.358 |    23.807 | 24.513 | 29.281 |    24.412 | 25.381 | Pyromancer Crown , Black Iron Armor, Winged Knight Gauntlets, Conjurator Boots
+      25.5 |   24.667 |    17.888 |   24.280 |    23.962 | 24.594 | 29.281 |    24.083 | 25.784 | Pyromancer Crown , Black Iron Armor, Winged Knight Gauntlets, Pyromancer Trousers
+      25.5 |   24.809 |    18.125 |   24.809 |    24.109 | 24.515 | 29.210 |    24.735 | 24.916 | Conjurator Hood, Black Iron Armor, Executioner Gauntlets, Conjurator Boots
+      25.5 |   25.117 |    18.042 |   24.733 |    24.263 | 24.596 | 29.210 |    24.408 | 25.321 | Conjurator Hood, Black Iron Armor, Executioner Gauntlets, Pyromancer Trousers
+      25.4 |   25.630 |    19.148 |   25.948 |    25.634 | 25.144 | 29.205 |    23.592 | 25.805 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Fire Keeper Skirt
+best  25.9 |   25.933 |    18.899 |   26.250 |    25.710 | 25.064 | 29.588 |    24.493 | 24.996 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Conjurator Boots
+      25.9 |   26.236 |    18.816 |   26.174 |    25.862 | 25.144 | 29.588 |    24.166 | 25.400 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Pyromancer Trousers
+      25.9 |   26.388 |    18.982 |   26.325 |    25.786 | 25.950 | 29.435 |    24.493 | 25.805 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Black Witch Trousers
+      25.9 |   25.930 |    19.474 |   26.097 |    25.859 | 25.067 | 29.425 |    23.907 | 26.111 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Fire Keeper Skirt
+      25.9 |   25.933 |    18.981 |   26.250 |    25.860 | 24.753 | 29.370 |    24.883 | 25.228 | Black Iron Helm, Black Iron Armor, Court Sorcerer Gloves, Conjurator Boots
+      25.9 |   26.236 |    18.898 |   26.174 |    26.011 | 24.834 | 29.370 |    24.557 | 25.631 | Black Iron Helm, Black Iron Armor, Court Sorcerer Gloves, Pyromancer Trousers
+      25.9 |   25.704 |    18.896 |   25.871 |    25.481 | 24.744 | 29.349 |    23.580 | 25.064 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Antiquated Skirt
+      25.7 |   25.274 |    19.141 |   24.338 |    24.105 | 24.596 | 29.284 |    24.797 | 25.398 | Conjurator Hood, Black Iron Armor, Exile Gauntlets, Pyromancer Trousers
+      25.7 |   24.967 |    19.224 |   24.415 |    23.950 | 24.515 | 29.284 |    25.122 | 24.993 | Conjurator Hood, Black Iron Armor, Exile Gauntlets, Conjurator Boots
+      25.9 |   26.160 |    19.148 |   26.476 |    25.634 | 26.111 | 29.282 |    24.657 | 25.643 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Karla's Trousers
+best  26.0 |   26.162 |    18.816 |   26.100 |    25.862 | 24.911 | 29.880 |    24.244 | 25.708 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Pyromancer Trousers
+      26.0 |   25.858 |    18.899 |   26.175 |    25.710 | 24.831 | 29.880 |    24.571 | 25.306 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Conjurator Boots
+      26.0 |   26.313 |    18.982 |   26.251 |    25.786 | 25.720 | 29.727 |    24.571 | 26.111 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Black Witch Trousers
+      26.0 |   26.086 |    19.148 |   26.402 |    25.634 | 25.881 | 29.575 |    24.735 | 25.950 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Karla's Trousers
+      26.0 |   26.311 |    18.816 |   26.174 |    25.862 | 24.679 | 29.224 |    24.400 | 25.169 | Black Iron Helm, Black Iron Armor, Desert Pyromancer Gloves, Pyromancer Trousers
+      26.0 |   26.008 |    18.899 |   26.250 |    25.710 | 24.597 | 29.224 |    24.727 | 24.763 | Black Iron Helm, Black Iron Armor, Desert Pyromancer Gloves, Conjurator Boots
+      26.0 |   25.934 |    20.476 |   26.629 |    26.392 | 25.396 | 29.193 |    24.408 | 26.272 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Archdeacon Skirt
+      26.0 |   24.960 |    18.465 |   25.127 |    24.184 | 24.674 | 29.137 |    24.875 | 25.398 | Conjurator Hood, Black Iron Armor, Gundyr's Gauntlets, Pyromancer Trousers
+      26.0 |   24.652 |    18.548 |   25.204 |    24.029 | 24.593 | 29.137 |    25.200 | 24.993 | Conjurator Hood, Black Iron Armor, Gundyr's Gauntlets, Conjurator Boots
+      26.0 |   26.430 |    20.556 |   27.512 |    25.506 | 23.801 | 29.137 |    24.011 | 25.012 | Conjurator Hood, Black Iron Armor, Black Knight Gauntlets, Black Leggings
+best  27.5 |   28.109 |    19.728 |   28.109 |    27.707 | 24.764 | 29.986 |    23.114 | 24.840 | Pyromancer Crown , Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      26.4 |   26.534 |    19.144 |   26.323 |    26.086 | 25.067 | 29.807 |    24.479 | 25.708 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Pyromancer Trousers
+      26.4 |   26.232 |    19.226 |   26.399 |    25.935 | 24.986 | 29.807 |    24.805 | 25.306 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Conjurator Boots
+      27.4 |   28.182 |    19.728 |   28.182 |    27.707 | 24.997 | 29.696 |    23.035 | 24.529 | Pyromancer Crown , Black Iron Armor, Pale Shade Gloves, Black Iron Leggings
+      27.4 |   28.182 |    19.809 |   28.182 |    27.779 | 24.606 | 29.692 |    23.274 | 24.997 | Old Sage's Blindfold, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      26.2 |   25.858 |    18.817 |   26.324 |    25.635 | 25.064 | 29.661 |    24.649 | 25.151 | Black Iron Helm, Black Iron Armor, Cornyx's Wrap, Conjurator Boots
+      26.2 |   26.162 |    18.734 |   26.249 |    25.787 | 25.144 | 29.661 |    24.322 | 25.554 | Black Iron Helm, Black Iron Armor, Cornyx's Wrap, Pyromancer Trousers
+      26.4 |   26.685 |    19.309 |   26.474 |    26.010 | 25.873 | 29.654 |    24.805 | 26.111 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Black Witch Trousers
+      27.1 |   22.275 |    20.924 |   22.179 |    20.919 | 26.148 | 29.620 |    26.146 | 26.768 | Conjurator Hood, Havel's Armor, Antiquated Gloves, Conjurator Boots
+      27.1 |   22.593 |    20.843 |   22.100 |    21.081 | 26.228 | 29.620 |    25.825 | 27.163 | Conjurator Hood, Havel's Armor, Antiquated Gloves, Pyromancer Trousers
+best  28.2 |   28.689 |    20.375 |   28.689 |    28.143 | 24.921 | 30.207 |    24.231 | 25.310 | Conjurator Hood, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      28.2 |   28.978 |    20.052 |   28.399 |    28.216 | 25.313 | 29.986 |    24.071 | 25.623 | Black Witch Hat, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      28.1 |   28.761 |    20.375 |   28.761 |    28.143 | 25.154 | 29.917 |    24.153 | 25.000 | Conjurator Hood, Black Iron Armor, Pale Shade Gloves, Black Iron Leggings
+      27.9 |   28.472 |    20.053 |   28.327 |    27.925 | 24.919 | 29.914 |    23.353 | 24.840 | Pyromancer Crown , Black Iron Armor, Pyromancer Wrap, Black Iron Leggings
+      28.1 |   28.761 |    20.294 |   28.616 |    28.071 | 25.392 | 29.913 |    24.151 | 25.545 | Karla's Pointed Hat, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      28.2 |   28.833 |    20.133 |   28.471 |    28.143 | 25.549 | 29.913 |    24.071 | 25.858 | Sunless Veil, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      27.9 |   28.059 |    21.306 |   29.273 |    27.757 | 24.588 | 29.880 |    24.080 | 25.708 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Black Leggings
+      28.0 |   27.654 |    20.701 |   27.442 |    27.209 | 24.131 | 29.880 |    24.416 | 24.221 | Black Iron Helm, Black Iron Armor, Fallen Knight Gauntlets, Conjurator Boots
+      28.0 |   27.950 |    20.620 |   27.367 |    27.358 | 24.213 | 29.880 |    24.087 | 24.630 | Black Iron Helm, Black Iron Armor, Fallen Knight Gauntlets, Pyromancer Trousers
+      28.2 |   28.761 |    21.345 |   28.978 |    28.580 | 25.392 | 29.839 |    24.231 | 25.936 | Archdeacon White Crown, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+best  31.8 |   26.522 |    23.254 |   26.370 |    25.318 | 26.536 | 30.213 |    25.357 | 27.316 | Black Iron Helm, Havel's Armor, Antiquated Gloves, Pyromancer Trousers
+      31.8 |   26.220 |    23.333 |   26.446 |    25.166 | 26.457 | 30.213 |    25.679 | 26.922 | Black Iron Helm, Havel's Armor, Antiquated Gloves, Conjurator Boots
+      30.2 |   30.416 |    22.145 |   29.912 |    29.594 | 24.222 | 30.207 |    24.074 | 24.225 | Conjurator Hood, Black Iron Armor, Fallen Knight Gauntlets, Black Iron Leggings
+      31.2 |   30.704 |    21.984 |   30.991 |    30.464 | 24.921 | 30.207 |    24.622 | 24.535 | Conjurator Hood, Black Iron Armor, Dragonslayer Gauntlets, Black Iron Leggings
+      31.6 |   30.943 |    22.800 |   30.709 |    30.183 | 24.507 | 30.185 |    23.179 | 25.225 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Black Knight Leggings
+      28.6 |   29.048 |    20.697 |   28.905 |    28.361 | 25.076 | 30.135 |    24.466 | 25.310 | Conjurator Hood, Black Iron Armor, Pyromancer Wrap, Black Iron Leggings
+      30.9 |   29.067 |    21.030 |   29.008 |    28.480 | 25.067 | 30.098 |    24.713 | 26.402 | Black Iron Helm, Black Iron Armor, Winged Knight Gauntlets, Pyromancer Trousers
+      30.9 |   28.776 |    21.111 |   29.081 |    28.334 | 24.986 | 30.098 |    25.039 | 26.003 | Black Iron Helm, Black Iron Armor, Winged Knight Gauntlets, Conjurator Boots
+      31.0 |   30.775 |    22.064 |   30.919 |    29.884 | 24.455 | 30.062 |    23.683 | 24.768 | Conjurator Hood, Black Iron Armor, Black Knight Gauntlets, Black Iron Leggings
+      31.5 |   30.847 |    21.984 |   31.063 |    30.174 | 24.610 | 30.062 |    24.231 | 24.535 | Conjurator Hood, Black Iron Armor, Ringed Knight Gauntlets, Black Iron Leggings
+best  32.2 |   31.351 |    21.903 |   31.351 |    30.681 | 24.532 | 30.279 |    23.918 | 24.923 | Conjurator Hood, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
+      32.2 |   26.592 |    23.642 |   26.668 |    25.392 | 26.609 | 30.140 |    25.910 | 26.922 | Black Iron Helm, Havel's Armor, Pyromancer Wrap, Conjurator Boots
+      32.2 |   26.893 |    23.564 |   26.593 |    25.545 | 26.688 | 30.140 |    25.588 | 27.316 | Black Iron Helm, Havel's Armor, Pyromancer Wrap, Pyromancer Trousers
+      32.0 |   31.291 |    23.112 |   30.919 |    30.394 | 24.663 | 30.112 |    23.417 | 25.225 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Black Knight Leggings
+      32.2 |   31.630 |    21.586 |   31.072 |    30.751 | 24.927 | 30.059 |    23.758 | 25.238 | Black Witch Hat, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
+      32.0 |   26.522 |    23.177 |   26.519 |    25.243 | 26.764 | 29.995 |    25.434 | 27.165 | Black Iron Helm, Havel's Armor, Cornyx's Wrap, Pyromancer Trousers
+      32.0 |   26.220 |    23.255 |   26.594 |    25.090 | 26.685 | 29.995 |    25.756 | 26.770 | Black Iron Helm, Havel's Armor, Cornyx's Wrap, Conjurator Boots
+      32.2 |   27.043 |    23.720 |   26.743 |    25.468 | 27.477 | 29.988 |    25.910 | 27.710 | Black Iron Helm, Havel's Armor, Pyromancer Wrap, Black Witch Trousers
+      31.9 |   30.939 |    22.485 |   30.431 |    29.968 | 24.764 | 29.986 |    23.194 | 24.684 | Pyromancer Crown , Black Iron Armor, Exile Gauntlets, Black Iron Leggings
+      31.9 |   31.899 |    23.330 |   30.979 |    30.236 | 24.063 | 29.986 |    23.115 | 23.908 | Golden Crown, Black Iron Armor, Fallen Knight Gauntlets, Black Iron Leggings
+best  32.8 |   32.377 |    22.800 |   32.666 |    32.002 | 25.467 | 30.508 |    23.674 | 25.157 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Black Iron Leggings
+      32.8 |   32.377 |    22.878 |   32.666 |    32.139 | 25.157 | 30.292 |    24.067 | 25.389 | Black Iron Helm, Black Iron Armor, Court Sorcerer Gloves, Black Iron Leggings
+      32.6 |   31.495 |    23.110 |   30.991 |    30.391 | 24.921 | 30.207 |    24.309 | 25.155 | Conjurator Hood, Black Iron Armor, Exile Gauntlets, Black Iron Leggings
+      32.4 |   30.939 |    21.918 |   30.939 |    30.260 | 24.919 | 30.204 |    23.591 | 25.542 | Pyromancer Crown , Black Iron Armor, Winged Knight Gauntlets, Black Iron Leggings
+      32.4 |   31.351 |    22.064 |   31.351 |    30.536 | 24.921 | 30.135 |    23.918 | 25.078 | Conjurator Hood, Black Iron Armor, Executioner Gauntlets, Black Iron Leggings
+      32.8 |   30.890 |    23.452 |   32.057 |    30.308 | 24.744 | 30.098 |    24.551 | 26.402 | Black Iron Helm, Black Iron Armor, Winged Knight Gauntlets, Black Leggings
+      32.4 |   31.135 |    23.110 |   30.775 |    31.044 | 25.231 | 30.062 |    24.544 | 24.923 | Conjurator Hood, Black Iron Armor, Cathedral Knight Gauntlets, Black Iron Leggings
+      32.4 |   32.040 |    24.121 |   30.695 |    31.163 | 24.460 | 29.986 |    23.994 | 23.908 | Undead Legion Helm, Black Iron Armor, Fallen Knight Gauntlets, Black Iron Leggings
+      32.6 |   31.773 |    22.797 |   30.711 |    30.462 | 25.313 | 29.986 |    24.150 | 25.469 | Black Witch Hat, Black Iron Armor, Exile Gauntlets, Black Iron Leggings
+      32.5 |   31.773 |    21.996 |   31.286 |    30.611 | 24.449 | 29.985 |    24.066 | 26.085 | Desert Pyromancer Hood, Black Iron Armor, Winged Knight Gauntlets, Black Iron Leggings
+best  32.9 |   32.309 |    22.800 |   32.598 |    32.002 | 25.235 | 30.795 |    23.752 | 25.467 | Black Iron Helm, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      32.9 |   32.445 |    22.800 |   32.666 |    32.002 | 25.003 | 30.149 |    23.910 | 24.925 | Black Iron Helm, Black Iron Armor, Desert Pyromancer Gloves, Black Iron Leggings
+      32.9 |   31.207 |    22.466 |   31.711 |    30.464 | 24.998 | 30.062 |    24.387 | 25.155 | Conjurator Hood, Black Iron Armor, Gundyr's Gauntlets, Black Iron Leggings
+      32.9 |   32.181 |    23.172 |   32.042 |    31.098 | 24.764 | 29.986 |    23.670 | 24.219 | Golden Crown, Black Iron Armor, Dragonslayer Gauntlets, Black Iron Leggings
+      32.9 |   32.526 |    23.851 |   32.526 |    32.147 | 25.078 | 29.913 |    23.593 | 25.310 | Lapp's Helm, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      32.9 |   31.487 |    22.151 |   31.434 |    30.534 | 25.391 | 29.841 |    24.228 | 25.469 | Black Witch Hat, Black Iron Armor, Gundyr's Gauntlets, Black Iron Leggings
+      32.9 |   32.111 |    24.201 |   32.182 |    31.591 | 24.685 | 29.839 |    24.305 | 23.191 | Evangelist Hat, Black Iron Armor, Dragonslayer Gauntlets, Black Iron Leggings
+      32.9 |   31.347 |    22.230 |   31.503 |    30.464 | 25.626 | 29.767 |    24.228 | 25.704 | Sunless Veil, Black Iron Armor, Gundyr's Gauntlets, Black Iron Leggings
+      32.9 |   31.714 |    23.595 |   32.297 |    31.046 | 25.389 | 29.766 |    23.830 | 24.997 | Drakeblood Helm, Black Iron Armor, Pyromancer Wrap, Black Iron Leggings
+      32.9 |   32.118 |    22.379 |   32.954 |    31.805 | 24.375 | 29.765 |    22.556 | 23.427 | Black Hand Hat, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
+best  36.9 |   34.836 |    24.282 |   35.115 |    34.403 | 24.848 | 30.867 |    23.437 | 25.080 | Black Iron Helm, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
+      34.9 |   33.948 |    24.516 |   33.754 |    33.374 | 24.539 | 30.795 |    23.595 | 24.384 | Black Iron Helm, Black Iron Armor, Fallen Knight Gauntlets, Black Iron Leggings
+      35.9 |   34.221 |    24.360 |   34.775 |    34.198 | 25.235 | 30.795 |    24.146 | 24.694 | Black Iron Helm, Black Iron Armor, Dragonslayer Gauntlets, Black Iron Leggings
+      33.3 |   32.650 |    23.112 |   32.802 |    32.208 | 25.389 | 30.723 |    23.989 | 25.467 | Black Iron Helm, Black Iron Armor, Pyromancer Wrap, Black Iron Leggings
+      35.7 |   34.289 |    24.438 |   34.707 |    33.649 | 24.771 | 30.652 |    23.201 | 24.925 | Black Iron Helm, Black Iron Armor, Black Knight Gauntlets, Black Iron Leggings
+      36.2 |   34.358 |    24.360 |   34.843 |    33.923 | 24.925 | 30.652 |    23.752 | 24.694 | Black Iron Helm, Black Iron Armor, Ringed Knight Gauntlets, Black Iron Leggings
+      33.1 |   32.309 |    22.722 |   32.734 |    31.933 | 25.467 | 30.580 |    23.831 | 25.312 | Black Iron Helm, Black Iron Armor, Cornyx's Wrap, Black Iron Leggings
+      34.6 |   33.470 |    24.360 |   33.890 |    33.168 | 25.312 | 30.580 |    23.437 | 24.539 | Black Iron Helm, Black Iron Armor, Leonhard's Gauntlets, Black Iron Leggings
+      34.0 |   29.037 |    24.728 |   28.950 |    27.617 | 26.545 | 30.539 |    25.344 | 26.926 | Conjurator Hood, Havel's Armor, Antiquated Gloves, Black Iron Leggings
+      36.0 |   30.756 |    26.401 |   30.169 |    29.078 | 25.862 | 30.539 |    25.190 | 25.865 | Conjurator Hood, Havel's Armor, Fallen Knight Gauntlets, Black Iron Leggings
+best  37.8 |   34.972 |    24.906 |   35.251 |    34.403 | 25.389 | 31.011 |    24.225 | 26.163 | Black Iron Helm, Black Iron Armor, Winged Knight Gauntlets, Black Iron Leggings
+      37.3 |   34.972 |    25.452 |   34.775 |    34.129 | 25.235 | 30.795 |    23.831 | 25.312 | Black Iron Helm, Black Iron Armor, Exile Gauntlets, Black Iron Leggings
+      37.1 |   34.836 |    24.438 |   35.115 |    34.266 | 25.235 | 30.723 |    23.437 | 25.235 | Black Iron Helm, Black Iron Armor, Executioner Gauntlets, Black Iron Leggings
+      37.2 |   32.453 |    24.094 |   32.453 |    31.783 | 25.392 | 30.722 |    23.912 | 25.623 | Havel's Helm, Black Iron Armor, Antiquated Gloves, Black Iron Leggings
+      37.1 |   34.631 |    25.452 |   34.571 |    34.747 | 25.544 | 30.652 |    24.067 | 25.080 | Black Iron Helm, Black Iron Armor, Cathedral Knight Gauntlets, Black Iron Leggings
+      37.6 |   34.699 |    24.828 |   35.455 |    34.198 | 25.312 | 30.652 |    23.910 | 25.312 | Black Iron Helm, Black Iron Armor, Gundyr's Gauntlets, Black Iron Leggings
+      37.6 |   32.794 |    24.400 |   32.658 |    31.990 | 25.546 | 30.650 |    24.148 | 25.623 | Havel's Helm, Black Iron Armor, Pyromancer Wrap, Black Iron Leggings
+      37.0 |   31.042 |    26.249 |   31.244 |    29.954 | 26.545 | 30.539 |    25.730 | 26.168 | Conjurator Hood, Havel's Armor, Dragonslayer Gauntlets, Black Iron Leggings
+      37.4 |   31.280 |    27.021 |   30.963 |    29.671 | 26.141 | 30.517 |    24.308 | 26.843 | Black Iron Helm, Havel's Armor, Antiquated Gloves, Black Knight Leggings
+      37.5 |   34.972 |    24.906 |   35.319 |    34.678 | 25.080 | 30.508 |    24.304 | 25.312 | Black Iron Helm, Black Iron Armor, Catarina Gauntlets, Black Iron Leggings
+best  38.7 |   32.639 |    27.021 |   32.845 |    31.504 | 26.853 | 31.124 |    24.872 | 27.080 | Black Iron Helm, Havel's Armor, Antiquated Gloves, Black Iron Leggings
+      38.6 |   32.707 |    27.021 |   32.913 |    31.504 | 27.080 | 30.838 |    24.795 | 26.777 | Black Iron Helm, Havel's Armor, Pale Shade Gloves, Black Iron Leggings
+      38.6 |   32.707 |    27.094 |   32.913 |    31.642 | 26.777 | 30.623 |    25.183 | 27.004 | Black Iron Helm, Havel's Armor, Court Sorcerer Gloves, Black Iron Leggings
+      38.0 |   31.686 |    26.173 |   31.603 |    30.173 | 26.166 | 30.611 |    25.035 | 26.547 | Conjurator Hood, Havel's Armor, Black Iron Gauntlets, Black Iron Leggings
+      38.4 |   31.830 |    27.313 |   31.244 |    29.881 | 26.545 | 30.539 |    25.421 | 26.775 | Conjurator Hood, Havel's Armor, Exile Gauntlets, Black Iron Leggings
+      38.2 |   31.276 |    26.186 |   31.192 |    29.749 | 26.544 | 30.536 |    24.713 | 27.153 | Pyromancer Crown , Havel's Armor, Winged Knight Gauntlets, Black Iron Leggings
+      38.7 |   32.301 |    25.125 |   32.515 |    31.850 | 25.950 | 30.508 |    24.002 | 25.643 | Black Iron Helm, Black Iron Armor, Pale Shade Gloves, Havel's Leggings
+      38.1 |   35.045 |    25.313 |   35.045 |    34.544 | 25.401 | 30.500 |    24.078 | 24.451 | Morne's Helm, Black Iron Armor, Black Iron Gauntlets, Black Iron Leggings
+      38.7 |   32.775 |    27.021 |   32.913 |    31.504 | 26.626 | 30.480 |    25.028 | 26.550 | Black Iron Helm, Havel's Armor, Desert Pyromancer Gloves, Black Iron Leggings
+      38.2 |   31.686 |    26.325 |   31.603 |    30.027 | 26.545 | 30.466 |    25.035 | 26.699 | Conjurator Hood, Havel's Armor, Executioner Gauntlets, Black Iron Leggings
+best  42.7 |   35.154 |    28.421 |   35.352 |    33.923 | 26.474 | 31.196 |    24.562 | 26.701 | Black Iron Helm, Havel's Armor, Black Iron Gauntlets, Black Iron Leggings
+      40.7 |   34.270 |    28.642 |   33.997 |    32.886 | 26.172 | 31.124 |    24.717 | 26.021 | Black Iron Helm, Havel's Armor, Fallen Knight Gauntlets, Black Iron Leggings
+      41.7 |   34.542 |    28.495 |   35.013 |    33.716 | 26.853 | 31.124 |    25.260 | 26.323 | Black Iron Helm, Havel's Armor, Dragonslayer Gauntlets, Black Iron Leggings
+      39.1 |   32.979 |    27.316 |   33.048 |    31.711 | 27.004 | 31.053 |    25.105 | 27.080 | Black Iron Helm, Havel's Armor, Pyromancer Wrap, Black Iron Leggings
+      40.9 |   34.904 |    25.374 |   35.115 |    34.403 | 25.389 | 31.011 |    23.752 | 25.389 | Black Iron Helm, Black Iron Armor, Havel's Gauntlets, Black Iron Leggings
+      41.5 |   34.610 |    28.569 |   34.946 |    33.163 | 26.399 | 30.981 |    24.329 | 26.550 | Black Iron Helm, Havel's Armor, Black Knight Gauntlets, Black Iron Leggings
+      42.0 |   34.678 |    28.495 |   35.081 |    33.439 | 26.550 | 30.981 |    24.872 | 26.323 | Black Iron Helm, Havel's Armor, Ringed Knight Gauntlets, Black Iron Leggings
+      42.1 |   35.112 |    26.164 |   35.112 |    34.193 | 25.546 | 30.938 |    24.384 | 26.318 | Havel's Helm, Black Iron Armor, Winged Knight Gauntlets, Black Iron Leggings
+      38.9 |   32.639 |    26.947 |   32.981 |    31.435 | 27.080 | 30.910 |    24.950 | 26.928 | Black Iron Helm, Havel's Armor, Cornyx's Wrap, Black Iron Leggings
+      40.4 |   33.795 |    28.495 |   34.133 |    32.679 | 26.928 | 30.910 |    24.562 | 26.172 | Black Iron Helm, Havel's Armor, Leonhard's Gauntlets, Black Iron Leggings
+best  43.6 |   35.290 |    29.011 |   35.488 |    33.923 | 27.004 | 31.339 |    25.338 | 27.760 | Black Iron Helm, Havel's Armor, Winged Knight Gauntlets, Black Iron Leggings
+      43.1 |   35.290 |    29.527 |   35.013 |    33.646 | 26.853 | 31.124 |    24.950 | 26.928 | Black Iron Helm, Havel's Armor, Exile Gauntlets, Black Iron Leggings
+      42.9 |   35.154 |    28.569 |   35.352 |    33.785 | 26.853 | 31.053 |    24.562 | 26.853 | Black Iron Helm, Havel's Armor, Executioner Gauntlets, Black Iron Leggings
+      43.0 |   32.783 |    28.243 |   32.701 |    31.284 | 27.006 | 31.051 |    25.030 | 27.233 | Havel's Helm, Havel's Armor, Antiquated Gloves, Black Iron Leggings
+      42.9 |   34.950 |    29.527 |   34.810 |    34.268 | 27.155 | 30.981 |    25.183 | 26.701 | Black Iron Helm, Havel's Armor, Cathedral Knight Gauntlets, Black Iron Leggings
+      43.4 |   35.018 |    28.937 |   35.691 |    33.716 | 26.928 | 30.981 |    25.028 | 26.928 | Black Iron Helm, Havel's Armor, Gundyr's Gauntlets, Black Iron Leggings
+      43.4 |   33.122 |    28.533 |   32.904 |    31.492 | 27.157 | 30.979 |    25.262 | 27.233 | Havel's Helm, Havel's Armor, Pyromancer Wrap, Black Iron Leggings
+      42.8 |   34.763 |    26.562 |   34.969 |    34.257 | 25.336 | 30.867 |    23.766 | 25.566 | Black Iron Helm, Black Iron Armor, Black Iron Gauntlets, Havel's Leggings
+      43.3 |   35.290 |    29.011 |   35.556 |    34.199 | 26.701 | 30.838 |    25.416 | 26.928 | Black Iron Helm, Havel's Armor, Catarina Gauntlets, Black Iron Leggings
+      43.2 |   32.783 |    28.171 |   32.837 |    31.214 | 27.233 | 30.836 |    25.107 | 27.082 | Havel's Helm, Havel's Armor, Cornyx's Wrap, Black Iron Leggings

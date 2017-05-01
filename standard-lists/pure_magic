@@ -1,36 +1,335 @@
-weight | physical | vs_strike | vs_slash | vs_thrust |  magic |   fire | lightning |   dark | armor pieces
-   4.1 |    5.976 |     5.976 |    5.976 |     5.012 | 19.191 | 16.215 |    17.801 | 19.191 | Ragged Mask, Master's Attire, Master's Gloves, Loincloth
-   4.4 |    6.943 |     6.170 |    5.686 |     5.303 | 20.436 | 19.389 |    21.660 | 21.503 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
-   4.7 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.305 |    22.147 | 21.584 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Loincloth
-   4.9 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    22.471 | 22.400 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
-   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    22.018 | 23.103 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth
-   5.4 |    7.145 |     7.239 |    7.145 |     6.373 | 23.582 | 21.919 |    22.503 | 23.183 | Shira's Crown, Clandestine Coat, Master's Gloves, Loincloth
-   5.6 |    7.800 |     7.613 |    7.613 |     6.846 | 23.982 | 21.919 |    22.827 | 23.982 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Loincloth
-   5.8 |    7.983 |     7.983 |    7.983 |     7.030 | 24.435 | 22.465 |    23.129 | 24.122 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Loincloth
-   6.0 |    7.898 |     7.614 |    7.426 |     6.562 | 24.654 | 22.516 |    23.585 | 24.409 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth (TRC)
-   6.1 |    7.704 |     7.797 |    7.704 |     6.936 | 24.907 | 23.346 |    23.607 | 24.201 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Loincloth
-   6.3 |    8.356 |     8.170 |    8.170 |     7.406 | 25.299 | 23.346 |    23.926 | 24.989 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Loincloth
-   6.5 |    8.270 |     7.801 |    7.613 |     6.940 | 25.515 | 23.397 |    24.377 | 25.273 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Loincloth (TRC)
-   6.7 |    8.452 |     8.171 |    7.983 |     7.125 | 25.959 | 23.932 |    24.673 | 25.411 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
-   6.9 |    7.896 |     7.521 |    7.145 |     6.562 | 25.963 | 24.174 |    24.910 | 25.257 | Shira's Crown, Clandestine Coat, Violet Wrappings, Loincloth (TRC)
-   7.0 |    8.175 |     7.985 |    7.704 |     7.031 | 26.421 | 24.796 |    25.141 | 25.488 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
-   7.2 |    8.823 |     8.357 |    8.170 |     7.500 | 26.806 | 24.796 |    25.454 | 26.263 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
-   7.4 |    9.193 |     8.450 |    8.263 |     7.594 | 26.883 | 24.404 |    25.766 | 26.341 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
-   7.6 |    7.887 |     7.697 |    7.415 |     6.356 | 26.932 | 25.142 |    25.744 | 25.746 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
-   7.7 |    8.156 |     8.261 |    7.499 |     7.021 | 26.975 | 24.710 |    25.368 | 26.434 | Old Sorcerer Hat, Maiden Robe, Pale Shade Gloves, Loincloth (TRC)
-   7.8 |    8.537 |     8.070 |    7.882 |     6.829 | 27.314 | 25.142 |    26.054 | 26.519 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
-   8.0 |    8.909 |     8.163 |    7.975 |     6.923 | 27.390 | 24.751 |    26.364 | 26.596 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
-   8.2 |    8.076 |     8.169 |    8.076 |     6.546 | 27.407 | 25.944 |    26.385 | 26.308 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-   8.3 |    8.345 |     8.730 |    8.159 |     7.210 | 27.450 | 25.517 |    26.012 | 26.990 | Old Sorcerer Hat, Maiden Robe, Pale Shade Gloves, Karla's Trousers
-   8.4 |    8.725 |     8.539 |    8.539 |     7.018 | 27.786 | 25.944 |    26.692 | 27.075 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-   8.6 |    9.095 |     8.632 |    8.632 |     7.113 | 27.862 | 25.557 |    26.999 | 27.151 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-   9.0 |    8.910 |     8.447 |    8.447 |     6.829 | 28.014 | 26.254 |    26.923 | 27.381 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-   9.2 |   10.434 |     8.539 |   12.441 |     7.018 | 28.123 | 24.321 |    25.672 | 26.059 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-   9.4 |   10.798 |     8.632 |   12.530 |     7.113 | 28.198 | 23.926 |    25.983 | 26.137 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-   9.8 |   10.616 |     8.447 |   12.353 |     6.829 | 28.349 | 24.638 |    25.905 | 26.370 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-  14.1 |   13.596 |    11.591 |   14.832 |    10.590 | 28.424 | 24.793 |    26.288 | 26.294 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
-  15.7 |   15.254 |    12.709 |   17.320 |    12.021 | 28.576 | 25.191 |    26.217 | 25.360 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-  20.0 |   18.078 |    15.707 |   19.659 |    15.572 | 28.650 | 25.346 |    26.597 | 25.283 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
-  26.7 |   24.682 |    24.562 |   21.867 |    25.231 | 28.675 | 26.661 |    27.806 | 26.379 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
-  28.3 |   26.128 |    25.517 |   24.151 |    26.428 | 28.827 | 27.049 |    27.736 | 25.445 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
-  32.6 |   28.590 |    28.075 |   26.296 |    29.397 | 28.900 | 27.200 |    28.109 | 25.368 | Morne's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+    weight | physical | vs_strike | vs_slash | vs_thrust |  magic |   fire | lightning |   dark | armor pieces
+best   4.1 |    5.976 |     5.976 |    5.976 |     5.012 | 19.191 | 16.215 |    17.801 | 19.191 | Ragged Mask, Master's Attire, Master's Gloves, Loincloth
+best   4.4 |    6.943 |     6.170 |    5.686 |     5.303 | 20.436 | 19.389 |    21.660 | 21.503 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.4 |    5.691 |     5.786 |    5.691 |     4.916 | 19.695 | 17.168 |    18.312 | 19.275 | Shira's Crown, Master's Attire, Master's Gloves, Loincloth
+       4.4 |    5.691 |     5.691 |    5.691 |     4.724 | 19.359 | 17.254 |    18.056 | 19.527 | Old Sage's Blindfold, Master's Attire, Master's Gloves, Loincloth
+       4.4 |    5.691 |     4.931 |    5.121 |     3.955 | 15.999 | 16.908 |    17.375 | 18.687 | Crown of Dusk, Master's Attire, Master's Gloves, Loincloth
+best   4.7 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.305 |    22.147 | 21.584 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.7 |    6.660 |     5.885 |    5.400 |     5.016 | 20.601 | 20.388 |    21.903 | 21.829 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.6 |    6.357 |     6.166 |    6.166 |     5.396 | 20.115 | 17.168 |    18.653 | 20.115 | Old Sorcerer Hat, Master's Attire, Master's Gloves, Loincloth
+       4.7 |    6.259 |     6.071 |    5.976 |     5.107 | 20.097 | 17.066 |    18.721 | 20.015 | Ragged Mask, Master's Attire, Violet Wrappings, Loincloth
+       4.5 |    5.596 |     5.596 |    5.596 |     4.628 | 19.527 | 17.600 |    17.886 | 19.359 | Pyromancer Crown , Master's Attire, Master's Gloves, Loincloth
+       4.7 |    5.691 |     5.691 |    5.691 |     4.724 | 19.275 | 16.475 |    17.971 | 19.695 | Hood Of Prayer, Master's Attire, Master's Gloves, Loincloth
+       4.5 |    5.881 |     5.786 |    5.691 |     4.820 | 19.023 | 15.869 |    18.567 | 15.999 | Blindfold Mask, Master's Attire, Master's Gloves, Loincloth
+       4.6 |    6.737 |     5.691 |    6.071 |     5.108 | 19.023 | 17.341 |    18.397 | 19.947 | Desert Pyromancer Hood, Master's Attire, Master's Gloves, Loincloth
+       4.7 |    6.660 |     5.126 |    4.828 |     4.250 | 17.293 | 20.055 |    21.254 | 21.013 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Loincloth
+best   4.9 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    22.471 | 22.400 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |    6.566 |     5.790 |    5.305 |     4.920 | 20.767 | 20.721 |    21.741 | 21.666 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |    6.543 |     6.543 |    6.543 |     5.584 | 20.592 | 17.747 |    18.972 | 20.262 | Ragged Mask, Master's Attire, Pale Shade Gloves, Loincloth
+       4.9 |    6.448 |     6.543 |    6.448 |     5.584 | 20.344 | 18.087 |    19.055 | 20.592 | Ragged Mask, Master's Attire, Antiquated Gloves, Loincloth
+       4.8 |    6.849 |     5.980 |    5.400 |     5.111 | 20.270 | 19.056 |    22.390 | 18.402 | Blindfold Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.9 |    7.695 |     5.885 |    5.782 |     5.399 | 20.270 | 20.472 |    22.228 | 22.237 | Desert Pyromancer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |    6.543 |     6.637 |    6.543 |     5.774 | 20.262 | 17.491 |    19.390 | 20.509 | Ragged Mask, Master's Attire, Court Sorcerer Gloves, Loincloth
+       4.8 |    6.737 |     6.261 |    6.261 |     5.492 | 20.199 | 16.735 |    18.993 | 20.199 | Cleric Hat, Master's Attire, Master's Gloves, Loincloth
+       4.9 |    6.637 |     6.543 |    6.543 |     5.584 | 20.097 | 17.321 |    19.222 | 20.015 | Ragged Mask, Master's Attire, Desert Pyromancer Gloves, Loincloth
+       4.8 |    5.691 |     5.786 |    5.691 |     4.724 | 19.947 | 17.341 |    18.738 | 20.115 | Black Witch Veil, Master's Attire, Master's Gloves, Loincloth
+best   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    22.018 | 23.103 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth
+       5.1 |    7.503 |     6.735 |    6.255 |     5.873 | 21.815 | 20.862 |    22.775 | 22.543 | Ragged Mask, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.1 |    7.503 |     6.829 |    6.255 |     6.063 | 21.490 | 20.617 |    23.174 | 22.783 | Ragged Mask, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
+       5.1 |    7.695 |     6.454 |    5.972 |     5.782 | 21.428 | 19.889 |    22.796 | 22.482 | Cleric Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.0 |    7.223 |     6.264 |    5.686 |     5.398 | 21.328 | 20.207 |    22.536 | 22.303 | Ragged Mask, Desert Pyromancer Garb, Violet Wrappings, Loincloth
+       5.1 |    6.660 |     5.980 |    5.400 |     5.016 | 21.180 | 20.472 |    22.553 | 22.400 | Black Witch Veil, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.1 |    6.849 |     6.264 |    5.591 |     5.111 | 21.097 | 20.305 |    22.390 | 22.155 | Maiden Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.1 |    6.259 |     6.354 |    6.259 |     5.488 | 21.087 | 18.681 |    19.475 | 20.345 | Shira's Crown, Master's Attire, Pale Shade Gloves, Loincloth
+       5.1 |    6.849 |     6.075 |    5.591 |     5.111 | 20.932 | 20.055 |    22.228 | 22.074 | Sorcerer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       5.1 |    7.695 |     6.549 |    6.449 |     6.069 | 20.849 | 18.306 |    20.685 | 19.952 | Painting Guardian Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+best   5.4 |    7.145 |     7.239 |    7.145 |     6.373 | 23.582 | 21.919 |    22.503 | 23.183 | Shira's Crown, Clandestine Coat, Master's Gloves, Loincloth
+       5.4 |    7.145 |     7.145 |    7.145 |     6.184 | 23.263 | 22.000 |    22.261 | 23.422 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Loincloth
+       5.2 |    6.943 |     6.363 |    5.976 |     5.303 | 22.392 | 19.389 |    21.211 | 22.036 | Ragged Mask, Antiquated Plain Garb, Master's Gloves, Loincloth
+       5.4 |    7.223 |     6.546 |    5.970 |     5.778 | 22.302 | 21.761 |    23.255 | 22.623 | Shira's Crown, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.3 |    7.417 |     6.361 |    5.686 |     5.399 | 22.041 | 20.915 |    23.233 | 22.836 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth (TRC)
+       5.2 |    6.459 |     6.846 |    6.459 |     6.079 | 22.036 | 21.928 |    20.852 | 22.836 | Ragged Mask, Antiquated Dress, Master's Gloves, Loincloth
+       5.4 |    7.223 |     6.641 |    5.970 |     5.968 | 21.980 | 21.519 |    23.651 | 22.863 | Shira's Crown, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
+       5.4 |    7.223 |     6.452 |    5.970 |     5.587 | 21.977 | 21.843 |    23.015 | 22.865 | Old Sage's Blindfold, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.3 |    6.941 |     6.074 |    5.400 |     5.302 | 21.819 | 21.114 |    23.018 | 22.383 | Shira's Crown, Desert Pyromancer Garb, Violet Wrappings, Loincloth
+       5.4 |    7.410 |     6.641 |    6.349 |     5.778 | 21.815 | 20.944 |    22.935 | 22.703 | Ragged Mask, Desert Pyromancer Garb, Cornyx's Wrap, Loincloth
+best   5.6 |    7.800 |     7.613 |    7.613 |     6.846 | 23.982 | 21.919 |    22.827 | 23.982 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Loincloth
+       5.5 |    7.051 |     7.051 |    7.051 |     6.089 | 23.422 | 22.327 |    22.099 | 23.263 | Pyromancer Crown , Clandestine Coat, Master's Gloves, Loincloth
+       5.6 |    6.749 |     7.329 |    6.749 |     5.982 | 23.281 | 20.931 |    21.929 | 23.281 | Ragged Mask, Maiden Robe, Master's Gloves, Loincloth
+       5.5 |    6.846 |     6.459 |    6.846 |     6.079 | 23.103 | 21.203 |    22.018 | 24.081 | Ragged Mask, Robe Of Prayer, Master's Gloves, Loincloth
+       5.5 |    7.332 |     7.239 |    7.145 |     6.278 | 22.943 | 20.695 |    22.746 | 20.065 | Blindfold Mask, Clandestine Coat, Master's Gloves, Loincloth
+       5.6 |    8.175 |     7.145 |    7.519 |     6.562 | 22.943 | 22.082 |    22.584 | 23.822 | Desert Pyromancer Hood, Clandestine Coat, Master's Gloves, Loincloth
+       5.5 |    6.660 |     6.173 |    5.691 |     5.207 | 22.876 | 20.305 |    21.701 | 22.117 | Shira's Crown, Antiquated Plain Garb, Master's Gloves, Loincloth
+       5.6 |    6.566 |     5.984 |    5.596 |     4.920 | 22.714 | 20.721 |    21.292 | 22.198 | Pyromancer Crown , Antiquated Plain Garb, Master's Gloves, Loincloth
+       5.6 |    7.877 |     6.923 |    6.444 |     6.254 | 22.709 | 21.761 |    23.576 | 23.428 | Old Sorcerer Hat, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
+       5.5 |    6.660 |     6.079 |    5.691 |     5.016 | 22.553 | 20.388 |    21.456 | 22.360 | Old Sage's Blindfold, Antiquated Plain Garb, Master's Gloves, Loincloth
+best   5.8 |    7.983 |     7.983 |    7.983 |     7.030 | 24.435 | 22.465 |    23.129 | 24.122 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Loincloth
+       5.8 |    7.983 |     8.076 |    7.983 |     7.218 | 24.122 | 22.224 |    23.526 | 24.357 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+       5.8 |    8.175 |     7.707 |    7.707 |     6.940 | 24.062 | 21.511 |    23.150 | 24.062 | Cleric Hat, Clandestine Coat, Master's Gloves, Loincloth
+       5.7 |    7.705 |     7.519 |    7.426 |     6.561 | 23.965 | 21.823 |    22.891 | 23.887 | Ragged Mask, Clandestine Coat, Violet Wrappings, Loincloth
+       5.8 |    7.145 |     7.239 |    7.145 |     6.184 | 23.822 | 22.082 |    22.907 | 23.982 | Black Witch Veil, Clandestine Coat, Master's Gloves, Loincloth
+       5.8 |    7.332 |     7.519 |    7.332 |     6.278 | 23.742 | 21.919 |    22.746 | 23.742 | Maiden Hood, Clandestine Coat, Master's Gloves, Loincloth
+       5.7 |    7.136 |     7.136 |    7.136 |     5.788 | 23.636 | 21.384 |    22.647 | 23.369 | Ragged Mask, Karla's Coat, Master's Gloves, Loincloth
+       5.8 |    6.563 |     6.270 |    6.563 |     5.984 | 23.582 | 22.098 |    22.503 | 24.160 | Shira's Crown, Robe Of Prayer, Master's Gloves, Loincloth
+       5.8 |    7.332 |     7.332 |    7.332 |     6.278 | 23.582 | 21.674 |    22.584 | 23.662 | Sorcerer Hood, Clandestine Coat, Master's Gloves, Loincloth
+       5.8 |    8.175 |     7.800 |    8.175 |     7.224 | 23.502 | 19.961 |    21.049 | 21.584 | Painting Guardian Hood, Clandestine Coat, Master's Gloves, Loincloth
+best   6.0 |    7.898 |     7.614 |    7.426 |     6.562 | 24.654 | 22.516 |    23.585 | 24.409 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.0 |    7.425 |     7.332 |    7.145 |     6.467 | 24.439 | 22.711 |    23.371 | 23.966 | Shira's Crown, Clandestine Coat, Violet Wrappings, Loincloth
+       6.0 |    7.798 |     7.890 |    7.890 |     7.030 | 24.357 | 22.465 |    23.367 | 24.279 | Ragged Mask, Clandestine Coat, Karla's Gloves, Loincloth
+       6.0 |    7.519 |     8.169 |    8.169 |     6.843 | 24.279 | 22.465 |    23.288 | 24.357 | Ragged Mask, Clandestine Coat, Black Witch Wrappings, Loincloth
+       5.9 |    7.890 |     7.983 |    7.890 |     7.030 | 24.200 | 22.785 |    23.208 | 24.435 | Ragged Mask, Clandestine Coat, Antiquated Gloves, Loincloth
+       6.0 |    7.425 |     7.238 |    7.145 |     6.278 | 24.123 | 22.792 |    23.131 | 24.203 | Old Sage's Blindfold, Clandestine Coat, Violet Wrappings, Loincloth
+       6.0 |    6.854 |     6.948 |    6.854 |     5.693 | 24.112 | 22.277 |    23.128 | 23.449 | Shira's Crown, Karla's Coat, Master's Gloves, Loincloth
+       6.0 |    7.143 |     7.426 |    7.143 |     6.277 | 24.001 | 22.516 |    23.090 | 24.572 | Ragged Mask, Clandestine Coat, Master's Gloves, Skirt Of Prayer
+       6.0 |    7.237 |     7.237 |    7.237 |     6.372 | 24.001 | 22.848 |    23.008 | 24.082 | Ragged Mask, Clandestine Coat, Master's Gloves, Cornyx's Skirt
+       6.0 |    7.223 |     6.649 |    7.034 |     6.459 | 23.982 | 22.098 |    22.827 | 24.949 | Old Sorcerer Hat, Robe Of Prayer, Master's Gloves, Loincloth
+best   6.1 |    7.704 |     7.797 |    7.704 |     6.936 | 24.907 | 23.346 |    23.607 | 24.201 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.1 |    7.704 |     7.890 |    7.704 |     7.124 | 24.595 | 23.108 |    24.001 | 24.436 | Shira's Crown, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+       6.1 |    7.704 |     7.704 |    7.704 |     6.748 | 24.592 | 23.426 |    23.368 | 24.437 | Old Sage's Blindfold, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.1 |    7.890 |     7.890 |    8.076 |     6.936 | 24.435 | 22.545 |    23.288 | 24.279 | Ragged Mask, Clandestine Coat, Cornyx's Wrap, Loincloth
+       6.1 |    8.262 |     8.262 |    8.262 |     7.218 | 24.357 | 22.465 |    23.367 | 24.357 | Ragged Mask, Clandestine Coat, Sorcerer Gloves, Loincloth
+       6.1 |    7.890 |     8.076 |    7.890 |     6.936 | 24.357 | 22.465 |    23.367 | 24.357 | Ragged Mask, Clandestine Coat, Maiden Gloves, Loincloth
+       6.1 |    7.331 |     7.145 |    7.051 |     6.183 | 24.281 | 23.115 |    22.971 | 24.045 | Pyromancer Crown , Clandestine Coat, Violet Wrappings, Loincloth
+       6.1 |    7.704 |     7.798 |    7.704 |     6.936 | 24.279 | 23.188 |    23.763 | 24.671 | Old Sage's Blindfold, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+       6.1 |    7.426 |     8.086 |    7.426 |     6.752 | 24.164 | 23.264 |    23.173 | 25.144 | Ragged Mask, Clandestine Coat, Master's Gloves, Fire Keeper Skirt
+       6.1 |    7.126 |     7.517 |    6.938 |     6.362 | 24.158 | 21.829 |    22.738 | 24.158 | Old Sorcerer Hat, Maiden Robe, Master's Gloves, Loincloth
+best   6.3 |    8.356 |     8.170 |    8.170 |     7.406 | 25.299 | 23.346 |    23.926 | 24.989 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.3 |    7.618 |     7.428 |    7.145 |     6.468 | 25.124 | 23.397 |    24.060 | 24.487 | Shira's Crown, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.3 |    8.356 |     8.262 |    8.170 |     7.593 | 24.989 | 23.108 |    24.318 | 25.222 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+       6.2 |    8.078 |     7.706 |    7.613 |     6.939 | 24.834 | 22.711 |    23.690 | 24.757 | Old Sorcerer Hat, Clandestine Coat, Violet Wrappings, Loincloth
+       6.3 |    7.518 |     7.704 |    7.611 |     6.936 | 24.829 | 23.346 |    23.844 | 24.357 | Shira's Crown, Clandestine Coat, Karla's Gloves, Loincloth
+       6.3 |    7.618 |     7.334 |    7.145 |     6.279 | 24.810 | 23.477 |    23.822 | 24.723 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.3 |    7.238 |     7.984 |    7.891 |     6.748 | 24.751 | 23.346 |    23.765 | 24.436 | Shira's Crown, Clandestine Coat, Black Witch Wrappings, Loincloth
+       6.2 |    7.611 |     7.611 |    7.611 |     6.654 | 24.749 | 23.746 |    23.209 | 24.279 | Pyromancer Crown , Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.2 |    7.611 |     7.797 |    7.611 |     6.936 | 24.673 | 23.663 |    23.686 | 24.514 | Shira's Crown, Clandestine Coat, Antiquated Gloves, Loincloth
+       6.3 |    7.311 |     7.887 |    7.311 |     6.548 | 24.610 | 22.375 |    23.041 | 24.297 | Ragged Mask, Maiden Robe, Pale Shade Gloves, Loincloth
+best   6.5 |    8.270 |     7.801 |    7.613 |     6.940 | 25.515 | 23.397 |    24.377 | 25.273 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.5 |    8.728 |     8.263 |    8.263 |     7.500 | 25.378 | 22.945 |    24.244 | 25.068 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.5 |    8.170 |     8.077 |    8.077 |     7.406 | 25.222 | 23.346 |    24.161 | 25.144 | Old Sorcerer Hat, Clandestine Coat, Karla's Gloves, Loincloth
+       6.5 |    7.893 |     8.355 |    8.355 |     7.219 | 25.144 | 23.346 |    24.083 | 25.222 | Old Sorcerer Hat, Clandestine Coat, Black Witch Wrappings, Loincloth
+       6.5 |    7.704 |     7.797 |    7.704 |     6.748 | 25.142 | 23.506 |    24.005 | 24.989 | Black Witch Veil, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.5 |    8.728 |     8.355 |    8.263 |     7.687 | 25.068 | 22.706 |    24.635 | 25.300 | Cleric Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+       6.4 |    8.263 |     8.170 |    8.077 |     7.406 | 25.067 | 23.663 |    24.004 | 25.299 | Old Sorcerer Hat, Clandestine Coat, Antiquated Gloves, Loincloth
+       6.5 |    7.890 |     8.076 |    7.890 |     6.842 | 25.064 | 23.346 |    23.846 | 24.753 | Maiden Hood, Clandestine Coat, Pale Shade Gloves, Loincloth
+       6.4 |    7.525 |     7.241 |    7.051 |     6.184 | 24.967 | 23.797 |    23.664 | 24.566 | Pyromancer Crown , Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.4 |    7.695 |     7.695 |    7.695 |     6.355 | 24.959 | 22.821 |    23.748 | 24.385 | Ragged Mask, Karla's Coat, Pale Shade Gloves, Loincloth
+best   6.7 |    8.452 |     8.171 |    7.983 |     7.125 | 25.959 | 23.932 |    24.673 | 25.411 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       6.7 |    8.452 |     8.264 |    7.983 |     7.312 | 25.652 | 23.696 |    25.062 | 25.642 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+       6.7 |    8.643 |     7.895 |    7.707 |     7.035 | 25.594 | 22.996 |    24.693 | 25.352 | Cleric Hat, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.6 |    8.175 |     7.707 |    7.426 |     6.656 | 25.499 | 23.303 |    24.440 | 25.179 | Ragged Mask, Clandestine Coat, Violet Wrappings, Loincloth (TRC)
+       6.7 |    7.415 |     7.509 |    7.415 |     6.260 | 25.427 | 23.698 |    24.222 | 24.463 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Loincloth
+       6.7 |    7.618 |     7.428 |    7.145 |     6.279 | 25.359 | 23.557 |    24.456 | 25.273 | Black Witch Veil, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+       6.7 |    7.702 |     7.983 |    7.702 |     6.841 | 25.318 | 23.932 |    24.185 | 25.572 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Skirt Of Prayer
+       6.7 |    7.796 |     7.796 |    7.796 |     6.936 | 25.318 | 24.258 |    24.104 | 25.088 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Cornyx's Skirt
+       6.7 |    8.543 |     8.170 |    8.170 |     7.500 | 25.300 | 22.945 |    24.479 | 25.223 | Cleric Hat, Clandestine Coat, Karla's Gloves, Loincloth
+       6.6 |    8.263 |     8.077 |    8.262 |     7.313 | 25.299 | 23.425 |    24.083 | 25.144 | Old Sorcerer Hat, Clandestine Coat, Cornyx's Wrap, Loincloth
+best   6.9 |    7.896 |     7.521 |    7.145 |     6.562 | 25.963 | 24.174 |    24.910 | 25.257 | Shira's Crown, Clandestine Coat, Violet Wrappings, Loincloth (TRC)
+       6.9 |    8.267 |     8.078 |    7.890 |     7.125 | 25.883 | 23.932 |    24.906 | 25.565 | Ragged Mask, Clandestine Coat, Karla's Gloves, Loincloth (TRC)
+       6.9 |    8.069 |     7.882 |    7.882 |     6.734 | 25.817 | 23.698 |    24.538 | 25.250 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Loincloth
+       6.9 |    7.990 |     8.357 |    8.169 |     6.937 | 25.806 | 23.932 |    24.828 | 25.642 | Ragged Mask, Clandestine Coat, Black Witch Wrappings, Loincloth (TRC)
+       6.8 |    8.360 |     8.171 |    7.890 |     7.125 | 25.729 | 24.247 |    24.751 | 25.719 | Ragged Mask, Clandestine Coat, Antiquated Gloves, Loincloth (TRC)
+       6.9 |    8.265 |     8.546 |    8.265 |     7.881 | 25.719 | 24.014 |    25.242 | 25.813 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Court Sorcerer Trousers
+       6.9 |    7.896 |     7.427 |    7.145 |     6.373 | 25.653 | 24.254 |    24.675 | 25.490 | Old Sage's Blindfold, Clandestine Coat, Violet Wrappings, Loincloth (TRC)
+       6.9 |    7.329 |     7.138 |    6.854 |     5.789 | 25.643 | 23.748 |    24.672 | 24.749 | Shira's Crown, Karla's Coat, Master's Gloves, Loincloth (TRC)
+       6.9 |    7.808 |     7.900 |    7.808 |     6.658 | 25.610 | 24.218 |    24.715 | 25.058 | Shira's Crown, Clandestine Coat, Master's Gloves, Karla's Trousers
+       6.9 |    7.877 |     8.170 |    8.170 |     6.542 | 25.558 | 23.874 |    24.276 | 25.510 | Old Sorcerer Hat, Black Witch Garb, Pale Shade Gloves, Loincloth
+best   7.0 |    8.175 |     7.985 |    7.704 |     7.031 | 26.421 | 24.796 |    25.141 | 25.488 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.0 |    8.175 |     8.078 |    7.704 |     7.218 | 26.116 | 24.563 |    25.528 | 25.719 | Shira's Crown, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+       7.0 |    8.175 |     7.892 |    7.704 |     6.843 | 26.113 | 24.875 |    24.907 | 25.721 | Old Sage's Blindfold, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.0 |    8.360 |     8.078 |    8.076 |     7.031 | 25.959 | 24.011 |    24.828 | 25.565 | Ragged Mask, Clandestine Coat, Cornyx's Wrap, Loincloth (TRC)
+       7.0 |    8.730 |     8.449 |    8.262 |     7.312 | 25.883 | 23.932 |    24.906 | 25.642 | Ragged Mask, Clandestine Coat, Sorcerer Gloves, Loincloth (TRC)
+       7.0 |    8.360 |     8.264 |    7.890 |     7.031 | 25.883 | 23.932 |    24.906 | 25.642 | Ragged Mask, Clandestine Coat, Maiden Gloves, Loincloth (TRC)
+       7.0 |    7.804 |     7.334 |    7.051 |     6.279 | 25.808 | 24.570 |    24.518 | 25.335 | Pyromancer Crown , Clandestine Coat, Violet Wrappings, Loincloth (TRC)
+       7.0 |    8.175 |     7.986 |    7.704 |     7.031 | 25.807 | 24.642 |    25.295 | 25.951 | Old Sage's Blindfold, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+       7.0 |    7.796 |     8.077 |    7.796 |     6.936 | 25.799 | 24.177 |    24.510 | 25.491 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Maiden Skirt
+       7.0 |    7.422 |     7.797 |    7.422 |     6.747 | 25.783 | 24.796 |    24.657 | 25.649 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Skirt Of Prayer
+best   7.2 |    8.823 |     8.357 |    8.170 |     7.500 | 26.806 | 24.796 |    25.454 | 26.263 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.2 |    8.823 |     8.449 |    8.170 |     7.687 | 26.502 | 24.563 |    25.838 | 26.492 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+       7.1 |    8.546 |     7.894 |    7.613 |     7.034 | 26.350 | 24.174 |    25.223 | 26.035 | Old Sorcerer Hat, Clandestine Coat, Violet Wrappings, Loincloth (TRC)
+       7.2 |    7.989 |     7.892 |    7.611 |     7.031 | 26.345 | 24.796 |    25.373 | 25.642 | Shira's Crown, Clandestine Coat, Karla's Gloves, Loincloth (TRC)
+       7.2 |    7.711 |     8.171 |    7.891 |     6.843 | 26.269 | 24.796 |    25.296 | 25.719 | Shira's Crown, Clandestine Coat, Black Witch Wrappings, Loincloth (TRC)
+       7.1 |    8.082 |     7.800 |    7.611 |     6.749 | 26.267 | 25.189 |    24.751 | 25.566 | Pyromancer Crown , Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.1 |    8.082 |     7.985 |    7.611 |     7.031 | 26.192 | 25.108 |    25.219 | 25.796 | Shira's Crown, Clandestine Coat, Antiquated Gloves, Loincloth (TRC)
+       7.2 |    7.987 |     8.361 |    7.987 |     7.787 | 26.182 | 24.877 |    25.707 | 25.890 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Court Sorcerer Trousers
+       7.2 |    8.075 |     8.170 |    7.889 |     7.218 | 26.172 | 24.796 |    24.971 | 26.423 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Skirt Of Prayer
+       7.2 |    8.169 |     7.982 |    7.982 |     7.312 | 26.172 | 25.119 |    24.891 | 25.945 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Cornyx's Skirt
+best   7.4 |    9.193 |     8.450 |    8.263 |     7.594 | 26.883 | 24.404 |    25.766 | 26.341 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.4 |    8.639 |     8.264 |    8.077 |     7.500 | 26.730 | 24.796 |    25.684 | 26.416 | Old Sorcerer Hat, Clandestine Coat, Karla's Gloves, Loincloth (TRC)
+       7.4 |    8.362 |     8.542 |    8.355 |     7.314 | 26.654 | 24.796 |    25.607 | 26.492 | Old Sorcerer Hat, Clandestine Coat, Black Witch Wrappings, Loincloth (TRC)
+       7.4 |    8.175 |     7.985 |    7.704 |     6.843 | 26.652 | 24.954 |    25.532 | 26.263 | Black Witch Veil, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.4 |    9.193 |     8.542 |    8.263 |     7.781 | 26.580 | 24.169 |    26.149 | 26.569 | Cleric Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth (TRC)
+       7.3 |    8.731 |     8.357 |    8.077 |     7.500 | 26.578 | 25.108 |    25.531 | 26.568 | Old Sorcerer Hat, Clandestine Coat, Antiquated Gloves, Loincloth (TRC)
+       7.4 |    8.360 |     8.264 |    7.890 |     6.937 | 26.575 | 24.796 |    25.376 | 26.031 | Maiden Hood, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.4 |    8.636 |     8.731 |    8.450 |     8.253 | 26.568 | 24.877 |    26.017 | 26.662 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Court Sorcerer Trousers
+       7.3 |    8.166 |     7.883 |    7.695 |     6.450 | 26.473 | 24.281 |    25.280 | 25.669 | Ragged Mask, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.3 |    8.640 |     8.640 |    8.640 |     7.314 | 26.441 | 24.747 |    25.323 | 25.974 | Ragged Mask, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+best   7.6 |    7.887 |     7.697 |    7.415 |     6.356 | 26.932 | 25.142 |    25.744 | 25.746 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.6 |    8.363 |     8.455 |    8.363 |     7.220 | 26.899 | 25.603 |    25.787 | 26.051 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+       7.6 |    9.010 |     8.357 |    8.170 |     7.594 | 26.807 | 24.404 |    25.996 | 26.493 | Cleric Hat, Clandestine Coat, Karla's Gloves, Loincloth (TRC)
+       7.5 |    8.731 |     8.264 |    8.262 |     7.407 | 26.806 | 24.874 |    25.607 | 26.416 | Old Sorcerer Hat, Clandestine Coat, Cornyx's Wrap, Loincloth (TRC)
+       7.6 |    8.252 |     7.400 |    7.594 |     7.116 | 26.806 | 24.969 |    25.454 | 27.201 | Old Sorcerer Hat, Robe Of Prayer, Pale Shade Gloves, Loincloth (TRC)
+       7.6 |    8.645 |     8.267 |    8.175 |     7.409 | 26.740 | 25.764 |    25.626 | 26.212 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Black Witch Trousers
+       7.6 |    8.734 |     8.635 |    8.448 |     7.408 | 26.731 | 24.404 |    25.919 | 26.569 | Cleric Hat, Clandestine Coat, Black Witch Wrappings, Loincloth (TRC)
+       7.5 |    8.731 |     8.449 |    8.077 |     7.407 | 26.730 | 24.796 |    25.684 | 26.492 | Old Sorcerer Hat, Clandestine Coat, Maiden Gloves, Loincloth (TRC)
+       7.5 |    9.099 |     8.634 |    8.448 |     7.687 | 26.730 | 24.796 |    25.684 | 26.492 | Old Sorcerer Hat, Clandestine Coat, Sorcerer Gloves, Loincloth (TRC)
+       7.6 |    7.695 |     7.985 |    7.704 |     6.163 | 26.676 | 25.315 |    25.486 | 26.005 | Shira's Crown, Black Witch Garb, Pale Shade Gloves, Loincloth (TRC)
+best   7.7 |    8.156 |     8.261 |    7.499 |     7.021 | 26.975 | 24.710 |    25.368 | 26.434 | Old Sorcerer Hat, Maiden Robe, Pale Shade Gloves, Loincloth (TRC)
+       7.7 |    9.101 |     8.357 |    8.355 |     7.501 | 26.883 | 24.482 |    25.919 | 26.493 | Cleric Hat, Clandestine Coat, Cornyx's Wrap, Loincloth (TRC)
+       7.7 |    8.915 |     8.450 |    8.263 |     7.219 | 26.883 | 25.111 |    25.766 | 26.263 | Karla's Pointed Hat, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.7 |    8.260 |     7.605 |    7.324 |     6.359 | 26.861 | 24.523 |    25.825 | 26.291 | Old Sorcerer Hat, Karla's Coat, Violet Wrappings, Loincloth (TRC)
+       7.7 |    8.734 |     8.364 |    8.272 |     7.223 | 26.829 | 24.987 |    25.868 | 26.594 | Old Sorcerer Hat, Clandestine Coat, Violet Wrappings, Karla's Trousers
+       7.7 |    9.468 |     8.727 |    8.541 |     7.781 | 26.807 | 24.404 |    25.996 | 26.569 | Cleric Hat, Clandestine Coat, Sorcerer Gloves, Loincloth (TRC)
+       7.7 |    9.101 |     8.542 |    8.170 |     7.501 | 26.807 | 24.404 |    25.996 | 26.569 | Cleric Hat, Clandestine Coat, Maiden Gloves, Loincloth (TRC)
+       7.7 |    7.794 |     7.511 |    7.322 |     6.072 | 26.779 | 25.533 |    25.357 | 25.824 | Pyromancer Crown , Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.7 |    8.271 |     8.271 |    8.271 |     6.939 | 26.747 | 25.991 |    25.400 | 26.128 | Pyromancer Crown , Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+       7.7 |    9.191 |     8.727 |    8.355 |     7.780 | 26.730 | 25.030 |    25.761 | 26.568 | Old Sorcerer Hat, Clandestine Coat, Pyromancer Wrap, Loincloth (TRC)
+best   7.8 |    8.537 |     8.070 |    7.882 |     6.829 | 27.314 | 25.142 |    26.054 | 26.519 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.8 |    9.010 |     8.825 |    8.825 |     7.688 | 27.282 | 25.603 |    26.097 | 26.821 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+       7.8 |    9.290 |     8.638 |    8.638 |     7.877 | 27.123 | 25.764 |    25.936 | 26.980 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Black Witch Trousers
+       7.8 |    8.347 |     8.357 |    8.170 |     6.637 | 27.060 | 25.315 |    25.797 | 26.775 | Old Sorcerer Hat, Black Witch Garb, Pale Shade Gloves, Loincloth (TRC)
+       7.8 |    9.008 |     8.264 |    8.076 |     7.312 | 27.037 | 25.111 |    25.688 | 26.574 | Sunless Veil, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+       7.8 |    8.537 |     8.163 |    7.882 |     7.017 | 27.012 | 24.910 |    26.436 | 26.747 | Old Sorcerer Hat, Karla's Coat, Court Sorcerer Gloves, Loincloth (TRC)
+       7.8 |    9.010 |     8.917 |    8.825 |     7.875 | 26.980 | 25.372 |    26.478 | 27.048 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Karla's Trousers
+       7.8 |    8.927 |     8.079 |   10.150 |     6.936 | 26.899 | 24.635 |    25.061 | 25.327 | Shira's Crown, Clandestine Coat, Pale Shade Gloves, Ordained Trousers
+       7.8 |    8.624 |     7.494 |    7.688 |     7.211 | 26.883 | 24.577 |    25.766 | 27.278 | Cleric Hat, Robe Of Prayer, Pale Shade Gloves, Loincloth (TRC)
+       7.8 |    8.915 |     9.657 |    8.728 |     7.876 | 26.883 | 25.032 |    25.844 | 26.651 | Archdeacon White Crown, Clandestine Coat, Pale Shade Gloves, Loincloth (TRC)
+best   8.0 |    8.909 |     8.163 |    7.975 |     6.923 | 27.390 | 24.751 |    26.364 | 26.596 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       8.0 |    9.379 |     8.917 |    8.917 |     7.782 | 27.358 | 25.214 |    26.406 | 26.898 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+       8.0 |    9.570 |     8.450 |   10.603 |     7.406 | 27.282 | 24.635 |    25.373 | 26.104 | Old Sorcerer Hat, Clandestine Coat, Pale Shade Gloves, Ordained Trousers
+       8.0 |    8.352 |     7.977 |    7.789 |     6.829 | 27.238 | 25.142 |    26.283 | 26.671 | Old Sorcerer Hat, Karla's Coat, Karla's Gloves, Loincloth (TRC)
+       8.0 |    8.826 |     8.733 |    8.733 |     7.688 | 27.206 | 25.603 |    26.326 | 26.972 | Old Sorcerer Hat, Clandestine Coat, Karla's Gloves, Karla's Trousers
+       8.0 |    9.658 |     8.730 |    8.730 |     7.970 | 27.200 | 25.376 |    26.246 | 27.057 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Black Witch Trousers
+       8.0 |    8.075 |     8.255 |    8.068 |     6.641 | 27.163 | 25.142 |    26.207 | 26.747 | Old Sorcerer Hat, Karla's Coat, Black Witch Wrappings, Loincloth (TRC)
+       8.0 |    7.887 |     7.697 |    7.415 |     6.166 | 27.161 | 25.298 |    26.132 | 26.519 | Black Witch Veil, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       8.0 |    8.719 |     8.450 |    8.263 |     6.731 | 27.137 | 24.924 |    26.108 | 26.852 | Cleric Hat, Black Witch Garb, Pale Shade Gloves, Loincloth (TRC)
+       8.0 |    8.550 |     9.009 |    9.009 |     7.502 | 27.131 | 25.603 |    26.249 | 27.048 | Old Sorcerer Hat, Clandestine Coat, Black Witch Wrappings, Karla's Trousers
+best   8.2 |    8.076 |     8.169 |    8.076 |     6.546 | 27.407 | 25.944 |    26.385 | 26.308 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       8.2 |    9.937 |     8.543 |   10.694 |     7.500 | 27.358 | 24.242 |    25.686 | 26.182 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Ordained Trousers
+       8.2 |    8.725 |     8.070 |    7.882 |     6.923 | 27.315 | 24.751 |    26.592 | 26.748 | Cleric Hat, Karla's Coat, Karla's Gloves, Loincloth (TRC)
+       8.1 |    8.445 |     7.977 |    7.975 |     6.735 | 27.314 | 25.219 |    26.207 | 26.671 | Old Sorcerer Hat, Karla's Coat, Cornyx's Wrap, Loincloth (TRC)
+       8.2 |    9.196 |     8.825 |    8.825 |     7.782 | 27.283 | 25.214 |    26.634 | 27.049 | Cleric Hat, Clandestine Coat, Karla's Gloves, Karla's Trousers
+       8.1 |    8.918 |     8.733 |    8.917 |     7.595 | 27.282 | 25.679 |    26.249 | 26.972 | Old Sorcerer Hat, Clandestine Coat, Cornyx's Wrap, Karla's Trousers
+       8.2 |    8.440 |     7.873 |    8.254 |     7.305 | 27.282 | 25.773 |    26.097 | 27.751 | Old Sorcerer Hat, Robe Of Prayer, Pale Shade Gloves, Karla's Trousers
+       8.2 |    8.359 |     7.980 |    7.887 |     6.737 | 27.248 | 26.105 |    26.225 | 26.468 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+       8.2 |    8.449 |     8.348 |    8.161 |     6.735 | 27.240 | 24.751 |    26.516 | 26.824 | Cleric Hat, Karla's Coat, Black Witch Wrappings, Loincloth (TRC)
+       8.1 |    8.445 |     8.163 |    7.789 |     6.735 | 27.238 | 25.142 |    26.283 | 26.747 | Old Sorcerer Hat, Karla's Coat, Maiden Gloves, Loincloth (TRC)
+best   8.3 |    8.345 |     8.730 |    8.159 |     7.210 | 27.450 | 25.517 |    26.012 | 26.990 | Old Sorcerer Hat, Maiden Robe, Pale Shade Gloves, Karla's Trousers
+       8.3 |    8.817 |     8.070 |    8.068 |     6.829 | 27.390 | 24.829 |    26.516 | 26.748 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Loincloth (TRC)
+       8.3 |    8.630 |     8.163 |    7.975 |     6.545 | 27.390 | 25.455 |    26.364 | 26.519 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       8.3 |    9.287 |     8.825 |    9.009 |     7.689 | 27.358 | 25.291 |    26.558 | 27.049 | Cleric Hat, Clandestine Coat, Cornyx's Wrap, Karla's Trousers
+       8.3 |    9.102 |     8.917 |    8.917 |     7.407 | 27.358 | 25.913 |    26.406 | 26.821 | Karla's Pointed Hat, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+       8.3 |    8.448 |     8.077 |    7.985 |     6.549 | 27.337 | 25.332 |    26.465 | 26.849 | Old Sorcerer Hat, Karla's Coat, Violet Wrappings, Karla's Trousers
+       8.3 |    9.185 |     8.441 |    8.254 |     7.111 | 27.315 | 24.751 |    26.592 | 26.824 | Cleric Hat, Karla's Coat, Sorcerer Gloves, Loincloth (TRC)
+       8.3 |    8.817 |     8.256 |    7.882 |     6.829 | 27.315 | 24.751 |    26.592 | 26.824 | Cleric Hat, Karla's Coat, Maiden Gloves, Loincloth (TRC)
+       8.3 |    8.627 |     8.542 |    7.970 |     7.399 | 27.292 | 25.678 |    25.851 | 27.149 | Old Sorcerer Hat, Maiden Robe, Pale Shade Gloves, Black Witch Trousers
+       8.3 |    9.287 |     9.009 |    8.825 |     7.689 | 27.283 | 25.214 |    26.634 | 27.124 | Cleric Hat, Clandestine Coat, Maiden Gloves, Karla's Trousers
+best   8.4 |    8.725 |     8.539 |    8.539 |     7.018 | 27.786 | 25.944 |    26.692 | 27.075 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       8.4 |    9.006 |     8.351 |    8.351 |     7.208 | 27.629 | 26.105 |    26.533 | 27.233 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+       8.4 |    8.723 |     7.977 |    7.789 |     6.639 | 27.543 | 25.455 |    26.286 | 26.828 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       8.4 |    8.535 |     8.825 |    8.825 |     6.827 | 27.534 | 26.115 |    26.437 | 27.328 | Old Sorcerer Hat, Black Witch Garb, Pale Shade Gloves, Karla's Trousers
+       8.4 |    9.194 |     8.732 |    8.732 |     7.501 | 27.511 | 25.913 |    26.329 | 27.129 | Sunless Veil, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+       8.4 |    8.725 |     8.632 |    8.539 |     7.206 | 27.487 | 25.714 |    27.071 | 27.301 | Old Sorcerer Hat, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
+       8.4 |    8.642 |     7.791 |    9.869 |     6.260 | 27.407 | 24.981 |    25.664 | 25.586 | Shira's Crown, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       8.4 |    8.630 |     9.374 |    8.442 |     7.207 | 27.390 | 25.377 |    26.441 | 26.905 | Archdeacon White Crown, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
+       8.4 |    8.816 |     8.638 |    8.638 |     7.017 | 27.376 | 26.275 |    26.277 | 27.487 | Old Sorcerer Hat, Black Witch Garb, Pale Shade Gloves, Black Witch Trousers
+       8.4 |    9.102 |    10.118 |    9.379 |     8.063 | 27.358 | 25.836 |    26.484 | 27.206 | Archdeacon White Crown, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
+best   8.6 |    9.095 |     8.632 |    8.632 |     7.113 | 27.862 | 25.557 |    26.999 | 27.151 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       8.6 |    9.287 |     8.164 |   10.323 |     6.734 | 27.786 | 24.981 |    25.974 | 26.360 | Old Sorcerer Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       8.6 |    8.540 |     8.447 |    8.447 |     7.018 | 27.711 | 25.944 |    26.919 | 27.225 | Old Sorcerer Hat, Karla's Coat, Karla's Gloves, Karla's Trousers
+       8.6 |    9.375 |     8.444 |    8.444 |     7.302 | 27.705 | 25.719 |    26.840 | 27.310 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+       8.6 |   10.250 |     8.070 |   11.812 |     6.829 | 27.652 | 23.501 |    25.025 | 25.496 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Loincloth (TRC)
+       8.6 |    8.264 |     8.724 |    8.724 |     6.831 | 27.636 | 25.944 |    26.844 | 27.301 | Old Sorcerer Hat, Karla's Coat, Black Witch Wrappings, Karla's Trousers
+       8.6 |    8.076 |     8.169 |    8.076 |     6.357 | 27.634 | 26.099 |    26.769 | 27.075 | Black Witch Veil, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       8.6 |    8.906 |     8.917 |    8.917 |     6.921 | 27.610 | 25.729 |    26.745 | 27.405 | Cleric Hat, Black Witch Garb, Pale Shade Gloves, Karla's Trousers
+       8.6 |    9.095 |     8.724 |    8.632 |     7.300 | 27.563 | 25.326 |    27.376 | 27.377 | Cleric Hat, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
+       8.5 |    8.632 |     8.539 |    8.447 |     7.018 | 27.562 | 26.251 |    26.768 | 27.376 | Old Sorcerer Hat, Karla's Coat, Antiquated Gloves, Karla's Trousers
+best   9.0 |    8.910 |     8.447 |    8.447 |     6.829 | 28.014 | 26.254 |    26.923 | 27.381 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       8.8 |    9.655 |     8.257 |   10.414 |     6.829 | 27.862 | 24.589 |    26.284 | 26.438 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       8.9 |    8.817 |     8.632 |    8.632 |     6.735 | 27.862 | 26.254 |    26.999 | 27.075 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       8.9 |    9.003 |     8.540 |    8.724 |     7.019 | 27.862 | 25.634 |    27.150 | 27.302 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       9.0 |    8.817 |     9.837 |    9.095 |     7.396 | 27.862 | 26.176 |    27.076 | 27.458 | Archdeacon White Crown, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       9.0 |    9.190 |     8.259 |    8.259 |     7.019 | 27.857 | 26.414 |    26.764 | 27.539 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+       8.8 |    8.912 |     8.540 |    8.540 |     7.113 | 27.787 | 25.557 |    27.225 | 27.302 | Cleric Hat, Karla's Coat, Karla's Gloves, Karla's Trousers
+       8.9 |    9.371 |     8.909 |    8.909 |     7.300 | 27.787 | 25.557 |    27.225 | 27.377 | Cleric Hat, Karla's Coat, Sorcerer Gloves, Karla's Trousers
+       8.9 |    9.003 |     8.724 |    8.540 |     7.019 | 27.787 | 25.557 |    27.225 | 27.377 | Cleric Hat, Karla's Coat, Maiden Gloves, Karla's Trousers
+       9.0 |    9.473 |     8.164 |   10.324 |     6.829 | 27.787 | 24.589 |    26.513 | 26.590 | Cleric Hat, Karla's Coat, Karla's Gloves, Ordained Trousers
+best   9.2 |   10.434 |     8.539 |   12.441 |     7.018 | 28.123 | 24.321 |    25.672 | 26.059 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.1 |    9.651 |     9.188 |    9.188 |     7.113 | 28.014 | 25.402 |    26.769 | 26.845 | Sage's Big Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       9.1 |    9.188 |     8.632 |    9.929 |     6.546 | 28.014 | 25.712 |    26.769 | 26.768 | Ordained Hood, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       9.2 |    9.471 |     8.071 |   10.233 |     6.544 | 28.014 | 25.295 |    26.207 | 26.670 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       9.2 |   10.710 |     8.351 |   12.262 |     7.208 | 27.966 | 24.485 |    25.510 | 26.220 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+       9.2 |    8.726 |     8.354 |    8.354 |     6.829 | 27.939 | 26.254 |    27.149 | 27.531 | Sunless Veil, Karla's Coat, Karla's Gloves, Karla's Trousers
+       9.2 |   10.433 |     7.977 |   11.723 |     6.639 | 27.880 | 23.821 |    25.260 | 25.810 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Loincloth (TRC)
+       9.2 |    8.450 |     8.632 |    8.632 |     6.641 | 27.865 | 26.254 |    27.073 | 27.606 | Sunless Veil, Karla's Coat, Black Witch Wrappings, Karla's Trousers
+       9.1 |    9.379 |     8.257 |   10.414 |     6.450 | 27.862 | 25.295 |    26.284 | 26.360 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       9.1 |    9.564 |     8.164 |   10.505 |     6.734 | 27.862 | 24.667 |    26.437 | 26.590 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Ordained Trousers
+best   9.4 |   10.798 |     8.632 |   12.530 |     7.113 | 28.198 | 23.926 |    25.983 | 26.137 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.4 |   10.986 |     8.164 |   14.149 |     6.734 | 28.123 | 23.337 |    24.944 | 25.335 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+       9.4 |   10.253 |     8.447 |   12.353 |     7.018 | 28.048 | 24.321 |    25.902 | 26.212 | Old Sorcerer Hat, Ordained Dress, Karla's Gloves, Karla's Trousers
+       9.4 |   11.073 |     8.444 |   12.350 |     7.302 | 28.041 | 24.091 |    25.822 | 26.298 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+       9.3 |    8.818 |     8.354 |    8.539 |     6.735 | 28.014 | 26.330 |    27.073 | 27.531 | Sunless Veil, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       9.3 |    9.747 |     8.257 |   11.686 |     6.260 | 28.014 | 24.746 |    26.052 | 26.051 | Ordained Hood, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       9.3 |   10.208 |     8.815 |   10.959 |     6.829 | 28.014 | 24.433 |    26.052 | 26.128 | Sage's Big Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       9.4 |    9.096 |     8.540 |   10.020 |     6.452 | 28.014 | 25.789 |    26.920 | 26.919 | Ordained Hood, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       9.4 |    9.560 |     9.096 |    9.280 |     7.019 | 28.014 | 25.480 |    26.920 | 26.996 | Sage's Big Hat, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       9.4 |    9.982 |     8.724 |   12.618 |     6.831 | 27.973 | 24.321 |    25.825 | 26.289 | Old Sorcerer Hat, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+best   9.8 |   10.616 |     8.447 |   12.353 |     6.829 | 28.349 | 24.638 |    25.905 | 26.370 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.6 |   11.347 |     8.257 |   14.236 |     6.829 | 28.198 | 22.937 |    25.258 | 25.414 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+       9.7 |   10.708 |     8.540 |   12.618 |     7.019 | 28.198 | 24.005 |    26.136 | 26.290 | Cleric Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+       9.7 |   10.525 |     8.632 |   12.530 |     6.735 | 28.198 | 24.638 |    25.983 | 26.059 | Karla's Pointed Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.8 |   10.525 |     9.837 |   12.974 |     7.396 | 28.198 | 24.559 |    26.061 | 26.448 | Archdeacon White Crown, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.8 |   10.891 |     8.259 |   12.173 |     7.019 | 28.193 | 24.801 |    25.744 | 26.531 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+       9.6 |   10.618 |     8.540 |   12.442 |     7.113 | 28.124 | 23.926 |    26.212 | 26.290 | Cleric Hat, Ordained Dress, Karla's Gloves, Karla's Trousers
+       9.7 |   10.708 |     8.724 |   12.442 |     7.019 | 28.124 | 23.926 |    26.212 | 26.366 | Cleric Hat, Ordained Dress, Maiden Gloves, Karla's Trousers
+       9.7 |   11.068 |     8.909 |   12.795 |     7.300 | 28.124 | 23.926 |    26.212 | 26.366 | Cleric Hat, Ordained Dress, Sorcerer Gloves, Karla's Trousers
+       9.8 |   11.168 |     8.164 |   14.150 |     6.829 | 28.124 | 22.937 |    25.490 | 25.568 | Cleric Hat, Ordained Dress, Karla's Gloves, Ordained Trousers
+best  14.1 |   13.596 |    11.591 |   14.832 |    10.590 | 28.424 | 24.793 |    26.288 | 26.294 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+       9.9 |   10.889 |     8.632 |   13.772 |     6.546 | 28.349 | 24.084 |    25.750 | 25.748 | Ordained Hood, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.9 |   11.344 |     9.188 |   13.062 |     7.113 | 28.349 | 23.768 |    25.750 | 25.826 | Sage's Big Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+      10.0 |   11.167 |     8.071 |   14.062 |     6.544 | 28.349 | 23.658 |    25.180 | 25.649 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+      10.1 |   11.438 |     8.257 |   15.454 |     6.260 | 28.349 | 23.097 |    25.022 | 25.021 | Ordained Hood, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+      10.1 |   10.526 |     8.354 |   12.441 |     6.735 | 28.349 | 24.716 |    26.058 | 26.523 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+      10.1 |   11.890 |     8.815 |   14.758 |     6.829 | 28.349 | 22.777 |    25.022 | 25.100 | Sage's Big Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+      10.2 |   11.254 |     9.096 |   13.150 |     7.019 | 28.349 | 23.847 |    25.903 | 25.979 | Sage's Big Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+      10.2 |   10.799 |     8.540 |   13.859 |     6.452 | 28.349 | 24.163 |    25.903 | 25.902 | Ordained Hood, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+      10.3 |   11.077 |     7.978 |   14.149 |     6.450 | 28.349 | 23.737 |    25.334 | 25.803 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+best  15.7 |   15.254 |    12.709 |   17.320 |    12.021 | 28.576 | 25.191 |    26.217 | 25.360 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+      14.2 |   13.859 |    11.770 |   16.211 |    10.318 | 28.424 | 24.241 |    26.133 | 25.672 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      14.2 |   14.299 |    12.307 |   15.521 |    10.862 | 28.424 | 23.925 |    26.133 | 25.750 | Sage's Big Hat, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      14.3 |   14.128 |    11.228 |   16.493 |    10.317 | 28.424 | 23.816 |    25.566 | 25.573 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.4 |   14.827 |    11.947 |   17.169 |    10.589 | 28.424 | 22.936 |    25.409 | 25.022 | Sage's Big Hat, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.4 |   14.390 |    11.407 |   17.845 |    10.044 | 28.424 | 23.256 |    25.409 | 24.944 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      15.7 |   15.515 |    12.530 |   17.151 |    12.201 | 28.420 | 25.353 |    26.056 | 25.522 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+      15.7 |   15.254 |    12.797 |   17.320 |    12.199 | 28.280 | 24.959 |    26.597 | 25.591 | Morne's Helm, Ordained Dress, Court Sorcerer Gloves, Karla's Trousers
+      14.8 |   14.047 |    10.944 |   15.717 |    10.120 | 28.275 | 25.183 |    26.440 | 27.359 | Sunless Veil, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
+      14.9 |   14.309 |    11.124 |   17.082 |     9.847 | 28.275 | 24.634 |    26.286 | 26.746 | Ordained Hood, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
+best  20.0 |   18.078 |    15.707 |   19.659 |    15.572 | 28.650 | 25.346 |    26.597 | 25.283 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      15.9 |   15.776 |    12.351 |   18.933 |    11.752 | 28.576 | 24.219 |    25.494 | 24.629 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+      16.0 |   15.168 |    12.621 |   17.404 |    11.932 | 28.576 | 25.268 |    26.369 | 25.514 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+      16.2 |   15.690 |    12.262 |   19.015 |    11.663 | 28.576 | 24.297 |    25.648 | 24.784 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+      16.9 |   16.195 |    12.797 |   18.239 |    12.909 | 28.576 | 24.650 |    26.369 | 25.745 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
+      17.1 |   16.711 |    12.439 |   19.834 |    12.643 | 28.576 | 23.670 |    25.648 | 25.018 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      18.1 |   17.394 |    14.296 |   19.408 |    13.974 | 28.576 | 24.727 |    25.303 | 24.974 | Morne's Helm, Ordained Dress, Brass Gauntlets, Karla's Trousers
+      18.3 |   17.902 |    13.944 |   20.980 |    13.711 | 28.576 | 23.748 |    24.571 | 24.239 | Morne's Helm, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      15.9 |   15.082 |    12.621 |   17.237 |    12.021 | 28.502 | 25.191 |    26.445 | 25.514 | Morne's Helm, Ordained Dress, Karla's Gloves, Karla's Trousers
+      16.0 |   15.510 |    12.974 |   17.571 |    12.199 | 28.502 | 25.191 |    26.445 | 25.591 | Morne's Helm, Ordained Dress, Sorcerer Gloves, Karla's Trousers
+best  26.7 |   24.682 |    24.562 |   21.867 |    25.231 | 28.675 | 26.661 |    27.806 | 26.379 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      20.2 |   18.583 |    15.361 |   21.226 |    15.314 | 28.650 | 24.375 |    25.878 | 24.551 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      22.4 |   22.085 |    21.880 |   19.593 |    22.086 | 28.601 | 26.509 |    27.431 | 26.455 | Sunless Veil, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
+      22.5 |   22.719 |    22.512 |   20.244 |    22.323 | 28.601 | 25.661 |    27.279 | 25.911 | Sage's Big Hat, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
+      22.5 |   22.323 |    22.038 |   20.895 |    21.849 | 28.601 | 25.969 |    27.279 | 25.833 | Ordained Hood, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
+      22.6 |   22.565 |    21.559 |   21.162 |    21.848 | 28.601 | 25.553 |    26.720 | 25.734 | Sunless Veil, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
+      22.7 |   22.007 |    21.801 |   19.674 |    22.007 | 28.601 | 26.585 |    27.581 | 26.607 | Sunless Veil, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
+      22.7 |   23.195 |    22.194 |   21.800 |    22.085 | 28.601 | 24.694 |    26.567 | 25.185 | Sage's Big Hat, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
+      22.7 |   22.802 |    21.717 |   22.438 |    21.610 | 28.601 | 25.007 |    26.567 | 25.107 | Ordained Hood, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
+      22.8 |   22.245 |    21.959 |   20.975 |    21.770 | 28.601 | 26.046 |    27.429 | 25.987 | Ordained Hood, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
+best  28.3 |   26.128 |    25.517 |   24.151 |    26.428 | 28.827 | 27.049 |    27.736 | 25.445 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
+      26.8 |   24.912 |    24.715 |   23.132 |    25.004 | 28.675 | 26.122 |    27.654 | 25.757 | Ordained Hood, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      26.8 |   25.295 |    25.173 |   22.500 |    25.458 | 28.675 | 25.814 |    27.654 | 25.834 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      26.9 |   25.146 |    24.253 |   23.391 |    25.002 | 28.675 | 25.707 |    27.099 | 25.658 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      27.0 |   25.375 |    24.406 |   24.632 |    24.774 | 28.675 | 25.162 |    26.945 | 25.030 | Ordained Hood, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      27.0 |   25.756 |    24.866 |   24.012 |    25.230 | 28.675 | 24.850 |    26.945 | 25.108 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      28.3 |   26.355 |    25.364 |   23.995 |    26.578 | 28.671 | 27.207 |    27.579 | 25.607 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Black Witch Trousers
+      28.3 |   26.128 |    25.592 |   24.151 |    26.576 | 28.531 | 26.822 |    28.109 | 25.676 | Morne's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Karla's Trousers
+      27.4 |   25.076 |    24.010 |   22.679 |    24.838 | 28.527 | 27.041 |    27.955 | 27.442 | Sunless Veil, Cathedral Knight Armor, Winged Knight Gauntlets, Karla's Trousers
+      27.5 |   25.305 |    24.164 |   23.932 |    24.609 | 28.527 | 26.505 |    27.804 | 26.829 | Ordained Hood, Cathedral Knight Armor, Winged Knight Gauntlets, Karla's Trousers
+best  32.6 |   28.590 |    28.075 |   26.296 |    29.397 | 28.900 | 27.200 |    28.109 | 25.368 | Morne's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      28.5 |   26.583 |    25.211 |   25.630 |    26.203 | 28.827 | 26.100 |    27.028 | 24.715 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
+      28.6 |   26.053 |    25.441 |   24.227 |    26.353 | 28.827 | 27.124 |    27.885 | 25.599 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
+      28.8 |   26.509 |    25.135 |   25.705 |    26.128 | 28.827 | 26.177 |    27.179 | 24.870 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
+      29.5 |   26.948 |    25.592 |   24.993 |    27.170 | 28.827 | 26.521 |    27.885 | 25.830 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Karla's Trousers
+      29.7 |   27.398 |    25.286 |   26.456 |    26.947 | 28.827 | 25.565 |    27.179 | 25.104 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      30.7 |   27.993 |    26.871 |   26.066 |    28.061 | 28.827 | 26.596 |    26.841 | 25.060 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
+      30.9 |   28.437 |    26.571 |   27.508 |    27.841 | 28.827 | 25.642 |    26.125 | 24.326 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      28.5 |   25.978 |    25.441 |   24.074 |    26.428 | 28.753 | 27.049 |    27.960 | 25.599 | Morne's Helm, Cathedral Knight Armor, Karla's Gloves, Karla's Trousers
+      28.6 |   26.053 |    25.592 |   24.074 |    26.353 | 28.753 | 27.049 |    27.960 | 25.676 | Morne's Helm, Cathedral Knight Armor, Maiden Gloves, Karla's Trousers
