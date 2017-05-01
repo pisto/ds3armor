@@ -3,7 +3,7 @@ Dark Souls 3 armor optimizer
 
 An extesion of the idea proposed [here](https://www.reddit.com/r/darksouls3/comments/682wel/the_best_armor_combinations_based_on_absorption/) by [/u/mound_maker](https://www.reddit.com/user/mound_maker). Armor data obtained from [Mugenmonkey](https://mugenmonkey.com/).
 
-In the original topic a number of top tier armor pieces were put together to form a top tier armor set, sorted by weight. This program calculates all possible combinations of all armor pieces and sorts them by weight, then by an user-defined "score" based on absorption.
+In the original topic a number of top tier armor pieces were put together to form a top tier armor set, sorted by weight. This program calculates all possible combinations of all armor pieces and sorts them by weight, then by an user-defined "score" based on absorption. It also prints a number of tiers to the target weight.
 
 ## The set scoring
 A set is scored by its absorption values, averaged together with some user-specified weights. The weight can be used to take into account how much damage you expect to take for a specific elemental damage, after the [calculation of your defense stat](https://www.reddit.com/r/darksouls3/comments/4f8yy8/how_defense_and_absorption_really_work/). You can estimate for example that after defense you get a physical damage 3 times larger than the magic damage from a magic buffed sword, then you probably want to weight physical damage three times more than magic damage. This is up to you and your experience as a Dark Souls 3 player.
@@ -32,6 +32,10 @@ There are two possible averages:
 * unbalanced average (`--balanced 0`): use normal averages, weaknesses of a set are less likely to penalize the set
 
 A versatile build probably needs `--balanced 1`.
+
+### Tiers
+
+The program outpus for each target weight the best set but then also a number of tiers (maximum is specified by `--maxtiers arg`). The best set is prepended in the list with `best`.
 
 ## Precompiled lists
 
