@@ -1,18 +1,20 @@
     weight | physical | vs_strike | vs_slash | vs_thrust |  magic |   fire | lightning |   dark | armor pieces
+==============================================================================================================
 best   4.1 |    5.976 |     5.976 |    5.976 |     5.012 | 19.191 | 16.215 |    17.801 | 19.191 | Ragged Mask, Master's Attire, Master's Gloves, Loincloth
+==========================================================================================================================================================
 best   4.4 |    6.943 |     6.170 |    5.686 |     5.303 | 20.436 | 19.389 |    21.660 | 21.503 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.4 |    5.691 |     5.691 |    5.691 |     4.724 | 19.359 | 17.254 |    18.056 | 19.527 | Old Sage's Blindfold, Master's Attire, Master's Gloves, Loincloth
        4.4 |    5.691 |     5.786 |    5.691 |     4.916 | 19.695 | 17.168 |    18.312 | 19.275 | Shira's Crown, Master's Attire, Master's Gloves, Loincloth
-       4.4 |    5.691 |     4.931 |    5.121 |     3.955 | 15.999 | 16.908 |    17.375 | 18.687 | Crown of Dusk, Master's Attire, Master's Gloves, Loincloth
+============================================================================================================================================================
 best   4.7 |    6.660 |     5.885 |    5.400 |     5.016 | 20.601 | 20.388 |    21.903 | 21.829 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.7 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.305 |    22.147 | 21.584 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Loincloth
-       4.7 |    6.660 |     5.126 |    4.828 |     4.250 | 17.293 | 20.055 |    21.254 | 21.013 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.6 |    6.357 |     6.166 |    6.166 |     5.396 | 20.115 | 17.168 |    18.653 | 20.115 | Old Sorcerer Hat, Master's Attire, Master's Gloves, Loincloth
        4.7 |    6.259 |     6.071 |    5.976 |     5.107 | 20.097 | 17.066 |    18.721 | 20.015 | Ragged Mask, Master's Attire, Violet Wrappings, Loincloth
        4.6 |    6.737 |     5.691 |    6.071 |     5.108 | 19.023 | 17.341 |    18.397 | 19.947 | Desert Pyromancer Hood, Master's Attire, Master's Gloves, Loincloth
        4.7 |    5.691 |     5.691 |    5.691 |     4.724 | 19.275 | 16.475 |    17.971 | 19.695 | Hood Of Prayer, Master's Attire, Master's Gloves, Loincloth
        4.5 |    5.596 |     5.596 |    5.596 |     4.628 | 19.527 | 17.600 |    17.886 | 19.359 | Pyromancer Crown , Master's Attire, Master's Gloves, Loincloth
        4.5 |    5.881 |     5.786 |    5.691 |     4.820 | 19.023 | 15.869 |    18.567 | 15.999 | Blindfold Mask, Master's Attire, Master's Gloves, Loincloth
+=============================================================================================================================================================
 best   4.9 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    22.471 | 22.400 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.9 |    7.695 |     5.885 |    5.782 |     5.399 | 20.270 | 20.472 |    22.228 | 22.237 | Desert Pyromancer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.8 |    6.566 |     5.790 |    5.305 |     4.920 | 20.767 | 20.721 |    21.741 | 21.666 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Loincloth
@@ -23,6 +25,7 @@ best   4.9 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    
        4.8 |    5.691 |     5.786 |    5.691 |     4.724 | 19.947 | 17.341 |    18.738 | 20.115 | Black Witch Veil, Master's Attire, Master's Gloves, Loincloth
        4.9 |    6.637 |     6.543 |    6.543 |     5.584 | 20.097 | 17.321 |    19.222 | 20.015 | Ragged Mask, Master's Attire, Desert Pyromancer Gloves, Loincloth
        4.8 |    5.881 |     6.071 |    5.881 |     4.820 | 19.863 | 17.168 |    18.567 | 19.863 | Maiden Hood, Master's Attire, Master's Gloves, Loincloth
+==========================================================================================================================================================
 best   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    22.018 | 23.103 | Ragged Mask, Clandestine Coat, Master's Gloves, Loincloth
        5.1 |    7.503 |     6.829 |    6.255 |     6.063 | 21.490 | 20.617 |    23.174 | 22.783 | Ragged Mask, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
        5.1 |    7.503 |     6.735 |    6.255 |     5.873 | 21.815 | 20.862 |    22.775 | 22.543 | Ragged Mask, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
@@ -33,6 +36,7 @@ best   5.1 |    7.426 |     7.426 |    7.426 |     6.467 | 23.103 | 21.021 |    
        5.1 |    6.849 |     6.075 |    5.591 |     5.111 | 20.932 | 20.055 |    22.228 | 22.074 | Sorcerer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
        5.0 |    6.660 |     5.885 |    5.400 |     5.016 | 20.518 | 19.639 |    21.822 | 21.992 | Hood Of Prayer, Desert Pyromancer Garb, Master's Gloves, Loincloth
        5.1 |    6.943 |     5.885 |    6.259 |     5.111 | 20.767 | 20.388 |    22.471 | 21.666 | Ringed Knight Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+========================================================================================================================================================================
 best   5.4 |    6.943 |     6.839 |    5.686 |     5.592 | 21.534 | 21.678 |    22.819 | 23.586 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
        5.4 |    7.145 |     7.145 |    7.145 |     6.184 | 23.263 | 22.000 |    22.261 | 23.422 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Loincloth
        5.4 |    7.145 |     7.239 |    7.145 |     6.373 | 23.582 | 21.919 |    22.503 | 23.183 | Shira's Crown, Clandestine Coat, Master's Gloves, Loincloth
@@ -43,6 +47,7 @@ best   5.4 |    6.943 |     6.839 |    5.686 |     5.592 | 21.534 | 21.678 |    
        5.2 |    7.410 |     6.735 |    6.160 |     5.873 | 21.571 | 21.190 |    22.855 | 22.863 | Ragged Mask, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
        5.4 |    7.316 |     6.641 |    6.349 |     5.683 | 21.409 | 20.862 |    22.616 | 22.863 | Ragged Mask, Desert Pyromancer Garb, Fire Keeper Gloves, Loincloth
        5.2 |    6.459 |     6.846 |    6.459 |     6.079 | 22.036 | 21.928 |    20.852 | 22.836 | Ragged Mask, Antiquated Dress, Master's Gloves, Loincloth
+===========================================================================================================================================================
 best   5.5 |    6.846 |     6.459 |    6.846 |     6.079 | 23.103 | 21.203 |    22.018 | 24.081 | Ragged Mask, Robe Of Prayer, Master's Gloves, Loincloth
        5.5 |    7.051 |     7.051 |    7.051 |     6.089 | 23.422 | 22.327 |    22.099 | 23.263 | Pyromancer Crown , Clandestine Coat, Master's Gloves, Loincloth
        5.5 |    7.227 |     6.743 |    5.975 |     6.169 | 21.787 | 21.000 |    23.813 | 23.252 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Court Sorcerer Trousers
@@ -53,6 +58,7 @@ best   5.5 |    6.846 |     6.459 |    6.846 |     6.079 | 23.103 | 21.203 |    
        5.5 |    7.129 |     6.452 |    5.875 |     5.683 | 21.817 | 21.929 |    23.253 | 22.943 | Pyromancer Crown , Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
        5.5 |    7.129 |     6.546 |    5.875 |     5.778 | 22.060 | 22.085 |    23.335 | 22.943 | Shira's Crown, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
        5.5 |    6.176 |     6.658 |    6.176 |     5.984 | 22.522 | 22.815 |    21.344 | 22.916 | Shira's Crown, Antiquated Dress, Master's Gloves, Loincloth
+=============================================================================================================================================================
 best   5.8 |    6.563 |     6.176 |    6.563 |     5.794 | 23.263 | 22.179 |    22.261 | 24.396 | Old Sage's Blindfold, Robe Of Prayer, Master's Gloves, Loincloth
        5.8 |    7.983 |     8.076 |    7.983 |     7.218 | 24.122 | 22.224 |    23.526 | 24.357 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Loincloth
        5.8 |    6.563 |     6.270 |    6.563 |     5.984 | 23.582 | 22.098 |    22.503 | 24.160 | Shira's Crown, Robe Of Prayer, Master's Gloves, Loincloth
@@ -63,6 +69,7 @@ best   5.8 |    6.563 |     6.176 |    6.563 |     5.794 | 23.263 | 22.179 |    
        5.7 |    6.660 |     6.556 |    5.400 |     5.305 | 21.697 | 22.649 |    23.059 | 23.904 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
        5.7 |    7.705 |     7.519 |    7.426 |     6.561 | 23.965 | 21.823 |    22.891 | 23.887 | Ragged Mask, Clandestine Coat, Violet Wrappings, Loincloth
        5.8 |    7.036 |     6.359 |    5.589 |     5.494 | 22.264 | 21.814 |    23.537 | 23.883 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Skirt Of Prayer
+============================================================================================================================================================================
 best   5.9 |    7.319 |     7.027 |    5.877 |     5.974 | 22.431 | 22.568 |    23.619 | 24.460 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
        5.9 |    7.890 |     7.983 |    7.890 |     7.030 | 24.200 | 22.785 |    23.208 | 24.435 | Ragged Mask, Clandestine Coat, Antiquated Gloves, Loincloth
        5.9 |    7.695 |     6.556 |    5.782 |     5.687 | 21.371 | 22.730 |    23.379 | 24.301 | Desert Pyromancer Hood, Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
@@ -73,6 +80,7 @@ best   5.9 |    7.319 |     7.027 |    5.877 |     5.974 | 22.431 | 22.568 |    
        5.9 |    8.159 |     7.018 |    6.444 |     6.349 | 22.550 | 21.678 |    23.974 | 23.825 | Cleric Hat, Desert Pyromancer Garb, Antiquated Gloves, Loincloth
        5.9 |    7.216 |     7.129 |    6.743 |     6.554 | 23.008 | 22.412 |    22.000 | 23.799 | Cleric Hat, Antiquated Dress, Master's Gloves, Loincloth
        5.9 |    6.939 |     6.264 |    5.398 |     5.206 | 22.247 | 21.718 |    23.601 | 23.787 | Ragged Mask, Desert Pyromancer Garb, Violet Wrappings, Skirt Of Prayer
+========================================================================================================================================================================
 best   6.0 |    7.223 |     6.649 |    7.034 |     6.459 | 23.982 | 22.098 |    22.827 | 24.949 | Old Sorcerer Hat, Robe Of Prayer, Master's Gloves, Loincloth
        6.0 |    7.599 |     6.176 |    6.940 |     6.174 | 22.943 | 22.261 |    22.584 | 24.791 | Desert Pyromancer Hood, Robe Of Prayer, Master's Gloves, Loincloth
        6.0 |    7.143 |     7.426 |    7.143 |     6.277 | 24.001 | 22.516 |    23.090 | 24.572 | Ragged Mask, Clandestine Coat, Master's Gloves, Skirt Of Prayer
@@ -83,6 +91,7 @@ best   6.0 |    7.223 |     6.649 |    7.034 |     6.459 | 23.982 | 22.098 |    
        6.0 |    7.220 |     6.829 |    5.968 |     5.872 | 22.407 | 22.119 |    24.229 | 24.258 | Ragged Mask, Desert Pyromancer Garb, Court Sorcerer Gloves, Skirt Of Prayer
        6.0 |    7.425 |     7.238 |    7.145 |     6.278 | 24.123 | 22.792 |    23.131 | 24.203 | Old Sage's Blindfold, Clandestine Coat, Violet Wrappings, Loincloth
        6.0 |    6.929 |     7.407 |    6.929 |     6.644 | 23.149 | 23.672 |    22.060 | 24.173 | Ragged Mask, Antiquated Dress, Antiquated Gloves, Loincloth
+=============================================================================================================================================================
 best   6.1 |    7.426 |     8.086 |    7.426 |     6.752 | 24.164 | 23.264 |    23.173 | 25.144 | Ragged Mask, Clandestine Coat, Master's Gloves, Fire Keeper Skirt
        6.1 |    7.127 |     6.553 |    6.846 |     6.173 | 23.965 | 22.003 |    22.891 | 24.854 | Ragged Mask, Robe Of Prayer, Violet Wrappings, Loincloth
        6.1 |    7.503 |     7.494 |    6.255 |     6.349 | 22.574 | 22.870 |    24.311 | 24.832 | Ragged Mask, Desert Pyromancer Garb, Court Sorcerer Gloves, Fire Keeper Skirt
@@ -93,6 +102,7 @@ best   6.1 |    7.426 |     8.086 |    7.426 |     6.752 | 24.164 | 23.264 |    
        6.1 |    6.660 |     6.651 |    5.400 |     5.305 | 22.268 | 22.730 |    23.699 | 24.460 | Black Witch Veil, Desert Pyromancer Garb, Master's Gloves, Fire Keeper Skirt
        6.1 |    7.704 |     7.704 |    7.704 |     6.748 | 24.592 | 23.426 |    23.368 | 24.437 | Old Sage's Blindfold, Clandestine Coat, Pale Shade Gloves, Loincloth
        6.1 |    7.704 |     7.890 |    7.704 |     7.124 | 24.595 | 23.108 |    24.001 | 24.436 | Shira's Crown, Clandestine Coat, Court Sorcerer Gloves, Loincloth
+===================================================================================================================================================================
 best   6.2 |    7.407 |     7.117 |    7.407 |     6.833 | 24.122 | 22.403 |    23.526 | 25.319 | Ragged Mask, Robe Of Prayer, Court Sorcerer Gloves, Loincloth
        6.2 |    7.407 |     7.023 |    7.407 |     6.644 | 24.435 | 22.643 |    23.129 | 25.087 | Ragged Mask, Robe Of Prayer, Pale Shade Gloves, Loincloth
        6.2 |    7.599 |     6.743 |    7.129 |     6.554 | 24.062 | 21.691 |    23.150 | 25.028 | Cleric Hat, Robe Of Prayer, Master's Gloves, Loincloth
@@ -103,6 +113,7 @@ best   6.2 |    7.407 |     7.117 |    7.407 |     6.833 | 24.122 | 22.403 |    
        6.2 |    8.078 |     7.706 |    7.613 |     6.939 | 24.834 | 22.711 |    23.690 | 24.757 | Old Sorcerer Hat, Clandestine Coat, Violet Wrappings, Loincloth
        6.2 |    7.611 |     7.704 |    7.611 |     6.748 | 24.358 | 23.742 |    23.447 | 24.749 | Old Sage's Blindfold, Clandestine Coat, Antiquated Gloves, Loincloth
        6.2 |    6.752 |     6.554 |    6.752 |     5.889 | 23.742 | 22.098 |    22.746 | 24.712 | Maiden Hood, Robe Of Prayer, Master's Gloves, Loincloth
+=========================================================================================================================================================
 best   6.3 |    7.314 |     7.023 |    7.314 |     6.644 | 24.200 | 22.963 |    23.208 | 25.396 | Ragged Mask, Robe Of Prayer, Antiquated Gloves, Loincloth
        6.3 |    8.356 |     8.262 |    8.170 |     7.593 | 24.989 | 23.108 |    24.318 | 25.222 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth
        6.3 |    8.728 |     7.798 |    8.076 |     7.312 | 23.964 | 23.268 |    24.080 | 25.065 | Desert Pyromancer Hood, Clandestine Coat, Court Sorcerer Gloves, Loincloth
@@ -113,6 +124,7 @@ best   6.3 |    7.314 |     7.023 |    7.314 |     6.644 | 24.200 | 22.963 |    
        6.3 |    8.728 |     7.704 |    8.076 |     7.124 | 24.278 | 23.506 |    23.687 | 24.832 | Desert Pyromancer Hood, Clandestine Coat, Pale Shade Gloves, Loincloth
        6.3 |    7.316 |     7.307 |    6.160 |     6.160 | 22.814 | 23.109 |    24.154 | 24.754 | Ragged Mask, Desert Pyromancer Garb, Karla's Gloves, Fire Keeper Skirt
        6.3 |    7.618 |     7.334 |    7.145 |     6.279 | 24.810 | 23.477 |    23.822 | 24.723 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Loincloth (TRC)
+==========================================================================================================================================================================
 best   6.4 |    6.561 |     6.459 |    6.561 |     5.888 | 24.001 | 22.694 |    23.090 | 25.531 | Ragged Mask, Robe Of Prayer, Master's Gloves, Skirt Of Prayer
        6.4 |    7.145 |     7.808 |    7.145 |     6.470 | 24.322 | 24.215 |    23.411 | 25.455 | Old Sage's Blindfold, Clandestine Coat, Master's Gloves, Fire Keeper Skirt
        6.4 |    7.321 |     6.650 |    6.846 |     6.175 | 24.654 | 22.694 |    23.585 | 25.370 | Ragged Mask, Robe Of Prayer, Master's Gloves, Loincloth (TRC)
@@ -123,6 +135,7 @@ best   6.4 |    6.561 |     6.459 |    6.561 |     5.888 | 24.001 | 22.694 |    
        6.4 |    6.845 |     6.270 |    6.563 |     5.889 | 24.123 | 22.969 |    23.131 | 25.167 | Old Sage's Blindfold, Robe Of Prayer, Violet Wrappings, Loincloth
        6.4 |    7.223 |     7.213 |    5.970 |     6.065 | 22.735 | 23.827 |    24.546 | 25.145 | Old Sage's Blindfold, Desert Pyromancer Garb, Court Sorcerer Gloves, Fire Keeper Skirt
        6.4 |    8.636 |     7.704 |    7.984 |     7.124 | 24.043 | 23.822 |    23.765 | 25.142 | Desert Pyromancer Hood, Clandestine Coat, Antiquated Gloves, Loincloth
+========================================================================================================================================================================
 best   6.5 |    6.846 |     7.127 |    6.846 |     6.366 | 24.164 | 23.440 |    23.173 | 26.095 | Ragged Mask, Robe Of Prayer, Master's Gloves, Fire Keeper Skirt
        6.5 |    7.126 |     6.835 |    7.126 |     6.550 | 24.279 | 23.365 |    23.763 | 25.629 | Old Sage's Blindfold, Robe Of Prayer, Court Sorcerer Gloves, Loincloth
        6.5 |    7.518 |     7.613 |    7.330 |     6.656 | 24.870 | 23.397 |    23.887 | 25.435 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Skirt Of Prayer
@@ -133,6 +146,7 @@ best   6.5 |    6.846 |     7.127 |    6.846 |     6.366 | 24.164 | 23.440 |    
        6.5 |    7.314 |     7.117 |    7.314 |     6.550 | 24.357 | 22.643 |    23.367 | 25.319 | Ragged Mask, Robe Of Prayer, Maiden Gloves, Loincloth
        6.5 |    8.728 |     8.355 |    8.263 |     7.687 | 25.068 | 22.706 |    24.635 | 25.300 | Cleric Hat, Clandestine Coat, Court Sorcerer Gloves, Loincloth
        6.5 |    7.051 |     7.715 |    7.051 |     6.375 | 24.479 | 24.532 |    23.252 | 25.299 | Pyromancer Crown , Clandestine Coat, Master's Gloves, Fire Keeper Skirt
+=========================================================================================================================================================================
 best   6.7 |    7.782 |     7.305 |    7.594 |     7.210 | 24.989 | 23.284 |    24.318 | 26.173 | Old Sorcerer Hat, Robe Of Prayer, Court Sorcerer Gloves, Loincloth
        6.7 |    8.156 |     6.835 |    7.501 |     6.927 | 23.964 | 23.445 |    24.080 | 26.018 | Desert Pyromancer Hood, Robe Of Prayer, Court Sorcerer Gloves, Loincloth
        6.6 |    7.800 |     8.272 |    7.613 |     7.130 | 25.031 | 24.136 |    23.969 | 25.999 | Old Sorcerer Hat, Clandestine Coat, Master's Gloves, Fire Keeper Skirt
@@ -143,6 +157,7 @@ best   6.7 |    7.782 |     7.305 |    7.594 |     7.210 | 24.989 | 23.284 |    
        6.7 |    7.702 |     8.076 |    7.702 |     7.029 | 25.008 | 23.696 |    24.577 | 25.802 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Skirt Of Prayer
        6.7 |    8.156 |     6.741 |    7.501 |     6.739 | 24.278 | 23.681 |    23.687 | 25.788 | Desert Pyromancer Hood, Robe Of Prayer, Pale Shade Gloves, Loincloth
        6.6 |    7.131 |     7.032 |    7.131 |     6.938 | 24.409 | 22.777 |    24.162 | 25.773 | Ragged Mask, Robe Of Prayer, Master's Gloves, Court Sorcerer Trousers
+=======================================================================================================================================================================
 best   6.8 |    6.563 |     6.845 |    6.563 |     6.081 | 24.322 | 24.389 |    23.411 | 26.403 | Old Sage's Blindfold, Robe Of Prayer, Master's Gloves, Fire Keeper Skirt
        6.8 |    7.983 |     8.732 |    7.983 |     7.501 | 25.169 | 24.432 |    24.657 | 26.364 | Ragged Mask, Clandestine Coat, Court Sorcerer Gloves, Fire Keeper Skirt
        6.8 |    7.688 |     7.211 |    7.501 |     7.022 | 25.067 | 23.838 |    24.004 | 26.249 | Old Sorcerer Hat, Robe Of Prayer, Antiquated Gloves, Loincloth
@@ -153,6 +168,7 @@ best   6.8 |    6.563 |     6.845 |    6.563 |     6.081 | 24.322 | 24.389 |    
        6.8 |    7.145 |     7.900 |    7.145 |     6.470 | 24.873 | 24.294 |    24.048 | 25.999 | Black Witch Veil, Clandestine Coat, Master's Gloves, Fire Keeper Skirt
        6.8 |    7.609 |     7.983 |    7.609 |     6.841 | 25.085 | 24.247 |    24.264 | 25.879 | Ragged Mask, Clandestine Coat, Antiquated Gloves, Skirt Of Prayer
        6.8 |    7.878 |     6.837 |    7.129 |     6.648 | 24.913 | 22.486 |    24.010 | 25.792 | Cleric Hat, Robe Of Prayer, Violet Wrappings, Loincloth
+=========================================================================================================================================================
 best   6.9 |    7.890 |     8.640 |    7.890 |     7.314 | 25.246 | 24.977 |    24.345 | 26.441 | Ragged Mask, Clandestine Coat, Antiquated Gloves, Fire Keeper Skirt
        6.9 |    6.939 |     6.649 |    6.750 |     6.269 | 24.870 | 23.573 |    23.887 | 26.383 | Old Sorcerer Hat, Robe Of Prayer, Master's Gloves, Skirt Of Prayer
        6.9 |    8.156 |     7.399 |    7.688 |     7.304 | 25.068 | 22.884 |    24.635 | 26.250 | Cleric Hat, Robe Of Prayer, Court Sorcerer Gloves, Loincloth
@@ -163,6 +179,7 @@ best   6.9 |    7.890 |     8.640 |    7.890 |     7.314 | 25.246 | 24.977 |    
        6.9 |    7.316 |     7.398 |    7.781 |     6.834 | 25.144 | 23.522 |    24.083 | 26.173 | Old Sorcerer Hat, Robe Of Prayer, Black Witch Wrappings, Loincloth
        6.9 |    7.023 |     8.161 |    7.023 |     7.117 | 24.131 | 25.300 |    23.530 | 26.109 | Ragged Mask, Antiquated Dress, Court Sorcerer Gloves, Fire Keeper Skirt
        6.9 |    7.595 |     7.117 |    7.501 |     7.022 | 25.222 | 23.522 |    24.161 | 26.096 | Old Sorcerer Hat, Robe Of Prayer, Karla's Gloves, Loincloth
+=============================================================================================================================================================
 best   7.0 |    7.223 |     7.315 |    7.034 |     6.744 | 25.031 | 24.310 |    23.969 | 26.940 | Old Sorcerer Hat, Robe Of Prayer, Master's Gloves, Fire Keeper Skirt
        7.0 |    7.599 |     6.845 |    6.940 |     6.460 | 24.006 | 24.468 |    23.730 | 26.787 | Desert Pyromancer Hood, Robe Of Prayer, Master's Gloves, Fire Keeper Skirt
        7.0 |    7.519 |     8.825 |    8.169 |     7.127 | 25.323 | 24.666 |    24.423 | 26.364 | Ragged Mask, Clandestine Coat, Black Witch Wrappings, Fire Keeper Skirt
@@ -173,6 +190,7 @@ best   7.0 |    7.223 |     7.315 |    7.034 |     6.744 | 25.031 | 24.310 |    
        7.0 |    7.595 |     7.117 |    7.688 |     6.834 | 24.912 | 23.522 |    23.769 | 26.249 | Old Sorcerer Hat, Robe Of Prayer, Fire Keeper Gloves, Loincloth
        7.0 |    7.032 |     6.835 |    7.032 |     6.361 | 24.909 | 23.997 |    24.084 | 26.249 | Black Witch Veil, Robe Of Prayer, Antiquated Gloves, Loincloth
        7.0 |    7.425 |     7.900 |    7.145 |     6.563 | 25.170 | 24.984 |    24.268 | 26.215 | Old Sage's Blindfold, Clandestine Coat, Violet Wrappings, Fire Keeper Skirt
+=============================================================================================================================================================================
 best   7.2 |    7.407 |     7.780 |    7.407 |     7.117 | 25.169 | 24.606 |    24.657 | 27.301 | Ragged Mask, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.2 |    7.407 |     7.686 |    7.407 |     6.929 | 25.478 | 24.839 |    24.267 | 27.075 | Ragged Mask, Robe Of Prayer, Pale Shade Gloves, Fire Keeper Skirt
        7.2 |    7.599 |     7.409 |    7.129 |     6.839 | 25.110 | 23.914 |    24.287 | 27.017 | Cleric Hat, Robe Of Prayer, Master's Gloves, Fire Keeper Skirt
@@ -183,6 +201,7 @@ best   7.2 |    7.407 |     7.780 |    7.407 |     7.117 | 25.169 | 24.606 |    
        7.2 |    7.611 |     8.363 |    7.611 |     7.032 | 25.402 | 25.907 |    24.580 | 26.747 | Old Sage's Blindfold, Clandestine Coat, Antiquated Gloves, Fire Keeper Skirt
        7.1 |    7.124 |     7.117 |    7.124 |     6.643 | 25.008 | 23.871 |    24.577 | 26.746 | Ragged Mask, Robe Of Prayer, Court Sorcerer Gloves, Skirt Of Prayer
        7.2 |    6.752 |     7.221 |    6.752 |     6.176 | 24.795 | 24.310 |    23.889 | 26.710 | Maiden Hood, Robe Of Prayer, Master's Gloves, Fire Keeper Skirt
+=================================================================================================================================================================
 best   7.3 |    7.314 |     7.686 |    7.314 |     6.929 | 25.246 | 25.150 |    24.345 | 27.376 | Ragged Mask, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        7.3 |    8.356 |     8.917 |    8.170 |     7.875 | 26.025 | 25.291 |    25.438 | 27.206 | Old Sorcerer Hat, Clandestine Coat, Court Sorcerer Gloves, Fire Keeper Skirt
        7.3 |    8.728 |     8.455 |    8.076 |     7.594 | 25.013 | 25.447 |    25.204 | 27.053 | Desert Pyromancer Hood, Clandestine Coat, Court Sorcerer Gloves, Fire Keeper Skirt
@@ -193,6 +212,7 @@ best   7.3 |    7.314 |     7.686 |    7.314 |     6.929 | 25.246 | 25.150 |    
        7.3 |    7.690 |     7.592 |    7.690 |     7.498 | 25.719 | 24.188 |    25.242 | 26.757 | Ragged Mask, Robe Of Prayer, Pale Shade Gloves, Court Sorcerer Trousers
        7.3 |    6.655 |     7.211 |    7.312 |     6.266 | 25.163 | 24.107 |    24.342 | 26.746 | Ragged Mask, Robe Of Prayer, Black Witch Wrappings, Skirt Of Prayer
        7.3 |    7.982 |     8.170 |    7.796 |     7.218 | 25.942 | 25.108 |    25.049 | 26.727 | Old Sorcerer Hat, Clandestine Coat, Antiquated Gloves, Skirt Of Prayer
+========================================================================================================================================================================
 best   7.5 |    7.126 |     7.500 |    7.126 |     6.835 | 25.324 | 25.540 |    24.892 | 27.603 | Old Sage's Blindfold, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.5 |    7.126 |     7.406 |    7.126 |     6.647 | 25.633 | 25.771 |    24.502 | 27.378 | Old Sage's Blindfold, Robe Of Prayer, Pale Shade Gloves, Fire Keeper Skirt
        7.5 |    7.126 |     7.593 |    7.126 |     7.023 | 25.636 | 25.462 |    25.126 | 27.376 | Shira's Crown, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
@@ -203,6 +223,7 @@ best   7.5 |    7.126 |     7.500 |    7.126 |     6.835 | 25.324 | 25.540 |    
        7.5 |    8.728 |     9.009 |    8.263 |     7.968 | 26.102 | 24.901 |    25.751 | 27.283 | Cleric Hat, Clandestine Coat, Court Sorcerer Gloves, Fire Keeper Skirt
        7.4 |    8.263 |     8.825 |    8.077 |     7.688 | 26.101 | 25.830 |    25.129 | 27.282 | Old Sorcerer Hat, Clandestine Coat, Antiquated Gloves, Fire Keeper Skirt
        7.4 |    7.220 |     7.593 |    7.314 |     6.929 | 25.401 | 24.839 |    24.501 | 27.225 | Ragged Mask, Robe Of Prayer, Karla's Gloves, Fire Keeper Skirt
+================================================================================================================================================================
 best   7.6 |    7.502 |     7.408 |    7.034 |     6.838 | 25.872 | 25.078 |    24.819 | 27.685 | Old Sorcerer Hat, Robe Of Prayer, Violet Wrappings, Fire Keeper Skirt
        7.6 |    7.032 |     7.406 |    7.032 |     6.647 | 25.402 | 26.078 |    24.580 | 27.678 | Old Sage's Blindfold, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        7.6 |    7.500 |     7.305 |    7.312 |     7.021 | 25.865 | 24.736 |    25.358 | 27.583 | Old Sorcerer Hat, Robe Of Prayer, Court Sorcerer Gloves, Skirt Of Prayer
@@ -213,6 +234,7 @@ best   7.6 |    7.502 |     7.408 |    7.034 |     6.838 | 25.872 | 25.078 |    
        7.6 |    8.252 |     7.494 |    7.594 |     7.304 | 26.502 | 24.736 |    25.838 | 27.427 | Old Sorcerer Hat, Robe Of Prayer, Court Sorcerer Gloves, Loincloth (TRC)
        7.6 |    7.500 |     7.211 |    7.312 |     6.833 | 26.172 | 24.969 |    24.971 | 27.358 | Old Sorcerer Hat, Robe Of Prayer, Pale Shade Gloves, Skirt Of Prayer
        7.6 |    8.636 |     8.917 |    8.170 |     7.782 | 26.179 | 25.442 |    25.442 | 27.358 | Cleric Hat, Clandestine Coat, Antiquated Gloves, Fire Keeper Skirt
+====================================================================================================================================================================
 best   7.7 |    7.782 |     7.966 |    7.594 |     7.493 | 26.025 | 25.462 |    25.438 | 28.132 | Old Sorcerer Hat, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.7 |    8.156 |     7.500 |    7.501 |     7.211 | 25.013 | 25.618 |    25.204 | 27.981 | Desert Pyromancer Hood, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.7 |    7.782 |     7.873 |    7.594 |     7.305 | 26.330 | 25.693 |    25.052 | 27.909 | Old Sorcerer Hat, Robe Of Prayer, Pale Shade Gloves, Fire Keeper Skirt
@@ -223,6 +245,7 @@ best   7.7 |    7.782 |     7.966 |    7.594 |     7.493 | 26.025 | 25.462 |    
        7.7 |    6.939 |     7.313 |    6.939 |     6.553 | 25.557 | 26.387 |    24.423 | 27.527 | Pyromancer Crown , Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        7.7 |    7.782 |     6.741 |    7.124 |     6.549 | 24.930 | 25.436 |    24.813 | 27.506 | Desert Pyromancer Hood, Robe Of Prayer, Antiquated Gloves, Skirt Of Prayer
        7.7 |    8.159 |     7.400 |    7.501 |     7.116 | 26.578 | 25.280 |    25.531 | 27.502 | Old Sorcerer Hat, Robe Of Prayer, Antiquated Gloves, Loincloth (TRC)
+======================================================================================================================================================================
 best   7.8 |    7.688 |     7.873 |    7.501 |     7.305 | 26.101 | 26.000 |    25.129 | 28.207 | Old Sorcerer Hat, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        7.8 |    8.063 |     7.406 |    7.407 |     7.023 | 25.091 | 26.155 |    24.894 | 28.056 | Desert Pyromancer Hood, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        7.8 |    8.064 |     7.872 |    7.877 |     8.058 | 26.263 | 24.817 |    26.398 | 27.819 | Old Sorcerer Hat, Robe Of Prayer, Court Sorcerer Gloves, Court Sorcerer Trousers
@@ -233,6 +256,7 @@ best   7.8 |    7.688 |     7.873 |    7.501 |     7.305 | 26.101 | 26.000 |    
        7.8 |    6.939 |     7.313 |    7.220 |     6.458 | 25.247 | 25.771 |    24.346 | 27.678 | Old Sage's Blindfold, Robe Of Prayer, Fire Keeper Gloves, Fire Keeper Skirt
        7.8 |    8.437 |     7.405 |    7.784 |     7.778 | 25.255 | 24.974 |    26.167 | 27.667 | Desert Pyromancer Hood, Robe Of Prayer, Court Sorcerer Gloves, Court Sorcerer Trousers
        7.8 |    7.875 |     7.399 |    7.406 |     7.115 | 25.943 | 24.343 |    25.671 | 27.660 | Cleric Hat, Robe Of Prayer, Court Sorcerer Gloves, Skirt Of Prayer
+====================================================================================================================================================================
 best   7.9 |    8.156 |     8.059 |    7.688 |     7.586 | 26.102 | 25.073 |    25.751 | 28.208 | Cleric Hat, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.9 |    7.126 |     7.593 |    7.126 |     6.835 | 25.869 | 25.618 |    25.516 | 28.132 | Black Witch Veil, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.9 |    7.316 |     8.059 |    7.781 |     7.118 | 26.177 | 25.693 |    25.206 | 28.132 | Old Sorcerer Hat, Robe Of Prayer, Black Witch Wrappings, Fire Keeper Skirt
@@ -243,6 +267,7 @@ best   7.9 |    8.156 |     8.059 |    7.688 |     7.586 | 26.102 | 25.073 |    
        7.9 |    7.971 |     7.313 |    7.407 |     7.023 | 25.246 | 25.848 |    25.049 | 27.906 | Desert Pyromancer Hood, Robe Of Prayer, Karla's Gloves, Fire Keeper Skirt
        7.9 |    7.314 |     7.873 |    7.314 |     6.929 | 25.791 | 25.462 |    25.360 | 27.905 | Maiden Hood, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        7.9 |    7.971 |     7.778 |    7.784 |     7.872 | 26.340 | 25.360 |    26.093 | 27.893 | Old Sorcerer Hat, Robe Of Prayer, Antiquated Gloves, Court Sorcerer Trousers
+==============================================================================================================================================================================
 best   8.0 |    8.063 |     7.966 |    7.595 |     7.400 | 26.179 | 25.614 |    25.442 | 28.282 | Cleric Hat, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        8.0 |    7.032 |     7.500 |    7.032 |     6.647 | 25.946 | 26.155 |    25.207 | 28.207 | Black Witch Veil, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        8.0 |    7.595 |     7.780 |    7.688 |     7.118 | 25.948 | 25.693 |    24.897 | 28.207 | Old Sorcerer Hat, Robe Of Prayer, Fire Keeper Gloves, Fire Keeper Skirt
@@ -253,6 +278,7 @@ best   8.0 |    8.063 |     7.966 |    7.595 |     7.400 | 26.179 | 25.614 |    
        8.0 |    8.063 |     7.500 |    7.407 |     6.929 | 25.246 | 25.848 |    25.049 | 27.981 | Desert Pyromancer Hood, Robe Of Prayer, Maiden Gloves, Fire Keeper Skirt
        8.0 |    8.434 |     7.687 |    7.781 |     7.211 | 25.246 | 25.848 |    25.049 | 27.981 | Desert Pyromancer Hood, Robe Of Prayer, Sorcerer Gloves, Fire Keeper Skirt
        8.0 |    7.220 |     7.780 |    7.220 |     6.741 | 25.868 | 26.000 |    25.050 | 27.980 | Maiden Hood, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
+===================================================================================================================================================================
 best   8.2 |    8.252 |     9.478 |    8.536 |     8.436 | 26.502 | 25.140 |    26.158 | 28.289 | Old Sorcerer Hat, Robe Of Prayer, Court Sorcerer Gloves, Archdeacon Skirt
        8.2 |    7.971 |     7.873 |    7.781 |     7.213 | 26.026 | 25.305 |    25.211 | 28.282 | Cleric Hat, Robe Of Prayer, Fire Keeper Gloves, Fire Keeper Skirt
        8.1 |    7.692 |     8.152 |    7.874 |     7.213 | 26.255 | 25.305 |    25.519 | 28.208 | Cleric Hat, Robe Of Prayer, Black Witch Wrappings, Fire Keeper Skirt
@@ -263,6 +289,7 @@ best   8.2 |    8.252 |     9.478 |    8.536 |     8.436 | 26.502 | 25.140 |    
        8.2 |    8.624 |     9.019 |    8.444 |     8.157 | 25.498 | 25.296 |    25.926 | 28.138 | Desert Pyromancer Hood, Robe Of Prayer, Court Sorcerer Gloves, Archdeacon Skirt
        8.1 |    7.971 |     7.873 |    7.595 |     7.400 | 26.331 | 25.305 |    25.597 | 28.133 | Cleric Hat, Robe Of Prayer, Karla's Gloves, Fire Keeper Skirt
        8.2 |    8.063 |     7.873 |    7.781 |     7.306 | 26.408 | 25.382 |    25.519 | 28.133 | Cleric Hat, Robe Of Prayer, Cornyx's Wrap, Fire Keeper Skirt
+==============================================================================================================================================================
 best   8.3 |    7.875 |     9.272 |    8.156 |     7.868 | 26.102 | 25.696 |    25.829 | 28.510 | Archdeacon White Crown, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        8.3 |    7.969 |     7.873 |    7.501 |     7.305 | 26.258 | 25.774 |    25.672 | 28.434 | Sunless Veil, Robe Of Prayer, Court Sorcerer Gloves, Fire Keeper Skirt
        8.3 |    8.159 |     9.386 |    8.444 |     8.250 | 26.578 | 25.680 |    25.852 | 28.363 | Old Sorcerer Hat, Robe Of Prayer, Antiquated Gloves, Archdeacon Skirt
@@ -273,6 +300,7 @@ best   8.3 |    7.875 |     9.272 |    8.156 |     7.868 | 26.102 | 25.696 |    
        8.3 |    7.782 |     7.966 |    7.595 |     7.023 | 26.179 | 26.310 |    25.442 | 28.207 | Karla's Pointed Hat, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        8.3 |    8.629 |     7.684 |    7.973 |     7.494 | 26.896 | 26.241 |    26.013 | 28.207 | Old Sorcerer Hat, Robe Of Prayer, Antiquated Gloves, Black Witch Trousers
        8.3 |    9.001 |     7.216 |    7.879 |     7.213 | 25.897 | 26.395 |    25.780 | 28.056 | Desert Pyromancer Hood, Robe Of Prayer, Antiquated Gloves, Black Witch Trousers
+=================================================================================================================================================================================
 best   8.4 |    7.782 |     9.180 |    8.063 |     7.682 | 26.179 | 26.232 |    25.521 | 28.584 | Archdeacon White Crown, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        8.4 |    7.876 |     7.780 |    7.407 |     7.117 | 26.334 | 26.310 |    25.364 | 28.509 | Sunless Veil, Robe Of Prayer, Antiquated Gloves, Fire Keeper Skirt
        8.4 |    8.624 |     9.570 |    8.629 |     8.528 | 26.580 | 24.749 |    26.468 | 28.364 | Cleric Hat, Robe Of Prayer, Court Sorcerer Gloves, Archdeacon Skirt
@@ -283,6 +311,7 @@ best   8.4 |    7.782 |     9.180 |    8.063 |     7.682 | 26.179 | 26.232 |    
        8.4 |    8.066 |     9.295 |    8.444 |     8.250 | 26.730 | 25.371 |    26.005 | 28.215 | Old Sorcerer Hat, Robe Of Prayer, Karla's Gloves, Archdeacon Skirt
        8.4 |    9.092 |     7.871 |    8.159 |     7.775 | 26.898 | 25.316 |    26.627 | 28.208 | Cleric Hat, Robe Of Prayer, Court Sorcerer Gloves, Black Witch Trousers
        8.4 |    7.502 |     7.873 |    7.314 |     6.929 | 26.099 | 26.078 |    25.439 | 28.207 | Black Witch Veil, Robe Of Prayer, Pyromancer Wrap, Fire Keeper Skirt
+======================================================================================================================================================================
 best   8.8 |    8.345 |    10.762 |    9.092 |     8.807 | 26.580 | 25.374 |    26.545 | 28.666 | Archdeacon White Crown, Robe Of Prayer, Court Sorcerer Gloves, Archdeacon Skirt
        8.8 |    8.438 |     9.386 |    8.444 |     8.250 | 26.734 | 25.453 |    26.390 | 28.590 | Sunless Veil, Robe Of Prayer, Court Sorcerer Gloves, Archdeacon Skirt
        8.6 |    7.689 |     9.088 |    8.249 |     7.496 | 26.026 | 25.926 |    25.290 | 28.584 | Archdeacon White Crown, Robe Of Prayer, Fire Keeper Gloves, Fire Keeper Skirt
@@ -293,6 +322,7 @@ best   8.8 |    8.345 |    10.762 |    9.092 |     8.807 | 26.580 | 25.374 |    
        8.8 |    8.814 |     9.085 |    8.624 |     8.056 | 26.898 | 25.937 |    26.704 | 28.510 | Archdeacon White Crown, Robe Of Prayer, Court Sorcerer Gloves, Black Witch Trousers
        8.6 |    7.783 |     7.687 |    7.594 |     6.930 | 26.182 | 26.004 |    25.133 | 28.509 | Sunless Veil, Robe Of Prayer, Fire Keeper Gloves, Fire Keeper Skirt
        8.8 |    8.341 |     8.152 |    7.688 |     7.398 | 26.486 | 26.233 |    25.595 | 28.509 | Sunless Veil, Robe Of Prayer, Pyromancer Wrap, Fire Keeper Skirt
+==================================================================================================================================================================
 best   8.9 |    8.252 |    10.672 |    9.001 |     8.623 | 26.655 | 25.913 |    26.240 | 28.740 | Archdeacon White Crown, Robe Of Prayer, Antiquated Gloves, Archdeacon Skirt
        8.9 |    8.345 |     9.295 |    8.351 |     8.064 | 26.810 | 25.991 |    26.085 | 28.664 | Sunless Veil, Robe Of Prayer, Antiquated Gloves, Archdeacon Skirt
        8.9 |    8.722 |     8.993 |    8.532 |     7.870 | 26.973 | 26.472 |    26.400 | 28.584 | Archdeacon White Crown, Robe Of Prayer, Antiquated Gloves, Black Witch Trousers
@@ -303,6 +333,7 @@ best   8.9 |    8.252 |    10.672 |    9.001 |     8.623 | 26.655 | 25.913 |    
        8.9 |    7.973 |     9.387 |    8.259 |     7.878 | 26.576 | 25.758 |    26.159 | 28.363 | Black Witch Veil, Robe Of Prayer, Pyromancer Wrap, Archdeacon Skirt
        8.9 |    8.533 |     7.780 |    8.068 |     7.117 | 27.286 | 26.389 |    26.405 | 28.353 | Sunless Veil, Robe Of Prayer, Antiquated Gloves, Karla's Trousers
        8.9 |    7.882 |     9.661 |    8.814 |     7.785 | 26.731 | 25.683 |    26.239 | 28.289 | Karla's Pointed Hat, Robe Of Prayer, Black Witch Wrappings, Archdeacon Skirt
+==============================================================================================================================================================================
 best  10.0 |    9.363 |    10.762 |   10.102 |     9.545 | 26.883 | 25.067 |    26.316 | 28.814 | Archdeacon White Crown, Robe Of Prayer, Pontiff Knight Gauntlets, Archdeacon Skirt
        9.1 |    8.160 |    10.581 |    9.184 |     8.439 | 26.504 | 25.605 |    26.011 | 28.740 | Archdeacon White Crown, Robe Of Prayer, Fire Keeper Gloves, Archdeacon Skirt
        9.3 |    8.715 |    11.033 |    9.276 |     8.900 | 26.807 | 25.836 |    26.469 | 28.740 | Archdeacon White Crown, Robe Of Prayer, Pyromancer Wrap, Archdeacon Skirt
@@ -313,6 +344,7 @@ best  10.0 |    9.363 |    10.762 |   10.102 |     9.545 | 26.883 | 25.067 |    
        9.1 |    8.253 |     9.203 |    8.536 |     7.879 | 26.658 | 25.683 |    25.856 | 28.664 | Sunless Veil, Robe Of Prayer, Fire Keeper Gloves, Archdeacon Skirt
        9.3 |    8.808 |     9.661 |    8.629 |     8.342 | 26.961 | 25.914 |    26.314 | 28.664 | Sunless Veil, Robe Of Prayer, Pyromancer Wrap, Archdeacon Skirt
        9.5 |    8.899 |     9.272 |    9.177 |     8.613 | 26.408 | 25.390 |    25.598 | 28.658 | Archdeacon White Crown, Robe Of Prayer, Pontiff Knight Gauntlets, Fire Keeper Skirt
+=====================================================================================================================================================================================
 best  12.7 |   11.321 |    10.386 |   11.141 |    10.579 | 26.254 | 26.231 |    25.593 | 28.877 | Old Sorcerer Hat, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       12.7 |   11.681 |     9.932 |   11.051 |    10.307 | 25.246 | 26.385 |    25.359 | 28.727 | Desert Pyromancer Hood, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       11.3 |   10.382 |    11.935 |   11.480 |    10.467 | 25.745 | 25.528 |    25.478 | 28.592 | Archdeacon White Crown, Robe Of Prayer, Black Gauntlets, Archdeacon Skirt
@@ -323,6 +355,7 @@ best  12.7 |   11.321 |    10.386 |   11.141 |    10.579 | 26.254 | 26.231 |    
       10.2 |    9.828 |     9.844 |   10.108 |     9.457 | 26.576 | 24.825 |    25.927 | 28.438 | Pontiff Knight Crown, Robe Of Prayer, Pyromancer Wrap, Archdeacon Skirt
       11.6 |   10.745 |    11.129 |   11.202 |    10.375 | 26.036 | 24.831 |    25.928 | 28.437 | Wolnir's Crown, Robe Of Prayer, Pontiff Knight Gauntlets, Archdeacon Skirt
       10.8 |    9.922 |    10.464 |   10.568 |     9.545 | 25.263 | 25.849 |    24.751 | 28.436 | Archdeacon White Crown, Robe Of Prayer, Black Gauntlets, Fire Keeper Skirt
+============================================================================================================================================================================
 best  12.9 |   11.681 |    10.476 |   11.231 |    10.670 | 26.331 | 25.845 |    25.905 | 28.952 | Cleric Hat, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       12.9 |   10.691 |    10.022 |   10.691 |     9.944 | 26.099 | 26.385 |    25.671 | 28.877 | Black Witch Veil, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       12.9 |   10.871 |    10.295 |   10.871 |    10.035 | 26.021 | 26.231 |    25.515 | 28.652 | Maiden Hood, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
@@ -333,6 +366,7 @@ best  12.9 |   11.681 |    10.476 |   11.231 |    10.670 | 26.331 | 25.845 |    
       12.8 |   11.411 |    12.299 |   11.032 |    10.570 | 26.179 | 26.232 |    25.598 | 28.436 | Archdeacon White Crown, Robe Of Prayer, Exile Gauntlets, Fire Keeper Skirt
       12.8 |   11.952 |     9.839 |   11.323 |    10.855 | 25.487 | 25.748 |    26.320 | 28.416 | Desert Pyromancer Hood, Robe Of Prayer, Winged Knight Gauntlets, Court Sorcerer Trousers
       12.8 |   11.411 |     9.833 |   10.960 |    10.215 | 26.173 | 25.123 |    25.825 | 28.409 | Cleric Hat, Robe Of Prayer, Winged Knight Gauntlets, Skirt Of Prayer
+======================================================================================================================================================================
 best  13.2 |   11.773 |    11.858 |   12.047 |    11.491 | 26.730 | 25.911 |    26.311 | 29.032 | Old Sorcerer Hat, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       13.2 |   12.132 |    11.411 |   11.958 |    11.221 | 25.729 | 26.066 |    26.080 | 28.883 | Desert Pyromancer Hood, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       13.2 |   12.225 |    10.202 |   11.594 |    10.762 | 27.048 | 26.470 |    26.471 | 28.877 | Old Sorcerer Hat, Robe Of Prayer, Winged Knight Gauntlets, Black Witch Trousers
@@ -343,6 +377,7 @@ best  13.2 |   11.773 |    11.858 |   12.047 |    11.491 | 26.730 | 25.911 |    
       13.0 |   11.952 |    10.384 |   11.503 |    11.216 | 26.569 | 25.203 |    26.859 | 28.642 | Cleric Hat, Robe Of Prayer, Winged Knight Gauntlets, Court Sorcerer Trousers
       13.2 |   11.231 |     9.650 |   10.779 |     9.941 | 26.328 | 25.824 |    25.747 | 28.635 | Sunless Veil, Robe Of Prayer, Winged Knight Gauntlets, Skirt Of Prayer
       13.2 |   12.312 |     9.932 |   11.686 |    10.307 | 26.211 | 26.465 |    26.400 | 28.572 | Desert Pyromancer Hood, Robe Of Prayer, Winged Knight Gauntlets, Karla's Trousers
+===================================================================================================================================================================================
 best  13.3 |   11.411 |    11.657 |   11.681 |    10.942 | 26.331 | 26.462 |    25.983 | 29.251 | Archdeacon White Crown, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       13.3 |   11.501 |    10.295 |   11.051 |    10.398 | 26.486 | 26.539 |    25.827 | 29.176 | Sunless Veil, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       13.3 |   11.681 |    10.204 |   10.961 |    10.488 | 26.254 | 26.616 |    25.827 | 28.952 | Black Witch Hat, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
@@ -353,6 +388,7 @@ best  13.3 |   11.411 |    11.657 |   11.681 |    10.942 | 26.331 | 26.462 |    
       13.3 |   11.952 |    12.410 |   11.311 |    10.940 | 26.810 | 25.991 |    26.161 | 28.516 | Sunless Veil, Robe Of Prayer, Exile Gauntlets, Archdeacon Skirt
       13.3 |   11.602 |     9.747 |   11.146 |    10.127 | 26.281 | 25.856 |    25.855 | 28.503 | Hood Of Prayer, Robe Of Prayer, Winged Knight Gauntlets, Black Witch Trousers
       13.3 |   12.536 |    12.413 |   13.262 |    13.176 | 25.729 | 25.296 |    26.777 | 28.440 | Iron Dragonslayer Helm, Robe Of Prayer, Court Sorcerer Gloves, Archdeacon Skirt
+=================================================================================================================================================================================
 best  13.8 |   11.863 |    13.108 |   12.582 |    11.850 | 26.807 | 26.144 |    26.697 | 29.405 | Archdeacon White Crown, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       13.8 |   11.952 |    11.768 |   11.958 |    11.311 | 26.961 | 26.221 |    26.543 | 29.330 | Sunless Veil, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       13.8 |   12.314 |    11.475 |   12.132 |    11.124 | 27.124 | 26.701 |    26.856 | 29.251 | Archdeacon White Crown, Robe Of Prayer, Winged Knight Gauntlets, Black Witch Trousers
@@ -363,6 +399,7 @@ best  13.8 |   11.863 |    13.108 |   12.582 |    11.850 | 26.807 | 26.144 |    
       13.4 |   11.146 |    11.500 |   11.602 |    10.862 | 26.576 | 26.066 |    26.389 | 29.032 | Black Witch Veil, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       13.7 |   11.863 |    11.947 |   12.136 |    11.221 | 26.807 | 26.221 |    26.620 | 29.032 | Karla's Pointed Hat, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       13.8 |   12.133 |    10.295 |   11.686 |    10.398 | 27.436 | 26.619 |    26.861 | 29.022 | Sunless Veil, Robe Of Prayer, Winged Knight Gauntlets, Karla's Trousers
+=========================================================================================================================================================================
 best  18.5 |   16.003 |    14.108 |   16.003 |    14.937 | 25.789 | 26.770 |    25.749 | 29.475 | Winged Knight Helm, Robe Of Prayer, Winged Knight Gauntlets, Fire Keeper Skirt
       18.3 |   15.894 |    14.715 |   16.592 |    16.073 | 25.960 | 26.066 |    26.929 | 29.181 | Iron Dragonslayer Helm, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       14.7 |   12.938 |    11.947 |   13.384 |    12.389 | 26.576 | 25.137 |    26.157 | 29.107 | Pontiff Knight Crown, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
@@ -373,6 +410,7 @@ best  18.5 |   16.003 |    14.108 |   16.003 |    14.937 | 25.789 | 26.770 |    
       14.0 |   11.954 |    14.006 |   13.126 |    11.395 | 27.061 | 26.484 |    27.035 | 28.992 | Archdeacon White Crown, Black Witch Garb, Winged Knight Gauntlets, Archdeacon Skirt
       14.6 |   12.594 |    13.557 |   12.672 |    12.305 | 25.538 | 26.144 |    25.769 | 28.992 | Archdeacon White Crown, Pyromancer Garb, Winged Knight Gauntlets, Archdeacon Skirt
       14.1 |   13.007 |    13.151 |   13.453 |    12.721 | 26.115 | 26.224 |    26.007 | 28.966 | Winged Knight Helm, Robe Of Prayer, Antiquated Gloves, Archdeacon Skirt
+=========================================================================================================================================================================
 best  19.0 |   16.431 |    15.519 |   16.859 |    15.804 | 26.268 | 26.453 |    26.466 | 29.629 | Winged Knight Helm, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       19.0 |   16.859 |    13.932 |   16.431 |    15.110 | 26.587 | 27.008 |    26.625 | 29.475 | Winged Knight Helm, Robe Of Prayer, Winged Knight Gauntlets, Black Witch Trousers
       19.0 |   16.602 |    14.108 |   16.602 |    14.937 | 26.747 | 26.850 |    26.784 | 29.321 | Winged Knight Helm, Robe Of Prayer, Winged Knight Gauntlets, Karla's Trousers
@@ -383,6 +421,7 @@ best  19.0 |   16.431 |    15.519 |   16.859 |    15.804 | 26.268 | 26.453 |    
       18.8 |   16.431 |    14.626 |   16.859 |    15.624 | 26.730 | 26.453 |    25.926 | 28.883 | Executioner Helm, Robe Of Prayer, Winged Knight Gauntlets, Archdeacon Skirt
       18.7 |   15.832 |    13.579 |   15.832 |    14.590 | 26.108 | 26.295 |    25.988 | 28.860 | Winged Knight Helm, Robe Of Prayer, Winged Knight Gauntlets, Maiden Skirt
       18.7 |   16.431 |    15.519 |   16.946 |    16.156 | 25.962 | 25.917 |    26.542 | 28.818 | Winged Knight Helm, Robe Of Prayer, Catarina Gauntlets, Archdeacon Skirt
+==========================================================================================================================================================================
 best  22.5 |   21.079 |    18.615 |   20.918 |    20.489 | 26.709 | 26.234 |    27.068 | 29.899 | Old Sorcerer Hat, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       22.5 |   21.399 |    18.202 |   20.838 |    20.247 | 25.707 | 26.389 |    26.839 | 29.752 | Desert Pyromancer Hood, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       22.5 |   21.079 |    18.532 |   20.918 |    20.329 | 27.012 | 26.463 |    26.690 | 29.681 | Old Sorcerer Hat, Winged Knight Armor, Pale Shade Gloves, Fire Keeper Skirt
@@ -393,6 +432,7 @@ best  22.5 |   21.079 |    18.615 |   20.918 |    20.489 | 26.709 | 26.234 |    
       22.3 |   20.518 |    18.202 |   20.518 |    19.924 | 26.015 | 26.311 |    26.534 | 29.383 | Old Sage's Blindfold, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       22.5 |   20.116 |    18.285 |   20.678 |    19.601 | 26.168 | 26.539 |    26.305 | 29.383 | Old Sage's Blindfold, Winged Knight Armor, Black Witch Wrappings, Fire Keeper Skirt
       22.4 |   20.837 |    18.030 |   20.677 |    20.084 | 26.551 | 25.516 |    26.990 | 29.364 | Old Sorcerer Hat, Winged Knight Armor, Court Sorcerer Gloves, Skirt Of Prayer
+===============================================================================================================================================================================
 best  22.6 |   20.999 |    18.532 |   20.839 |    20.329 | 26.784 | 26.767 |    26.766 | 29.972 | Old Sorcerer Hat, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       22.6 |   21.320 |    18.120 |   20.758 |    20.086 | 25.784 | 26.920 |    26.536 | 29.825 | Desert Pyromancer Hood, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       22.6 |   21.320 |    18.531 |   21.160 |    20.976 | 26.945 | 25.596 |    28.008 | 29.594 | Old Sorcerer Hat, Winged Knight Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
@@ -403,6 +443,7 @@ best  22.6 |   20.999 |    18.532 |   20.839 |    20.329 | 26.784 | 26.767 |    
       22.6 |   20.357 |    18.037 |   20.598 |    19.601 | 25.939 | 26.539 |    26.000 | 29.457 | Old Sage's Blindfold, Winged Knight Armor, Fire Keeper Gloves, Fire Keeper Skirt
       22.6 |   21.640 |    18.118 |   21.080 |    20.735 | 25.947 | 25.751 |    27.781 | 29.445 | Desert Pyromancer Hood, Winged Knight Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
       22.6 |   21.159 |    18.113 |   20.757 |    20.165 | 26.628 | 25.127 |    27.296 | 29.438 | Cleric Hat, Winged Knight Armor, Court Sorcerer Gloves, Skirt Of Prayer
+=========================================================================================================================================================================
 best  22.7 |   21.399 |    18.697 |   20.999 |    20.570 | 26.786 | 25.849 |    27.374 | 29.973 | Cleric Hat, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       22.7 |   20.518 |    18.285 |   20.518 |    19.924 | 26.555 | 26.389 |    27.145 | 29.899 | Black Witch Veil, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       22.7 |   20.680 |    18.697 |   21.078 |    20.168 | 26.860 | 26.463 |    26.842 | 29.899 | Old Sorcerer Hat, Winged Knight Armor, Black Witch Wrappings, Fire Keeper Skirt
@@ -413,6 +454,7 @@ best  22.7 |   21.399 |    18.697 |   20.999 |    20.570 | 26.786 | 25.849 |    
       22.7 |   21.240 |    18.037 |   20.758 |    20.086 | 25.937 | 26.616 |    26.688 | 29.679 | Desert Pyromancer Hood, Winged Knight Armor, Karla's Gloves, Fire Keeper Skirt
       22.7 |   20.678 |    18.532 |   20.678 |    20.005 | 26.478 | 26.234 |    26.992 | 29.678 | Maiden Hood, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       22.7 |   21.241 |    18.449 |   21.081 |    20.816 | 27.021 | 26.133 |    27.709 | 29.667 | Old Sorcerer Hat, Winged Knight Armor, Antiquated Gloves, Court Sorcerer Trousers
+===================================================================================================================================================================================
 best  22.8 |   21.320 |    18.615 |   20.919 |    20.410 | 26.861 | 26.384 |    27.073 | 30.046 | Cleric Hat, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       22.8 |   20.438 |    18.202 |   20.438 |    19.762 | 26.630 | 26.920 |    26.843 | 29.972 | Black Witch Veil, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       22.8 |   20.919 |    18.450 |   20.998 |    20.168 | 26.633 | 26.463 |    26.539 | 29.972 | Old Sorcerer Hat, Winged Knight Armor, Fire Keeper Gloves, Fire Keeper Skirt
@@ -423,6 +465,7 @@ best  22.8 |   21.320 |    18.615 |   20.919 |    20.410 | 26.861 | 26.384 |    
       22.8 |   21.320 |    18.202 |   20.758 |    20.005 | 25.937 | 26.616 |    26.688 | 29.752 | Desert Pyromancer Hood, Winged Knight Armor, Maiden Gloves, Fire Keeper Skirt
       22.8 |   21.637 |    18.368 |   21.078 |    20.247 | 25.937 | 26.616 |    26.688 | 29.752 | Desert Pyromancer Hood, Winged Knight Armor, Sorcerer Gloves, Fire Keeper Skirt
       22.8 |   20.598 |    18.450 |   20.598 |    19.843 | 26.553 | 26.767 |    26.689 | 29.751 | Maiden Hood, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
+========================================================================================================================================================================
 best  23.0 |   21.481 |    19.952 |   21.725 |    21.300 | 27.182 | 25.915 |    27.773 | 30.052 | Old Sorcerer Hat, Winged Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
       23.0 |   21.240 |    18.533 |   21.078 |    20.249 | 26.710 | 26.078 |    26.847 | 30.046 | Cleric Hat, Winged Knight Armor, Fire Keeper Gloves, Fire Keeper Skirt
       22.9 |   21.002 |    18.779 |   21.158 |    20.249 | 26.937 | 26.078 |    27.148 | 29.973 | Cleric Hat, Winged Knight Armor, Black Witch Wrappings, Fire Keeper Skirt
@@ -433,6 +476,7 @@ best  23.0 |   21.481 |    19.952 |   21.725 |    21.300 | 27.182 | 25.915 |    
       23.0 |   21.800 |    19.546 |   21.645 |    21.060 | 26.187 | 26.070 |    27.546 | 29.905 | Desert Pyromancer Hood, Winged Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
       22.9 |   21.240 |    18.533 |   20.919 |    20.410 | 27.013 | 26.078 |    27.223 | 29.900 | Cleric Hat, Winged Knight Armor, Karla's Gloves, Fire Keeper Skirt
       23.0 |   21.320 |    18.533 |   21.078 |    20.329 | 27.088 | 26.155 |    27.148 | 29.900 | Cleric Hat, Winged Knight Armor, Cornyx's Wrap, Fire Keeper Skirt
+===================================================================================================================================================================
 best  23.1 |   21.159 |    19.769 |   21.399 |    20.812 | 26.786 | 26.466 |    27.450 | 30.268 | Archdeacon White Crown, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       23.1 |   21.239 |    18.532 |   20.838 |    20.328 | 26.940 | 26.543 |    27.298 | 30.194 | Sunless Veil, Winged Knight Armor, Court Sorcerer Gloves, Fire Keeper Skirt
       23.1 |   21.402 |    19.871 |   21.646 |    21.141 | 27.257 | 26.450 |    27.473 | 30.125 | Old Sorcerer Hat, Winged Knight Armor, Antiquated Gloves, Archdeacon Skirt
@@ -443,6 +487,7 @@ best  23.1 |   21.159 |    19.769 |   21.399 |    20.812 | 26.786 | 26.466 |    
       23.1 |   21.079 |    18.615 |   20.919 |    20.086 | 26.861 | 27.073 |    27.073 | 29.972 | Karla's Pointed Hat, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       23.1 |   21.804 |    18.365 |   21.242 |    20.491 | 27.573 | 27.004 |    27.630 | 29.972 | Old Sorcerer Hat, Winged Knight Armor, Antiquated Gloves, Black Witch Trousers
       23.1 |   22.122 |    17.952 |   21.162 |    20.249 | 26.582 | 27.157 |    27.403 | 29.825 | Desert Pyromancer Hood, Winged Knight Armor, Antiquated Gloves, Black Witch Trousers
+======================================================================================================================================================================================
 best  23.2 |   21.079 |    19.688 |   21.320 |    20.652 | 26.861 | 26.996 |    27.149 | 30.340 | Archdeacon White Crown, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       23.2 |   21.159 |    18.450 |   20.758 |    20.167 | 27.015 | 27.073 |    26.996 | 30.267 | Sunless Veil, Winged Knight Armor, Antiquated Gloves, Fire Keeper Skirt
       23.2 |   21.800 |    20.033 |   21.804 |    21.380 | 27.259 | 25.528 |    28.075 | 30.126 | Cleric Hat, Winged Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
@@ -453,6 +498,7 @@ best  23.2 |   21.079 |    19.688 |   21.320 |    20.652 | 26.861 | 26.996 |    
       23.2 |   21.322 |    19.790 |   21.646 |    21.141 | 27.408 | 26.144 |    27.623 | 29.980 | Old Sorcerer Hat, Winged Knight Armor, Karla's Gloves, Archdeacon Skirt
       23.2 |   22.200 |    18.530 |   21.401 |    20.732 | 27.574 | 26.090 |    28.231 | 29.973 | Cleric Hat, Winged Knight Armor, Court Sorcerer Gloves, Black Witch Trousers
       23.2 |   20.839 |    18.533 |   20.678 |    20.005 | 26.782 | 26.844 |    27.069 | 29.972 | Black Witch Veil, Winged Knight Armor, Pyromancer Wrap, Fire Keeper Skirt
+===========================================================================================================================================================================
 best  23.6 |   21.561 |    21.087 |   22.200 |    21.620 | 27.259 | 26.147 |    28.151 | 30.420 | Archdeacon White Crown, Winged Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
       23.6 |   21.640 |    19.870 |   21.645 |    21.140 | 27.412 | 26.225 |    28.000 | 30.346 | Sunless Veil, Winged Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
       23.4 |   21.000 |    19.607 |   21.479 |    20.492 | 26.710 | 26.693 |    26.924 | 30.340 | Archdeacon White Crown, Winged Knight Armor, Fire Keeper Gloves, Fire Keeper Skirt
@@ -463,6 +509,7 @@ best  23.6 |   21.561 |    21.087 |   22.200 |    21.620 | 27.259 | 26.147 |    
       23.6 |   21.962 |    19.604 |   21.800 |    20.974 | 27.574 | 26.704 |    28.307 | 30.268 | Archdeacon White Crown, Winged Knight Armor, Court Sorcerer Gloves, Black Witch Trousers
       23.4 |   21.080 |    18.367 |   20.918 |    20.006 | 26.864 | 26.770 |    26.770 | 30.267 | Sunless Veil, Winged Knight Armor, Fire Keeper Gloves, Fire Keeper Skirt
       23.6 |   21.557 |    18.779 |   20.998 |    20.409 | 27.166 | 26.997 |    27.222 | 30.267 | Sunless Veil, Winged Knight Armor, Pyromancer Wrap, Fire Keeper Skirt
+=======================================================================================================================================================================
 best  23.7 |   21.481 |    21.007 |   22.122 |    21.461 | 27.334 | 26.680 |    27.853 | 30.492 | Archdeacon White Crown, Winged Knight Armor, Antiquated Gloves, Archdeacon Skirt
       23.7 |   21.561 |    19.789 |   21.566 |    20.981 | 27.487 | 26.757 |    27.701 | 30.419 | Sunless Veil, Winged Knight Armor, Antiquated Gloves, Archdeacon Skirt
       23.7 |   21.884 |    19.523 |   21.721 |    20.814 | 27.649 | 27.233 |    28.009 | 30.340 | Archdeacon White Crown, Winged Knight Armor, Antiquated Gloves, Black Witch Trousers
@@ -473,6 +520,7 @@ best  23.7 |   21.481 |    21.007 |   22.122 |    21.461 | 27.334 | 26.680 |    
       23.7 |   21.242 |    19.871 |   21.487 |    20.821 | 27.255 | 26.527 |    27.774 | 30.125 | Black Witch Veil, Winged Knight Armor, Pyromancer Wrap, Archdeacon Skirt
       23.7 |   21.722 |    18.450 |   21.324 |    20.167 | 27.958 | 27.152 |    28.014 | 30.114 | Sunless Veil, Winged Knight Armor, Antiquated Gloves, Karla's Trousers
       23.7 |   21.164 |    20.114 |   21.962 |    20.741 | 27.409 | 26.453 |    27.851 | 30.052 | Karla's Pointed Hat, Winged Knight Armor, Black Witch Wrappings, Archdeacon Skirt
+===================================================================================================================================================================================
 best  24.8 |   22.432 |    21.087 |   23.065 |    22.254 | 27.559 | 25.843 |    27.927 | 30.564 | Archdeacon White Crown, Winged Knight Armor, Pontiff Knight Gauntlets, Archdeacon Skirt
       23.9 |   21.402 |    20.927 |   22.279 |    21.303 | 27.183 | 26.376 |    27.629 | 30.492 | Archdeacon White Crown, Winged Knight Armor, Fire Keeper Gloves, Archdeacon Skirt
       24.1 |   21.878 |    21.326 |   22.358 |    21.699 | 27.484 | 26.604 |    28.076 | 30.492 | Archdeacon White Crown, Winged Knight Armor, Pyromancer Wrap, Archdeacon Skirt
@@ -483,6 +531,7 @@ best  24.8 |   22.432 |    21.087 |   23.065 |    22.254 | 27.559 | 25.843 |    
       23.9 |   21.482 |    19.708 |   21.724 |    20.821 | 27.337 | 26.453 |    27.477 | 30.419 | Sunless Veil, Winged Knight Armor, Fire Keeper Gloves, Archdeacon Skirt
       24.1 |   21.957 |    20.114 |   21.804 |    21.220 | 27.637 | 26.681 |    27.925 | 30.419 | Sunless Veil, Winged Knight Armor, Pyromancer Wrap, Archdeacon Skirt
       24.3 |   22.035 |    19.769 |   22.273 |    21.453 | 27.088 | 26.162 |    27.225 | 30.412 | Archdeacon White Crown, Winged Knight Armor, Pontiff Knight Gauntlets, Fire Keeper Skirt
+==========================================================================================================================================================================================
 best  27.5 |   24.108 |    20.754 |   23.954 |    23.142 | 26.936 | 26.995 |    27.220 | 30.626 | Old Sorcerer Hat, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       27.5 |   24.416 |    20.353 |   23.877 |    22.908 | 25.937 | 27.147 |    26.991 | 30.480 | Desert Pyromancer Hood, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       26.1 |   23.304 |    22.124 |   24.244 |    23.046 | 26.432 | 26.300 |    27.107 | 30.348 | Archdeacon White Crown, Winged Knight Armor, Black Gauntlets, Archdeacon Skirt
@@ -493,6 +542,7 @@ best  27.5 |   24.108 |    20.754 |   23.954 |    23.142 | 26.936 | 26.995 |    
       25.0 |   22.830 |    20.275 |   23.070 |    22.178 | 27.255 | 25.604 |    27.546 | 30.198 | Pontiff Knight Crown, Winged Knight Armor, Pyromancer Wrap, Archdeacon Skirt
       26.4 |   23.615 |    21.411 |   24.006 |    22.967 | 26.720 | 25.610 |    27.548 | 30.197 | Wolnir's Crown, Winged Knight Armor, Pontiff Knight Gauntlets, Archdeacon Skirt
       25.6 |   22.911 |    20.824 |   23.463 |    22.254 | 25.954 | 26.617 |    26.397 | 30.196 | Archdeacon White Crown, Winged Knight Armor, Black Gauntlets, Fire Keeper Skirt
+=================================================================================================================================================================================
 best  27.7 |   24.416 |    20.835 |   24.031 |    23.220 | 27.013 | 26.613 |    27.525 | 30.699 | Cleric Hat, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       27.7 |   23.569 |    20.433 |   23.569 |    22.596 | 26.782 | 27.147 |    27.296 | 30.626 | Black Witch Veil, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       27.7 |   23.723 |    20.674 |   23.723 |    22.674 | 26.705 | 26.995 |    27.144 | 30.407 | Maiden Hood, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
@@ -503,6 +553,7 @@ best  27.7 |   24.416 |    20.835 |   24.031 |    23.220 | 27.013 | 26.613 |    
       27.6 |   24.647 |    20.271 |   24.110 |    23.380 | 26.176 | 26.517 |    27.931 | 30.177 | Desert Pyromancer Hood, Winged Knight Armor, Winged Knight Gauntlets, Court Sorcerer Trousers
       27.6 |   24.185 |    20.266 |   23.799 |    22.829 | 26.856 | 25.899 |    27.447 | 30.170 | Cleric Hat, Winged Knight Armor, Winged Knight Gauntlets, Skirt Of Prayer
       27.7 |   24.413 |    22.523 |   25.029 |    24.235 | 26.958 | 26.756 |    27.555 | 30.132 | Archdeacon White Crown, Winged Knight Armor, Black Iron Gauntlets, Archdeacon Skirt
+=====================================================================================================================================================================================
 best  28.0 |   24.495 |    22.056 |   24.729 |    23.926 | 27.408 | 26.679 |    27.923 | 30.777 | Old Sorcerer Hat, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       28.0 |   24.801 |    21.661 |   24.653 |    23.694 | 26.415 | 26.832 |    27.696 | 30.631 | Desert Pyromancer Hood, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       28.0 |   24.882 |    20.591 |   24.341 |    23.299 | 27.722 | 27.232 |    28.079 | 30.626 | Old Sorcerer Hat, Winged Knight Armor, Winged Knight Gauntlets, Black Witch Trousers
@@ -513,6 +564,7 @@ best  28.0 |   24.495 |    22.056 |   24.729 |    23.926 | 27.408 | 26.679 |    
       27.8 |   24.647 |    20.753 |   24.263 |    23.690 | 27.248 | 25.978 |    28.458 | 30.396 | Cleric Hat, Winged Knight Armor, Winged Knight Gauntlets, Court Sorcerer Trousers
       28.0 |   24.030 |    20.104 |   23.644 |    22.594 | 27.010 | 26.592 |    27.371 | 30.390 | Sunless Veil, Winged Knight Armor, Winged Knight Gauntlets, Skirt Of Prayer
       28.0 |   24.956 |    20.353 |   24.420 |    22.908 | 26.894 | 27.226 |    28.010 | 30.328 | Desert Pyromancer Hood, Winged Knight Armor, Winged Knight Gauntlets, Karla's Trousers
+========================================================================================================================================================================================
 best  28.1 |   24.185 |    21.878 |   24.416 |    23.455 | 27.013 | 27.224 |    27.601 | 30.991 | Archdeacon White Crown, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       28.1 |   24.262 |    20.674 |   23.877 |    22.986 | 27.166 | 27.300 |    27.448 | 30.918 | Sunless Veil, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       28.1 |   24.416 |    20.594 |   23.800 |    23.064 | 26.936 | 27.376 |    27.448 | 30.699 | Black Witch Hat, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
@@ -523,6 +575,7 @@ best  28.1 |   24.185 |    21.878 |   24.416 |    23.455 | 27.013 | 27.224 |    
       28.1 |   24.648 |    22.544 |   24.099 |    23.453 | 27.487 | 26.757 |    27.776 | 30.274 | Sunless Veil, Winged Knight Armor, Exile Gauntlets, Archdeacon Skirt
       28.1 |   24.348 |    20.189 |   23.958 |    22.754 | 26.962 | 26.624 |    27.476 | 30.261 | Hood Of Prayer, Winged Knight Armor, Winged Knight Gauntlets, Black Witch Trousers
       28.1 |   25.148 |    22.547 |   25.769 |    25.375 | 26.416 | 26.070 |    28.378 | 30.199 | Iron Dragonslayer Helm, Winged Knight Armor, Court Sorcerer Gloves, Archdeacon Skirt
+======================================================================================================================================================================================
 best  28.6 |   24.571 |    23.162 |   25.187 |    24.235 | 27.484 | 26.909 |    28.300 | 31.141 | Archdeacon White Crown, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       28.6 |   24.648 |    21.977 |   24.653 |    23.771 | 27.637 | 26.985 |    28.149 | 31.068 | Sunless Veil, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       28.6 |   24.958 |    21.718 |   24.801 |    23.611 | 27.798 | 27.460 |    28.455 | 30.991 | Archdeacon White Crown, Winged Knight Armor, Winged Knight Gauntlets, Black Witch Trousers
@@ -533,6 +586,7 @@ best  28.6 |   24.571 |    23.162 |   25.187 |    24.235 | 27.484 | 26.909 |    
       28.2 |   23.958 |    21.740 |   24.348 |    23.385 | 27.255 | 26.832 |    27.998 | 30.777 | Black Witch Veil, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       28.5 |   24.571 |    22.135 |   24.805 |    23.694 | 27.484 | 26.985 |    28.225 | 30.777 | Karla's Pointed Hat, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       28.6 |   24.803 |    20.674 |   24.420 |    22.986 | 28.107 | 27.379 |    28.460 | 30.767 | Sunless Veil, Winged Knight Armor, Winged Knight Gauntlets, Karla's Trousers
+==============================================================================================================================================================================
 best  33.3 |   28.114 |    24.046 |   28.114 |    26.888 | 26.475 | 27.529 |    27.372 | 31.209 | Winged Knight Helm, Winged Knight Armor, Winged Knight Gauntlets, Fire Keeper Skirt
       33.1 |   28.021 |    24.583 |   28.618 |    27.865 | 26.644 | 26.832 |    28.526 | 30.923 | Iron Dragonslayer Helm, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       29.5 |   25.491 |    22.135 |   25.873 |    24.698 | 27.255 | 25.913 |    27.772 | 30.850 | Pontiff Knight Crown, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
@@ -543,6 +597,7 @@ best  33.3 |   28.114 |    24.046 |   28.114 |    26.888 | 26.475 | 27.529 |    
       28.9 |   25.551 |    23.199 |   25.932 |    24.984 | 26.798 | 26.988 |    27.625 | 30.713 | Winged Knight Helm, Winged Knight Armor, Antiquated Gloves, Archdeacon Skirt
       29.1 |   25.476 |    23.122 |   26.082 |    24.832 | 26.647 | 26.684 |    27.401 | 30.713 | Winged Knight Helm, Winged Knight Armor, Fire Keeper Gloves, Archdeacon Skirt
       29.3 |   25.927 |    23.510 |   26.157 |    25.211 | 26.950 | 26.912 |    27.849 | 30.713 | Winged Knight Helm, Winged Knight Armor, Pyromancer Wrap, Archdeacon Skirt
+============================================================================================================================================================================
 best  33.8 |   28.481 |    25.294 |   28.847 |    27.633 | 26.950 | 27.215 |    28.074 | 31.359 | Winged Knight Helm, Winged Knight Armor, Winged Knight Gauntlets, Archdeacon Skirt
       33.8 |   28.847 |    23.890 |   28.481 |    27.037 | 27.266 | 27.764 |    28.229 | 31.209 | Winged Knight Helm, Winged Knight Armor, Winged Knight Gauntlets, Black Witch Trousers
       33.8 |   28.627 |    24.046 |   28.627 |    26.888 | 27.425 | 27.607 |    28.385 | 31.059 | Winged Knight Helm, Winged Knight Armor, Winged Knight Gauntlets, Karla's Trousers
