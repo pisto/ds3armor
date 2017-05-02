@@ -450,23 +450,24 @@ int main(int argc, char** argv){
 		return 1;
 	}
 
-	float weight_total = 0;
+	float weight_total_inverse = 0;
 	for(int i = 0; i < 8; i++) if(weights.all[i] < 0){
 		cerr<<"no weight can be negative"<<endl;
 		return 1;
-	} else weight_total += weights.all[i];
-	if(weight_total == 0.){
+	} else weight_total_inverse += weights.all[i];
+	if(weight_total_inverse == 0.){
 		cerr<<"At least one weight must be > 0"<<endl;
 		return 1;
 	}
+	weight_total_inverse = 1 / weight_total_inverse;
 	auto score = [&](const armorset& set){	//basically a weighted sum of the absorptions
 		auto x = set.absorptions;
 		if(harmonic_mean) x.all = 1 / x.all;
 		x.all *= weights.all;
 		x.v4[0] += x.v4[1];
 		x.v2[0] += x.v2[1];
-		float r = (x.v2[0][0] + x.v2[0][1]) / weight_total;
-		return harmonic_mean ? 1 / r : r;
+		float r = (x.v2[0][0] + x.v2[0][1]);
+		return harmonic_mean ? weight_total_inverse / r : weight_total_inverse * r;
 	};
 
 	vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
