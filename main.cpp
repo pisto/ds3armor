@@ -399,9 +399,9 @@ const armor ds3armors[] {
 struct armorset{
 	vec_absorptions absorptions;
 	const armor *head = 0, *body, *arms, *legs;
-	float score = 0;
-	unsigned short weight;
-	bool operator <(const armorset& o) const { return score != o.score ? score > o.score : weight < o.weight; }
+	float score = 0, poise = 0;
+	unsigned short weight = 0;
+	bool operator <(const armorset& o) const { return score != o.score ? score > o.score : weight != o.weight ? weight < o.weight : poise > o.poise; }
 };
 
 const int BESTN_TOT = 50;
@@ -415,7 +415,7 @@ int main(int argc, char** argv){
 	memset(weightrank, 0, sizeof(weightrank));
 
 	vec_absorptions weights;
-	bool harmonic_mean, duskcrown;
+	bool harmonic_mean, duskcrown, poisefirst;
 	unsigned int maxtiers;
 	set<string> exclusions;
 
@@ -436,6 +436,7 @@ int main(int argc, char** argv){
 			("duskcrown", value(&duskcrown)->default_value(false), "force the Crown of Dusk")
 			("maxtiers", value(&maxtiers)->default_value(10), "max number of tiers to display")
 			("exclude,e", value(&exclusions_v), "exclude armor pieces by name")
+			("poisefirst,p", value(&poisefirst)->default_value(false), "optimize poise first")
 			("help", "produce help message")
 			;
 		variables_map vm;
@@ -472,7 +473,9 @@ int main(int argc, char** argv){
 		x.v4[0] += x.v4[1];
 		x.v2[0] += x.v2[1];
 		float r = (x.v2[0][0] + x.v2[0][1]);
-		return harmonic_mean ? weight_total_inverse / r : weight_total_inverse * r;
+		r = harmonic_mean ? weight_total_inverse / r : weight_total_inverse * r;
+		if(poisefirst) r += 10000 * set.poise;
+		return r;
 	};
 
 	vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
@@ -497,14 +500,17 @@ int main(int argc, char** argv){
 		for(auto legs: armor_by_type[LEGS]){
 			candidate.legs = legs;
 			auto body_legs_abs = (body->absorptions.all - 100) * (legs->absorptions.all - 100);
+			auto body_legs_poise = (body->poise - 100) * (legs->poise - 100);
 			unsigned short body_legs_weight = body->weight + legs->weight;
 			for(auto arms: armor_by_type[ARMS]){
 				candidate.arms = arms;
 				auto body_legs_arms_abs = body_legs_abs * (arms->absorptions.all - 100);
+				auto body_legs_arms_poise = body_legs_poise * (arms->poise - 100);
 				unsigned short body_legs_arms_weight = body_legs_weight + arms->weight;
 				for(auto head: armor_by_type[HEAD]){
 					candidate.head = head;
 					candidate.absorptions.all = 100 - (body_legs_arms_abs * (head->absorptions.all - 100)) / 1000000;
+					candidate.poise = 100 - (body_legs_arms_poise * (head->poise - 100)) / 1000000;
 					candidate.weight = body_legs_arms_weight + head->weight;
 					candidate.score = score(candidate);
 					auto& bestn = weightrank[candidate.weight];
@@ -518,7 +524,7 @@ int main(int argc, char** argv){
 	}
 
 	const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
-	int namelens[8], prevlen = printf("    weight | ");
+	int namelens[8], prevlen = printf("    weight | poise | ");
 	for(int i = 0; i < 8; i++){
 		namelens[i] = max((int)strlen(absorption_names[i]), 6);
 		prevlen += printf("%6s | ", absorption_names[i]);
@@ -537,7 +543,7 @@ int main(int argc, char** argv){
 			if(!best.head) break;
 			if(!i) cout<<string(prevlen, '=')<<endl;
 			prevlen = printf(!i ? "best" : "    ");
-			prevlen += printf("%6.1f | ", best.weight / 10.);
+			prevlen += printf("%6.1f | %5.2f | ", best.weight / 10., best.poise);
 			if(duskcrown) best.absorptions.magic -= 30;
 			for(int i = 0; i < 8; i++) prevlen += printf(duskcrown && i == 4 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
 			prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
