@@ -24,6 +24,10 @@ These are the arguments to modify the weights for each absorption:
 
 The default phyisical damage weights are 0.25 add up to 1, while the default elemental damage weights are 0. So, if you want to specify that magic damage should be accounted for 30% of its value against physical damage, you specify `-m 0.3`.
 
+### Poise optimization
+
+It is also possible to give priority to poise, then absorption (with the weighting that you specidied) by using `-p 1`.
+
 ### Balanced or unbalanced averages
 
 There are two possible averages:
@@ -51,6 +55,7 @@ I generated a number of sensible default with this program in the [standard-list
 * {fire,magic,lightning,dark,mixed}\_{weight}: physical (weight 1) averaged with elemental at some specified weight between 0.1 and 0.9 - mixed is an average of all elemental damages with the same weights
 * {fire,magic,lightning,dark}\_unbalanced\_{weight}: same as above but with `--balanced 0`
 * duskcrown\_\*: some runs similar to above but with `--duskcrown 1`
+* poise\_\*: a couple of sample lists with focus on poise
 
 ## Download program
 Windows x64 builds are available [here](https://github.com/pisto/ds3armor/releases).
