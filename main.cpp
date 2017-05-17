@@ -1,4 +1,5 @@
 #include <vector>
+#include <set>
 #include <iostream>
 #include <cstring>
 #include <string>
@@ -416,10 +417,12 @@ int main(int argc, char** argv){
 	vec_absorptions weights;
 	bool harmonic_mean, duskcrown;
 	unsigned int maxtiers;
+	set<string> exclusions;
 
 	boost::program_options::options_description options("Options for ds3armor");
 	try {
 		using namespace boost::program_options;
+		vector<string> exclusions_v;
 		options.add_options()
 			("physical", value(&weights.physical)->default_value(0.25), "physical absorption weight")
 			("vs_strike", value(&weights.vs_strike)->default_value(0.25), "vs_strike absorption weight")
@@ -432,6 +435,7 @@ int main(int argc, char** argv){
 			("balanced", value(&harmonic_mean)->default_value(true), "penalize sets with a specific weakness using harmonic averages")
 			("duskcrown", value(&duskcrown)->default_value(false), "force the Crown of Dusk")
 			("maxtiers", value(&maxtiers)->default_value(10), "max number of tiers to display")
+			("exclude,e", value(&exclusions_v), "exclude armor pieces by name")
 			("help", "produce help message")
 			;
 		variables_map vm;
@@ -445,6 +449,7 @@ int main(int argc, char** argv){
 			cerr<<"maxtiers must be between 1 and"<<BESTN_TOT<<endl;
 			return 1;
 		}
+		exclusions.insert(exclusions_v.begin(), exclusions_v.end());
 	} catch(const boost::program_options::error& e){
 		cerr<<"Failed to parse command line: "<<e.what()<<endl<<options<<endl;
 		return 1;
@@ -472,8 +477,18 @@ int main(int argc, char** argv){
 
 	vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
 	for(auto& a: ds3armors){
+		auto it = exclusions.find(a.name);
+		if(it != exclusions.end()){
+			exclusions.erase(it);
+			continue;
+		}
 		if(a.id == 306) continue;	//exclude Symbol of Avarice
 		if(a.type == HEAD ? duskcrown == (a.id == 2) : true) armor_by_type[a.type].push_back(&a);	//use Crown of Dusk only if selected by the user (and force it)
+	}
+	if(!exclusions.empty()){
+		cerr<<"Unrecognized exclusions:"<<endl;
+		for(auto& e: exclusions) cerr<<e<<endl;
+		return 1;
 	}
 
 	armorset candidate;
