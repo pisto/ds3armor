@@ -110,7 +110,7 @@ const armor ds3armors[] {
 		{75,"Court Sorcerer Robe",42,3.6,4.4,3.6,4.4,12.3,11.6,13.5,13.2,29,46,32,74,1.6,BODY},
 		{77,"Court Sorcerer Trousers",22,2.2,2.5,2.2,2.5,7.4,6.8,8,7.9,19,29,21,47,1.1,LEGS},
 		{200,"Creighton's Steel Mask",57,4.5,3.9,6,4.1,3.9,4.2,2.5,4.1,26,19,19,12,6.6,HEAD},
-		{2,"Crown of Dusk",10,0.8,0,0.2,0,0,4,3,3.2,5,12,8,33,0,HEAD},
+		{2,"Crown of Dusk",10,0.8,0,0.2,0,-30,4,3,3.2,5,12,8,33,0,HEAD},
 		{84,"Dancer's Armor",73,10.5,7.4,12.2,11.7,8.3,6,9.1,9.8,41,33,55,22,6.7,BODY},
 		{83,"Dancer's Crown",28,3.3,1.8,4.4,4,2.7,2.2,2.5,2.8,14,10,23,7,1.5,HEAD},
 		{85,"Dancer's Gauntlets",24,2.8,2,3.2,3.1,2.2,1.7,2.4,2.6,15,12,20,9,1.7,ARMS},
@@ -468,7 +468,10 @@ int main(int argc, char** argv){
 	weight_total_inverse = 1 / weight_total_inverse;
 	auto score = [&](const armorset& set){	//basically a weighted sum of the absorptions
 		auto x = set.absorptions;
-		if(harmonic_mean) x.all = 1 / x.all;
+		if(harmonic_mean){
+			if(duskcrown) x.magic += 30;	//harmonic mean screws up with negative numbers
+			x.all = 1 / x.all;
+		}
 		x.all *= weights.all;
 		x.v4[0] += x.v4[1];
 		x.v2[0] += x.v2[1];
@@ -544,7 +547,6 @@ int main(int argc, char** argv){
 			if(!i) cout<<string(prevlen, '=')<<endl;
 			prevlen = printf(!i ? "best" : "    ");
 			prevlen += printf("%6.1f | %5.2f | ", best.weight / 10., best.poise);
-			if(duskcrown) best.absorptions.magic -= 30;
 			for(int i = 0; i < 8; i++) prevlen += printf(duskcrown && i == 4 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
 			prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
 			cout<<endl;
