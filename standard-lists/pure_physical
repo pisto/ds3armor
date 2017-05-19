@@ -1868,35 +1868,79 @@ best  40.2 | 39.37 |   35.484 |    31.991 |   35.861 |    35.484 | 25.346 | 25.7
       40.2 | 39.56 |   35.277 |    31.053 |   35.930 |    35.346 | 25.502 | 26.678 |    25.225 | 26.980 | Black Iron Helm, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
       40.2 | 39.71 |   35.141 |    31.790 |   35.797 |    34.588 | 24.957 | 26.360 |    23.736 | 26.522 | Exile Mask, Harald Legion Armor, Black Iron Gauntlets, Harald Legion Leggings
 =======================================================================================================================================================================================
-best  43.9 | 40.39 |   35.484 |    32.839 |   35.659 |    34.942 | 25.500 | 25.667 |    24.679 | 26.902 | Lapp's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
-      41.4 | 39.82 |   35.484 |    31.991 |   35.861 |    35.484 | 26.050 | 26.289 |    25.851 | 26.366 | Morne's Helm, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
-      43.6 | 40.58 |   35.417 |    32.415 |   35.659 |    35.213 | 25.654 | 26.281 |    24.523 | 26.902 | Lapp's Helm, Harald Legion Armor, Havel's Gauntlets, Harald Legion Leggings
+best  41.4 | 39.82 |   35.484 |    31.991 |   35.861 |    35.484 | 26.050 | 26.289 |    25.851 | 26.366 | Morne's Helm, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
       40.8 | 40.28 |   35.277 |    32.352 |   35.999 |    34.861 | 25.189 | 25.977 |    24.599 | 26.750 | Exile Mask, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
       40.8 | 39.57 |   35.349 |    32.133 |   35.659 |    35.349 | 26.050 | 26.213 |    25.002 | 26.137 | Morne's Helm, Harald Legion Armor, Lapp's Gauntlets, Harald Legion Leggings
       40.5 | 39.49 |   35.484 |    31.991 |   35.793 |    35.213 | 25.654 | 26.281 |    24.991 | 27.660 | Lapp's Helm, Harald Legion Armor, Winged Knight Gauntlets, Harald Legion Leggings
-      41.7 | 39.95 |   35.484 |    31.991 |   35.793 |    35.213 | 26.355 | 26.822 |    25.774 | 27.205 | Morne's Helm, Harald Legion Armor, Winged Knight Gauntlets, Harald Legion Leggings
       41.0 | 39.82 |   35.146 |    32.486 |   35.119 |    35.552 | 26.508 | 26.441 |    25.619 | 26.137 | Morne's Helm, Harald Legion Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
       41.2 | 39.63 |   35.484 |    32.486 |   35.321 |    34.942 | 26.202 | 26.594 |    25.388 | 26.366 | Morne's Helm, Harald Legion Armor, Exile Gauntlets, Harald Legion Leggings
+      41.1 | 40.41 |   35.277 |    32.352 |   35.931 |    34.588 | 25.498 | 26.513 |    24.521 | 27.584 | Exile Mask, Harald Legion Armor, Winged Knight Gauntlets, Harald Legion Leggings
+      40.4 | 40.28 |   34.937 |    32.844 |   35.258 |    34.930 | 25.652 | 26.130 |    24.364 | 26.522 | Exile Mask, Harald Legion Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+      40.3 | 39.81 |   35.213 |    31.921 |   35.996 |    35.010 | 25.577 | 25.897 |    24.679 | 26.826 | Lapp's Helm, Harald Legion Armor, Gundyr's Gauntlets, Harald Legion Leggings
+      40.6 | 40.09 |   35.277 |    32.844 |   35.460 |    34.314 | 25.343 | 26.283 |    24.129 | 26.750 | Exile Mask, Harald Legion Armor, Exile Gauntlets, Harald Legion Leggings
+==================================================================================================================================================================================
+best  43.9 | 40.39 |   35.484 |    32.839 |   35.659 |    34.942 | 25.500 | 25.667 |    24.679 | 26.902 | Lapp's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+      43.6 | 40.58 |   35.417 |    32.415 |   35.659 |    35.213 | 25.654 | 26.281 |    24.523 | 26.902 | Lapp's Helm, Harald Legion Armor, Havel's Gauntlets, Harald Legion Leggings
+      41.7 | 39.95 |   35.484 |    31.991 |   35.793 |    35.213 | 26.355 | 26.822 |    25.774 | 27.205 | Morne's Helm, Harald Legion Armor, Winged Knight Gauntlets, Harald Legion Leggings
       43.9 | 41.01 |   35.279 |    32.349 |   35.590 |    35.002 | 25.659 | 26.525 |    24.527 | 26.907 | Havel's Helm, Harald Legion Armor, Lapp's Gauntlets, Harald Legion Leggings
-=====================================================================================================================================================================================
-best  46.0 | 44.26 |   35.879 |    34.032 |   35.625 |    33.668 | 25.943 | 25.999 |    26.434 | 26.403 | Lapp's Helm, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
-      45.1 | 40.84 |   35.484 |    32.839 |   35.659 |    34.942 | 26.202 | 26.213 |    25.465 | 26.442 | Morne's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
-      45.5 | 41.07 |   35.484 |    32.858 |   35.792 |    34.792 | 25.424 | 25.665 |    25.616 | 27.056 | Smough's Helm, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
-      45.4 | 44.02 |   35.745 |    34.169 |   35.421 |    33.529 | 25.943 | 25.922 |    25.592 | 26.174 | Lapp's Helm, Smough's Armor, Lapp's Gauntlets, Harald Legion Leggings
-      45.6 | 44.26 |   35.542 |    34.512 |   34.880 |    33.738 | 26.402 | 26.152 |    26.205 | 26.174 | Lapp's Helm, Smough's Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+      41.5 | 40.27 |   35.213 |    31.921 |   35.996 |    35.010 | 26.279 | 26.441 |    25.465 | 26.366 | Morne's Helm, Harald Legion Armor, Gundyr's Gauntlets, Harald Legion Leggings
+      43.7 | 42.57 |   35.090 |    33.887 |   33.287 |    35.340 | 27.375 | 26.433 |    26.566 | 26.141 | Lapp's Helm, Cathedral Knight Armor, Smough's Gauntlets, Harald Legion Leggings
+      42.8 | 40.39 |   35.339 |    32.167 |   35.441 |    34.723 | 25.177 | 25.505 |    24.110 | 26.186 | Lapp's Helm, Harald Legion Armor, Smough's Gauntlets, Lapp's Leggings
+      43.9 | 40.58 |   35.277 |    31.912 |   35.728 |    34.803 | 25.656 | 26.603 |    24.836 | 27.055 | Black Iron Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+      43.4 | 42.75 |   35.021 |    33.470 |   33.287 |    35.610 | 27.525 | 27.041 |    26.414 | 26.141 | Lapp's Helm, Cathedral Knight Armor, Havel's Gauntlets, Harald Legion Leggings
+      43.9 | 41.07 |   35.405 |    31.890 |   35.477 |    34.712 | 25.168 | 25.665 |    24.769 | 25.959 | Smough's Helm, Lapp's Armor, Catarina Gauntlets, Harald Legion Leggings
+=================================================================================================================================================================================
+best  45.1 | 40.84 |   35.484 |    32.839 |   35.659 |    34.942 | 26.202 | 26.213 |    25.465 | 26.442 | Morne's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
       44.8 | 41.03 |   35.417 |    32.415 |   35.659 |    35.213 | 26.355 | 26.822 |    25.311 | 26.442 | Morne's Helm, Harald Legion Armor, Havel's Gauntlets, Harald Legion Leggings
       44.9 | 40.82 |   35.349 |    32.997 |   35.590 |    34.655 | 25.424 | 25.589 |    24.765 | 26.830 | Smough's Helm, Harald Legion Armor, Lapp's Gauntlets, Harald Legion Leggings
       44.5 | 41.29 |   35.277 |    33.195 |   35.797 |    34.314 | 25.343 | 25.901 |    24.207 | 26.825 | Exile Mask, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+      45.1 | 41.07 |   35.146 |    33.346 |   35.049 |    34.861 | 25.886 | 25.819 |    25.384 | 26.830 | Smough's Helm, Harald Legion Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+      44.5 | 41.26 |   35.415 |    32.208 |   35.792 |    35.138 | 25.659 | 26.600 |    25.382 | 27.133 | Havel's Helm, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
+      44.2 | 41.48 |   35.209 |    32.774 |   35.797 |    34.588 | 25.498 | 26.513 |    24.050 | 26.825 | Exile Mask, Harald Legion Armor, Havel's Gauntlets, Harald Legion Leggings
+      44.6 | 44.49 |   35.642 |    32.236 |   35.703 |    34.853 | 26.627 | 28.720 |    25.581 | 27.250 | Lapp's Helm, Havel's Armor, Catarina Gauntlets, Harald Legion Leggings
+      44.8 | 41.39 |   35.415 |    32.208 |   35.725 |    34.866 | 25.965 | 27.132 |    25.304 | 27.963 | Havel's Helm, Harald Legion Armor, Winged Knight Gauntlets, Harald Legion Leggings
+      44.4 | 40.13 |   35.415 |    32.554 |   35.590 |    34.593 | 25.265 | 25.901 |    25.072 | 27.745 | Winged Knight Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+=============================================================================================================================================================================================
+best  46.0 | 44.26 |   35.879 |    34.032 |   35.625 |    33.668 | 25.943 | 25.999 |    26.434 | 26.403 | Lapp's Helm, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
+      45.5 | 41.07 |   35.484 |    32.858 |   35.792 |    34.792 | 25.424 | 25.665 |    25.616 | 27.056 | Smough's Helm, Harald Legion Armor, Catarina Gauntlets, Harald Legion Leggings
+      45.4 | 44.02 |   35.745 |    34.169 |   35.421 |    33.529 | 25.943 | 25.922 |    25.592 | 26.174 | Lapp's Helm, Smough's Armor, Lapp's Gauntlets, Harald Legion Leggings
+      45.6 | 44.26 |   35.542 |    34.512 |   34.880 |    33.738 | 26.402 | 26.152 |    26.205 | 26.174 | Lapp's Helm, Smough's Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
       45.8 | 44.08 |   35.879 |    34.512 |   35.083 |    33.111 | 26.096 | 26.305 |    25.975 | 26.403 | Lapp's Helm, Smough's Armor, Exile Gauntlets, Harald Legion Leggings
       45.8 | 41.19 |   35.484 |    32.858 |   35.725 |    34.518 | 25.732 | 26.204 |    25.539 | 27.887 | Smough's Helm, Harald Legion Armor, Winged Knight Gauntlets, Harald Legion Leggings
-=============================================================================================================================================================================================
-best  49.7 | 45.20 |   35.879 |    34.854 |   35.421 |    33.111 | 26.096 | 25.922 |    26.051 | 26.479 | Lapp's Helm, Smough's Armor, Smough's Gauntlets, Harald Legion Leggings
-      47.2 | 44.68 |   35.879 |    34.032 |   35.625 |    33.668 | 26.642 | 26.542 |    27.202 | 25.940 | Morne's Helm, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
-      49.4 | 45.38 |   35.812 |    34.443 |   35.421 |    33.389 | 26.249 | 26.534 |    25.898 | 26.479 | Lapp's Helm, Smough's Armor, Havel's Gauntlets, Harald Legion Leggings
-      49.2 | 42.06 |   35.484 |    33.694 |   35.590 |    34.244 | 25.578 | 25.589 |    25.229 | 27.132 | Smough's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+      46.0 | 44.87 |   35.538 |    34.519 |   35.560 |    32.887 | 25.788 | 26.155 |    25.126 | 26.097 | Exile Mask, Smough's Armor, Lapp's Gauntlets, Harald Legion Leggings
+      45.3 | 40.88 |   35.484 |    33.346 |   35.252 |    34.244 | 25.578 | 25.973 |    25.152 | 27.056 | Smough's Helm, Harald Legion Armor, Exile Gauntlets, Harald Legion Leggings
+      45.8 | 44.91 |   35.642 |    32.236 |   35.703 |    34.853 | 27.319 | 29.244 |    26.358 | 26.792 | Morne's Helm, Havel's Armor, Catarina Gauntlets, Harald Legion Leggings
+      45.6 | 41.50 |   35.213 |    32.788 |   35.927 |    34.313 | 25.655 | 25.819 |    25.229 | 27.056 | Smough's Helm, Harald Legion Armor, Gundyr's Gauntlets, Harald Legion Leggings
+========================================================================================================================================================================================
+best  47.2 | 44.68 |   35.879 |    34.032 |   35.625 |    33.668 | 26.642 | 26.542 |    27.202 | 25.940 | Morne's Helm, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
       46.6 | 44.45 |   35.745 |    34.169 |   35.421 |    33.529 | 26.642 | 26.466 |    26.369 | 25.710 | Morne's Helm, Smough's Armor, Lapp's Gauntlets, Harald Legion Leggings
       46.3 | 44.38 |   35.879 |    34.032 |   35.557 |    33.389 | 26.249 | 26.534 |    26.358 | 27.241 | Lapp's Helm, Smough's Armor, Winged Knight Gauntlets, Harald Legion Leggings
-      47.5 | 44.80 |   35.879 |    34.032 |   35.557 |    33.389 | 26.945 | 27.074 |    27.126 | 26.783 | Morne's Helm, Smough's Armor, Winged Knight Gauntlets, Harald Legion Leggings
-      48.9 | 42.25 |   35.417 |    33.276 |   35.590 |    34.518 | 25.732 | 26.204 |    25.074 | 27.132 | Smough's Helm, Harald Legion Armor, Havel's Gauntlets, Harald Legion Leggings
       46.6 | 45.10 |   35.673 |    34.382 |   35.763 |    33.028 | 25.788 | 26.231 |    25.973 | 26.326 | Exile Mask, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
       46.8 | 44.68 |   35.542 |    34.512 |   34.880 |    33.738 | 27.096 | 26.694 |    26.975 | 25.710 | Morne's Helm, Smough's Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+      47.0 | 44.50 |   35.879 |    34.512 |   35.083 |    33.111 | 26.794 | 26.846 |    26.748 | 25.940 | Morne's Helm, Smough's Armor, Exile Gauntlets, Harald Legion Leggings
+      46.1 | 44.67 |   35.610 |    33.964 |   35.760 |    33.180 | 26.173 | 26.152 |    26.051 | 26.403 | Lapp's Helm, Smough's Armor, Gundyr's Gauntlets, Harald Legion Leggings
+      46.9 | 45.22 |   35.673 |    34.382 |   35.695 |    32.746 | 26.095 | 26.765 |    25.896 | 27.165 | Exile Mask, Smough's Armor, Winged Knight Gauntlets, Harald Legion Leggings
+      46.5 | 44.02 |   35.810 |    33.752 |   35.555 |    33.312 | 25.711 | 26.231 |    26.818 | 27.251 | Winged Knight Helm, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
+      46.2 | 45.10 |   35.335 |    34.859 |   35.020 |    33.098 | 26.248 | 26.384 |    25.742 | 26.097 | Exile Mask, Smough's Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+========================================================================================================================================================================================
+best  49.7 | 45.20 |   35.879 |    34.854 |   35.421 |    33.111 | 26.096 | 25.922 |    26.051 | 26.479 | Lapp's Helm, Smough's Armor, Smough's Gauntlets, Harald Legion Leggings
+      49.4 | 45.38 |   35.812 |    34.443 |   35.421 |    33.389 | 26.249 | 26.534 |    25.898 | 26.479 | Lapp's Helm, Smough's Armor, Havel's Gauntlets, Harald Legion Leggings
+      49.2 | 42.06 |   35.484 |    33.694 |   35.590 |    34.244 | 25.578 | 25.589 |    25.229 | 27.132 | Smough's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+      47.5 | 44.80 |   35.879 |    34.032 |   35.557 |    33.389 | 26.945 | 27.074 |    27.126 | 26.783 | Morne's Helm, Smough's Armor, Winged Knight Gauntlets, Harald Legion Leggings
+      48.9 | 42.25 |   35.417 |    33.276 |   35.590 |    34.518 | 25.732 | 26.204 |    25.074 | 27.132 | Smough's Helm, Harald Legion Armor, Havel's Gauntlets, Harald Legion Leggings
+      48.2 | 42.25 |   35.415 |    33.053 |   35.590 |    34.593 | 25.812 | 26.525 |    24.993 | 27.209 | Havel's Helm, Harald Legion Armor, Smough's Gauntlets, Harald Legion Leggings
+      49.7 | 45.77 |   35.676 |    34.379 |   35.352 |    33.172 | 26.254 | 26.777 |    25.903 | 26.484 | Havel's Helm, Smough's Armor, Lapp's Gauntlets, Harald Legion Leggings
+      49.5 | 45.84 |   35.642 |    33.081 |   35.501 |    34.305 | 27.469 | 29.171 |    25.974 | 26.868 | Morne's Helm, Havel's Armor, Smough's Gauntlets, Harald Legion Leggings
+      48.3 | 45.43 |   35.642 |    33.081 |   35.501 |    34.305 | 26.778 | 28.647 |    25.194 | 27.325 | Lapp's Helm, Havel's Armor, Smough's Gauntlets, Harald Legion Leggings
+      47.3 | 45.09 |   35.610 |    33.964 |   35.760 |    33.180 | 26.869 | 26.694 |    26.823 | 25.940 | Morne's Helm, Smough's Armor, Gundyr's Gauntlets, Harald Legion Leggings
+==================================================================================================================================================================================
+best  50.9 | 45.61 |   35.879 |    34.854 |   35.421 |    33.111 | 26.794 | 26.466 |    26.823 | 26.017 | Morne's Helm, Smough's Armor, Smough's Gauntlets, Harald Legion Leggings
+      50.6 | 45.79 |   35.812 |    34.443 |   35.421 |    33.389 | 26.945 | 27.074 |    26.672 | 26.017 | Morne's Helm, Smough's Armor, Havel's Gauntlets, Harald Legion Leggings
+      50.3 | 46.00 |   35.810 |    34.242 |   35.555 |    33.312 | 26.254 | 26.853 |    26.741 | 26.711 | Havel's Helm, Smough's Armor, Catarina Gauntlets, Harald Legion Leggings
+      50.7 | 45.59 |   35.745 |    35.008 |   35.352 |    32.816 | 26.021 | 25.844 |    26.136 | 26.406 | Smough's Helm, Smough's Armor, Lapp's Gauntlets, Harald Legion Leggings
+      50.3 | 46.03 |   35.673 |    35.200 |   35.560 |    32.465 | 25.941 | 26.155 |    25.588 | 26.402 | Exile Mask, Smough's Armor, Smough's Gauntlets, Harald Legion Leggings
+      50.9 | 45.82 |   35.542 |    35.346 |   34.810 |    33.027 | 26.479 | 26.074 |    26.744 | 26.406 | Smough's Helm, Smough's Armor, Cathedral Knight Gauntlets, Harald Legion Leggings
+      50.0 | 46.20 |   35.605 |    34.791 |   35.560 |    32.746 | 26.095 | 26.765 |    25.434 | 26.402 | Exile Mask, Smough's Armor, Havel's Gauntlets, Harald Legion Leggings
+      50.6 | 46.12 |   35.810 |    34.242 |   35.488 |    33.032 | 26.558 | 27.382 |    26.665 | 27.546 | Havel's Helm, Smough's Armor, Winged Knight Gauntlets, Harald Legion Leggings
+      49.9 | 46.05 |   35.642 |    33.099 |   35.634 |    34.154 | 26.704 | 28.646 |    26.125 | 27.479 | Smough's Helm, Havel's Armor, Catarina Gauntlets, Harald Legion Leggings
+      50.2 | 44.96 |   35.810 |    34.578 |   35.352 |    32.752 | 25.864 | 26.155 |    26.437 | 27.327 | Winged Knight Helm, Smough's Armor, Smough's Gauntlets, Harald Legion Leggings

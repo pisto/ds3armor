@@ -29,17 +29,28 @@ best   5.4 |  1.30 |    7.145 |     6.396 |    6.583 |     5.427 |  -3.92 | 21.6
        5.4 |  0.60 |    6.070 |     5.408 |    5.787 |     4.341 |  -7.87 | 18.426 |    18.384 | 20.096 | Crown of Dusk, Master's Attire, Fire Keeper Gloves, Loincloth
        5.4 |  0.70 |    6.172 |     4.640 |    4.830 |     4.248 |  -7.93 | 16.995 |    18.598 | 19.723 | Crown of Dusk, Master's Attire, Master's Gloves, Cleric Trousers
 ==========================================================================================================================================================================
-best   5.9 |  1.10 |    6.466 |     6.298 |    5.901 |     4.936 |  -3.68 | 21.584 |    21.524 | 22.802 | Crown of Dusk, Maiden Robe, Master's Gloves, Loincloth
-       5.8 |  1.69 |    6.563 |     5.419 |    5.998 |     5.035 |  -3.92 | 21.854 |    21.614 | 23.607 | Crown of Dusk, Robe Of Prayer, Master's Gloves, Loincloth
+best   5.8 |  1.69 |    6.563 |     5.419 |    5.998 |     5.035 |  -3.92 | 21.854 |    21.614 | 23.607 | Crown of Dusk, Robe Of Prayer, Master's Gloves, Loincloth
        5.5 |  1.30 |    6.660 |     5.321 |    5.121 |     4.250 |  -4.88 | 20.055 |    20.803 | 21.550 | Crown of Dusk, Antiquated Plain Garb, Master's Gloves, Loincloth
-       5.9 |  1.40 |    6.563 |     5.810 |    6.778 |     5.427 |  -5.12 | 21.494 |    20.261 | 22.355 | Crown of Dusk, Deacon Robe, Master's Gloves, Loincloth
        5.6 |  1.49 |    7.136 |     5.319 |    4.828 |     4.347 |  -5.35 | 21.568 |    22.835 | 22.355 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Loincloth (TRC)
        5.5 |  1.60 |    6.176 |     5.810 |    5.608 |     5.035 |  -5.36 | 22.573 |    20.442 | 22.355 | Crown of Dusk, Antiquated Dress, Master's Gloves, Loincloth
-       5.9 |  1.00 |    6.470 |     5.223 |    4.634 |     4.152 |  -5.58 | 21.821 |    22.669 | 22.438 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Maiden Skirt
        5.7 |  2.09 |    7.129 |     5.602 |    5.497 |     4.730 |  -5.66 | 21.597 |    22.535 | 22.221 | Crown of Dusk, Desert Pyromancer Garb, Cornyx's Wrap, Loincloth
        5.8 |  1.99 |    6.946 |     5.706 |    5.119 |     5.125 |  -5.69 | 21.653 |    23.418 | 22.774 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Court Sorcerer Trousers
+       5.7 |  1.89 |    7.504 |     5.983 |    5.688 |     5.018 |  -5.77 | 21.516 |    22.615 | 22.301 | Crown of Dusk, Desert Pyromancer Garb, Sorcerer Gloves, Loincloth
        5.6 |  1.59 |    7.035 |     5.602 |    5.306 |     4.826 |  -5.77 | 21.516 |    22.615 | 22.221 | Crown of Dusk, Desert Pyromancer Garb, Karla's Gloves, Loincloth
-==========================================================================================================================================================================
+       5.7 |  1.59 |    7.129 |     5.793 |    5.306 |     4.730 |  -5.77 | 21.516 |    22.615 | 22.301 | Crown of Dusk, Desert Pyromancer Garb, Maiden Gloves, Loincloth
+       5.6 |  1.40 |    6.754 |     5.888 |    5.593 |     4.634 |  -5.88 | 21.516 |    22.535 | 22.301 | Crown of Dusk, Desert Pyromancer Garb, Black Witch Wrappings, Loincloth
+=================================================================================================================================================================================
+best   5.9 |  1.10 |    6.466 |     6.298 |    5.901 |     4.936 |  -3.68 | 21.584 |    21.524 | 22.802 | Crown of Dusk, Maiden Robe, Master's Gloves, Loincloth
+       5.9 |  1.40 |    6.563 |     5.810 |    6.778 |     5.427 |  -5.12 | 21.494 |    20.261 | 22.355 | Crown of Dusk, Deacon Robe, Master's Gloves, Loincloth
+       5.9 |  1.00 |    6.470 |     5.223 |    4.634 |     4.152 |  -5.58 | 21.821 |    22.669 | 22.438 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Maiden Skirt
+       5.9 |  2.09 |    7.597 |     6.078 |    5.593 |     5.114 |  -5.77 | 21.760 |    22.696 | 22.382 | Crown of Dusk, Desert Pyromancer Garb, Pyromancer Wrap, Loincloth
+       5.9 |  0.70 |    6.454 |     5.220 |    5.121 |     4.149 |  -5.80 | 19.308 |    19.940 | 20.883 | Crown of Dusk, Master's Attire, Violet Wrappings, Loincloth (TRC)
+       5.9 |  1.99 |    6.851 |     5.029 |    4.731 |     4.736 |  -5.81 | 21.568 |    22.585 | 22.271 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Old Sorcerer Boots
+       5.9 |  1.10 |    6.364 |     5.609 |    5.798 |     4.248 |  -6.30 | 19.354 |    19.733 | 20.673 | Crown of Dusk, Master's Attire, Master's Gloves, Karla's Trousers
+       5.9 |  1.99 |    5.899 |     4.933 |    5.022 |     4.347 |  -6.38 | 21.737 |    22.003 | 22.187 | Crown of Dusk, Desert Pyromancer Garb, Master's Gloves, Deacon Skirt
+       5.9 |  1.79 |    7.316 |     5.412 |    5.115 |     4.826 |  -6.53 | 20.542 |    22.135 | 21.818 | Crown of Dusk, Desert Pyromancer Garb, Cleric Gloves, Loincloth
+       5.9 |  0.50 |    6.652 |     5.415 |    5.604 |     4.443 |  -6.53 | 19.529 |    19.558 | 20.845 | Crown of Dusk, Master's Attire, Master's Gloves, Black Witch Trousers
+===============================================================================================================================================================================
 best   6.0 |  1.40 |    7.425 |     6.490 |    6.583 |     5.522 |  -2.75 | 22.469 |    22.492 | 23.412 | Crown of Dusk, Clandestine Coat, Violet Wrappings, Loincloth
        6.0 |  1.69 |    6.854 |     6.103 |    6.291 |     4.740 |  -3.19 | 22.034 |    22.246 | 22.891 | Crown of Dusk, Karla's Coat, Master's Gloves, Loincloth
        6.0 |  0.90 |    6.660 |     6.396 |    6.583 |     4.544 |  -3.55 | 22.214 |    21.975 | 23.160 | Crown of Dusk, Black Witch Garb, Master's Gloves, Loincloth
@@ -106,17 +117,28 @@ best   7.0 |  1.69 |    8.175 |     7.150 |    7.146 |     6.092 |  -0.05 | 24.5
        7.0 |  2.28 |    7.696 |     6.951 |    7.138 |     5.505 |  -1.51 | 23.458 |    23.591 | 24.149 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Loincloth
        7.0 |  1.99 |    7.322 |     6.763 |    6.761 |     5.218 |  -1.51 | 23.458 |    23.591 | 24.149 | Crown of Dusk, Karla's Coat, Maiden Gloves, Loincloth
 ===============================================================================================================================================================
+best   7.3 |  2.28 |    8.082 |     7.056 |    7.240 |     5.997 |  -0.05 | 24.639 |    24.439 | 25.100 | Crown of Dusk, Clandestine Coat, Cornyx's Wrap, Loincloth (TRC)
+       7.3 |  2.09 |    8.453 |     7.431 |    7.427 |     6.281 |  -0.16 | 24.561 |    24.517 | 25.178 | Crown of Dusk, Clandestine Coat, Sorcerer Gloves, Loincloth (TRC)
+       7.2 |  1.79 |    7.989 |     7.056 |    7.052 |     6.092 |  -0.16 | 24.561 |    24.517 | 25.100 | Crown of Dusk, Clandestine Coat, Karla's Gloves, Loincloth (TRC)
+       7.3 |  1.79 |    8.082 |     7.243 |    7.052 |     5.997 |  -0.16 | 24.561 |    24.517 | 25.178 | Crown of Dusk, Clandestine Coat, Maiden Gloves, Loincloth (TRC)
+       7.2 |  1.59 |    7.711 |     7.337 |    7.334 |     5.902 |  -0.26 | 24.561 |    24.439 | 25.178 | Crown of Dusk, Clandestine Coat, Black Witch Wrappings, Loincloth (TRC)
+       7.3 |  1.20 |    7.516 |     7.055 |    6.957 |     5.901 |  -0.27 | 24.803 |    24.119 | 25.026 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Maiden Skirt
+       7.1 |  2.09 |    8.082 |     7.150 |    7.052 |     6.092 |  -0.37 | 24.873 |    24.361 | 25.255 | Crown of Dusk, Clandestine Coat, Antiquated Gloves, Loincloth (TRC)
+       7.2 |  2.19 |    7.987 |     7.529 |    7.430 |     6.856 |  -0.38 | 24.642 |    24.854 | 25.351 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Court Sorcerer Trousers
+       7.3 |  1.49 |    8.082 |     6.962 |    6.958 |     6.092 |  -0.47 | 24.249 |    24.283 | 24.945 | Crown of Dusk, Clandestine Coat, Old Sorcerer Gauntlets, Loincloth (TRC)
+       7.3 |  2.19 |    7.892 |     6.865 |    7.051 |     6.474 |  -0.49 | 24.561 |    24.038 | 24.864 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Old Sorcerer Boots
+================================================================================================================================================================================
 best   7.5 |  1.49 |    7.504 |     7.053 |    6.468 |     5.605 |   0.18 | 24.474 |    24.196 | 25.119 | Crown of Dusk, Maiden Robe, Pale Shade Gloves, Loincloth (TRC)
        7.5 |  1.99 |    7.608 |     6.389 |    6.291 |     4.933 |   0.02 | 24.286 |    24.660 | 24.974 | Crown of Dusk, Karla's Coat, Violet Wrappings, Loincloth (TRC)
        7.5 |  2.09 |    8.085 |     7.157 |    7.250 |     5.810 |  -0.02 | 24.752 |    24.704 | 25.282 | Crown of Dusk, Clandestine Coat, Violet Wrappings, Karla's Trousers
-       7.3 |  2.28 |    8.082 |     7.056 |    7.240 |     5.997 |  -0.05 | 24.639 |    24.439 | 25.100 | Crown of Dusk, Clandestine Coat, Cornyx's Wrap, Loincloth (TRC)
        7.4 |  2.09 |    7.600 |     6.180 |    6.565 |     5.702 |  -0.05 | 24.734 |    24.283 | 25.900 | Crown of Dusk, Robe Of Prayer, Pale Shade Gloves, Loincloth (TRC)
-       7.2 |  1.79 |    7.989 |     7.056 |    7.052 |     6.092 |  -0.16 | 24.561 |    24.517 | 25.100 | Crown of Dusk, Clandestine Coat, Karla's Gloves, Loincloth (TRC)
-       7.3 |  2.09 |    8.453 |     7.431 |    7.427 |     6.281 |  -0.16 | 24.561 |    24.517 | 25.178 | Crown of Dusk, Clandestine Coat, Sorcerer Gloves, Loincloth (TRC)
-       7.3 |  1.79 |    8.082 |     7.243 |    7.052 |     5.997 |  -0.16 | 24.561 |    24.517 | 25.178 | Crown of Dusk, Clandestine Coat, Maiden Gloves, Loincloth (TRC)
        7.5 |  2.28 |    8.546 |     7.525 |    7.334 |     6.376 |  -0.16 | 24.795 |    24.595 | 25.255 | Crown of Dusk, Clandestine Coat, Pyromancer Wrap, Loincloth (TRC)
        7.5 |  1.79 |    7.504 |     7.147 |    6.468 |     5.795 |  -0.24 | 24.240 |    24.587 | 25.351 | Crown of Dusk, Maiden Robe, Court Sorcerer Gloves, Loincloth (TRC)
-============================================================================================================================================================================
+       7.5 |  1.49 |    8.368 |     6.967 |    7.059 |     6.002 |  -0.24 | 24.915 |    24.540 | 25.444 | Crown of Dusk, Clandestine Coat, Violet Wrappings, Black Witch Trousers
+       7.5 |  1.20 |    7.416 |     6.681 |    6.583 |     4.737 |  -0.33 | 24.461 |    24.398 | 25.235 | Crown of Dusk, Black Witch Garb, Violet Wrappings, Loincloth (TRC)
+       7.5 |  2.48 |    7.506 |     6.180 |    6.470 |     5.702 |  -0.37 | 25.045 |    24.361 | 26.206 | Crown of Dusk, Robe Of Prayer, Antiquated Gloves, Loincloth (TRC)
+       7.5 |  1.30 |    7.329 |     6.961 |    6.863 |     5.901 |  -0.38 | 24.803 |    24.354 | 25.181 | Crown of Dusk, Clandestine Coat, Karla's Gloves, Maiden Skirt
+=======================================================================================================================================================================
 best   7.6 |  2.09 |    7.887 |     6.859 |    6.855 |     5.410 |   0.64 | 24.907 |    24.893 | 25.206 | Crown of Dusk, Karla's Coat, Pale Shade Gloves, Loincloth (TRC)
        7.6 |  2.19 |    8.363 |     7.624 |    7.809 |     6.283 |   0.60 | 25.369 |    24.936 | 25.513 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Karla's Trousers
        7.6 |  1.59 |    8.645 |     7.434 |    7.619 |     6.474 |   0.38 | 25.531 |    24.773 | 25.675 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Black Witch Trousers
@@ -128,17 +150,28 @@ best   7.6 |  2.09 |    7.887 |     6.859 |    6.855 |     5.410 |   0.64 | 24.9
        7.6 |  1.59 |    7.695 |     7.243 |    7.146 |     5.406 |  -0.12 | 24.848 |    25.020 | 25.697 | Crown of Dusk, Black Witch Garb, Court Sorcerer Gloves, Loincloth (TRC)
        7.6 |  1.89 |    7.410 |     7.053 |    6.373 |     5.605 |  -0.13 | 24.787 |    24.274 | 25.428 | Crown of Dusk, Maiden Robe, Antiquated Gloves, Loincloth (TRC)
 ========================================================================================================================================================================
+best   7.9 |  2.68 |    7.794 |     6.765 |    6.949 |     5.314 |   0.64 | 24.985 |    25.048 | 25.360 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Loincloth (TRC)
+       7.9 |  2.77 |    8.270 |     7.531 |    7.902 |     6.188 |   0.60 | 25.446 |    25.091 | 25.667 | Crown of Dusk, Clandestine Coat, Cornyx's Wrap, Karla's Trousers
+       7.8 |  2.68 |    8.927 |     7.245 |    9.607 |     5.996 |   0.60 | 24.399 |    24.201 | 24.783 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Ordained Trousers
+       7.9 |  2.48 |    8.166 |     7.141 |    7.138 |     5.601 |   0.54 | 24.907 |    25.125 | 25.437 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Loincloth (TRC)
+       7.8 |  2.19 |    7.701 |     6.765 |    6.761 |     5.410 |   0.54 | 24.907 |    25.125 | 25.360 | Crown of Dusk, Karla's Coat, Karla's Gloves, Loincloth (TRC)
+       7.9 |  2.19 |    7.794 |     6.953 |    6.761 |     5.314 |   0.54 | 24.907 |    25.125 | 25.437 | Crown of Dusk, Karla's Coat, Maiden Gloves, Loincloth (TRC)
+       7.9 |  2.58 |    8.641 |     7.904 |    8.088 |     6.472 |   0.49 | 25.369 |    25.169 | 25.744 | Crown of Dusk, Clandestine Coat, Sorcerer Gloves, Karla's Trousers
+       7.8 |  2.28 |    8.178 |     7.531 |    7.716 |     6.283 |   0.49 | 25.369 |    25.169 | 25.667 | Crown of Dusk, Clandestine Coat, Karla's Gloves, Karla's Trousers
+       7.9 |  2.28 |    8.270 |     7.717 |    7.716 |     6.188 |   0.49 | 25.369 |    25.169 | 25.744 | Crown of Dusk, Clandestine Coat, Maiden Gloves, Karla's Trousers
+       7.8 |  1.99 |    7.422 |     7.047 |    7.043 |     5.219 |   0.43 | 24.907 |    25.048 | 25.437 | Crown of Dusk, Karla's Coat, Black Witch Wrappings, Loincloth (TRC)
+=============================================================================================================================================================================
 best   8.1 |  1.99 |    7.693 |     7.527 |    7.135 |     5.797 |   0.83 | 25.284 |    24.850 | 25.685 | Crown of Dusk, Maiden Robe, Pale Shade Gloves, Karla's Trousers
        8.1 |  2.48 |    7.797 |     6.867 |    6.959 |     5.126 |   0.67 | 25.097 |    25.310 | 25.541 | Crown of Dusk, Karla's Coat, Violet Wrappings, Karla's Trousers
-       7.9 |  2.68 |    7.794 |     6.765 |    6.949 |     5.314 |   0.64 | 24.985 |    25.048 | 25.360 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Loincloth (TRC)
        8.1 |  1.39 |    7.978 |     7.338 |    6.944 |     5.989 |   0.61 | 25.446 |    24.686 | 25.847 | Crown of Dusk, Maiden Robe, Pale Shade Gloves, Black Witch Trousers
-       7.8 |  2.68 |    8.927 |     7.245 |    9.607 |     5.996 |   0.60 | 24.399 |    24.201 | 24.783 | Crown of Dusk, Clandestine Coat, Pale Shade Gloves, Ordained Trousers
-       7.9 |  2.77 |    8.270 |     7.531 |    7.902 |     6.188 |   0.60 | 25.446 |    25.091 | 25.667 | Crown of Dusk, Clandestine Coat, Cornyx's Wrap, Karla's Trousers
-       8.0 |  2.58 |    7.789 |     6.660 |    7.231 |     5.894 |   0.60 | 25.541 |    24.936 | 26.460 | Crown of Dusk, Robe Of Prayer, Pale Shade Gloves, Karla's Trousers
        8.1 |  3.27 |    8.835 |     7.151 |    9.698 |     5.901 |   0.60 | 24.477 |    24.357 | 24.939 | Crown of Dusk, Clandestine Coat, Cornyx's Wrap, Ordained Trousers
-       7.8 |  2.19 |    7.701 |     6.765 |    6.761 |     5.410 |   0.54 | 24.907 |    25.125 | 25.360 | Crown of Dusk, Karla's Coat, Karla's Gloves, Loincloth (TRC)
-       7.9 |  2.48 |    8.166 |     7.141 |    7.138 |     5.601 |   0.54 | 24.907 |    25.125 | 25.437 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Loincloth (TRC)
-=======================================================================================================================================================================
+       8.0 |  2.58 |    7.789 |     6.660 |    7.231 |     5.894 |   0.60 | 25.541 |    24.936 | 26.460 | Crown of Dusk, Robe Of Prayer, Pale Shade Gloves, Karla's Trousers
+       8.1 |  2.68 |    8.259 |     7.235 |    7.043 |     5.696 |   0.54 | 25.140 |    25.203 | 25.515 | Crown of Dusk, Karla's Coat, Pyromancer Wrap, Loincloth (TRC)
+       8.1 |  3.07 |    9.203 |     7.526 |    9.881 |     6.186 |   0.49 | 24.399 |    24.436 | 25.016 | Crown of Dusk, Clandestine Coat, Sorcerer Gloves, Ordained Trousers
+       8.0 |  2.78 |    8.743 |     7.151 |    9.516 |     5.996 |   0.49 | 24.399 |    24.436 | 24.939 | Crown of Dusk, Clandestine Coat, Karla's Gloves, Ordained Trousers
+       8.1 |  2.78 |    8.835 |     7.338 |    9.516 |     5.901 |   0.49 | 24.399 |    24.436 | 25.016 | Crown of Dusk, Clandestine Coat, Maiden Gloves, Ordained Trousers
+       8.1 |  2.77 |    8.733 |     7.997 |    7.995 |     6.566 |   0.49 | 25.601 |    25.246 | 25.820 | Crown of Dusk, Clandestine Coat, Pyromancer Wrap, Karla's Trousers
+============================================================================================================================================================================
 best   8.2 |  2.58 |    8.076 |     7.335 |    7.520 |     5.602 |   1.29 | 25.712 |    25.541 | 25.771 | Crown of Dusk, Karla's Coat, Pale Shade Gloves, Karla's Trousers
        8.2 |  1.99 |    8.359 |     7.144 |    7.330 |     5.795 |   1.07 | 25.873 |    25.379 | 25.933 | Crown of Dusk, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
        8.2 |  1.79 |    7.885 |     7.624 |    7.809 |     5.408 |   0.94 | 25.883 |    25.282 | 26.029 | Crown of Dusk, Black Witch Garb, Pale Shade Gloves, Karla's Trousers
@@ -150,46 +183,211 @@ best   8.2 |  2.58 |    8.076 |     7.335 |    7.520 |     5.602 |   1.29 | 25.7
        8.2 |  2.09 |    7.885 |     7.717 |    7.809 |     5.599 |   0.53 | 25.653 |    25.667 | 26.259 | Crown of Dusk, Black Witch Garb, Court Sorcerer Gloves, Karla's Trousers
        8.2 |  2.38 |    7.600 |     7.527 |    7.041 |     5.797 |   0.52 | 25.593 |    24.927 | 25.992 | Crown of Dusk, Maiden Robe, Antiquated Gloves, Karla's Trousers
 =========================================================================================================================================================================
+best   8.4 |  3.07 |    8.642 |     6.954 |    9.324 |     5.314 |   1.29 | 24.746 |    24.812 | 25.044 | Crown of Dusk, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       8.4 |  2.68 |    7.890 |     7.241 |    7.427 |     5.602 |   1.18 | 25.712 |    25.771 | 25.924 | Crown of Dusk, Karla's Coat, Karla's Gloves, Karla's Trousers
+       8.4 |  3.48 |    9.613 |     6.859 |   10.829 |     5.410 |   1.10 | 23.262 |    23.847 | 24.164 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Loincloth (TRC)
+       8.4 |  2.48 |    7.612 |     7.522 |    7.707 |     5.412 |   1.08 | 25.712 |    25.695 | 26.001 | Crown of Dusk, Karla's Coat, Black Witch Wrappings, Karla's Trousers
+       8.3 |  2.97 |    7.983 |     7.335 |    7.427 |     5.602 |   0.98 | 26.019 |    25.618 | 26.078 | Crown of Dusk, Karla's Coat, Antiquated Gloves, Karla's Trousers
+       8.4 |  2.09 |    8.174 |     7.051 |    7.236 |     5.795 |   0.97 | 25.873 |    25.610 | 26.086 | Crown of Dusk, Karla's Coat, Karla's Gloves, Black Witch Trousers
+       8.4 |  2.29 |    8.452 |     7.245 |    9.607 |     5.118 |   0.94 | 24.920 |    24.550 | 25.305 | Crown of Dusk, Black Witch Garb, Pale Shade Gloves, Ordained Trousers
+       8.4 |  3.36 |    8.642 |     7.048 |    9.324 |     5.505 |   0.88 | 24.513 |    25.200 | 25.276 | Crown of Dusk, Karla's Coat, Court Sorcerer Gloves, Ordained Trousers
+       8.4 |  1.89 |    7.896 |     7.332 |    7.517 |     5.605 |   0.86 | 25.873 |    25.533 | 26.162 | Crown of Dusk, Karla's Coat, Black Witch Wrappings, Black Witch Trousers
+       8.4 |  1.89 |    7.699 |     7.531 |    7.716 |     5.408 |   0.84 | 25.883 |    25.513 | 26.182 | Crown of Dusk, Black Witch Garb, Karla's Gloves, Karla's Trousers
+===========================================================================================================================================================================
+best   8.5 |  3.17 |    7.983 |     7.241 |    7.613 |     5.507 |   1.29 | 25.789 |    25.695 | 25.924 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       8.5 |  2.97 |    8.355 |     7.615 |    7.800 |     5.793 |   1.18 | 25.712 |    25.771 | 26.001 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Karla's Trousers
+       8.5 |  2.68 |    7.983 |     7.428 |    7.427 |     5.507 |   1.18 | 25.712 |    25.771 | 26.001 | Crown of Dusk, Karla's Coat, Maiden Gloves, Karla's Trousers
+       8.5 |  2.58 |    8.267 |     7.051 |    7.424 |     5.700 |   1.07 | 25.950 |    25.533 | 26.086 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Black Witch Trousers
+       8.5 |  3.46 |    8.550 |     6.954 |    9.232 |     5.314 |   0.98 | 25.057 |    24.889 | 25.354 | Crown of Dusk, Karla's Coat, Antiquated Gloves, Ordained Trousers
+       8.5 |  2.38 |    8.637 |     7.426 |    7.611 |     5.985 |   0.97 | 25.873 |    25.610 | 26.162 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Black Witch Trousers
+       8.5 |  2.09 |    8.267 |     7.238 |    7.236 |     5.700 |   0.97 | 25.873 |    25.610 | 26.162 | Crown of Dusk, Karla's Coat, Maiden Gloves, Black Witch Trousers
+       8.5 |  2.38 |    7.792 |     7.531 |    7.902 |     5.312 |   0.94 | 25.960 |    25.436 | 26.182 | Crown of Dusk, Black Witch Garb, Cornyx's Wrap, Karla's Trousers
+       8.5 |  2.39 |    7.983 |     7.147 |    7.333 |     5.602 |   0.88 | 25.405 |    25.541 | 25.771 | Crown of Dusk, Karla's Coat, Old Sorcerer Gauntlets, Karla's Trousers
+       8.5 |  2.18 |    8.164 |     7.904 |    8.088 |     5.599 |   0.84 | 25.883 |    25.513 | 26.259 | Crown of Dusk, Black Witch Garb, Sorcerer Gloves, Karla's Trousers
+============================================================================================================================================================================
+best   8.7 |  3.66 |    8.550 |     6.860 |    9.416 |     5.218 |   1.29 | 24.824 |    24.967 | 25.199 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Ordained Trousers
+       8.7 |  3.46 |    8.919 |     7.236 |    9.599 |     5.505 |   1.18 | 24.746 |    25.044 | 25.276 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Ordained Trousers
+       8.6 |  3.17 |    8.458 |     6.860 |    9.232 |     5.314 |   1.18 | 24.746 |    25.044 | 25.199 | Crown of Dusk, Karla's Coat, Karla's Gloves, Ordained Trousers
+       8.7 |  3.17 |    8.550 |     7.048 |    9.232 |     5.218 |   1.18 | 24.746 |    25.044 | 25.276 | Crown of Dusk, Karla's Coat, Maiden Gloves, Ordained Trousers
+       8.7 |  3.17 |    8.447 |     7.709 |    7.707 |     5.888 |   1.18 | 25.943 |    25.848 | 26.078 | Crown of Dusk, Karla's Coat, Pyromancer Wrap, Karla's Trousers
+       8.7 |  4.06 |    9.521 |     6.765 |   10.919 |     5.314 |   1.10 | 23.341 |    24.004 | 24.321 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Loincloth (TRC)
+       8.6 |  2.98 |    8.181 |     7.142 |    9.507 |     5.122 |   1.08 | 24.746 |    24.967 | 25.276 | Crown of Dusk, Karla's Coat, Black Witch Wrappings, Ordained Trousers
+       8.7 |  3.86 |    9.886 |     7.141 |   11.099 |     5.601 |   1.00 | 23.262 |    24.083 | 24.399 | Crown of Dusk, Ordained Dress, Sorcerer Gloves, Loincloth (TRC)
+       8.6 |  3.57 |    9.430 |     6.765 |   10.739 |     5.410 |   1.00 | 23.262 |    24.083 | 24.321 | Crown of Dusk, Ordained Dress, Karla's Gloves, Loincloth (TRC)
+       8.7 |  3.57 |    9.521 |     6.953 |   10.739 |     5.314 |   1.00 | 23.262 |    24.083 | 24.399 | Crown of Dusk, Ordained Dress, Maiden Gloves, Loincloth (TRC)
+=======================================================================================================================================================================
 best   9.0 |  3.96 |    9.798 |     7.335 |   11.465 |     5.602 |   1.74 | 24.084 |    24.504 | 24.738 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Karla's Trousers
        9.0 |  3.38 |   10.076 |     7.144 |   11.284 |     5.795 |   1.53 | 24.249 |    24.340 | 24.901 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
        9.0 |  4.25 |    9.798 |     7.428 |   11.465 |     5.793 |   1.34 | 23.849 |    24.894 | 24.971 | Crown of Dusk, Ordained Dress, Court Sorcerer Gloves, Karla's Trousers
-       8.4 |  3.07 |    8.642 |     6.954 |    9.324 |     5.314 |   1.29 | 24.746 |    24.812 | 25.044 | Crown of Dusk, Karla's Coat, Pale Shade Gloves, Ordained Trousers
-       8.5 |  3.17 |    7.983 |     7.241 |    7.613 |     5.507 |   1.29 | 25.789 |    25.695 | 25.924 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Karla's Trousers
-       8.7 |  3.66 |    8.550 |     6.860 |    9.416 |     5.218 |   1.29 | 24.824 |    24.967 | 25.199 | Crown of Dusk, Karla's Coat, Cornyx's Wrap, Ordained Trousers
-       8.4 |  2.68 |    7.890 |     7.241 |    7.427 |     5.602 |   1.18 | 25.712 |    25.771 | 25.924 | Crown of Dusk, Karla's Coat, Karla's Gloves, Karla's Trousers
-       8.5 |  2.97 |    8.355 |     7.615 |    7.800 |     5.793 |   1.18 | 25.712 |    25.771 | 26.001 | Crown of Dusk, Karla's Coat, Sorcerer Gloves, Karla's Trousers
-       8.5 |  2.68 |    7.983 |     7.428 |    7.427 |     5.507 |   1.18 | 25.712 |    25.771 | 26.001 | Crown of Dusk, Karla's Coat, Maiden Gloves, Karla's Trousers
-       8.6 |  3.17 |    8.458 |     6.860 |    9.232 |     5.314 |   1.18 | 24.746 |    25.044 | 25.199 | Crown of Dusk, Karla's Coat, Karla's Gloves, Ordained Trousers
-========================================================================================================================================================================
-best  13.3 |  8.87 |   12.804 |    10.517 |   13.970 |     9.412 |   1.85 | 24.241 |    24.894 | 24.660 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
-       9.2 |  4.45 |   10.353 |     6.954 |   13.193 |     5.314 |   1.74 | 23.097 |    23.765 | 24.001 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Ordained Trousers
-       9.3 |  4.54 |    9.707 |     7.241 |   11.555 |     5.507 |   1.74 | 24.163 |    24.660 | 24.893 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Karla's Trousers
-       9.5 |  5.02 |   10.263 |     6.860 |   13.280 |     5.218 |   1.74 | 23.177 |    23.922 | 24.158 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Ordained Trousers
-      10.2 |  4.44 |   10.800 |     7.428 |   12.449 |     6.555 |   1.74 | 23.534 |    24.660 | 25.126 | Crown of Dusk, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
-      10.4 |  4.93 |   11.349 |     7.048 |   14.157 |     6.269 |   1.74 | 22.540 |    23.922 | 24.393 | Crown of Dusk, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
-      11.4 |  6.08 |   12.076 |     9.019 |   13.701 |     7.698 |   1.74 | 23.613 |    23.569 | 24.349 | Crown of Dusk, Ordained Dress, Brass Gauntlets, Karla's Trousers
-      11.6 |  6.55 |   12.617 |     8.646 |   15.385 |     7.416 |   1.74 | 22.620 |    22.821 | 23.608 | Crown of Dusk, Ordained Dress, Brass Gauntlets, Ordained Trousers
+       8.9 |  3.66 |    9.011 |     7.330 |    9.507 |     5.600 |   1.18 | 24.980 |    25.122 | 25.354 | Crown of Dusk, Karla's Coat, Pyromancer Wrap, Ordained Trousers
+       8.9 |  3.87 |    9.524 |     6.867 |   10.929 |     5.126 |   1.13 | 23.456 |    24.271 | 24.504 | Crown of Dusk, Ordained Dress, Violet Wrappings, Karla's Trousers
+       9.0 |  3.67 |   10.076 |     7.238 |   11.284 |     5.985 |   1.12 | 24.014 |    24.730 | 25.134 | Crown of Dusk, Ordained Dress, Court Sorcerer Gloves, Black Witch Trousers
+       9.0 |  5.52 |    9.613 |     8.857 |   11.738 |     6.564 |   1.10 | 23.673 |    24.176 | 25.065 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Archdeacon Skirt
+       8.9 |  4.06 |    9.978 |     7.235 |   11.009 |     5.696 |   1.00 | 23.500 |    24.161 | 24.478 | Crown of Dusk, Ordained Dress, Pyromancer Wrap, Loincloth (TRC)
+       8.9 |  3.28 |    9.803 |     6.675 |   10.746 |     5.319 |   0.92 | 23.622 |    24.106 | 24.669 | Crown of Dusk, Ordained Dress, Violet Wrappings, Black Witch Trousers
+       9.0 |  3.57 |    8.872 |     6.670 |   10.738 |     5.122 |   0.89 | 23.587 |    23.840 | 24.403 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Maiden Skirt
+====================================================================================================================================================================
+best   9.2 |  4.45 |   10.353 |     6.954 |   13.193 |     5.314 |   1.74 | 23.097 |    23.765 | 24.001 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Ordained Trousers
        9.2 |  4.06 |    9.615 |     7.241 |   11.376 |     5.602 |   1.64 | 24.084 |    24.738 | 24.893 | Crown of Dusk, Ordained Dress, Karla's Gloves, Karla's Trousers
+       9.2 |  3.87 |    9.342 |     7.522 |   11.644 |     5.412 |   1.54 | 24.084 |    24.660 | 24.971 | Crown of Dusk, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+       9.1 |  4.35 |    9.707 |     7.335 |   11.376 |     5.602 |   1.44 | 24.398 |    24.582 | 25.049 | Crown of Dusk, Ordained Dress, Antiquated Gloves, Karla's Trousers
+       9.2 |  3.48 |    9.894 |     7.051 |   11.194 |     5.795 |   1.43 | 24.249 |    24.574 | 25.057 | Crown of Dusk, Ordained Dress, Karla's Gloves, Black Witch Trousers
+       9.2 |  4.74 |   10.353 |     7.048 |   13.193 |     5.505 |   1.34 | 22.858 |    24.158 | 24.236 | Crown of Dusk, Ordained Dress, Court Sorcerer Gloves, Ordained Trousers
+       9.2 |  3.28 |    9.621 |     7.332 |   11.463 |     5.605 |   1.33 | 24.249 |    24.496 | 25.134 | Crown of Dusk, Ordained Dress, Black Witch Wrappings, Black Witch Trousers
+       9.1 |  3.77 |    9.985 |     7.144 |   11.194 |     5.795 |   1.22 | 24.562 |    24.418 | 25.212 | Crown of Dusk, Ordained Dress, Antiquated Gloves, Black Witch Trousers
+       9.1 |  4.35 |   10.082 |     6.484 |   12.666 |     4.836 |   1.13 | 22.461 |    23.529 | 23.765 | Crown of Dusk, Ordained Dress, Violet Wrappings, Ordained Trousers
+       9.1 |  4.06 |    9.889 |     7.335 |   11.465 |     5.602 |   1.13 | 23.691 |    24.738 | 24.504 | Crown of Dusk, Ordained Dress, Desert Pyromancer Gloves, Karla's Trousers
+===================================================================================================================================================================================
+best   9.3 |  4.54 |    9.707 |     7.241 |   11.555 |     5.507 |   1.74 | 24.163 |    24.660 | 24.893 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Karla's Trousers
        9.3 |  4.35 |   10.071 |     7.615 |   11.734 |     5.793 |   1.64 | 24.084 |    24.738 | 24.971 | Crown of Dusk, Ordained Dress, Sorcerer Gloves, Karla's Trousers
-==========================================================================================================================================================================
+       9.3 |  4.06 |    9.707 |     7.428 |   11.376 |     5.507 |   1.64 | 24.084 |    24.738 | 24.971 | Crown of Dusk, Ordained Dress, Maiden Gloves, Karla's Trousers
+       9.3 |  3.96 |    9.985 |     7.051 |   11.373 |     5.700 |   1.53 | 24.327 |    24.496 | 25.057 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Black Witch Trousers
+       9.3 |  4.83 |   10.263 |     6.954 |   13.105 |     5.314 |   1.44 | 23.415 |    23.844 | 24.315 | Crown of Dusk, Ordained Dress, Antiquated Gloves, Ordained Trousers
+       9.3 |  3.77 |   10.348 |     7.426 |   11.553 |     5.985 |   1.43 | 24.249 |    24.574 | 25.134 | Crown of Dusk, Ordained Dress, Sorcerer Gloves, Black Witch Trousers
+       9.3 |  3.48 |    9.985 |     7.238 |   11.194 |     5.700 |   1.43 | 24.249 |    24.574 | 25.134 | Crown of Dusk, Ordained Dress, Maiden Gloves, Black Witch Trousers
+       9.3 |  3.77 |    9.707 |     7.147 |   11.287 |     5.602 |   1.34 | 23.770 |    24.504 | 24.738 | Crown of Dusk, Ordained Dress, Old Sorcerer Gauntlets, Karla's Trousers
+       9.3 |  3.96 |    9.615 |     7.241 |   11.555 |     5.412 |   1.24 | 24.084 |    24.348 | 25.049 | Crown of Dusk, Ordained Dress, Fire Keeper Gloves, Karla's Trousers
+       9.3 |  4.54 |   10.444 |     6.954 |   13.193 |     5.314 |   1.13 | 22.699 |    24.001 | 23.765 | Crown of Dusk, Ordained Dress, Desert Pyromancer Gloves, Ordained Trousers
+====================================================================================================================================================================================
+best   9.5 |  5.02 |   10.263 |     6.860 |   13.280 |     5.218 |   1.74 | 23.177 |    23.922 | 24.158 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+       9.5 |  4.83 |   10.625 |     7.236 |   13.456 |     5.505 |   1.64 | 23.097 |    24.001 | 24.236 | Crown of Dusk, Ordained Dress, Sorcerer Gloves, Ordained Trousers
+       9.4 |  4.54 |   10.172 |     6.860 |   13.105 |     5.314 |   1.64 | 23.097 |    24.001 | 24.158 | Crown of Dusk, Ordained Dress, Karla's Gloves, Ordained Trousers
+       9.5 |  4.54 |   10.263 |     7.048 |   13.105 |     5.218 |   1.64 | 23.097 |    24.001 | 24.236 | Crown of Dusk, Ordained Dress, Maiden Gloves, Ordained Trousers
+       9.5 |  4.54 |   10.162 |     7.709 |   11.644 |     5.888 |   1.64 | 24.320 |    24.816 | 25.049 | Crown of Dusk, Ordained Dress, Pyromancer Wrap, Karla's Trousers
+       9.4 |  4.35 |    9.901 |     7.142 |   13.368 |     5.122 |   1.54 | 23.097 |    23.922 | 24.236 | Crown of Dusk, Ordained Dress, Black Witch Wrappings, Ordained Trousers
+       9.5 |  3.96 |   10.439 |     7.520 |   11.463 |     6.080 |   1.43 | 24.484 |    24.652 | 25.212 | Crown of Dusk, Ordained Dress, Pyromancer Wrap, Black Witch Trousers
+       9.5 |  4.26 |   10.263 |     6.766 |   13.017 |     5.314 |   1.34 | 22.779 |    23.765 | 24.001 | Crown of Dusk, Ordained Dress, Old Sorcerer Gauntlets, Ordained Trousers
+       9.4 |  3.07 |    9.097 |     7.428 |    8.548 |     6.555 |   1.29 | 25.174 |    25.695 | 26.154 | Crown of Dusk, Karla's Coat, Pontiff Knight Gauntlets, Karla's Trousers
+       9.5 |  4.45 |   10.172 |     6.860 |   13.280 |     5.122 |   1.24 | 23.097 |    23.608 | 24.315 | Crown of Dusk, Ordained Dress, Fire Keeper Gloves, Ordained Trousers
+==============================================================================================================================================================================
+best  11.4 |  6.08 |   12.076 |     9.019 |   13.701 |     7.698 |   1.74 | 23.613 |    23.569 | 24.349 | Crown of Dusk, Ordained Dress, Brass Gauntlets, Karla's Trousers
+      10.4 |  4.93 |   11.349 |     7.048 |   14.157 |     6.269 |   1.74 | 22.540 |    23.922 | 24.393 | Crown of Dusk, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      10.2 |  4.44 |   10.800 |     7.428 |   12.449 |     6.555 |   1.74 | 23.534 |    24.660 | 25.126 | Crown of Dusk, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
+       9.7 |  5.02 |   10.716 |     7.330 |   13.368 |     5.600 |   1.64 | 23.336 |    24.080 | 24.315 | Crown of Dusk, Ordained Dress, Pyromancer Wrap, Ordained Trousers
+      11.0 |  6.08 |   11.802 |     8.834 |   14.771 |     6.938 |   1.54 | 23.177 |    23.529 | 23.373 | Crown of Dusk, Ordained Dress, Leonhard's Gauntlets, Ordained Trousers
+      10.8 |  5.60 |   11.256 |     9.207 |   13.075 |     7.222 |   1.54 | 24.163 |    24.271 | 24.116 | Crown of Dusk, Ordained Dress, Leonhard's Gauntlets, Karla's Trousers
+      11.4 |  5.51 |   12.346 |     8.833 |   13.524 |     7.886 |   1.53 | 23.779 |    23.403 | 24.514 | Crown of Dusk, Ordained Dress, Brass Gauntlets, Black Witch Trousers
+      10.2 |  3.86 |   11.075 |     7.238 |   12.269 |     6.745 |   1.53 | 23.700 |    24.496 | 25.289 | Crown of Dusk, Ordained Dress, Pontiff Knight Gauntlets, Black Witch Trousers
+      10.7 |  5.31 |   11.440 |     7.894 |   14.859 |     6.365 |   1.34 | 22.540 |    23.844 | 24.079 | Crown of Dusk, Ordained Dress, Leather Gauntlets, Ordained Trousers
+      10.5 |  4.83 |   10.891 |     8.271 |   13.165 |     6.650 |   1.34 | 23.534 |    24.582 | 24.815 | Crown of Dusk, Ordained Dress, Leather Gauntlets, Karla's Trousers
+============================================================================================================================================================================
+best  11.6 |  6.55 |   12.617 |     8.646 |   15.385 |     7.416 |   1.74 | 22.620 |    22.821 | 23.608 | Crown of Dusk, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      11.6 |  6.86 |   11.042 |     9.210 |   12.255 |     7.893 |   1.08 | 24.513 |    24.889 | 24.657 | Crown of Dusk, Karla's Coat, Ruin Gauntlets, Ordained Trousers
+      11.5 |  6.96 |   11.134 |     8.834 |   12.163 |     8.371 |   0.98 | 25.057 |    25.277 | 24.579 | Crown of Dusk, Karla's Coat, Dragonslayer Gauntlets, Ordained Trousers
+      11.5 |  6.65 |   12.346 |     8.270 |   15.648 |     6.938 |   0.93 | 22.699 |    22.663 | 23.215 | Crown of Dusk, Ordained Dress, Mirrah Chain Gloves, Ordained Trousers
+      11.6 |  7.25 |   11.986 |     9.117 |   13.712 |     7.987 |   0.90 | 23.023 |    23.926 | 23.773 | Crown of Dusk, Ordained Dress, Ruin Gauntlets, Loincloth (TRC)
+      11.5 |  7.35 |   12.078 |     8.741 |   13.621 |     8.464 |   0.79 | 23.579 |    24.319 | 23.694 | Crown of Dusk, Ordained Dress, Dragonslayer Gauntlets, Loincloth (TRC)
+      11.6 |  6.11 |   10.856 |     9.493 |   12.529 |     7.704 |   0.73 | 24.687 |    24.628 | 24.919 | Crown of Dusk, Black Witch Garb, Ruin Gauntlets, Ordained Trousers
+      11.6 |  6.46 |   12.527 |     8.646 |   15.385 |     7.702 |   0.73 | 22.858 |    22.899 | 23.373 | Crown of Dusk, Ordained Dress, Elite Knight Gauntlets, Ordained Trousers
+      11.5 |  5.41 |   11.256 |     8.458 |   13.075 |     7.222 |   0.73 | 23.220 |    23.180 | 24.271 | Crown of Dusk, Ordained Dress, Sunless Gauntlets, Karla's Trousers
+      11.5 |  6.20 |   10.949 |     9.118 |   12.438 |     8.182 |   0.63 | 25.230 |    25.017 | 24.842 | Crown of Dusk, Black Witch Garb, Dragonslayer Gauntlets, Ordained Trousers
+====================================================================================================================================================================================
+best  13.3 |  8.87 |   12.804 |    10.517 |   13.970 |     9.412 |   1.85 | 24.241 |    24.894 | 24.660 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      13.3 |  8.32 |   13.073 |    10.333 |   13.793 |     9.597 |   1.63 | 24.405 |    24.730 | 24.824 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Black Witch Trousers
+      12.4 |  8.18 |   12.708 |     9.210 |   15.998 |     7.893 |   1.54 | 22.858 |    23.844 | 23.608 | Crown of Dusk, Ordained Dress, Ruin Gauntlets, Ordained Trousers
+      12.2 |  7.72 |   12.167 |     9.581 |   14.327 |     8.174 |   1.54 | 23.849 |    24.582 | 24.349 | Crown of Dusk, Ordained Dress, Ruin Gauntlets, Karla's Trousers
+      13.1 |  9.01 |   14.613 |    10.855 |   16.192 |    10.414 |   1.53 | 22.686 |    21.300 | 23.018 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Brass Leggings
+      13.3 |  8.49 |   13.078 |     9.300 |   14.685 |     8.746 |   1.44 | 24.320 |    24.271 | 24.815 | Crown of Dusk, Ordained Dress, Executioner Gauntlets, Karla's Trousers
+      12.3 |  8.28 |   12.798 |     8.834 |   15.911 |     8.371 |   1.44 | 23.415 |    24.237 | 23.530 | Crown of Dusk, Ordained Dress, Dragonslayer Gauntlets, Ordained Trousers
+      12.1 |  7.81 |   12.258 |     9.207 |   14.238 |     8.650 |   1.44 | 24.398 |    24.972 | 24.271 | Crown of Dusk, Ordained Dress, Dragonslayer Gauntlets, Karla's Trousers
+      13.3 |  9.10 |   14.441 |    10.765 |   16.108 |    10.414 |   1.43 | 22.686 |    21.544 | 23.177 | Crown of Dusk, Ordained Dress, Karla's Gloves, Brass Leggings
+      12.7 |  8.03 |   11.687 |    10.150 |   11.889 |     9.135 |   1.39 | 24.902 |    25.200 | 24.967 | Crown of Dusk, Karla's Coat, Cathedral Knight Gauntlets, Ordained Trousers
+====================================================================================================================================================================================
+best  13.5 |  9.33 |   13.342 |    10.150 |   15.648 |     9.135 |   1.85 | 23.256 |    24.158 | 23.922 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      13.4 |  9.56 |   14.527 |    10.765 |   16.277 |    10.323 |   1.53 | 22.766 |    21.463 | 23.177 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Brass Leggings
+      13.5 |  8.95 |   13.613 |     8.928 |   16.349 |     8.467 |   1.44 | 23.336 |    23.529 | 24.079 | Crown of Dusk, Ordained Dress, Executioner Gauntlets, Ordained Trousers
+      13.5 |  8.58 |   13.260 |    10.517 |   14.238 |     8.555 |   1.44 | 24.398 |    24.660 | 24.893 | Crown of Dusk, Ordained Dress, Exile Gauntlets, Karla's Trousers
+      13.4 |  9.38 |   14.872 |    11.125 |   16.446 |    10.594 |   1.43 | 22.686 |    21.544 | 23.256 | Crown of Dusk, Ordained Dress, Sorcerer Gloves, Brass Leggings
+      13.4 |  9.10 |   14.527 |    10.945 |   16.108 |    10.323 |   1.43 | 22.686 |    21.544 | 23.256 | Crown of Dusk, Ordained Dress, Maiden Gloves, Brass Leggings
+      13.5 |  8.76 |   13.613 |     9.210 |   16.174 |     8.084 |   1.34 | 22.938 |    23.844 | 23.922 | Crown of Dusk, Ordained Dress, Millwood Knight Gauntlets, Ordained Trousers
+      13.5 |  8.03 |   13.527 |    10.333 |   14.062 |     8.742 |   1.22 | 24.562 |    24.496 | 25.057 | Crown of Dusk, Ordained Dress, Exile Gauntlets, Black Witch Trousers
+      13.4 |  8.22 |   12.149 |     9.492 |   12.804 |     8.658 |   1.18 | 25.291 |    25.355 | 26.051 | Crown of Dusk, Karla's Coat, Winged Knight Gauntlets, Ordained Trousers
+      13.4 |  8.83 |   14.527 |    10.675 |   16.023 |    10.414 |   1.12 | 22.366 |    21.300 | 23.018 | Crown of Dusk, Ordained Dress, Old Sorcerer Gauntlets, Brass Leggings
+===============================================================================================================================================================================
 best  21.6 | 24.59 |   21.372 |    20.931 |   18.779 |    21.060 |   2.09 | 25.969 |    26.059 | 24.824 | Crown of Dusk, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
       21.6 | 24.13 |   21.614 |    20.768 |   18.612 |    21.221 |   1.88 | 26.130 |    25.898 | 24.987 | Crown of Dusk, Cathedral Knight Armor, Pale Shade Gloves, Black Witch Trousers
-      13.5 |  9.33 |   13.342 |    10.150 |   15.648 |     9.135 |   1.85 | 23.256 |    24.158 | 23.922 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
       21.6 | 24.82 |   21.372 |    21.011 |   18.779 |    21.219 |   1.68 | 25.739 |    26.441 | 25.057 | Crown of Dusk, Cathedral Knight Armor, Court Sorcerer Gloves, Karla's Trousers
-      14.0 |  9.06 |   13.260 |     9.862 |   14.864 |     8.936 |   1.64 | 24.634 |    25.050 | 25.748 | Crown of Dusk, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
-      14.2 |  9.52 |   13.794 |     9.492 |   16.525 |     8.658 |   1.64 | 23.654 |    24.316 | 25.021 | Crown of Dusk, Ordained Dress, Winged Knight Gauntlets, Ordained Trousers
-      17.1 | 10.70 |   13.169 |    10.423 |   14.685 |     8.936 |   1.64 | 24.634 |    24.582 | 24.971 | Crown of Dusk, Ordained Dress, Havel's Gauntlets, Karla's Trousers
       17.3 | 11.15 |   13.704 |    10.056 |   16.349 |     8.658 |   1.64 | 23.654 |    23.844 | 24.236 | Crown of Dusk, Ordained Dress, Havel's Gauntlets, Ordained Trousers
-      17.4 | 13.66 |   17.460 |    13.916 |   18.563 |    14.030 |   1.63 | 22.846 |    21.706 | 22.938 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Brass Leggings
+      17.1 | 10.70 |   13.169 |    10.423 |   14.685 |     8.936 |   1.64 | 24.634 |    24.582 | 24.971 | Crown of Dusk, Ordained Dress, Havel's Gauntlets, Karla's Trousers
+      14.2 |  9.52 |   13.794 |     9.492 |   16.525 |     8.658 |   1.64 | 23.654 |    24.316 | 25.021 | Crown of Dusk, Ordained Dress, Winged Knight Gauntlets, Ordained Trousers
+      14.0 |  9.06 |   13.260 |     9.862 |   14.864 |     8.936 |   1.64 | 24.634 |    25.050 | 25.748 | Crown of Dusk, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
       20.0 | 19.65 |   19.250 |    15.570 |   20.329 |    16.246 |   1.63 | 24.405 |    24.649 | 22.282 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Morne's Leggings
-=====================================================================================================================================================================================
-best  25.9 | 28.45 |   23.993 |    23.646 |   21.076 |    24.246 |   2.19 | 26.122 |    26.441 | 24.746 | Crown of Dusk, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
-      21.8 | 24.97 |   21.856 |    20.606 |   20.364 |    20.818 |   2.09 | 25.007 |    25.335 | 24.088 | Crown of Dusk, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
-      21.9 | 25.04 |   21.293 |    20.851 |   18.861 |    20.980 |   2.09 | 26.046 |    26.212 | 24.979 | Crown of Dusk, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
-      22.1 | 25.42 |   21.777 |    20.526 |   20.444 |    20.738 |   2.09 | 25.084 |    25.489 | 24.244 | Crown of Dusk, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
-      22.8 | 24.97 |   22.246 |    21.011 |   19.682 |    21.856 |   2.09 | 25.433 |    26.212 | 25.212 | Crown of Dusk, Cathedral Knight Armor, Pontiff Knight Gauntlets, Karla's Trousers
-      23.0 | 25.35 |   22.725 |    20.686 |   21.248 |    21.617 |   2.09 | 24.464 |    25.489 | 24.480 | Crown of Dusk, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
-      24.0 | 26.25 |   23.357 |    22.368 |   20.830 |    22.812 |   2.09 | 25.510 |    25.143 | 24.435 | Crown of Dusk, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
-      24.2 | 26.63 |   23.830 |    22.049 |   22.375 |    22.576 |   2.09 | 24.541 |    24.410 | 23.695 | Crown of Dusk, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      17.4 | 13.66 |   17.460 |    13.916 |   18.563 |    14.030 |   1.63 | 22.846 |    21.706 | 22.938 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Brass Leggings
+      14.0 | 10.00 |   13.432 |     9.398 |   16.788 |     8.371 |   1.54 | 23.256 |    24.001 | 24.158 | Crown of Dusk, Ordained Dress, Gundyr's Gauntlets, Ordained Trousers
+==============================================================================================================================================================================
+best  21.8 | 24.97 |   21.856 |    20.606 |   20.364 |    20.818 |   2.09 | 25.007 |    25.335 | 24.088 | Crown of Dusk, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
       21.8 | 24.67 |   21.213 |    20.851 |   18.697 |    21.060 |   1.99 | 25.969 |    26.288 | 24.979 | Crown of Dusk, Cathedral Knight Armor, Karla's Gloves, Karla's Trousers
+      21.8 | 24.52 |   20.975 |    21.090 |   18.943 |    20.900 |   1.89 | 25.969 |    26.212 | 25.057 | Crown of Dusk, Cathedral Knight Armor, Black Witch Wrappings, Karla's Trousers
+      21.7 | 24.89 |   21.293 |    20.931 |   18.697 |    21.060 |   1.78 | 26.275 |    26.135 | 25.134 | Crown of Dusk, Cathedral Knight Armor, Antiquated Gloves, Karla's Trousers
+      21.8 | 24.21 |   21.456 |    20.688 |   18.530 |    21.221 |   1.77 | 26.130 |    26.128 | 25.142 | Crown of Dusk, Cathedral Knight Armor, Karla's Gloves, Black Witch Trousers
+      21.8 | 25.20 |   21.856 |    20.686 |   20.364 |    20.978 |   1.68 | 24.774 |    25.720 | 24.323 | Crown of Dusk, Cathedral Knight Armor, Court Sorcerer Gloves, Ordained Trousers
+      21.8 | 24.06 |   21.218 |    20.928 |   18.777 |    21.062 |   1.67 | 26.130 |    26.051 | 25.220 | Crown of Dusk, Cathedral Knight Armor, Black Witch Wrappings, Black Witch Trousers
+      21.7 | 24.44 |   21.535 |    20.768 |   18.530 |    21.221 |   1.57 | 26.435 |    25.975 | 25.297 | Crown of Dusk, Cathedral Knight Armor, Antiquated Gloves, Black Witch Trousers
+      21.8 | 19.99 |   17.299 |    14.185 |   18.737 |    13.493 |   1.53 | 25.400 |    23.847 | 24.738 | Crown of Dusk, Ordained Dress, Pale Shade Gloves, Havel's Leggings
+      21.7 | 24.90 |   21.619 |    20.205 |   19.881 |    20.419 |   1.48 | 24.386 |    25.104 | 23.852 | Crown of Dusk, Cathedral Knight Armor, Violet Wrappings, Ordained Trousers
+====================================================================================================================================================================================
+best  21.9 | 25.04 |   21.293 |    20.851 |   18.861 |    20.980 |   2.09 | 26.046 |    26.212 | 24.979 | Crown of Dusk, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
       21.9 | 24.89 |   21.610 |    21.170 |   19.025 |    21.219 |   1.99 | 25.969 |    26.288 | 25.057 | Crown of Dusk, Cathedral Knight Armor, Sorcerer Gloves, Karla's Trousers
+      21.9 | 24.67 |   21.293 |    21.011 |   18.697 |    20.980 |   1.99 | 25.969 |    26.288 | 25.057 | Crown of Dusk, Cathedral Knight Armor, Maiden Gloves, Karla's Trousers
+      21.9 | 24.59 |   21.535 |    20.688 |   18.695 |    21.141 |   1.88 | 26.206 |    26.051 | 25.142 | Crown of Dusk, Cathedral Knight Armor, Cornyx's Wrap, Black Witch Trousers
+      21.9 | 25.27 |   21.777 |    20.606 |   20.283 |    20.818 |   1.78 | 25.317 |    25.412 | 24.401 | Crown of Dusk, Cathedral Knight Armor, Antiquated Gloves, Ordained Trousers
+      21.9 | 24.44 |   21.852 |    21.008 |   18.859 |    21.380 |   1.77 | 26.130 |    26.128 | 25.220 | Crown of Dusk, Cathedral Knight Armor, Sorcerer Gloves, Black Witch Trousers
+      21.9 | 24.21 |   21.535 |    20.848 |   18.530 |    21.141 |   1.77 | 26.130 |    26.128 | 25.220 | Crown of Dusk, Cathedral Knight Armor, Maiden Gloves, Black Witch Trousers
+      21.9 | 24.44 |   21.293 |    20.771 |   18.615 |    21.060 |   1.68 | 25.663 |    26.059 | 24.824 | Crown of Dusk, Cathedral Knight Armor, Old Sorcerer Gauntlets, Karla's Trousers
+      21.9 | 24.59 |   21.213 |    20.851 |   18.861 |    20.900 |   1.58 | 25.969 |    25.906 | 25.134 | Crown of Dusk, Cathedral Knight Armor, Fire Keeper Gloves, Karla's Trousers
+      21.9 | 25.05 |   21.935 |    20.606 |   20.364 |    20.818 |   1.48 | 24.619 |    25.566 | 23.852 | Crown of Dusk, Cathedral Knight Armor, Desert Pyromancer Gloves, Ordained Trousers
+============================================================================================================================================================================================
+best  22.1 | 25.42 |   21.777 |    20.526 |   20.444 |    20.738 |   2.09 | 25.084 |    25.489 | 24.244 | Crown of Dusk, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
+      22.1 | 25.27 |   22.093 |    20.847 |   20.605 |    20.978 |   1.99 | 25.007 |    25.566 | 24.323 | Crown of Dusk, Cathedral Knight Armor, Sorcerer Gloves, Ordained Trousers
+      22.0 | 25.05 |   21.698 |    20.526 |   20.283 |    20.818 |   1.99 | 25.007 |    25.566 | 24.244 | Crown of Dusk, Cathedral Knight Armor, Karla's Gloves, Ordained Trousers
+      22.1 | 25.05 |   21.777 |    20.686 |   20.283 |    20.738 |   1.99 | 25.007 |    25.566 | 24.323 | Crown of Dusk, Cathedral Knight Armor, Maiden Gloves, Ordained Trousers
+      22.1 | 25.04 |   21.690 |    21.250 |   18.943 |    21.299 |   1.99 | 26.199 |    26.364 | 25.134 | Crown of Dusk, Cathedral Knight Armor, Pyromancer Wrap, Karla's Trousers
+      22.0 | 24.90 |   21.462 |    20.766 |   20.524 |    20.659 |   1.89 | 25.007 |    25.489 | 24.323 | Crown of Dusk, Cathedral Knight Armor, Black Witch Wrappings, Ordained Trousers
+      22.1 | 24.59 |   21.931 |    21.088 |   18.777 |    21.459 |   1.77 | 26.359 |    26.204 | 25.297 | Crown of Dusk, Cathedral Knight Armor, Pyromancer Wrap, Black Witch Trousers
+      22.1 | 24.82 |   21.777 |    20.446 |   20.203 |    20.818 |   1.68 | 24.696 |    25.335 | 24.088 | Crown of Dusk, Cathedral Knight Armor, Old Sorcerer Gauntlets, Ordained Trousers
+      22.1 | 24.97 |   21.698 |    20.526 |   20.444 |    20.659 |   1.58 | 25.007 |    25.181 | 24.401 | Crown of Dusk, Cathedral Knight Armor, Fire Keeper Gloves, Ordained Trousers
+      22.1 | 20.47 |   17.216 |    14.098 |   18.819 |    13.405 |   1.53 | 25.477 |    24.004 | 24.893 | Crown of Dusk, Ordained Dress, Cornyx's Wrap, Havel's Leggings
+========================================================================================================================================================================
+best  24.0 | 26.25 |   23.357 |    22.368 |   20.830 |    22.812 |   2.09 | 25.510 |    25.143 | 24.435 | Crown of Dusk, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
+      23.0 | 25.35 |   22.725 |    20.686 |   21.248 |    21.617 |   2.09 | 24.464 |    25.489 | 24.480 | Crown of Dusk, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      22.8 | 24.97 |   22.246 |    21.011 |   19.682 |    21.856 |   2.09 | 25.433 |    26.212 | 25.212 | Crown of Dusk, Cathedral Knight Armor, Pontiff Knight Gauntlets, Karla's Trousers
+      22.3 | 25.42 |   22.172 |    20.927 |   20.524 |    21.058 |   1.99 | 25.239 |    25.643 | 24.401 | Crown of Dusk, Cathedral Knight Armor, Pyromancer Wrap, Ordained Trousers
+      23.6 | 26.25 |   23.119 |    22.210 |   21.812 |    22.177 |   1.89 | 25.084 |    25.104 | 23.460 | Crown of Dusk, Cathedral Knight Armor, Leonhard's Gauntlets, Ordained Trousers
+      23.4 | 25.88 |   22.643 |    22.528 |   20.256 |    22.414 |   1.89 | 26.046 |    25.830 | 24.202 | Crown of Dusk, Cathedral Knight Armor, Leonhard's Gauntlets, Karla's Trousers
+      24.0 | 25.81 |   23.594 |    22.209 |   20.668 |    22.970 |   1.88 | 25.671 |    24.981 | 24.600 | Crown of Dusk, Cathedral Knight Armor, Brass Gauntlets, Black Witch Trousers
+      22.8 | 24.51 |   22.485 |    20.848 |   19.517 |    22.016 |   1.88 | 25.595 |    26.051 | 25.375 | Crown of Dusk, Cathedral Knight Armor, Pontiff Knight Gauntlets, Black Witch Trousers
+      23.3 | 25.65 |   22.803 |    21.408 |   21.892 |    21.697 |   1.68 | 24.464 |    25.412 | 24.166 | Crown of Dusk, Cathedral Knight Armor, Leather Gauntlets, Ordained Trousers
+      23.1 | 25.27 |   22.325 |    21.729 |   20.338 |    21.936 |   1.68 | 25.433 |    26.135 | 24.901 | Crown of Dusk, Cathedral Knight Armor, Leather Gauntlets, Karla's Trousers
+====================================================================================================================================================================================
+best  24.2 | 26.63 |   23.830 |    22.049 |   22.375 |    22.576 |   2.09 | 24.541 |    24.410 | 23.695 | Crown of Dusk, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      24.2 | 21.75 |   19.388 |    15.745 |   20.789 |    15.413 |   1.53 | 24.937 |    22.904 | 24.349 | Crown of Dusk, Ordained Dress, Brass Gauntlets, Havel's Leggings
+      24.2 | 26.62 |   22.443 |    17.204 |   23.021 |    19.687 |   1.51 | 24.813 |    26.011 | 27.940 | Crown of Dusk, Winged Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      24.1 | 26.70 |   23.593 |    21.729 |   22.616 |    22.177 |   1.28 | 24.619 |    24.256 | 23.303 | Crown of Dusk, Cathedral Knight Armor, Mirrah Chain Gloves, Ordained Trousers
+      24.2 | 27.17 |   23.280 |    22.451 |   20.840 |    23.054 |   1.24 | 24.935 |    25.492 | 23.860 | Crown of Dusk, Cathedral Knight Armor, Ruin Gauntlets, Loincloth (TRC)
+      24.1 | 21.01 |   19.672 |    16.012 |   20.992 |    15.453 |   1.22 | 24.170 |    24.492 | 22.603 | Crown of Dusk, Ordained Dress, Smough's Gauntlets, Morne's Leggings
+      24.1 | 27.25 |   23.359 |    22.130 |   20.757 |    23.453 |   1.14 | 25.477 |    25.877 | 23.782 | Crown of Dusk, Cathedral Knight Armor, Dragonslayer Gauntlets, Loincloth (TRC)
+      24.2 | 26.55 |   23.751 |    22.049 |   22.375 |    22.816 |   1.07 | 24.774 |    24.487 | 23.460 | Crown of Dusk, Cathedral Knight Armor, Elite Knight Gauntlets, Ordained Trousers
+      24.1 | 25.72 |   22.643 |    21.889 |   20.256 |    22.414 |   1.07 | 25.127 |    24.762 | 24.358 | Crown of Dusk, Cathedral Knight Armor, Sunless Gauntlets, Karla's Trousers
+      24.1 | 26.33 |   23.516 |    22.688 |   20.994 |    23.210 |   0.97 | 25.663 |    25.296 | 24.280 | Crown of Dusk, Cathedral Knight Armor, Knight Gauntlets, Karla's Trousers
+===================================================================================================================================================================================
+best  25.9 | 28.45 |   23.993 |    23.646 |   21.076 |    24.246 |   2.19 | 26.122 |    26.441 | 24.746 | Crown of Dusk, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      25.9 | 28.01 |   24.227 |    23.489 |   20.914 |    24.400 |   1.98 | 26.282 |    26.281 | 24.910 | Crown of Dusk, Cathedral Knight Armor, Cathedral Knight Gauntlets, Black Witch Trousers
+      25.0 | 27.90 |   23.909 |    22.531 |   22.938 |    22.976 |   1.89 | 24.774 |    25.412 | 23.695 | Crown of Dusk, Cathedral Knight Armor, Ruin Gauntlets, Ordained Trousers
+      24.8 | 27.54 |   23.437 |    22.848 |   21.405 |    23.210 |   1.89 | 25.739 |    26.135 | 24.435 | Crown of Dusk, Cathedral Knight Armor, Ruin Gauntlets, Karla's Trousers
+      25.7 | 28.56 |   25.570 |    23.934 |   23.115 |    25.083 |   1.88 | 24.606 |    22.921 | 23.106 | Crown of Dusk, Cathedral Knight Armor, Pale Shade Gloves, Brass Leggings
+      25.9 | 28.14 |   24.231 |    22.608 |   21.733 |    23.688 |   1.78 | 26.199 |    25.830 | 24.901 | Crown of Dusk, Cathedral Knight Armor, Executioner Gauntlets, Karla's Trousers
+      24.9 | 27.98 |   23.987 |    22.210 |   22.857 |    23.375 |   1.78 | 25.317 |    25.797 | 23.617 | Crown of Dusk, Cathedral Knight Armor, Dragonslayer Gauntlets, Ordained Trousers
+      24.7 | 27.61 |   23.516 |    22.528 |   21.322 |    23.609 |   1.78 | 26.275 |    26.517 | 24.358 | Crown of Dusk, Cathedral Knight Armor, Dragonslayer Gauntlets, Karla's Trousers
+      25.9 | 28.63 |   25.419 |    23.858 |   23.038 |    25.083 |   1.77 | 24.606 |    23.160 | 23.265 | Crown of Dusk, Cathedral Knight Armor, Karla's Gloves, Brass Leggings
+      25.9 | 27.99 |   24.231 |    22.848 |   21.569 |    23.370 |   1.68 | 25.816 |    26.135 | 24.746 | Crown of Dusk, Cathedral Knight Armor, Millwood Knight Gauntlets, Karla's Trousers
+============================================================================================================================================================================================
+best  26.1 | 28.81 |   24.461 |    23.333 |   22.616 |    24.014 |   2.19 | 25.162 |    25.720 | 24.009 | Crown of Dusk, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      26.0 | 28.99 |   25.495 |    23.858 |   23.193 |    25.008 |   1.88 | 24.684 |    23.080 | 23.265 | Crown of Dusk, Cathedral Knight Armor, Cornyx's Wrap, Brass Leggings
+      26.1 | 28.51 |   24.698 |    22.290 |   23.259 |    23.455 |   1.78 | 25.239 |    25.104 | 24.166 | Crown of Dusk, Cathedral Knight Armor, Executioner Gauntlets, Ordained Trousers
+      26.1 | 28.22 |   24.390 |    23.646 |   21.322 |    23.529 |   1.78 | 26.275 |    26.212 | 24.979 | Crown of Dusk, Cathedral Knight Armor, Exile Gauntlets, Karla's Trousers
+      26.0 | 28.84 |   25.795 |    24.165 |   23.348 |    25.234 |   1.77 | 24.606 |    23.160 | 23.344 | Crown of Dusk, Cathedral Knight Armor, Sorcerer Gloves, Brass Leggings
+      26.0 | 28.63 |   25.495 |    24.011 |   23.038 |    25.008 |   1.77 | 24.606 |    23.160 | 23.344 | Crown of Dusk, Cathedral Knight Armor, Maiden Gloves, Brass Leggings
+      26.1 | 28.36 |   24.698 |    22.531 |   23.099 |    23.135 |   1.68 | 24.851 |    25.412 | 24.009 | Crown of Dusk, Cathedral Knight Armor, Millwood Knight Gauntlets, Ordained Trousers
+      26.1 | 24.07 |   20.056 |    17.132 |   21.036 |    16.984 |   1.63 | 25.554 |    24.240 | 24.660 | Crown of Dusk, Ordained Dress, Cathedral Knight Gauntlets, Havel's Leggings
+      26.1 | 27.78 |   24.623 |    23.489 |   21.161 |    23.685 |   1.57 | 26.435 |    26.051 | 25.142 | Crown of Dusk, Cathedral Knight Armor, Exile Gauntlets, Black Witch Trousers
+      26.0 | 28.41 |   25.495 |    23.781 |   22.960 |    25.083 |   1.47 | 24.294 |    22.921 | 23.106 | Crown of Dusk, Cathedral Knight Armor, Old Sorcerer Gauntlets, Brass Leggings

@@ -396,28 +396,52 @@ const armor ds3armors[] {
 		{274,"Xanthous Trousers",39,4.6,5.1,3.4,4.6,7,3.4,7.4,6.7,22,35,35,28,1.5,LEGS}
 };
 
+//arguments
+namespace{
+vec_absorptions weights;
+bool harmonic_mean, duskcrown, poisefirst, zeroweights = true;
+unsigned int maxtiers;
+set<string> exclusions{ "Crown of Dusk", "Symbol of Avarice" };
+}
+
 struct armorset{
 	vec_absorptions absorptions;
 	const armor *head = 0, *body, *arms, *legs;
 	float score = 0, poise = 0;
 	unsigned short weight = 0;
-	bool operator <(const armorset& o) const { return score != o.score ? score > o.score : weight != o.weight ? weight < o.weight : poise > o.poise; }
+	void calcscore(){
+		if(zeroweights){
+			score = poise;
+			return;
+		}
+		auto x = absorptions;
+		if(harmonic_mean){
+			if(duskcrown) x.magic += 30;	//harmonic mean screws up with negative numbers
+			x.all = 1 / x.all;
+		}
+		x.all *= weights.all;
+		x.v4[0] += x.v4[1];
+		x.v2[0] += x.v2[1];
+		score = x.v2[0][0] + x.v2[0][1];
+		if(harmonic_mean) score = -score;
+	}
+	bool operator <(const armorset& o) const {
+		if(!head) return false;
+		if(!o.head) return true;
+		if(poisefirst) return poise != o.poise ? poise > o.poise : score != o.score ? score > o.score : weight < o.weight;
+		return score != o.score ? score > o.score : poise != o.poise ? poise > o.poise : weight < o.weight;
+	}
 };
 
 const int BESTN_TOT = 50;
 armorset weightrank[601][BESTN_TOT];	//60.0 is the maximum weight
+vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
 
 #ifdef __x86_64__
 //XXX this would be so nice but it crashes gcc 6.3
 //__attribute__((target_clones("default","avx","avx2")))
 #endif
 int main(int argc, char** argv){
-	memset(weightrank, 0, sizeof(weightrank));
-
-	vec_absorptions weights;
-	bool harmonic_mean, duskcrown, poisefirst;
-	unsigned int maxtiers;
-	set<string> exclusions{ "Crown of Dusk", "Symbol of Avarice" };
 
 	boost::program_options::options_description options("Options for ds3armor");
 	try {
@@ -446,59 +470,33 @@ int main(int argc, char** argv){
 			cerr<<options<<endl;
 			return 0;
 		}
-		if(!maxtiers || maxtiers > BESTN_TOT){
-			cerr<<"maxtiers must be between 1 and"<<BESTN_TOT<<endl;
-			return 1;
+
+		//sanity
+		if(!maxtiers || maxtiers > BESTN_TOT) throw invalid_argument("maxtiers must be between 1 and " + to_string(BESTN_TOT));
+
+		for(int i = 0; i < 8; i++){
+			if(weights.all[i] < 0) throw invalid_argument("no weight can be negative");
+			zeroweights &= weights.all[i] == 0.f;
 		}
+		if(zeroweights && !poisefirst) throw invalid_argument("At least one weight must be > 0");
+
 		exclusions.insert(exclusions_v.begin(), exclusions_v.end());
+		if(duskcrown) exclusions.erase("Crown of Dusk");
+		for(auto& a: ds3armors){
+			auto it = exclusions.find(a.name);
+			if(it != exclusions.end()) exclusions.erase(it);
+			else if(!duskcrown || a.type != HEAD || !strcmp(a.name, "Crown of Dusk")) armor_by_type[a.type].push_back(&a);
+		}
+		if(!exclusions.empty()) throw invalid_argument("Unrecognized exclusion " + *exclusions.begin());
+	} catch(const invalid_argument& e){
+		cerr<<"Bad command line argument: "<<e.what()<<endl<<options<<endl;
+		return 1;
 	} catch(const boost::program_options::error& e){
 		cerr<<"Failed to parse command line: "<<e.what()<<endl<<options<<endl;
 		return 1;
 	}
 
-	float weight_total = 0;
-	for(int i = 0; i < 8; i++) if(weights.all[i] < 0){
-		cerr<<"no weight can be negative"<<endl;
-		return 1;
-	} else weight_total += weights.all[i];
-	if(weight_total == 0.f && !poisefirst){
-		cerr<<"At least one weight must be > 0"<<endl;
-		return 1;
-	}
-	float weight_total_inverse = 1 / weight_total;
-
-	auto score = [&](const armorset& set){	//basically a weighted sum of the absorptions
-		if(weight_total == 0.f) return set.poise;
-		auto x = set.absorptions;
-		if(harmonic_mean){
-			if(duskcrown) x.magic += 30;	//harmonic mean screws up with negative numbers
-			x.all = 1 / x.all;
-		}
-		x.all *= weights.all;
-		x.v4[0] += x.v4[1];
-		x.v2[0] += x.v2[1];
-		float r = x.v2[0][0] + x.v2[0][1];
-		if(harmonic_mean) r = 1 / r;
-		if(poisefirst){
-			r *= weight_total_inverse;
-			r += 10000 * set.poise;
-		}
-		return r;
-	};
-
-	vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
-	if(duskcrown) exclusions.erase("Crown of Dusk");
-	for(auto& a: ds3armors){
-		auto it = exclusions.find(a.name);
-		if(it != exclusions.end()) exclusions.erase(it);
-		else if(!duskcrown || a.type != HEAD || !strcmp(a.name, "Crown of Dusk")) armor_by_type[a.type].push_back(&a);
-	}
-	if(!exclusions.empty()){
-		cerr<<"Unrecognized exclusions:"<<endl;
-		for(auto& e: exclusions) cerr<<e<<endl;
-		return 1;
-	}
-
+	//loop all sets
 	armorset candidate;
 	for(auto body: armor_by_type[BODY]){
 		candidate.body = body;
@@ -517,9 +515,9 @@ int main(int argc, char** argv){
 					candidate.absorptions.all = 100 - (body_legs_arms_abs * (head->absorptions.all - 100)) / 1000000;
 					candidate.poise = 100 - (body_legs_arms_poise * (head->poise - 100)) / 1000000;
 					candidate.weight = body_legs_arms_weight + head->weight;
-					candidate.score = score(candidate);
+					candidate.calcscore();
 					auto& bestn = weightrank[candidate.weight];
-					if(!bestn[BESTN_TOT - 1].head || bestn[BESTN_TOT - 1].score < candidate.score){
+					if(candidate < bestn[BESTN_TOT - 1]){
 						bestn[BESTN_TOT - 1] = candidate;
 						sort(bestn, bestn + BESTN_TOT);
 					}
@@ -528,6 +526,7 @@ int main(int argc, char** argv){
 		}
 	}
 
+	//result
 	const char* absorption_names[]{"physical", "vs_strike", "vs_slash", "vs_thrust", "magic", "fire", "lightning", "dark"};
 	int namelens[8], prevlen = printf("    weight | poise | ");
 	for(int i = 0; i < 8; i++){
@@ -536,13 +535,13 @@ int main(int argc, char** argv){
 	}
 	prevlen += printf("armor pieces");
 	cout<<endl;
-	float bestscore = 0;
+	armorset lastbest;
 	vector<armorset> tiers;
 	for(auto& bestn: weightrank){
 		tiers.insert(tiers.end(), bestn, bestn + BESTN_TOT);
 		sort(tiers.begin(), tiers.end());
-		if(bestscore >= tiers[0].score) continue;
-		bestscore = tiers[0].score;
+		if(lastbest < tiers[0]) continue;
+		lastbest = tiers[0];
 		for(unsigned int i = 0; i < min(maxtiers, (unsigned int)tiers.size()); i++){
 			auto& best = tiers[i];
 			if(!best.head) break;

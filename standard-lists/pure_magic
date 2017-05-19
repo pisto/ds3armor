@@ -12,15 +12,15 @@ best   4.7 |  1.49 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.3
        4.7 |  0.90 |    6.259 |     6.071 |    5.976 |     5.107 | 20.097 | 17.066 |    18.721 | 20.015 | Ragged Mask, Master's Attire, Violet Wrappings, Loincloth
        4.5 |  0.40 |    5.596 |     5.596 |    5.596 |     4.628 | 19.527 | 17.600 |    17.886 | 19.359 | Pyromancer Crown , Master's Attire, Master's Gloves, Loincloth
        4.7 |  0.60 |    5.691 |     5.691 |    5.691 |     4.724 | 19.275 | 16.475 |    17.971 | 19.695 | Hood Of Prayer, Master's Attire, Master's Gloves, Loincloth
-       4.5 |  0.40 |    5.881 |     5.786 |    5.691 |     4.820 | 19.023 | 15.869 |    18.567 | 15.999 | Blindfold Mask, Master's Attire, Master's Gloves, Loincloth
        4.6 |  0.70 |    6.737 |     5.691 |    6.071 |     5.108 | 19.023 | 17.341 |    18.397 | 19.947 | Desert Pyromancer Hood, Master's Attire, Master's Gloves, Loincloth
-=============================================================================================================================================================================
+       4.5 |  0.40 |    5.881 |     5.786 |    5.691 |     4.820 | 19.023 | 15.869 |    18.567 | 15.999 | Blindfold Mask, Master's Attire, Master's Gloves, Loincloth
+=====================================================================================================================================================================
 best   4.9 |  1.89 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.305 |    22.471 | 22.400 | Old Sorcerer Hat, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.8 |  1.30 |    6.566 |     5.790 |    5.305 |     4.920 | 20.767 | 20.721 |    21.741 | 21.666 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.8 |  1.00 |    6.543 |     6.543 |    6.543 |     5.584 | 20.592 | 17.747 |    18.972 | 20.262 | Ragged Mask, Master's Attire, Pale Shade Gloves, Loincloth
        4.9 |  1.39 |    6.448 |     6.543 |    6.448 |     5.584 | 20.344 | 18.087 |    19.055 | 20.592 | Ragged Mask, Master's Attire, Antiquated Gloves, Loincloth
-       4.8 |  1.30 |    6.849 |     5.980 |    5.400 |     5.111 | 20.270 | 19.056 |    22.390 | 18.402 | Blindfold Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.9 |  1.59 |    7.695 |     5.885 |    5.782 |     5.399 | 20.270 | 20.472 |    22.228 | 22.237 | Desert Pyromancer Hood, Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |  1.30 |    6.849 |     5.980 |    5.400 |     5.111 | 20.270 | 19.056 |    22.390 | 18.402 | Blindfold Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.8 |  1.29 |    6.543 |     6.637 |    6.543 |     5.774 | 20.262 | 17.491 |    19.390 | 20.509 | Ragged Mask, Master's Attire, Court Sorcerer Gloves, Loincloth
        4.8 |  0.90 |    6.737 |     6.261 |    6.261 |     5.492 | 20.199 | 16.735 |    18.993 | 20.199 | Cleric Hat, Master's Attire, Master's Gloves, Loincloth
        4.9 |  1.10 |    6.637 |     6.543 |    6.543 |     5.584 | 20.097 | 17.321 |    19.222 | 20.015 | Ragged Mask, Master's Attire, Desert Pyromancer Gloves, Loincloth
@@ -52,8 +52,8 @@ best   5.6 |  1.89 |    7.800 |     7.613 |    7.613 |     6.846 | 23.982 | 21.9
        5.5 |  1.30 |    7.051 |     7.051 |    7.051 |     6.089 | 23.422 | 22.327 |    22.099 | 23.263 | Pyromancer Crown , Clandestine Coat, Master's Gloves, Loincloth
        5.6 |  1.49 |    6.749 |     7.329 |    6.749 |     5.982 | 23.281 | 20.931 |    21.929 | 23.281 | Ragged Mask, Maiden Robe, Master's Gloves, Loincloth
        5.5 |  2.09 |    6.846 |     6.459 |    6.846 |     6.079 | 23.103 | 21.203 |    22.018 | 24.081 | Ragged Mask, Robe Of Prayer, Master's Gloves, Loincloth
-       5.5 |  1.30 |    7.332 |     7.239 |    7.145 |     6.278 | 22.943 | 20.695 |    22.746 | 20.065 | Blindfold Mask, Clandestine Coat, Master's Gloves, Loincloth
        5.6 |  1.59 |    8.175 |     7.145 |    7.519 |     6.562 | 22.943 | 22.082 |    22.584 | 23.822 | Desert Pyromancer Hood, Clandestine Coat, Master's Gloves, Loincloth
+       5.5 |  1.30 |    7.332 |     7.239 |    7.145 |     6.278 | 22.943 | 20.695 |    22.746 | 20.065 | Blindfold Mask, Clandestine Coat, Master's Gloves, Loincloth
        5.5 |  1.49 |    6.660 |     6.173 |    5.691 |     5.207 | 22.876 | 20.305 |    21.701 | 22.117 | Shira's Crown, Antiquated Plain Garb, Master's Gloves, Loincloth
        5.6 |  1.30 |    6.566 |     5.984 |    5.596 |     4.920 | 22.714 | 20.721 |    21.292 | 22.198 | Pyromancer Crown , Antiquated Plain Garb, Master's Gloves, Loincloth
        5.6 |  2.08 |    7.877 |     6.923 |    6.444 |     6.254 | 22.709 | 21.761 |    23.576 | 23.428 | Old Sorcerer Hat, Desert Pyromancer Garb, Pale Shade Gloves, Loincloth
@@ -257,112 +257,365 @@ best   8.6 |  3.07 |    9.095 |     8.632 |    8.632 |     7.113 | 27.862 | 25.5
        8.6 |  3.36 |    9.095 |     8.724 |    8.632 |     7.300 | 27.563 | 25.326 |    27.376 | 27.377 | Cleric Hat, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
        8.5 |  3.55 |    8.632 |     8.539 |    8.447 |     7.018 | 27.562 | 26.251 |    26.768 | 27.376 | Old Sorcerer Hat, Karla's Coat, Antiquated Gloves, Karla's Trousers
 =============================================================================================================================================================================
-best   9.0 |  3.26 |    8.910 |     8.447 |    8.447 |     6.829 | 28.014 | 26.254 |    26.923 | 27.381 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-       8.8 |  3.56 |    9.655 |     8.257 |   10.414 |     6.829 | 27.862 | 24.589 |    26.284 | 26.438 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
-       8.9 |  3.65 |    9.003 |     8.540 |    8.724 |     7.019 | 27.862 | 25.634 |    27.150 | 27.302 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Karla's Trousers
-       8.9 |  2.97 |    8.817 |     8.632 |    8.632 |     6.735 | 27.862 | 26.254 |    26.999 | 27.075 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-       9.0 |  4.14 |    8.817 |     9.837 |    9.095 |     7.396 | 27.862 | 26.176 |    27.076 | 27.458 | Archdeacon White Crown, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-       9.0 |  2.68 |    9.190 |     8.259 |    8.259 |     7.019 | 27.857 | 26.414 |    26.764 | 27.539 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+best   8.8 |  3.56 |    9.655 |     8.257 |   10.414 |     6.829 | 27.862 | 24.589 |    26.284 | 26.438 | Cleric Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
        8.8 |  3.17 |    8.912 |     8.540 |    8.540 |     7.113 | 27.787 | 25.557 |    27.225 | 27.302 | Cleric Hat, Karla's Coat, Karla's Gloves, Karla's Trousers
+       8.7 |  3.75 |    8.632 |     8.447 |    8.632 |     6.924 | 27.786 | 26.021 |    26.844 | 27.225 | Old Sorcerer Hat, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       8.8 |  3.96 |   10.615 |     8.163 |   11.901 |     6.923 | 27.728 | 23.102 |    25.339 | 25.575 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Loincloth (TRC)
+       8.8 |  2.97 |    8.636 |     8.817 |    8.817 |     6.925 | 27.713 | 25.557 |    27.150 | 27.377 | Cleric Hat, Karla's Coat, Black Witch Wrappings, Karla's Trousers
+       8.8 |  3.75 |    9.104 |     8.071 |   10.233 |     6.734 | 27.711 | 24.981 |    26.204 | 26.513 | Old Sorcerer Hat, Karla's Coat, Karla's Gloves, Ordained Trousers
+       8.7 |  3.55 |    9.001 |     8.816 |    8.816 |     7.206 | 27.711 | 25.944 |    26.919 | 27.301 | Old Sorcerer Hat, Karla's Coat, Sorcerer Gloves, Karla's Trousers
+       8.7 |  3.26 |    8.632 |     8.632 |    8.447 |     6.924 | 27.711 | 25.944 |    26.919 | 27.301 | Old Sorcerer Hat, Karla's Coat, Maiden Gloves, Karla's Trousers
+       8.7 |  3.46 |    9.003 |     8.632 |    8.540 |     7.113 | 27.638 | 25.865 |    27.075 | 27.452 | Cleric Hat, Karla's Coat, Antiquated Gloves, Karla's Trousers
+       8.8 |  3.56 |    8.829 |     8.349 |   10.505 |     6.546 | 27.636 | 24.981 |    26.127 | 26.589 | Old Sorcerer Hat, Karla's Coat, Black Witch Wrappings, Ordained Trousers
+==================================================================================================================================================================================
+best   8.9 |  3.65 |    9.003 |     8.540 |    8.724 |     7.019 | 27.862 | 25.634 |    27.150 | 27.302 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       8.9 |  2.97 |    8.817 |     8.632 |    8.632 |     6.735 | 27.862 | 26.254 |    26.999 | 27.075 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
        8.9 |  3.46 |    9.371 |     8.909 |    8.909 |     7.300 | 27.787 | 25.557 |    27.225 | 27.377 | Cleric Hat, Karla's Coat, Sorcerer Gloves, Karla's Trousers
        8.9 |  3.17 |    9.003 |     8.724 |    8.540 |     7.019 | 27.787 | 25.557 |    27.225 | 27.377 | Cleric Hat, Karla's Coat, Maiden Gloves, Karla's Trousers
+       8.9 |  4.23 |    9.195 |     8.071 |   10.414 |     6.640 | 27.786 | 25.059 |    26.127 | 26.513 | Old Sorcerer Hat, Karla's Coat, Cornyx's Wrap, Ordained Trousers
+       8.9 |  4.04 |    9.562 |     8.442 |   10.595 |     6.922 | 27.711 | 24.981 |    26.204 | 26.589 | Old Sorcerer Hat, Karla's Coat, Sorcerer Gloves, Ordained Trousers
+       8.9 |  3.75 |    9.195 |     8.256 |   10.233 |     6.640 | 27.711 | 24.981 |    26.204 | 26.589 | Old Sorcerer Hat, Karla's Coat, Maiden Gloves, Ordained Trousers
+       8.9 |  3.75 |    9.093 |     8.909 |    8.724 |     7.300 | 27.711 | 26.174 |    26.995 | 27.376 | Old Sorcerer Hat, Karla's Coat, Pyromancer Wrap, Karla's Trousers
+       8.9 |  3.07 |    9.284 |     8.352 |    8.537 |     7.208 | 27.705 | 25.795 |    26.991 | 27.460 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Black Witch Trousers
+       8.9 |  2.38 |    9.098 |     8.444 |    8.444 |     6.925 | 27.705 | 26.414 |    26.840 | 27.233 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+====================================================================================================================================================================================
+best   9.0 |  3.26 |    8.910 |     8.447 |    8.447 |     6.829 | 28.014 | 26.254 |    26.923 | 27.381 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       9.0 |  4.14 |    8.817 |     9.837 |    9.095 |     7.396 | 27.862 | 26.176 |    27.076 | 27.458 | Archdeacon White Crown, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       9.0 |  2.68 |    9.190 |     8.259 |    8.259 |     7.019 | 27.857 | 26.414 |    26.764 | 27.539 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
        9.0 |  3.65 |    9.473 |     8.164 |   10.324 |     6.829 | 27.787 | 24.589 |    26.513 | 26.590 | Cleric Hat, Karla's Coat, Karla's Gloves, Ordained Trousers
-=====================================================================================================================================================================
+       9.0 |  2.78 |    9.095 |     8.354 |    8.354 |     6.924 | 27.786 | 26.331 |    26.923 | 27.151 | Black Witch Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
+       9.0 |  2.48 |    8.720 |     8.732 |    8.732 |     6.637 | 27.763 | 26.424 |    26.668 | 27.634 | Sunless Veil, Black Witch Garb, Pale Shade Gloves, Karla's Trousers
+       9.0 |  4.15 |    9.798 |     8.169 |   11.998 |     6.546 | 27.745 | 24.321 |    25.360 | 25.282 | Shira's Crown, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.0 |  3.55 |    8.910 |     8.539 |    8.447 |     7.017 | 27.715 | 26.025 |    27.300 | 27.606 | Sunless Veil, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
+       9.0 |  3.46 |    9.199 |     8.442 |   10.595 |     6.640 | 27.713 | 24.589 |    26.437 | 26.666 | Cleric Hat, Karla's Coat, Black Witch Wrappings, Ordained Trousers
+       9.0 |  3.56 |    9.098 |     9.651 |    8.909 |     7.585 | 27.705 | 26.336 |    26.917 | 27.616 | Archdeacon White Crown, Karla's Coat, Pale Shade Gloves, Black Witch Trousers
+=======================================================================================================================================================================================
 best   9.2 |  4.54 |   10.434 |     8.539 |   12.441 |     7.018 | 28.123 | 24.321 |    25.672 | 26.059 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.2 |  3.75 |    9.471 |     8.071 |   10.233 |     6.544 | 28.014 | 25.295 |    26.207 | 26.670 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Ordained Trousers
        9.1 |  2.97 |    9.188 |     8.632 |    9.929 |     6.546 | 28.014 | 25.712 |    26.769 | 26.768 | Ordained Hood, Karla's Coat, Pale Shade Gloves, Karla's Trousers
        9.1 |  2.97 |    9.651 |     9.188 |    9.188 |     7.113 | 28.014 | 25.402 |    26.769 | 26.845 | Sage's Big Hat, Karla's Coat, Pale Shade Gloves, Karla's Trousers
-       9.2 |  3.75 |    9.471 |     8.071 |   10.233 |     6.544 | 28.014 | 25.295 |    26.207 | 26.670 | Sunless Veil, Karla's Coat, Pale Shade Gloves, Ordained Trousers
        9.2 |  3.96 |   10.710 |     8.351 |   12.262 |     7.208 | 27.966 | 24.485 |    25.510 | 26.220 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
        9.2 |  3.36 |    8.726 |     8.354 |    8.354 |     6.829 | 27.939 | 26.254 |    27.149 | 27.531 | Sunless Veil, Karla's Coat, Karla's Gloves, Karla's Trousers
        9.2 |  4.15 |   10.433 |     7.977 |   11.723 |     6.639 | 27.880 | 23.821 |    25.260 | 25.810 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Loincloth (TRC)
        9.2 |  3.17 |    8.450 |     8.632 |    8.632 |     6.641 | 27.865 | 26.254 |    27.073 | 27.606 | Sunless Veil, Karla's Coat, Black Witch Wrappings, Karla's Trousers
+       9.2 |  4.62 |    9.379 |     9.466 |   10.869 |     7.113 | 27.862 | 25.217 |    26.362 | 26.748 | Archdeacon White Crown, Karla's Coat, Pale Shade Gloves, Ordained Trousers
        9.1 |  4.14 |    9.564 |     8.164 |   10.505 |     6.734 | 27.862 | 24.667 |    26.437 | 26.590 | Cleric Hat, Karla's Coat, Cornyx's Wrap, Ordained Trousers
-       9.1 |  3.46 |    9.379 |     8.257 |   10.414 |     6.450 | 27.862 | 25.295 |    26.284 | 26.360 | Karla's Pointed Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
-=================================================================================================================================================================================
+====================================================================================================================================================================
 best   9.4 |  4.44 |   10.798 |     8.632 |   12.530 |     7.113 | 28.198 | 23.926 |    25.983 | 26.137 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
        9.4 |  5.02 |   10.986 |     8.164 |   14.149 |     6.734 | 28.123 | 23.337 |    24.944 | 25.335 | Old Sorcerer Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
        9.4 |  4.63 |   10.253 |     8.447 |   12.353 |     7.018 | 28.048 | 24.321 |    25.902 | 26.212 | Old Sorcerer Hat, Ordained Dress, Karla's Gloves, Karla's Trousers
        9.4 |  3.86 |   11.073 |     8.444 |   12.350 |     7.302 | 28.041 | 24.091 |    25.822 | 26.298 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
        9.3 |  3.84 |    8.818 |     8.354 |    8.539 |     6.735 | 28.014 | 26.330 |    27.073 | 27.531 | Sunless Veil, Karla's Coat, Cornyx's Wrap, Karla's Trousers
-       9.3 |  3.46 |    9.747 |     8.257 |   11.686 |     6.260 | 28.014 | 24.746 |    26.052 | 26.051 | Ordained Hood, Karla's Coat, Pale Shade Gloves, Ordained Trousers
-       9.3 |  3.46 |   10.208 |     8.815 |   10.959 |     6.829 | 28.014 | 24.433 |    26.052 | 26.128 | Sage's Big Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
        9.4 |  3.55 |    9.560 |     9.096 |    9.280 |     7.019 | 28.014 | 25.480 |    26.920 | 26.996 | Sage's Big Hat, Karla's Coat, Cornyx's Wrap, Karla's Trousers
        9.4 |  3.55 |    9.096 |     8.540 |   10.020 |     6.452 | 28.014 | 25.789 |    26.920 | 26.919 | Ordained Hood, Karla's Coat, Cornyx's Wrap, Karla's Trousers
+       9.3 |  3.46 |    9.747 |     8.257 |   11.686 |     6.260 | 28.014 | 24.746 |    26.052 | 26.051 | Ordained Hood, Karla's Coat, Pale Shade Gloves, Ordained Trousers
+       9.3 |  3.46 |   10.208 |     8.815 |   10.959 |     6.829 | 28.014 | 24.433 |    26.052 | 26.128 | Sage's Big Hat, Karla's Coat, Pale Shade Gloves, Ordained Trousers
        9.4 |  4.44 |    9.982 |     8.724 |   12.618 |     6.831 | 27.973 | 24.321 |    25.825 | 26.289 | Old Sorcerer Hat, Ordained Dress, Black Witch Wrappings, Karla's Trousers
 ===================================================================================================================================================================================
-best   9.8 |  4.64 |   10.616 |     8.447 |   12.353 |     6.829 | 28.349 | 24.638 |    25.905 | 26.370 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-       9.6 |  4.93 |   11.347 |     8.257 |   14.236 |     6.829 | 28.198 | 22.937 |    25.258 | 25.414 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
-       9.7 |  5.02 |   10.708 |     8.540 |   12.618 |     7.019 | 28.198 | 24.005 |    26.136 | 26.290 | Cleric Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
-       9.7 |  4.35 |   10.525 |     8.632 |   12.530 |     6.735 | 28.198 | 24.638 |    25.983 | 26.059 | Karla's Pointed Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-       9.8 |  5.50 |   10.525 |     9.837 |   12.974 |     7.396 | 28.198 | 24.559 |    26.061 | 26.448 | Archdeacon White Crown, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-       9.8 |  4.06 |   10.891 |     8.259 |   12.173 |     7.019 | 28.193 | 24.801 |    25.744 | 26.531 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+best   9.6 |  4.93 |   11.347 |     8.257 |   14.236 |     6.829 | 28.198 | 22.937 |    25.258 | 25.414 | Cleric Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
        9.6 |  4.54 |   10.618 |     8.540 |   12.442 |     7.113 | 28.124 | 23.926 |    26.212 | 26.290 | Cleric Hat, Ordained Dress, Karla's Gloves, Karla's Trousers
+       9.5 |  5.11 |   10.344 |     8.447 |   12.530 |     6.924 | 28.123 | 24.400 |    25.825 | 26.212 | Old Sorcerer Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+       9.6 |  4.35 |   10.347 |     8.817 |   12.707 |     6.925 | 28.049 | 23.926 |    26.136 | 26.366 | Cleric Hat, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+       9.6 |  5.12 |   10.806 |     8.071 |   14.063 |     6.734 | 28.048 | 23.337 |    25.176 | 25.490 | Old Sorcerer Hat, Ordained Dress, Karla's Gloves, Ordained Trousers
+       9.5 |  4.92 |   10.706 |     8.816 |   12.707 |     7.206 | 28.048 | 24.321 |    25.902 | 26.289 | Old Sorcerer Hat, Ordained Dress, Sorcerer Gloves, Karla's Trousers
+       9.5 |  4.63 |   10.344 |     8.632 |   12.353 |     6.924 | 28.048 | 24.321 |    25.902 | 26.289 | Old Sorcerer Hat, Ordained Dress, Maiden Gloves, Karla's Trousers
+       9.5 |  4.33 |    9.380 |     7.978 |   10.323 |     6.450 | 28.014 | 25.372 |    26.359 | 26.822 | Sunless Veil, Karla's Coat, Cornyx's Wrap, Ordained Trousers
+       9.6 |  4.04 |    9.656 |     8.164 |   11.775 |     6.166 | 28.014 | 24.824 |    26.204 | 26.204 | Ordained Hood, Karla's Coat, Cornyx's Wrap, Ordained Trousers
+       9.6 |  4.04 |   10.117 |     8.723 |   11.049 |     6.734 | 28.014 | 24.511 |    26.204 | 26.281 | Sage's Big Hat, Karla's Coat, Cornyx's Wrap, Ordained Trousers
+========================================================================================================================================================================
+best   9.7 |  5.02 |   10.708 |     8.540 |   12.618 |     7.019 | 28.198 | 24.005 |    26.136 | 26.290 | Cleric Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+       9.7 |  4.35 |   10.525 |     8.632 |   12.530 |     6.735 | 28.198 | 24.638 |    25.983 | 26.059 | Karla's Pointed Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
        9.7 |  4.83 |   11.068 |     8.909 |   12.795 |     7.300 | 28.124 | 23.926 |    26.212 | 26.366 | Cleric Hat, Ordained Dress, Sorcerer Gloves, Karla's Trousers
        9.7 |  4.54 |   10.708 |     8.724 |   12.442 |     7.019 | 28.124 | 23.926 |    26.212 | 26.366 | Cleric Hat, Ordained Dress, Maiden Gloves, Karla's Trousers
+       9.7 |  5.59 |   10.896 |     8.071 |   14.236 |     6.640 | 28.123 | 23.417 |    25.099 | 25.490 | Old Sorcerer Hat, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+       9.7 |  5.40 |   11.256 |     8.442 |   14.410 |     6.922 | 28.048 | 23.337 |    25.176 | 25.567 | Old Sorcerer Hat, Ordained Dress, Sorcerer Gloves, Ordained Trousers
+       9.7 |  5.12 |   10.896 |     8.256 |   14.063 |     6.640 | 28.048 | 23.337 |    25.176 | 25.567 | Old Sorcerer Hat, Ordained Dress, Maiden Gloves, Ordained Trousers
+       9.7 |  5.11 |   10.796 |     8.909 |   12.618 |     7.300 | 28.048 | 24.556 |    25.979 | 26.365 | Old Sorcerer Hat, Ordained Dress, Pyromancer Wrap, Karla's Trousers
+       9.7 |  4.44 |   10.983 |     8.352 |   12.439 |     7.208 | 28.041 | 24.169 |    25.975 | 26.450 | Cleric Hat, Ordained Dress, Cornyx's Wrap, Black Witch Trousers
+       9.7 |  3.77 |   10.801 |     8.444 |   12.350 |     6.925 | 28.041 | 24.801 |    25.822 | 26.220 | Karla's Pointed Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+======================================================================================================================================================================================
+best   9.8 |  4.64 |   10.616 |     8.447 |   12.353 |     6.829 | 28.349 | 24.638 |    25.905 | 26.370 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.8 |  5.50 |   10.525 |     9.837 |   12.974 |     7.396 | 28.198 | 24.559 |    26.061 | 26.448 | Archdeacon White Crown, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.8 |  4.06 |   10.891 |     8.259 |   12.173 |     7.019 | 28.193 | 24.801 |    25.744 | 26.531 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
        9.8 |  5.02 |   11.168 |     8.164 |   14.150 |     6.829 | 28.124 | 22.937 |    25.490 | 25.568 | Cleric Hat, Ordained Dress, Karla's Gloves, Ordained Trousers
-=======================================================================================================================================================================
-best  14.1 |  9.51 |   13.596 |    11.591 |   14.832 |    10.590 | 28.424 | 24.793 |    26.288 | 26.294 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
-       9.9 |  4.35 |   11.344 |     9.188 |   13.062 |     7.113 | 28.349 | 23.768 |    25.750 | 25.826 | Sage's Big Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.8 |  4.15 |   10.798 |     8.354 |   12.264 |     6.924 | 28.123 | 24.717 |    25.905 | 26.137 | Black Witch Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+       9.8 |  4.92 |   10.616 |     8.539 |   12.353 |     7.017 | 28.052 | 24.404 |    26.288 | 26.599 | Sunless Veil, Ordained Dress, Court Sorcerer Gloves, Karla's Trousers
+       9.8 |  4.83 |   10.900 |     8.442 |   14.410 |     6.640 | 28.049 | 22.937 |    25.412 | 25.645 | Cleric Hat, Ordained Dress, Black Witch Wrappings, Ordained Trousers
+       9.8 |  4.93 |   10.801 |     9.651 |   12.795 |     7.585 | 28.041 | 24.722 |    25.900 | 26.608 | Archdeacon White Crown, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+       9.8 |  4.73 |   10.435 |     8.632 |   12.442 |     6.735 | 27.975 | 24.949 |    26.059 | 26.365 | Karla's Pointed Hat, Ordained Dress, Antiquated Gloves, Karla's Trousers
+       9.8 |  3.57 |   11.073 |     8.166 |   12.084 |     7.114 | 27.966 | 24.880 |    25.744 | 26.298 | Black Witch Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+==================================================================================================================================================================================
+best  10.0 |  5.12 |   11.167 |     8.071 |   14.062 |     6.544 | 28.349 | 23.658 |    25.180 | 25.649 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Ordained Trousers
        9.9 |  4.35 |   10.889 |     8.632 |   13.772 |     6.546 | 28.349 | 24.084 |    25.750 | 25.748 | Ordained Hood, Ordained Dress, Pale Shade Gloves, Karla's Trousers
-      10.0 |  5.12 |   11.167 |     8.071 |   14.062 |     6.544 | 28.349 | 23.658 |    25.180 | 25.649 | Sunless Veil, Ordained Dress, Pale Shade Gloves, Ordained Trousers
-      10.1 |  5.21 |   10.526 |     8.354 |   12.441 |     6.735 | 28.349 | 24.716 |    26.058 | 26.523 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+       9.9 |  4.35 |   11.344 |     9.188 |   13.062 |     7.113 | 28.349 | 23.768 |    25.750 | 25.826 | Sage's Big Hat, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+      10.0 |  4.73 |   10.436 |     8.354 |   12.264 |     6.829 | 28.275 | 24.638 |    26.135 | 26.523 | Sunless Veil, Ordained Dress, Karla's Gloves, Karla's Trousers
+      10.0 |  4.54 |   10.165 |     8.632 |   12.530 |     6.641 | 28.201 | 24.638 |    26.058 | 26.599 | Sunless Veil, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+      10.0 |  5.98 |   11.076 |     9.466 |   14.671 |     7.113 | 28.198 | 23.578 |    25.337 | 25.728 | Archdeacon White Crown, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+       9.9 |  5.50 |   11.258 |     8.164 |   14.323 |     6.734 | 28.198 | 23.017 |    25.412 | 25.568 | Cleric Hat, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+      10.0 |  4.92 |   10.435 |     8.540 |   12.618 |     6.641 | 28.198 | 24.716 |    26.136 | 26.212 | Karla's Pointed Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+       9.9 |  4.83 |   11.076 |     8.257 |   14.236 |     6.450 | 28.198 | 23.658 |    25.258 | 25.335 | Karla's Pointed Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+       9.9 |  3.77 |   11.617 |     9.001 |   12.884 |     7.302 | 28.193 | 23.933 |    25.588 | 25.988 | Sage's Big Hat, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
+=================================================================================================================================================================================
+best  10.1 |  5.21 |   10.526 |     8.354 |   12.441 |     6.735 | 28.349 | 24.716 |    26.058 | 26.523 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Karla's Trousers
       10.1 |  4.83 |   11.438 |     8.257 |   15.454 |     6.260 | 28.349 | 23.097 |    25.022 | 25.021 | Ordained Hood, Ordained Dress, Pale Shade Gloves, Ordained Trousers
       10.1 |  4.83 |   11.890 |     8.815 |   14.758 |     6.829 | 28.349 | 22.777 |    25.022 | 25.100 | Sage's Big Hat, Ordained Dress, Pale Shade Gloves, Ordained Trousers
+      10.1 |  5.02 |   10.887 |     8.724 |   12.618 |     7.017 | 28.275 | 24.638 |    26.135 | 26.599 | Sunless Veil, Ordained Dress, Sorcerer Gloves, Karla's Trousers
+      10.1 |  4.73 |   10.526 |     8.539 |   12.264 |     6.735 | 28.275 | 24.638 |    26.135 | 26.599 | Sunless Veil, Ordained Dress, Maiden Gloves, Karla's Trousers
+      10.1 |  4.44 |   11.164 |     9.096 |   12.975 |     7.113 | 28.275 | 23.768 |    25.979 | 25.979 | Sage's Big Hat, Ordained Dress, Karla's Gloves, Karla's Trousers
+      10.1 |  4.44 |   10.709 |     8.540 |   13.685 |     6.546 | 28.275 | 24.084 |    25.979 | 25.902 | Ordained Hood, Ordained Dress, Karla's Gloves, Karla's Trousers
+      10.1 |  4.25 |   10.896 |     9.371 |   13.238 |     6.925 | 28.201 | 23.768 |    25.903 | 26.056 | Sage's Big Hat, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+      10.1 |  4.25 |   10.439 |     8.817 |   13.946 |     6.358 | 28.201 | 24.084 |    25.903 | 25.979 | Ordained Hood, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+      10.1 |  6.07 |   10.435 |     9.746 |   13.062 |     7.302 | 28.198 | 24.637 |    26.213 | 26.600 | Archdeacon White Crown, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+=================================================================================================================================================================================
+best  10.3 |  5.69 |   11.077 |     7.978 |   14.149 |     6.450 | 28.349 | 23.737 |    25.334 | 25.803 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Ordained Trousers
       10.2 |  4.92 |   10.799 |     8.540 |   13.859 |     6.452 | 28.349 | 24.163 |    25.903 | 25.902 | Ordained Hood, Ordained Dress, Cornyx's Wrap, Karla's Trousers
       10.2 |  4.92 |   11.254 |     9.096 |   13.150 |     7.019 | 28.349 | 23.847 |    25.903 | 25.979 | Sage's Big Hat, Ordained Dress, Cornyx's Wrap, Karla's Trousers
-      10.3 |  5.69 |   11.077 |     7.978 |   14.149 |     6.450 | 28.349 | 23.737 |    25.334 | 25.803 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Ordained Trousers
-========================================================================================================================================================================
-best  15.7 | 11.65 |   15.254 |    12.709 |   17.320 |    12.021 | 28.576 | 25.191 |    26.217 | 25.360 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Karla's Trousers
+      10.3 |  5.50 |   11.436 |     8.349 |   14.323 |     6.733 | 28.275 | 23.658 |    25.411 | 25.880 | Sunless Veil, Ordained Dress, Sorcerer Gloves, Ordained Trousers
+      10.2 |  5.21 |   10.987 |     7.978 |   13.976 |     6.544 | 28.275 | 23.658 |    25.411 | 25.803 | Sunless Veil, Ordained Dress, Karla's Gloves, Ordained Trousers
+      10.3 |  5.21 |   11.077 |     8.163 |   13.976 |     6.450 | 28.275 | 23.658 |    25.411 | 25.880 | Sunless Veil, Ordained Dress, Maiden Gloves, Ordained Trousers
+      10.3 |  5.21 |   10.977 |     8.817 |   12.530 |     7.111 | 28.275 | 24.871 |    26.211 | 26.675 | Sunless Veil, Ordained Dress, Pyromancer Wrap, Karla's Trousers
+      10.3 |  4.93 |   11.712 |     8.723 |   14.672 |     6.829 | 28.275 | 22.777 |    25.255 | 25.255 | Sage's Big Hat, Ordained Dress, Karla's Gloves, Ordained Trousers
+      10.3 |  4.93 |   11.259 |     8.164 |   15.369 |     6.260 | 28.275 | 23.097 |    25.255 | 25.176 | Ordained Hood, Ordained Dress, Karla's Gloves, Ordained Trousers
+      10.2 |  4.73 |   11.612 |     9.463 |   13.326 |     7.300 | 28.275 | 23.768 |    25.979 | 26.056 | Sage's Big Hat, Ordained Dress, Sorcerer Gloves, Karla's Trousers
+===========================================================================================================================================================================
+best  12.2 |  6.74 |   12.873 |    10.111 |   14.566 |     8.898 | 28.349 | 24.170 |    24.988 | 25.990 | Sunless Veil, Ordained Dress, Brass Gauntlets, Karla's Trousers
+      11.2 |  5.59 |   12.154 |     8.163 |   15.017 |     7.487 | 28.349 | 23.105 |    25.334 | 26.033 | Sunless Veil, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      10.4 |  5.40 |   11.801 |     8.723 |   14.844 |     6.734 | 28.349 | 22.856 |    25.177 | 25.255 | Sage's Big Hat, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+      10.4 |  5.40 |   11.348 |     8.164 |   15.539 |     6.166 | 28.349 | 23.177 |    25.177 | 25.176 | Ordained Hood, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+      11.3 |  5.31 |   12.422 |     8.349 |   16.393 |     7.206 | 28.349 | 22.540 |    25.177 | 25.409 | Ordained Hood, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      11.3 |  5.31 |   12.869 |     8.907 |   15.705 |     7.769 | 28.349 | 22.218 |    25.177 | 25.487 | Sage's Big Hat, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      11.0 |  5.11 |   11.609 |     8.539 |   13.326 |     7.770 | 28.349 | 24.092 |    26.058 | 26.751 | Sunless Veil, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
+      11.1 |  4.83 |   11.879 |     8.724 |   14.730 |     7.489 | 28.349 | 23.534 |    25.903 | 26.132 | Ordained Hood, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
+      11.1 |  4.83 |   12.329 |     9.280 |   14.028 |     8.050 | 28.349 | 23.216 |    25.903 | 26.209 | Sage's Big Hat, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
+      10.5 |  5.69 |   11.526 |     8.442 |   14.236 |     6.827 | 28.275 | 23.895 |    25.488 | 25.957 | Sunless Veil, Ordained Dress, Pyromancer Wrap, Ordained Trousers
+==========================================================================================================================================================================
+best  12.4 |  7.21 |   13.410 |     9.742 |   16.233 |     8.619 | 28.349 | 23.184 |    24.253 | 25.265 | Sunless Veil, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      12.3 |  6.46 |   13.139 |    10.293 |   15.949 |     8.621 | 28.349 | 23.613 |    24.830 | 25.365 | Ordained Hood, Ordained Dress, Brass Gauntlets, Karla's Trousers
+      12.3 |  6.46 |   13.582 |    10.839 |   15.258 |     9.175 | 28.349 | 23.295 |    24.830 | 25.443 | Sage's Big Hat, Ordained Dress, Brass Gauntlets, Karla's Trousers
+      12.4 |  8.05 |   13.322 |    11.112 |   16.826 |     9.175 | 28.198 | 23.104 |    24.412 | 25.344 | Archdeacon White Crown, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      12.3 |  6.93 |   13.322 |     9.925 |   16.402 |     8.527 | 28.198 | 23.184 |    24.333 | 24.950 | Karla's Pointed Hat, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      12.3 |  5.89 |   13.849 |    10.656 |   15.084 |     9.360 | 28.193 | 23.461 |    24.666 | 25.605 | Sage's Big Hat, Ordained Dress, Brass Gauntlets, Black Witch Trousers
+      12.3 |  5.89 |   13.407 |    10.109 |   15.777 |     8.807 | 28.193 | 23.779 |    24.666 | 25.527 | Ordained Hood, Ordained Dress, Brass Gauntlets, Black Witch Trousers
+      12.4 |  6.74 |   13.586 |     9.651 |   16.148 |     8.712 | 28.123 | 23.265 |    24.253 | 25.029 | Black Witch Hat, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      12.4 |  8.27 |   12.786 |    10.757 |   15.272 |     9.551 | 27.973 | 24.086 |    25.748 | 25.677 | Old Sorcerer Hat, Ordained Dress, Ruin Gauntlets, Karla's Trousers
+      12.3 |  6.74 |   12.437 |    10.951 |   13.682 |     8.814 | 27.971 | 24.795 |    26.136 | 25.669 | Undead Legion Helm, Ordained Dress, Cornyx's Wrap, Karla's Trousers
+=============================================================================================================================================================================
+best  14.1 |  9.51 |   13.596 |    11.591 |   14.832 |    10.590 | 28.424 | 24.793 |    26.288 | 26.294 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      12.5 |  6.93 |   14.115 |    10.473 |   16.911 |     8.897 | 28.349 | 22.297 |    24.094 | 24.713 | Sage's Big Hat, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      12.5 |  6.93 |   13.674 |     9.925 |   17.589 |     8.341 | 28.349 | 22.620 |    24.094 | 24.634 | Ordained Hood, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      14.1 | 10.33 |   13.508 |    12.933 |   15.435 |    11.134 | 28.273 | 24.715 |    26.442 | 26.372 | Archdeacon White Crown, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      13.9 |  9.78 |   14.303 |    11.407 |   16.662 |    10.589 | 28.273 | 23.096 |    25.644 | 25.337 | Cleric Hat, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      13.7 |  9.33 |   13.771 |    11.770 |   15.004 |    10.862 | 28.273 | 24.083 |    26.365 | 26.061 | Cleric Hat, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      14.0 |  9.23 |   13.508 |    11.770 |   15.004 |    10.499 | 28.273 | 24.793 |    26.365 | 25.983 | Karla's Pointed Hat, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      14.1 |  8.96 |   13.862 |    11.409 |   14.657 |    10.772 | 28.267 | 24.956 |    26.127 | 26.455 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Black Witch Trousers
+      13.2 |  8.82 |   13.500 |    10.299 |   16.840 |     9.091 | 28.201 | 23.421 |    25.257 | 25.265 | Sunless Veil, Ordained Dress, Ruin Gauntlets, Ordained Trousers
+      13.3 |  8.55 |   14.204 |    11.026 |   17.514 |     9.367 | 28.201 | 22.537 |    25.100 | 24.713 | Sage's Big Hat, Ordained Dress, Ruin Gauntlets, Ordained Trousers
+===========================================================================================================================================================================
+best  14.3 |  9.97 |   14.128 |    11.228 |   16.493 |    10.317 | 28.424 | 23.816 |    25.566 | 25.573 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
       14.2 |  9.23 |   14.299 |    12.307 |   15.521 |    10.862 | 28.424 | 23.925 |    26.133 | 25.750 | Sage's Big Hat, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
       14.2 |  9.23 |   13.859 |    11.770 |   16.211 |    10.318 | 28.424 | 24.241 |    26.133 | 25.672 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
-      14.3 |  9.97 |   14.128 |    11.228 |   16.493 |    10.317 | 28.424 | 23.816 |    25.566 | 25.573 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
-      14.4 |  9.69 |   14.390 |    11.407 |   17.845 |    10.044 | 28.424 | 23.256 |    25.409 | 24.944 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.3 | 10.78 |   14.040 |    12.576 |   17.085 |    10.862 | 28.273 | 23.736 |    25.722 | 25.651 | Archdeacon White Crown, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.2 |  9.69 |   14.040 |    11.407 |   16.662 |    10.226 | 28.273 | 23.816 |    25.644 | 25.258 | Karla's Pointed Hat, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.2 |  8.68 |   14.125 |    11.589 |   16.039 |    10.501 | 28.267 | 24.405 |    25.972 | 25.833 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Black Witch Trousers
+      14.2 |  8.68 |   14.563 |    12.127 |   15.348 |    11.044 | 28.267 | 24.090 |    25.972 | 25.911 | Sage's Big Hat, Ordained Dress, Cathedral Knight Gauntlets, Black Witch Trousers
+      14.3 |  9.51 |   14.303 |    11.138 |   16.408 |    10.407 | 28.197 | 23.896 |    25.566 | 25.337 | Black Witch Hat, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.2 | 10.19 |   15.303 |    11.836 |   17.116 |    11.489 | 28.193 | 23.329 |    22.920 | 24.844 | Sunless Veil, Ordained Dress, Cornyx's Wrap, Brass Leggings
+      14.3 |  9.92 |   15.561 |    12.014 |   18.458 |    11.220 | 28.193 | 22.766 |    22.758 | 24.209 | Ordained Hood, Ordained Dress, Cornyx's Wrap, Brass Leggings
+======================================================================================================================================================================
+best  15.7 | 11.65 |   15.254 |    12.709 |   17.320 |    12.021 | 28.576 | 25.191 |    26.217 | 25.360 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Karla's Trousers
       14.4 |  9.69 |   14.827 |    11.947 |   17.169 |    10.589 | 28.424 | 22.936 |    25.409 | 25.022 | Sage's Big Hat, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      14.4 |  9.69 |   14.390 |    11.407 |   17.845 |    10.044 | 28.424 | 23.256 |    25.409 | 24.944 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
       15.7 | 11.11 |   15.515 |    12.530 |   17.151 |    12.201 | 28.420 | 25.353 |    26.056 | 25.522 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Black Witch Trousers
       15.7 | 11.91 |   15.254 |    12.797 |   17.320 |    12.199 | 28.280 | 24.959 |    26.597 | 25.591 | Morne's Helm, Ordained Dress, Court Sorcerer Gloves, Karla's Trousers
+      15.0 | 10.16 |   14.576 |    10.578 |   17.361 |     9.845 | 28.275 | 24.210 |    25.720 | 26.648 | Sunless Veil, Ordained Dress, Winged Knight Gauntlets, Ordained Trousers
+      15.1 |  9.88 |   15.272 |    11.302 |   18.030 |    10.119 | 28.275 | 23.336 |    25.564 | 26.106 | Sage's Big Hat, Ordained Dress, Winged Knight Gauntlets, Ordained Trousers
+      15.1 |  9.88 |   14.837 |    10.759 |   18.699 |     9.571 | 28.275 | 23.654 |    25.564 | 26.028 | Ordained Hood, Ordained Dress, Winged Knight Gauntlets, Ordained Trousers
       14.8 |  9.70 |   14.047 |    10.944 |   15.717 |    10.120 | 28.275 | 25.183 |    26.440 | 27.359 | Sunless Veil, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
-      14.9 |  9.43 |   14.309 |    11.124 |   17.082 |     9.847 | 28.275 | 24.634 |    26.286 | 26.746 | Ordained Hood, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
-==================================================================================================================================================================================
-best  20.0 | 16.16 |   18.078 |    15.707 |   19.659 |    15.572 | 28.650 | 25.346 |    26.597 | 25.283 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
-      15.9 | 12.09 |   15.776 |    12.351 |   18.933 |    11.752 | 28.576 | 24.219 |    25.494 | 24.629 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Ordained Trousers
-      16.0 | 12.18 |   15.168 |    12.621 |   17.404 |    11.932 | 28.576 | 25.268 |    26.369 | 25.514 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Karla's Trousers
-      16.2 | 12.62 |   15.690 |    12.262 |   19.015 |    11.663 | 28.576 | 24.297 |    25.648 | 24.784 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Ordained Trousers
-      16.9 | 12.09 |   16.195 |    12.797 |   18.239 |    12.909 | 28.576 | 24.650 |    26.369 | 25.745 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
-      17.1 | 12.53 |   16.711 |    12.439 |   19.834 |    12.643 | 28.576 | 23.670 |    25.648 | 25.018 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
-      18.1 | 13.59 |   17.394 |    14.296 |   19.408 |    13.974 | 28.576 | 24.727 |    25.303 | 24.974 | Morne's Helm, Ordained Dress, Brass Gauntlets, Karla's Trousers
-      18.3 | 14.03 |   17.902 |    13.944 |   20.980 |    13.711 | 28.576 | 23.748 |    24.571 | 24.239 | Morne's Helm, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      14.9 |  9.43 |   14.746 |    11.665 |   16.399 |    10.393 | 28.275 | 24.320 |    26.286 | 26.822 | Sage's Big Hat, Ordained Dress, Winged Knight Gauntlets, Karla's Trousers
+===================================================================================================================================================================================
+best  15.9 | 12.09 |   15.776 |    12.351 |   18.933 |    11.752 | 28.576 | 24.219 |    25.494 | 24.629 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Ordained Trousers
       15.9 | 11.73 |   15.082 |    12.621 |   17.237 |    12.021 | 28.502 | 25.191 |    26.445 | 25.514 | Morne's Helm, Ordained Dress, Karla's Gloves, Karla's Trousers
+      15.9 | 11.56 |   14.825 |    12.886 |   17.488 |    11.844 | 28.428 | 25.191 |    26.369 | 25.591 | Morne's Helm, Ordained Dress, Black Witch Wrappings, Karla's Trousers
+      15.8 | 12.00 |   15.168 |    12.709 |   17.237 |    12.021 | 28.354 | 25.501 |    26.293 | 25.668 | Morne's Helm, Ordained Dress, Antiquated Gloves, Karla's Trousers
+      15.9 | 11.20 |   15.344 |    12.442 |   17.067 |    12.201 | 28.346 | 25.353 |    26.285 | 25.676 | Morne's Helm, Ordained Dress, Karla's Gloves, Black Witch Trousers
+      15.9 | 12.36 |   15.776 |    12.439 |   18.933 |    11.930 | 28.280 | 23.983 |    25.878 | 24.862 | Morne's Helm, Ordained Dress, Court Sorcerer Gloves, Ordained Trousers
+      15.9 | 11.02 |   15.088 |    12.707 |   17.318 |    12.023 | 28.272 | 25.353 |    26.209 | 25.753 | Morne's Helm, Ordained Dress, Black Witch Wrappings, Black Witch Trousers
+      15.8 | 11.47 |   15.429 |    12.530 |   17.067 |    12.201 | 28.197 | 25.662 |    26.132 | 25.830 | Morne's Helm, Ordained Dress, Antiquated Gloves, Black Witch Trousers
+      15.8 | 12.00 |   15.520 |    11.908 |   18.442 |    11.307 | 28.131 | 23.592 |    25.263 | 24.395 | Morne's Helm, Ordained Dress, Violet Wrappings, Ordained Trousers
+      15.8 | 11.73 |   15.339 |    12.709 |   17.320 |    12.021 | 28.131 | 24.804 |    26.445 | 25.128 | Morne's Helm, Ordained Dress, Desert Pyromancer Gloves, Karla's Trousers
+==================================================================================================================================================================================
+best  16.0 | 12.18 |   15.168 |    12.621 |   17.404 |    11.932 | 28.576 | 25.268 |    26.369 | 25.514 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Karla's Trousers
       16.0 | 12.00 |   15.510 |    12.974 |   17.571 |    12.199 | 28.502 | 25.191 |    26.445 | 25.591 | Morne's Helm, Ordained Dress, Sorcerer Gloves, Karla's Trousers
-=========================================================================================================================================================================
-best  26.7 | 28.95 |   24.682 |    24.562 |   21.867 |    25.231 | 28.675 | 26.661 |    27.806 | 26.379 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
-      20.2 | 16.58 |   18.583 |    15.361 |   21.226 |    15.314 | 28.650 | 24.375 |    25.878 | 24.551 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
-      22.4 | 25.12 |   22.085 |    21.880 |   19.593 |    22.086 | 28.601 | 26.509 |    27.431 | 26.455 | Sunless Veil, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
-      22.5 | 24.89 |   22.719 |    22.512 |   20.244 |    22.323 | 28.601 | 25.661 |    27.279 | 25.911 | Sage's Big Hat, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
-      22.5 | 24.89 |   22.323 |    22.038 |   20.895 |    21.849 | 28.601 | 25.969 |    27.279 | 25.833 | Ordained Hood, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
-      22.6 | 25.50 |   22.565 |    21.559 |   21.162 |    21.848 | 28.601 | 25.553 |    26.720 | 25.734 | Sunless Veil, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
-      22.7 | 25.57 |   22.007 |    21.801 |   19.674 |    22.007 | 28.601 | 26.585 |    27.581 | 26.607 | Sunless Veil, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
-      22.7 | 25.27 |   23.195 |    22.194 |   21.800 |    22.085 | 28.601 | 24.694 |    26.567 | 25.185 | Sage's Big Hat, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
-      22.7 | 25.27 |   22.802 |    21.717 |   22.438 |    21.610 | 28.601 | 25.007 |    26.567 | 25.107 | Ordained Hood, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
-      22.8 | 25.34 |   22.245 |    21.959 |   20.975 |    21.770 | 28.601 | 26.046 |    27.429 | 25.987 | Ordained Hood, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
+      16.0 | 11.73 |   15.168 |    12.797 |   17.237 |    11.932 | 28.502 | 25.191 |    26.445 | 25.591 | Morne's Helm, Ordained Dress, Maiden Gloves, Karla's Trousers
+      16.0 | 11.64 |   15.429 |    12.442 |   17.234 |    12.112 | 28.420 | 25.430 |    26.209 | 25.676 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Black Witch Trousers
+      16.0 | 12.44 |   15.690 |    12.351 |   18.851 |    11.752 | 28.354 | 24.532 |    25.571 | 24.940 | Morne's Helm, Ordained Dress, Antiquated Gloves, Ordained Trousers
+      16.0 | 11.47 |   15.771 |    12.795 |   17.402 |    12.378 | 28.346 | 25.353 |    26.285 | 25.753 | Morne's Helm, Ordained Dress, Sorcerer Gloves, Black Witch Trousers
+      16.0 | 11.20 |   15.429 |    12.618 |   17.067 |    12.112 | 28.346 | 25.353 |    26.285 | 25.753 | Morne's Helm, Ordained Dress, Maiden Gloves, Black Witch Trousers
+      16.0 | 11.47 |   15.168 |    12.533 |   17.153 |    12.021 | 28.280 | 24.882 |    26.217 | 25.360 | Morne's Helm, Ordained Dress, Old Sorcerer Gauntlets, Karla's Trousers
+      16.0 | 11.65 |   15.082 |    12.621 |   17.404 |    11.844 | 28.206 | 25.191 |    26.064 | 25.668 | Morne's Helm, Ordained Dress, Fire Keeper Gloves, Karla's Trousers
+      16.0 | 12.18 |   15.861 |    12.351 |   18.933 |    11.752 | 28.131 | 23.827 |    25.725 | 24.395 | Morne's Helm, Ordained Dress, Desert Pyromancer Gloves, Ordained Trousers
+===================================================================================================================================================================================
+best  16.2 | 12.62 |   15.690 |    12.262 |   19.015 |    11.663 | 28.576 | 24.297 |    25.648 | 24.784 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Ordained Trousers
+      16.2 | 12.44 |   16.031 |    12.616 |   19.179 |    11.930 | 28.502 | 24.219 |    25.725 | 24.862 | Morne's Helm, Ordained Dress, Sorcerer Gloves, Ordained Trousers
+      16.1 | 12.18 |   15.605 |    12.262 |   18.851 |    11.752 | 28.502 | 24.219 |    25.725 | 24.784 | Morne's Helm, Ordained Dress, Karla's Gloves, Ordained Trousers
+      16.2 | 12.18 |   15.690 |    12.439 |   18.851 |    11.663 | 28.502 | 24.219 |    25.725 | 24.862 | Morne's Helm, Ordained Dress, Maiden Gloves, Ordained Trousers
+      16.2 | 12.18 |   15.596 |    13.062 |   17.488 |    12.288 | 28.502 | 25.423 |    26.521 | 25.668 | Morne's Helm, Ordained Dress, Pyromancer Wrap, Karla's Trousers
+      16.1 | 12.00 |   15.350 |    12.528 |   19.097 |    11.574 | 28.428 | 24.219 |    25.648 | 24.862 | Morne's Helm, Ordained Dress, Black Witch Wrappings, Ordained Trousers
+      16.2 | 11.64 |   15.856 |    12.883 |   17.318 |    12.466 | 28.346 | 25.585 |    26.361 | 25.830 | Morne's Helm, Ordained Dress, Pyromancer Wrap, Black Witch Trousers
+      16.2 | 11.92 |   15.690 |    12.174 |   18.770 |    11.752 | 28.280 | 23.905 |    25.494 | 24.629 | Morne's Helm, Ordained Dress, Old Sorcerer Gauntlets, Ordained Trousers
+      16.1 | 10.82 |   14.595 |    12.797 |   14.595 |    12.909 | 28.242 | 26.265 |    27.380 | 26.765 | Morne's Helm, Karla's Coat, Pontiff Knight Gauntlets, Karla's Trousers
+      16.2 | 12.09 |   15.605 |    12.262 |   19.015 |    11.574 | 28.206 | 24.219 |    25.340 | 24.940 | Morne's Helm, Ordained Dress, Fire Keeper Gloves, Ordained Trousers
+=============================================================================================================================================================================
+best  18.1 | 13.59 |   17.394 |    14.296 |   19.408 |    13.974 | 28.576 | 24.727 |    25.303 | 24.974 | Morne's Helm, Ordained Dress, Brass Gauntlets, Karla's Trousers
+      17.1 | 12.53 |   16.711 |    12.439 |   19.834 |    12.643 | 28.576 | 23.670 |    25.648 | 25.018 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      16.9 | 12.09 |   16.195 |    12.797 |   18.239 |    12.909 | 28.576 | 24.650 |    26.369 | 25.745 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Karla's Trousers
+      16.4 | 12.62 |   16.116 |    12.705 |   19.097 |    12.019 | 28.502 | 24.454 |    25.802 | 24.940 | Morne's Helm, Ordained Dress, Pyromancer Wrap, Ordained Trousers
+      17.7 | 13.59 |   17.137 |    14.121 |   20.407 |    13.266 | 28.428 | 24.297 |    25.263 | 24.006 | Morne's Helm, Ordained Dress, Leonhard's Gauntlets, Ordained Trousers
+      17.5 | 13.15 |   16.623 |    14.473 |   18.824 |    13.530 | 28.428 | 25.268 |    25.988 | 24.743 | Morne's Helm, Ordained Dress, Leonhard's Gauntlets, Karla's Trousers
+      18.1 | 13.07 |   17.648 |    14.120 |   19.243 |    14.150 | 28.420 | 24.890 |    25.140 | 25.137 | Morne's Helm, Ordained Dress, Brass Gauntlets, Black Witch Trousers
+      16.9 | 11.56 |   16.453 |    12.618 |   18.071 |    13.087 | 28.420 | 24.813 |    26.209 | 25.907 | Morne's Helm, Ordained Dress, Pontiff Knight Gauntlets, Black Witch Trousers
+      17.4 | 12.89 |   16.796 |    13.236 |   20.489 |    12.732 | 28.280 | 23.670 |    25.571 | 24.707 | Morne's Helm, Ordained Dress, Leather Gauntlets, Ordained Trousers
+      17.2 | 12.44 |   16.281 |    13.591 |   18.907 |    12.998 | 28.280 | 24.650 |    26.293 | 25.437 | Morne's Helm, Ordained Dress, Leather Gauntlets, Karla's Trousers
+===========================================================================================================================================================================
+best  18.3 | 14.03 |   17.902 |    13.944 |   20.980 |    13.711 | 28.576 | 23.748 |    24.571 | 24.239 | Morne's Helm, Ordained Dress, Brass Gauntlets, Ordained Trousers
+      18.2 | 11.51 |   15.183 |    11.854 |   17.858 |    10.119 | 28.275 | 23.336 |    25.100 | 25.332 | Sage's Big Hat, Ordained Dress, Havel's Gauntlets, Ordained Trousers
+      18.2 | 11.51 |   14.748 |    11.315 |   18.528 |     9.571 | 28.275 | 23.654 |    25.100 | 25.254 | Ordained Hood, Ordained Dress, Havel's Gauntlets, Ordained Trousers
+      18.2 | 14.27 |   18.209 |    14.949 |   19.379 |    15.147 | 28.267 | 23.408 |    23.159 | 24.610 | Sunless Veil, Ordained Dress, Cathedral Knight Gauntlets, Brass Leggings
+      18.3 | 14.01 |   18.458 |    15.121 |   20.684 |    14.889 | 28.267 | 22.846 |    22.998 | 23.973 | Ordained Hood, Ordained Dress, Cathedral Knight Gauntlets, Brass Leggings
+      18.3 | 14.01 |   18.874 |    15.638 |   20.031 |    15.405 | 28.267 | 22.524 |    22.998 | 24.053 | Sage's Big Hat, Ordained Dress, Cathedral Knight Gauntlets, Brass Leggings
+      18.2 | 15.07 |   16.584 |    14.723 |   18.969 |    14.666 | 28.197 | 24.793 |    25.900 | 25.516 | Silver Knight Helm, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      18.2 | 11.04 |   14.047 |    12.053 |   15.540 |     9.744 | 28.126 | 24.560 |    26.135 | 26.599 | Sunless Veil, Ordained Dress, Smough's Gauntlets, Karla's Trousers
+      18.3 | 10.77 |   14.309 |    12.231 |   16.908 |     9.470 | 28.126 | 24.006 |    25.979 | 25.979 | Ordained Hood, Ordained Dress, Smough's Gauntlets, Karla's Trousers
+      18.3 | 10.77 |   14.746 |    12.765 |   16.224 |    10.018 | 28.126 | 23.689 |    25.979 | 26.056 | Sage's Big Hat, Ordained Dress, Smough's Gauntlets, Karla's Trousers
+==============================================================================================================================================================================
+best  20.0 | 16.16 |   18.078 |    15.707 |   19.659 |    15.572 | 28.650 | 25.346 |    26.597 | 25.283 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Karla's Trousers
+      20.0 | 15.65 |   18.331 |    15.534 |   19.494 |    15.744 | 28.494 | 25.508 |    26.438 | 25.445 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Black Witch Trousers
+      19.1 | 15.53 |   17.988 |    14.476 |   21.554 |    14.157 | 28.428 | 23.983 |    25.571 | 24.239 | Morne's Helm, Ordained Dress, Ruin Gauntlets, Ordained Trousers
+      18.9 | 15.10 |   17.479 |    14.825 |   19.993 |    14.418 | 28.428 | 24.959 |    26.293 | 24.974 | Morne's Helm, Ordained Dress, Ruin Gauntlets, Karla's Trousers
+      19.8 | 16.29 |   19.778 |    16.025 |   21.735 |    16.505 | 28.420 | 23.813 |    23.085 | 23.654 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Brass Leggings
+      20.0 | 15.81 |   18.335 |    14.561 |   20.327 |    14.951 | 28.354 | 25.423 |    25.988 | 25.437 | Morne's Helm, Ordained Dress, Executioner Gauntlets, Karla's Trousers
+      19.0 | 15.62 |   18.073 |    14.121 |   21.472 |    14.602 | 28.354 | 24.532 |    25.955 | 24.162 | Morne's Helm, Ordained Dress, Dragonslayer Gauntlets, Ordained Trousers
+      18.8 | 15.19 |   17.565 |    14.473 |   19.909 |    14.862 | 28.354 | 25.501 |    26.673 | 24.897 | Morne's Helm, Ordained Dress, Dragonslayer Gauntlets, Karla's Trousers
+      20.0 | 16.38 |   19.616 |    15.940 |   21.656 |    16.505 | 28.346 | 23.813 |    23.323 | 23.812 | Morne's Helm, Ordained Dress, Karla's Gloves, Brass Leggings
+      19.4 | 15.38 |   17.029 |    15.361 |   17.716 |    15.314 | 28.316 | 25.997 |    26.896 | 25.587 | Morne's Helm, Karla's Coat, Cathedral Knight Gauntlets, Ordained Trousers
+===================================================================================================================================================================================
+best  20.2 | 16.58 |   18.583 |    15.361 |   21.226 |    15.314 | 28.650 | 24.375 |    25.878 | 24.551 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Ordained Trousers
+      20.1 | 16.79 |   19.697 |    15.940 |   21.814 |    16.421 | 28.420 | 23.892 |    23.244 | 23.812 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Brass Leggings
+      20.2 | 16.23 |   18.838 |    14.210 |   21.881 |    14.691 | 28.354 | 24.454 |    25.263 | 24.707 | Morne's Helm, Ordained Dress, Executioner Gauntlets, Ordained Trousers
+      20.2 | 15.90 |   18.506 |    15.707 |   19.909 |    14.773 | 28.354 | 25.501 |    26.369 | 25.514 | Morne's Helm, Ordained Dress, Exile Gauntlets, Karla's Trousers
+      20.1 | 16.63 |   20.021 |    16.280 |   21.972 |    16.674 | 28.346 | 23.813 |    23.323 | 23.891 | Morne's Helm, Ordained Dress, Sorcerer Gloves, Brass Leggings
+      20.1 | 16.38 |   19.697 |    16.110 |   21.656 |    16.421 | 28.346 | 23.813 |    23.323 | 23.891 | Morne's Helm, Ordained Dress, Maiden Gloves, Brass Leggings
+      20.2 | 16.06 |   18.838 |    14.476 |   21.717 |    14.335 | 28.280 | 24.062 |    25.571 | 24.551 | Morne's Helm, Ordained Dress, Millwood Knight Gauntlets, Ordained Trousers
+      20.2 | 14.62 |   16.622 |    12.718 |   19.748 |    12.174 | 28.198 | 23.993 |    25.177 | 25.799 | Havel's Helm, Ordained Dress, Pontiff Knight Gauntlets, Ordained Trousers
+      20.2 | 15.38 |   18.757 |    15.534 |   19.745 |    14.947 | 28.197 | 25.662 |    26.209 | 25.676 | Morne's Helm, Ordained Dress, Exile Gauntlets, Black Witch Trousers
+      20.1 | 15.56 |   17.462 |    14.741 |   18.571 |    14.869 | 28.167 | 26.380 |    27.048 | 26.662 | Morne's Helm, Karla's Coat, Winged Knight Gauntlets, Ordained Trousers
 ================================================================================================================================================================================
-best  28.3 | 30.62 |   26.128 |    25.517 |   24.151 |    26.428 | 28.827 | 27.049 |    27.736 | 25.445 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
+best  26.7 | 28.95 |   24.682 |    24.562 |   21.867 |    25.231 | 28.675 | 26.661 |    27.806 | 26.379 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      25.0 | 27.14 |   24.521 |    22.985 |   23.152 |    23.583 | 28.601 | 25.091 |    25.813 | 25.351 | Sunless Veil, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      25.1 | 26.92 |   25.135 |    23.609 |   23.775 |    23.815 | 28.601 | 24.227 |    25.657 | 24.799 | Sage's Big Hat, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      25.1 | 26.92 |   24.751 |    23.141 |   24.397 |    23.350 | 28.601 | 24.541 |    25.657 | 24.720 | Ordained Hood, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      24.8 | 26.77 |   24.053 |    23.300 |   21.624 |    23.816 | 28.601 | 26.053 |    26.533 | 26.075 | Sunless Veil, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
+      24.9 | 26.55 |   24.671 |    23.921 |   22.258 |    24.047 | 28.601 | 25.199 |    26.378 | 25.528 | Sage's Big Hat, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
+      24.9 | 26.55 |   24.285 |    23.455 |   22.893 |    23.584 | 28.601 | 25.510 |    26.378 | 25.450 | Ordained Hood, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
+      22.9 | 25.95 |   22.487 |    21.479 |   21.241 |    21.769 | 28.601 | 25.630 |    26.872 | 25.888 | Sunless Veil, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
+      23.8 | 25.87 |   23.426 |    21.638 |   22.038 |    22.636 | 28.601 | 25.015 |    26.872 | 26.118 | Sunless Veil, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      23.0 | 25.72 |   22.724 |    21.638 |   22.517 |    21.531 | 28.601 | 25.084 |    26.718 | 25.262 | Ordained Hood, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
+=================================================================================================================================================================================
+best  26.9 | 29.31 |   25.146 |    24.253 |   23.391 |    25.002 | 28.675 | 25.707 |    27.099 | 25.658 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
       26.8 | 28.73 |   25.295 |    25.173 |   22.500 |    25.458 | 28.675 | 25.814 |    27.654 | 25.834 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
       26.8 | 28.73 |   24.912 |    24.715 |   23.132 |    25.004 | 28.675 | 26.122 |    27.654 | 25.757 | Ordained Hood, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
-      26.9 | 29.31 |   25.146 |    24.253 |   23.391 |    25.002 | 28.675 | 25.707 |    27.099 | 25.658 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
-      27.0 | 29.09 |   25.756 |    24.866 |   24.012 |    25.230 | 28.675 | 24.850 |    26.945 | 25.108 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      26.9 | 29.95 |   25.070 |    25.403 |   23.934 |    25.458 | 28.524 | 25.629 |    27.252 | 25.736 | Archdeacon White Crown, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      26.8 | 29.09 |   25.070 |    24.406 |   23.546 |    24.926 | 28.524 | 25.707 |    27.175 | 25.344 | Karla's Pointed Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      26.8 | 28.30 |   25.526 |    25.020 |   22.341 |    25.610 | 28.519 | 25.975 |    27.497 | 25.996 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Black Witch Trousers
+      26.8 | 28.30 |   25.144 |    24.561 |   22.975 |    25.156 | 28.519 | 26.282 |    27.497 | 25.918 | Ordained Hood, Cathedral Knight Armor, Cathedral Knight Gauntlets, Black Witch Trousers
+      26.9 | 28.95 |   25.299 |    24.176 |   23.314 |    25.078 | 28.449 | 25.785 |    27.099 | 25.422 | Black Witch Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      26.8 | 29.48 |   26.171 |    24.771 |   23.963 |    25.982 | 28.445 | 25.233 |    24.508 | 24.930 | Sunless Veil, Cathedral Knight Armor, Cornyx's Wrap, Brass Leggings
+      26.9 | 29.27 |   26.396 |    24.924 |   25.194 |    25.758 | 28.445 | 24.684 |    24.349 | 24.295 | Ordained Hood, Cathedral Knight Armor, Cornyx's Wrap, Brass Leggings
+==============================================================================================================================================================================
+best  28.3 | 30.62 |   26.128 |    25.517 |   24.151 |    26.428 | 28.827 | 27.049 |    27.736 | 25.445 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Karla's Trousers
       27.0 | 29.09 |   25.375 |    24.406 |   24.632 |    24.774 | 28.675 | 25.162 |    26.945 | 25.030 | Ordained Hood, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      27.0 | 29.09 |   25.756 |    24.866 |   24.012 |    25.230 | 28.675 | 24.850 |    26.945 | 25.108 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
       28.3 | 30.20 |   26.355 |    25.364 |   23.995 |    26.578 | 28.671 | 27.207 |    27.579 | 25.607 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Black Witch Trousers
       28.3 | 30.83 |   26.128 |    25.592 |   24.151 |    26.576 | 28.531 | 26.822 |    28.109 | 25.676 | Morne's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Karla's Trousers
+      27.6 | 29.45 |   25.537 |    23.698 |   24.188 |    24.608 | 28.527 | 26.092 |    27.250 | 26.732 | Sunless Veil, Cathedral Knight Armor, Winged Knight Gauntlets, Ordained Trousers
+      27.7 | 29.24 |   26.143 |    24.316 |   24.802 |    24.837 | 28.527 | 25.239 |    27.097 | 26.190 | Sage's Big Hat, Cathedral Knight Armor, Winged Knight Gauntlets, Ordained Trousers
+      27.7 | 29.24 |   25.765 |    23.852 |   25.415 |    24.379 | 28.527 | 25.549 |    27.097 | 26.113 | Ordained Hood, Cathedral Knight Armor, Winged Knight Gauntlets, Ordained Trousers
       27.4 | 29.10 |   25.076 |    24.010 |   22.679 |    24.838 | 28.527 | 27.041 |    27.955 | 27.442 | Sunless Veil, Cathedral Knight Armor, Winged Knight Gauntlets, Karla's Trousers
-      27.5 | 28.88 |   25.305 |    24.164 |   23.932 |    24.609 | 28.527 | 26.505 |    27.804 | 26.829 | Ordained Hood, Cathedral Knight Armor, Winged Knight Gauntlets, Karla's Trousers
-==========================================================================================================================================================================================
-best  32.6 | 34.17 |   28.590 |    28.075 |   26.296 |    29.397 | 28.900 | 27.200 |    28.109 | 25.368 | Morne's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
-      28.5 | 30.97 |   26.583 |    25.211 |   25.630 |    26.203 | 28.827 | 26.100 |    27.028 | 24.715 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
-      28.6 | 31.04 |   26.053 |    25.441 |   24.227 |    26.353 | 28.827 | 27.124 |    27.885 | 25.599 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
-      28.8 | 31.39 |   26.509 |    25.135 |   25.705 |    26.128 | 28.827 | 26.177 |    27.179 | 24.870 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
-      29.5 | 30.97 |   26.948 |    25.592 |   24.993 |    27.170 | 28.827 | 26.521 |    27.885 | 25.830 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Karla's Trousers
-      29.7 | 31.32 |   27.398 |    25.286 |   26.456 |    26.947 | 28.827 | 25.565 |    27.179 | 25.104 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
-      30.7 | 32.15 |   27.993 |    26.871 |   26.066 |    28.061 | 28.827 | 26.596 |    26.841 | 25.060 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
-      30.9 | 32.50 |   28.437 |    26.571 |   27.508 |    27.841 | 28.827 | 25.642 |    26.125 | 24.326 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      27.5 | 28.88 |   25.686 |    24.625 |   23.305 |    25.066 | 28.527 | 26.199 |    27.804 | 26.906 | Sage's Big Hat, Cathedral Knight Armor, Winged Knight Gauntlets, Karla's Trousers
+===========================================================================================================================================================================================
+best  28.5 | 30.97 |   26.583 |    25.211 |   25.630 |    26.203 | 28.827 | 26.100 |    27.028 | 24.715 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Ordained Trousers
       28.5 | 30.69 |   25.978 |    25.441 |   24.074 |    26.428 | 28.753 | 27.049 |    27.960 | 25.599 | Morne's Helm, Cathedral Knight Armor, Karla's Gloves, Karla's Trousers
+      28.5 | 30.55 |   25.755 |    25.667 |   24.304 |    26.279 | 28.679 | 27.049 |    27.885 | 25.676 | Morne's Helm, Cathedral Knight Armor, Black Witch Wrappings, Karla's Trousers
+      28.4 | 30.90 |   26.053 |    25.517 |   24.074 |    26.428 | 28.605 | 27.350 |    27.811 | 25.753 | Morne's Helm, Cathedral Knight Armor, Antiquated Gloves, Karla's Trousers
+      28.5 | 30.27 |   26.206 |    25.288 |   23.918 |    26.578 | 28.597 | 27.207 |    27.803 | 25.761 | Morne's Helm, Cathedral Knight Armor, Karla's Gloves, Black Witch Trousers
+      28.5 | 31.18 |   26.583 |    25.286 |   25.630 |    26.352 | 28.531 | 25.871 |    27.405 | 24.948 | Morne's Helm, Cathedral Knight Armor, Court Sorcerer Gloves, Ordained Trousers
+      28.5 | 30.13 |   25.983 |    25.515 |   24.148 |    26.429 | 28.523 | 27.207 |    27.728 | 25.838 | Morne's Helm, Cathedral Knight Armor, Black Witch Wrappings, Black Witch Trousers
+      28.4 | 30.48 |   26.281 |    25.364 |   23.918 |    26.578 | 28.449 | 27.508 |    27.654 | 25.915 | Morne's Helm, Cathedral Knight Armor, Antiquated Gloves, Black Witch Trousers
+      28.5 | 26.39 |   22.301 |    19.162 |   24.111 |    19.375 | 28.420 | 26.488 |    25.574 | 25.360 | Morne's Helm, Ordained Dress, Pale Shade Gloves, Havel's Leggings
+      28.4 | 30.91 |   26.360 |    24.833 |   25.179 |    25.830 | 28.384 | 25.489 |    26.802 | 24.482 | Morne's Helm, Cathedral Knight Armor, Violet Wrappings, Ordained Trousers
+===================================================================================================================================================================================
+best  28.6 | 31.04 |   26.053 |    25.441 |   24.227 |    26.353 | 28.827 | 27.124 |    27.885 | 25.599 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Karla's Trousers
       28.6 | 30.90 |   26.352 |    25.742 |   24.380 |    26.576 | 28.753 | 27.049 |    27.960 | 25.676 | Morne's Helm, Cathedral Knight Armor, Sorcerer Gloves, Karla's Trousers
+      28.6 | 30.69 |   26.053 |    25.592 |   24.074 |    26.353 | 28.753 | 27.049 |    27.960 | 25.676 | Morne's Helm, Cathedral Knight Armor, Maiden Gloves, Karla's Trousers
+      28.6 | 30.62 |   26.281 |    25.288 |   24.072 |    26.504 | 28.671 | 27.282 |    27.728 | 25.761 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Black Witch Trousers
+      28.6 | 31.25 |   26.509 |    25.211 |   25.555 |    26.203 | 28.605 | 26.406 |    27.104 | 25.026 | Morne's Helm, Cathedral Knight Armor, Antiquated Gloves, Ordained Trousers
+      28.6 | 30.48 |   26.578 |    25.590 |   24.225 |    26.726 | 28.597 | 27.207 |    27.803 | 25.838 | Morne's Helm, Cathedral Knight Armor, Sorcerer Gloves, Black Witch Trousers
+      28.6 | 30.27 |   26.281 |    25.439 |   23.918 |    26.504 | 28.597 | 27.207 |    27.803 | 25.838 | Morne's Helm, Cathedral Knight Armor, Maiden Gloves, Black Witch Trousers
+      28.6 | 30.49 |   26.053 |    25.366 |   23.997 |    26.428 | 28.531 | 26.747 |    27.736 | 25.445 | Morne's Helm, Cathedral Knight Armor, Old Sorcerer Gauntlets, Karla's Trousers
+      28.6 | 30.62 |   25.978 |    25.441 |   24.227 |    26.279 | 28.457 | 27.049 |    27.587 | 25.753 | Morne's Helm, Cathedral Knight Armor, Fire Keeper Gloves, Karla's Trousers
+      28.6 | 31.04 |   26.657 |    25.211 |   25.630 |    26.203 | 28.384 | 25.718 |    27.254 | 24.482 | Morne's Helm, Cathedral Knight Armor, Desert Pyromancer Gloves, Ordained Trousers
+===========================================================================================================================================================================================
+best  28.8 | 31.39 |   26.509 |    25.135 |   25.705 |    26.128 | 28.827 | 26.177 |    27.179 | 24.870 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Ordained Trousers
+      28.8 | 31.25 |   26.805 |    25.437 |   25.856 |    26.352 | 28.753 | 26.100 |    27.254 | 24.948 | Morne's Helm, Cathedral Knight Armor, Sorcerer Gloves, Ordained Trousers
+      28.7 | 31.04 |   26.434 |    25.135 |   25.555 |    26.203 | 28.753 | 26.100 |    27.254 | 24.870 | Morne's Helm, Cathedral Knight Armor, Karla's Gloves, Ordained Trousers
+      28.8 | 31.04 |   26.509 |    25.286 |   25.555 |    26.128 | 28.753 | 26.100 |    27.254 | 24.948 | Morne's Helm, Cathedral Knight Armor, Maiden Gloves, Ordained Trousers
+      28.8 | 31.04 |   26.426 |    25.818 |   24.304 |    26.650 | 28.753 | 27.275 |    28.034 | 25.753 | Morne's Helm, Cathedral Knight Armor, Pyromancer Wrap, Karla's Trousers
+      28.7 | 30.91 |   26.212 |    25.362 |   25.780 |    26.054 | 28.679 | 26.100 |    27.179 | 24.948 | Morne's Helm, Cathedral Knight Armor, Black Witch Wrappings, Ordained Trousers
+      28.8 | 30.62 |   26.653 |    25.665 |   24.148 |    26.800 | 28.597 | 27.433 |    27.878 | 25.915 | Morne's Helm, Cathedral Knight Armor, Pyromancer Wrap, Black Witch Trousers
+      28.8 | 30.84 |   26.509 |    25.060 |   25.480 |    26.203 | 28.531 | 25.795 |    27.028 | 24.715 | Morne's Helm, Cathedral Knight Armor, Old Sorcerer Gauntlets, Ordained Trousers
+      28.8 | 30.97 |   26.434 |    25.135 |   25.705 |    26.054 | 28.457 | 26.100 |    26.878 | 25.026 | Morne's Helm, Cathedral Knight Armor, Fire Keeper Gloves, Ordained Trousers
+      28.8 | 26.83 |   22.223 |    19.080 |   24.188 |    19.294 | 28.420 | 26.564 |    25.728 | 25.514 | Morne's Helm, Ordained Dress, Cornyx's Wrap, Havel's Leggings
+=======================================================================================================================================================================
+best  30.7 | 32.15 |   27.993 |    26.871 |   26.066 |    28.061 | 28.827 | 26.596 |    26.841 | 25.060 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Karla's Trousers
+      29.7 | 31.32 |   27.398 |    25.286 |   26.456 |    26.947 | 28.827 | 25.565 |    27.179 | 25.104 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      29.5 | 30.97 |   26.948 |    25.592 |   24.993 |    27.170 | 28.827 | 26.521 |    27.885 | 25.830 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Karla's Trousers
+      29.0 | 31.39 |   26.879 |    25.513 |   25.780 |    26.426 | 28.753 | 26.330 |    27.330 | 25.026 | Morne's Helm, Cathedral Knight Armor, Pyromancer Wrap, Ordained Trousers
+      30.3 | 32.15 |   27.769 |    26.722 |   26.982 |    27.469 | 28.679 | 26.177 |    26.802 | 24.093 | Morne's Helm, Cathedral Knight Armor, Leonhard's Gauntlets, Ordained Trousers
+      30.1 | 31.81 |   27.322 |    27.021 |   25.530 |    27.690 | 28.679 | 27.124 |    27.512 | 24.829 | Morne's Helm, Cathedral Knight Armor, Leonhard's Gauntlets, Karla's Trousers
+      30.7 | 31.74 |   28.215 |    26.721 |   25.914 |    28.208 | 28.671 | 26.755 |    26.682 | 25.223 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Black Witch Trousers
+      29.5 | 30.55 |   27.173 |    25.439 |   24.839 |    27.319 | 28.671 | 26.680 |    27.728 | 25.992 | Morne's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Black Witch Trousers
+      30.0 | 31.60 |   27.473 |    25.966 |   27.057 |    27.022 | 28.531 | 25.565 |    27.104 | 24.793 | Morne's Helm, Cathedral Knight Armor, Leather Gauntlets, Ordained Trousers
+      29.8 | 31.25 |   27.023 |    26.269 |   25.606 |    27.244 | 28.531 | 26.521 |    27.811 | 25.522 | Morne's Helm, Cathedral Knight Armor, Leather Gauntlets, Karla's Trousers
+===================================================================================================================================================================================
+best  30.9 | 32.50 |   28.437 |    26.571 |   27.508 |    27.841 | 28.827 | 25.642 |    26.125 | 24.326 | Morne's Helm, Cathedral Knight Armor, Brass Gauntlets, Ordained Trousers
+      30.8 | 30.51 |   26.066 |    24.787 |   24.644 |    24.837 | 28.527 | 25.239 |    26.642 | 25.417 | Sage's Big Hat, Cathedral Knight Armor, Havel's Gauntlets, Ordained Trousers
+      30.8 | 30.51 |   25.687 |    24.327 |   25.259 |    24.379 | 28.527 | 25.549 |    26.642 | 25.339 | Ordained Hood, Cathedral Knight Armor, Havel's Gauntlets, Ordained Trousers
+      30.8 | 32.68 |   28.704 |    27.428 |   26.039 |    29.042 | 28.519 | 25.310 |    24.742 | 24.696 | Sunless Veil, Cathedral Knight Armor, Cathedral Knight Gauntlets, Brass Leggings
+      30.9 | 32.48 |   29.284 |    28.016 |   26.637 |    29.257 | 28.519 | 24.448 |    24.584 | 24.140 | Sage's Big Hat, Cathedral Knight Armor, Cathedral Knight Gauntlets, Brass Leggings
+      30.9 | 32.48 |   28.921 |    27.575 |   27.236 |    28.826 | 28.519 | 24.761 |    24.584 | 24.060 | Ordained Hood, Cathedral Knight Armor, Cathedral Knight Gauntlets, Brass Leggings
+      30.8 | 33.31 |   27.288 |    27.235 |   25.663 |    28.640 | 28.449 | 26.661 |    27.426 | 25.601 | Silver Knight Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      30.9 | 28.01 |   24.263 |    20.632 |   26.028 |    21.165 | 28.420 | 26.032 |    24.653 | 24.974 | Morne's Helm, Ordained Dress, Brass Gauntlets, Havel's Leggings
+      30.9 | 32.49 |   27.133 |    22.006 |   28.112 |    25.148 | 28.409 | 25.910 |    27.689 | 28.535 | Morne's Helm, Winged Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      30.8 | 30.15 |   25.076 |    24.957 |   22.517 |    24.523 | 28.378 | 26.433 |    27.656 | 26.683 | Sunless Veil, Cathedral Knight Armor, Smough's Gauntlets, Karla's Trousers
+====================================================================================================================================================================================
+best  32.6 | 34.17 |   28.590 |    28.075 |   26.296 |    29.397 | 28.900 | 27.200 |    28.109 | 25.368 | Morne's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      32.6 | 33.77 |   28.810 |    27.927 |   26.144 |    29.541 | 28.745 | 27.357 |    27.953 | 25.530 | Morne's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Black Witch Trousers
+      31.7 | 33.67 |   28.511 |    27.024 |   28.034 |    28.213 | 28.679 | 25.871 |    27.104 | 24.326 | Morne's Helm, Cathedral Knight Armor, Ruin Gauntlets, Ordained Trousers
+      31.5 | 33.34 |   28.068 |    27.322 |   26.602 |    28.432 | 28.679 | 26.822 |    27.811 | 25.060 | Morne's Helm, Cathedral Knight Armor, Ruin Gauntlets, Karla's Trousers
+      32.4 | 34.27 |   30.072 |    28.346 |   28.200 |    30.178 | 28.671 | 25.705 |    24.669 | 23.741 | Morne's Helm, Cathedral Knight Armor, Pale Shade Gloves, Brass Leggings
+      32.6 | 33.89 |   28.814 |    27.097 |   26.909 |    28.878 | 28.605 | 27.275 |    27.512 | 25.522 | Morne's Helm, Cathedral Knight Armor, Executioner Gauntlets, Karla's Trousers
+      31.6 | 33.74 |   28.585 |    26.722 |   27.959 |    28.586 | 28.605 | 26.406 |    27.480 | 24.248 | Morne's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Ordained Trousers
+      31.4 | 33.40 |   28.142 |    27.021 |   26.526 |    28.803 | 28.605 | 27.350 |    28.184 | 24.983 | Morne's Helm, Cathedral Knight Armor, Dragonslayer Gauntlets, Karla's Trousers
+      32.6 | 34.34 |   29.930 |    28.274 |   28.127 |    30.178 | 28.597 | 25.705 |    24.903 | 23.899 | Morne's Helm, Cathedral Knight Armor, Karla's Gloves, Brass Leggings
+      32.6 | 33.75 |   28.814 |    27.322 |   26.755 |    28.581 | 28.531 | 26.898 |    27.811 | 25.368 | Morne's Helm, Cathedral Knight Armor, Millwood Knight Gauntlets, Karla's Trousers
+===========================================================================================================================================================================================
+best  32.8 | 34.50 |   29.030 |    27.779 |   27.734 |    29.181 | 28.900 | 26.253 |    27.405 | 24.637 | Morne's Helm, Cathedral Knight Armor, Cathedral Knight Gauntlets, Ordained Trousers
+      32.7 | 34.67 |   30.001 |    28.274 |   28.273 |    30.107 | 28.671 | 25.782 |    24.825 | 23.899 | Morne's Helm, Cathedral Knight Armor, Cornyx's Wrap, Brass Leggings
+      32.8 | 34.23 |   29.252 |    26.797 |   28.335 |    28.660 | 28.605 | 26.330 |    26.802 | 24.793 | Morne's Helm, Cathedral Knight Armor, Executioner Gauntlets, Ordained Trousers
+      32.8 | 33.96 |   28.963 |    28.075 |   26.526 |    28.729 | 28.605 | 27.350 |    27.885 | 25.599 | Morne's Helm, Cathedral Knight Armor, Exile Gauntlets, Karla's Trousers
+      32.7 | 34.54 |   30.283 |    28.563 |   28.418 |    30.318 | 28.597 | 25.705 |    24.903 | 23.978 | Morne's Helm, Cathedral Knight Armor, Sorcerer Gloves, Brass Leggings
+      32.7 | 34.34 |   30.001 |    28.419 |   28.127 |    30.107 | 28.597 | 25.705 |    24.903 | 23.978 | Morne's Helm, Cathedral Knight Armor, Maiden Gloves, Brass Leggings
+      32.8 | 34.09 |   29.252 |    27.024 |   28.184 |    28.362 | 28.531 | 25.947 |    27.104 | 24.637 | Morne's Helm, Cathedral Knight Armor, Millwood Knight Gauntlets, Ordained Trousers
+      32.8 | 30.15 |   24.891 |    21.938 |   26.258 |    22.630 | 28.494 | 26.640 |    25.958 | 25.283 | Morne's Helm, Ordained Dress, Cathedral Knight Gauntlets, Havel's Leggings
+      32.8 | 32.96 |   27.321 |    25.524 |   26.378 |    26.555 | 28.450 | 25.880 |    26.718 | 25.884 | Havel's Helm, Cathedral Knight Armor, Pontiff Knight Gauntlets, Ordained Trousers
+      32.8 | 33.56 |   29.182 |    27.927 |   26.375 |    28.874 | 28.449 | 27.508 |    27.728 | 25.761 | Morne's Helm, Cathedral Knight Armor, Exile Gauntlets, Black Witch Trousers

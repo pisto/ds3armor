@@ -198,8 +198,8 @@ best   6.9 |  2.97 |    8.532 |     7.680 |    6.825 |     7.393 | 23.786 | 22.6
        6.9 |  2.87 |    7.973 |     7.399 |    6.636 |     7.111 | 23.943 | 23.325 |    25.906 | 25.290 | Old Sorcerer Hat, Desert Pyromancer Garb, Karla's Gloves, Court Sorcerer Trousers
        6.9 |  2.68 |    7.885 |     7.307 |    6.641 |     6.255 | 24.050 | 23.829 |    25.830 | 24.746 | Shira's Crown, Desert Pyromancer Garb, Court Sorcerer Gloves, Karla's Trousers
        6.9 |  2.68 |    7.695 |     7.680 |    6.919 |     6.924 | 23.864 | 23.325 |    25.829 | 25.367 | Old Sorcerer Hat, Desert Pyromancer Garb, Black Witch Wrappings, Court Sorcerer Trousers
-       6.8 |  2.28 |    7.506 |     7.024 |    6.163 |     6.545 | 22.903 | 22.123 |    25.828 | 21.441 | Blindfold Mask, Desert Pyromancer Garb, Karla's Gloves, Court Sorcerer Trousers
-=========================================================================================================================================================================================
+       6.9 |  2.58 |    7.973 |     7.399 |    6.542 |     6.734 | 22.903 | 22.123 |    25.828 | 21.522 | Blindfold Mask, Desert Pyromancer Garb, Sorcerer Gloves, Court Sorcerer Trousers
+==========================================================================================================================================================================================
 best   7.3 |  2.97 |    8.906 |     7.774 |    7.206 |     6.823 | 24.527 | 23.431 |    26.449 | 25.608 | Cleric Hat, Desert Pyromancer Garb, Court Sorcerer Gloves, Karla's Trousers
        7.3 |  4.04 |    8.252 |     8.897 |    7.297 |     7.675 | 23.786 | 23.328 |    26.447 | 25.760 | Archdeacon White Crown, Desert Pyromancer Garb, Court Sorcerer Gloves, Court Sorcerer Trousers
        7.3 |  3.07 |    8.159 |     7.773 |    6.919 |     7.110 | 23.305 | 23.730 |    26.447 | 25.132 | Conjurator Hood, Desert Pyromancer Garb, Court Sorcerer Gloves, Court Sorcerer Trousers
@@ -218,17 +218,17 @@ best   7.6 |  2.97 |    9.007 |     8.916 |    8.543 |     8.531 | 26.341 | 24.2
        7.6 |  2.68 |    8.265 |     8.361 |    8.821 |     7.881 | 25.721 | 24.723 |    26.398 | 26.197 | Ringed Knight Hood, Clandestine Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
        7.6 |  2.68 |    9.007 |     8.824 |    8.543 |     8.346 | 26.645 | 24.485 |    26.326 | 26.739 | Cleric Hat, Clandestine Coat, Pale Shade Gloves, Court Sorcerer Trousers
        7.6 |  2.48 |    8.172 |     8.731 |    8.172 |     7.881 | 26.031 | 24.644 |    26.321 | 26.658 | Maiden Hood, Clandestine Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
+       7.6 |  3.07 |    9.182 |     7.961 |    7.487 |     6.823 | 24.761 | 23.668 |    26.297 | 25.608 | Cleric Hat, Desert Pyromancer Garb, Sorcerer Gloves, Karla's Trousers
        7.4 |  2.77 |    8.998 |     7.681 |    7.206 |     6.634 | 24.371 | 23.274 |    26.297 | 25.145 | Cleric Hat, Desert Pyromancer Garb, Desert Pyromancer Gloves, Karla's Trousers
        7.5 |  2.77 |    8.722 |     7.588 |    7.112 |     6.634 | 24.761 | 23.668 |    26.297 | 25.531 | Cleric Hat, Desert Pyromancer Garb, Karla's Gloves, Karla's Trousers
-       7.6 |  3.07 |    9.182 |     7.961 |    7.487 |     6.823 | 24.761 | 23.668 |    26.297 | 25.608 | Cleric Hat, Desert Pyromancer Garb, Sorcerer Gloves, Karla's Trousers
-===============================================================================================================================================================================
+==============================================================================================================================================================================
 best   7.9 |  2.87 |    7.885 |     8.167 |    7.698 |     7.212 | 25.774 | 23.814 |    26.915 | 23.388 | Blindfold Mask, Karla's Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
        7.9 |  2.87 |    8.729 |     8.916 |    8.543 |     8.159 | 26.341 | 24.959 |    26.707 | 26.889 | Karla's Pointed Hat, Clandestine Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
        7.8 |  3.07 |    7.698 |     8.167 |    7.698 |     7.305 | 26.390 | 24.990 |    26.685 | 26.376 | Shira's Crown, Karla's Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
        7.9 |  2.09 |    7.693 |     8.454 |    7.987 |     7.020 | 25.515 | 23.990 |    26.660 | 23.655 | Blindfold Mask, Black Witch Garb, Court Sorcerer Gloves, Court Sorcerer Trousers
+       7.9 |  3.07 |    9.283 |     9.100 |    8.820 |     8.531 | 26.569 | 24.485 |    26.554 | 26.966 | Cleric Hat, Clandestine Coat, Sorcerer Gloves, Court Sorcerer Trousers
        7.7 |  2.77 |    9.099 |     8.824 |    8.543 |     8.346 | 26.189 | 24.094 |    26.554 | 26.512 | Cleric Hat, Clandestine Coat, Desert Pyromancer Gloves, Court Sorcerer Trousers
        7.8 |  2.77 |    8.823 |     8.732 |    8.451 |     8.346 | 26.569 | 24.485 |    26.554 | 26.890 | Cleric Hat, Clandestine Coat, Karla's Gloves, Court Sorcerer Trousers
-       7.9 |  3.07 |    9.283 |     9.100 |    8.820 |     8.531 | 26.569 | 24.485 |    26.554 | 26.966 | Cleric Hat, Clandestine Coat, Sorcerer Gloves, Court Sorcerer Trousers
        7.9 |  2.77 |    8.915 |     8.916 |    8.451 |     8.254 | 26.569 | 24.485 |    26.554 | 26.966 | Cleric Hat, Clandestine Coat, Maiden Gloves, Court Sorcerer Trousers
        7.9 |  2.58 |    7.885 |     8.074 |    7.698 |     7.024 | 26.081 | 24.050 |    26.536 | 23.150 | Blindfold Mask, Karla's Coat, Pale Shade Gloves, Court Sorcerer Trousers
        7.9 |  2.87 |    7.792 |     8.074 |    7.698 |     7.118 | 26.238 | 24.835 |    26.533 | 25.919 | Shira's Crown, Karla's Coat, Desert Pyromancer Gloves, Court Sorcerer Trousers
@@ -264,8 +264,8 @@ best   8.6 |  3.36 |    9.095 |     8.724 |    8.632 |     7.300 | 27.563 | 25.3
        8.6 |  3.26 |    8.815 |     8.443 |    8.351 |     7.395 | 26.536 | 25.650 |    27.218 | 26.745 | Cleric Hat, Karla's Coat, Court Sorcerer Gloves, Conjurator Boots
        8.6 |  2.77 |    9.375 |     8.537 |    8.444 |     7.489 | 27.405 | 25.488 |    27.218 | 27.535 | Cleric Hat, Karla's Coat, Court Sorcerer Gloves, Black Witch Trousers
        8.6 |  2.87 |    8.076 |     8.261 |    8.076 |     6.546 | 27.334 | 25.870 |    27.147 | 27.301 | Black Witch Veil, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
-       8.3 |  3.17 |    8.814 |     8.538 |    8.257 |     7.681 | 26.701 | 24.443 |    27.146 | 26.767 | Cleric Hat, Karla's Coat, Desert Pyromancer Gloves, Court Sorcerer Trousers
-=====================================================================================================================================================================================
+       8.5 |  3.46 |    8.999 |     8.815 |    8.535 |     7.867 | 27.079 | 24.831 |    27.146 | 27.219 | Cleric Hat, Karla's Coat, Sorcerer Gloves, Court Sorcerer Trousers
+============================================================================================================================================================================
 best   9.0 |  4.43 |    8.817 |     9.928 |    9.095 |     7.583 | 27.563 | 25.947 |    27.452 | 27.683 | Archdeacon White Crown, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
        9.0 |  3.46 |    8.725 |     8.817 |    8.725 |     7.017 | 27.105 | 26.335 |    27.452 | 27.071 | Conjurator Hood, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
        8.9 |  3.26 |    8.817 |     8.724 |    8.632 |     6.923 | 27.563 | 26.025 |    27.376 | 27.301 | Karla's Pointed Hat, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
@@ -275,8 +275,8 @@ best   9.0 |  4.43 |    8.817 |     9.928 |    9.095 |     7.583 | 27.563 | 25.9
        9.0 |  3.85 |    9.098 |     9.743 |    8.909 |     7.771 | 27.405 | 26.108 |    27.294 | 27.840 | Archdeacon White Crown, Karla's Coat, Court Sorcerer Gloves, Black Witch Trousers
        9.0 |  3.36 |    8.443 |     8.536 |    8.443 |     7.112 | 26.072 | 26.655 |    27.294 | 26.436 | Conjurator Hood, Karla's Coat, Court Sorcerer Gloves, Conjurator Boots
        9.0 |  2.87 |    9.006 |     8.630 |    8.537 |     7.207 | 26.946 | 26.495 |    27.294 | 27.230 | Conjurator Hood, Karla's Coat, Court Sorcerer Gloves, Black Witch Trousers
-       8.7 |  3.17 |    9.187 |     8.632 |    8.632 |     7.113 | 27.413 | 25.172 |    27.225 | 26.926 | Cleric Hat, Karla's Coat, Desert Pyromancer Gloves, Karla's Trousers
-==============================================================================================================================================================================
+       8.9 |  3.46 |    9.371 |     8.909 |    8.909 |     7.300 | 27.787 | 25.557 |    27.225 | 27.377 | Cleric Hat, Karla's Coat, Sorcerer Gloves, Karla's Trousers
+=====================================================================================================================================================================
 best  12.1 |  7.98 |   11.304 |    11.658 |   11.942 |    10.386 | 27.638 | 26.482 |    27.528 | 27.008 | Archdeacon White Crown, Karla's Coat, Dragonslayer Gauntlets, Karla's Trousers
       12.1 |  7.05 |   11.214 |    10.569 |   11.583 |     9.838 | 27.181 | 26.867 |    27.528 | 26.391 | Conjurator Hood, Karla's Coat, Dragonslayer Gauntlets, Karla's Trousers
       11.7 |  6.95 |   11.574 |    10.478 |   11.493 |    10.112 | 27.638 | 25.865 |    27.451 | 26.700 | Cleric Hat, Karla's Coat, Dragonslayer Gauntlets, Karla's Trousers
@@ -306,10 +306,10 @@ best  13.5 |  9.67 |   12.987 |    11.594 |   13.265 |    12.010 | 26.724 | 25.8
       13.5 |  9.58 |   12.719 |    11.322 |   12.998 |    12.100 | 25.685 | 26.191 |    27.524 | 26.822 | Iron Dragonslayer Helm, Karla's Coat, Court Sorcerer Gloves, Conjurator Boots
       13.5 |  9.12 |   13.255 |    11.412 |   13.087 |    12.190 | 26.564 | 26.030 |    27.524 | 27.611 | Iron Dragonslayer Helm, Karla's Coat, Court Sorcerer Gloves, Black Witch Trousers
       13.2 |  7.93 |   11.957 |    11.033 |   11.871 |    10.953 | 26.776 | 25.535 |    27.523 | 27.067 | Karla's Pointed Hat, Karla's Coat, Catarina Gauntlets, Court Sorcerer Trousers
+      13.4 |  9.76 |   12.895 |    11.682 |   13.173 |    12.549 | 26.234 | 25.378 |    27.453 | 27.296 | Iron Dragonslayer Helm, Karla's Coat, Sorcerer Gloves, Court Sorcerer Trousers
       13.2 |  9.49 |   12.718 |    11.414 |   12.909 |    12.372 | 25.852 | 24.993 |    27.453 | 26.844 | Iron Dragonslayer Helm, Karla's Coat, Desert Pyromancer Gloves, Court Sorcerer Trousers
       13.3 |  9.49 |   12.453 |    11.324 |   12.821 |    12.372 | 26.234 | 25.378 |    27.453 | 27.220 | Iron Dragonslayer Helm, Karla's Coat, Karla's Gloves, Court Sorcerer Trousers
-      13.4 |  9.76 |   12.895 |    11.682 |   13.173 |    12.549 | 26.234 | 25.378 |    27.453 | 27.296 | Iron Dragonslayer Helm, Karla's Coat, Sorcerer Gloves, Court Sorcerer Trousers
-========================================================================================================================================================================================
+=======================================================================================================================================================================================
 best  14.1 | 11.23 |   13.281 |    11.967 |   13.281 |    12.268 | 26.467 | 25.460 |    27.909 | 27.296 | Catarina Helm, Karla's Coat, Court Sorcerer Gloves, Court Sorcerer Trousers
       13.7 |  9.04 |   12.317 |    12.296 |   12.676 |    11.040 | 27.488 | 26.176 |    27.678 | 27.608 | Archdeacon White Crown, Karla's Coat, Catarina Gauntlets, Karla's Trousers
       13.7 |  8.11 |   12.228 |    11.214 |   12.320 |    10.496 | 27.030 | 26.563 |    27.678 | 26.996 | Conjurator Hood, Karla's Coat, Catarina Gauntlets, Karla's Trousers
@@ -319,27 +319,27 @@ best  14.1 | 11.23 |   13.281 |    11.967 |   13.281 |    12.268 | 26.467 | 25.4
       14.0 |  8.31 |   12.228 |    11.214 |   12.228 |    10.120 | 27.331 | 27.095 |    27.603 | 27.827 | Conjurator Hood, Karla's Coat, Winged Knight Gauntlets, Karla's Trousers
       13.6 |  7.93 |   12.317 |    11.124 |   12.231 |    10.405 | 27.488 | 26.254 |    27.602 | 27.225 | Karla's Pointed Hat, Karla's Coat, Catarina Gauntlets, Karla's Trousers
       14.1 | 10.96 |   13.281 |    11.878 |   13.281 |    12.090 | 26.771 | 25.691 |    27.535 | 27.070 | Catarina Helm, Karla's Coat, Pale Shade Gloves, Court Sorcerer Trousers
-      13.6 |  9.49 |   13.075 |    11.505 |   13.265 |    11.832 | 26.573 | 25.717 |    27.531 | 27.002 | Iron Dragonslayer Helm, Karla's Coat, Desert Pyromancer Gloves, Karla's Trousers
-==========================================================================================================================================================================================
+      13.8 |  9.76 |   13.251 |    11.773 |   13.528 |    12.010 | 26.951 | 26.099 |    27.531 | 27.454 | Iron Dragonslayer Helm, Karla's Coat, Sorcerer Gloves, Karla's Trousers
+=================================================================================================================================================================================
 best  14.5 | 11.23 |   13.636 |    12.057 |   13.636 |    11.728 | 27.182 | 26.180 |    27.987 | 27.454 | Catarina Helm, Karla's Coat, Court Sorcerer Gloves, Karla's Trousers
       14.5 | 11.14 |   13.370 |    11.786 |   13.370 |    11.818 | 26.149 | 26.500 |    27.830 | 26.822 | Catarina Helm, Karla's Coat, Court Sorcerer Gloves, Conjurator Boots
       14.5 | 10.69 |   13.902 |    11.876 |   13.459 |    11.908 | 27.023 | 26.340 |    27.830 | 27.611 | Catarina Helm, Karla's Coat, Court Sorcerer Gloves, Black Witch Trousers
+      14.4 | 11.32 |   13.544 |    12.145 |   13.544 |    12.268 | 26.695 | 25.691 |    27.759 | 27.296 | Catarina Helm, Karla's Coat, Sorcerer Gloves, Court Sorcerer Trousers
       14.2 | 11.05 |   13.369 |    11.878 |   13.281 |    12.090 | 26.315 | 25.307 |    27.759 | 26.844 | Catarina Helm, Karla's Coat, Desert Pyromancer Gloves, Court Sorcerer Trousers
       14.3 | 11.05 |   13.106 |    11.788 |   13.194 |    12.090 | 26.695 | 25.691 |    27.759 | 27.220 | Catarina Helm, Karla's Coat, Karla's Gloves, Court Sorcerer Trousers
-      14.4 | 11.32 |   13.544 |    12.145 |   13.544 |    12.268 | 26.695 | 25.691 |    27.759 | 27.296 | Catarina Helm, Karla's Coat, Sorcerer Gloves, Court Sorcerer Trousers
       14.4 | 11.05 |   13.194 |    11.967 |   13.194 |    12.002 | 26.695 | 25.691 |    27.759 | 27.296 | Catarina Helm, Karla's Coat, Maiden Gloves, Court Sorcerer Trousers
       14.5 | 10.51 |   13.456 |    12.331 |   13.905 |    11.546 | 26.927 | 26.350 |    27.736 | 27.706 | Catarina Helm, Black Witch Garb, Court Sorcerer Gloves, Karla's Trousers
-      14.3 | 10.87 |   12.843 |    12.056 |   13.456 |    11.913 | 26.619 | 25.691 |    27.684 | 27.296 | Catarina Helm, Karla's Coat, Black Witch Wrappings, Court Sorcerer Trousers
       14.4 | 11.49 |   13.194 |    11.788 |   13.369 |    12.002 | 26.771 | 25.768 |    27.684 | 27.220 | Catarina Helm, Karla's Coat, Cornyx's Wrap, Court Sorcerer Trousers
-=============================================================================================================================================================================
+      14.3 | 10.87 |   12.843 |    12.056 |   13.456 |    11.913 | 26.619 | 25.691 |    27.684 | 27.296 | Catarina Helm, Karla's Coat, Black Witch Wrappings, Court Sorcerer Trousers
+=====================================================================================================================================================================================
 best  17.6 | 14.53 |   15.991 |    13.746 |   16.340 |    14.405 | 27.257 | 26.713 |    28.062 | 26.777 | Catarina Helm, Karla's Coat, Dragonslayer Gauntlets, Karla's Trousers
       17.2 | 14.53 |   15.646 |    13.658 |   15.997 |    14.929 | 26.543 | 25.998 |    27.983 | 26.618 | Catarina Helm, Karla's Coat, Dragonslayer Gauntlets, Court Sorcerer Trousers
       15.0 | 11.49 |   13.985 |    12.324 |   13.810 |    11.817 | 27.407 | 26.637 |    27.912 | 27.529 | Catarina Helm, Karla's Coat, Pyromancer Wrap, Karla's Trousers
       17.6 | 14.44 |   15.732 |    13.481 |   16.083 |    14.493 | 26.226 | 27.030 |    27.905 | 26.140 | Catarina Helm, Karla's Coat, Dragonslayer Gauntlets, Conjurator Boots
       17.6 | 14.01 |   16.250 |    13.569 |   16.168 |    14.580 | 27.098 | 26.872 |    27.905 | 26.936 | Catarina Helm, Karla's Coat, Dragonslayer Gauntlets, Black Witch Trousers
+      14.8 | 11.32 |   13.898 |    12.235 |   13.898 |    11.728 | 27.407 | 26.408 |    27.838 | 27.454 | Catarina Helm, Karla's Coat, Sorcerer Gloves, Karla's Trousers
       14.6 | 11.05 |   13.723 |    11.968 |   13.636 |    11.549 | 27.031 | 26.028 |    27.838 | 27.002 | Catarina Helm, Karla's Coat, Desert Pyromancer Gloves, Karla's Trousers
       14.7 | 11.05 |   13.461 |    11.879 |   13.549 |    11.549 | 27.407 | 26.408 |    27.838 | 27.378 | Catarina Helm, Karla's Coat, Karla's Gloves, Karla's Trousers
-      14.8 | 11.32 |   13.898 |    12.235 |   13.898 |    11.728 | 27.407 | 26.408 |    27.838 | 27.454 | Catarina Helm, Karla's Coat, Sorcerer Gloves, Karla's Trousers
       14.8 | 11.05 |   13.549 |    12.057 |   13.549 |    11.460 | 27.407 | 26.408 |    27.838 | 27.454 | Catarina Helm, Karla's Coat, Maiden Gloves, Karla's Trousers
       14.6 | 11.49 |   13.632 |    12.234 |   13.456 |    12.356 | 26.695 | 25.921 |    27.834 | 27.371 | Catarina Helm, Karla's Coat, Pyromancer Wrap, Court Sorcerer Trousers
 ===============================================================================================================================================================================
@@ -378,15 +378,15 @@ best  21.4 | 21.46 |   19.754 |    16.120 |   20.109 |    19.376 | 25.435 | 25.7
 =======================================================================================================================================================================================
 best  21.7 | 25.39 |   22.399 |    18.138 |   22.195 |    21.720 | 24.978 | 24.250 |    28.309 | 26.797 | Cleric Hat, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
       21.7 | 25.02 |   21.529 |    17.723 |   21.721 |    21.084 | 24.742 | 24.802 |    28.083 | 26.720 | Black Witch Veil, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
+      21.7 | 21.54 |   19.997 |    16.290 |   20.351 |    19.376 | 25.666 | 25.930 |    28.073 | 27.375 | Catarina Helm, Karla's Coat, Sorcerer Gloves, Iron Dragonslayer Leggings
       21.5 | 21.30 |   19.835 |    16.035 |   20.109 |    19.213 | 25.281 | 25.547 |    28.073 | 26.923 | Catarina Helm, Karla's Coat, Desert Pyromancer Gloves, Iron Dragonslayer Leggings
       21.6 | 21.30 |   19.592 |    15.950 |   20.028 |    19.213 | 25.666 | 25.930 |    28.073 | 27.299 | Catarina Helm, Karla's Coat, Karla's Gloves, Iron Dragonslayer Leggings
-      21.7 | 21.54 |   19.997 |    16.290 |   20.351 |    19.376 | 25.666 | 25.930 |    28.073 | 27.375 | Catarina Helm, Karla's Coat, Sorcerer Gloves, Iron Dragonslayer Leggings
       21.7 | 21.30 |   19.673 |    16.120 |   20.028 |    19.132 | 25.666 | 25.930 |    28.073 | 27.375 | Catarina Helm, Karla's Coat, Maiden Gloves, Iron Dragonslayer Leggings
       21.5 | 25.46 |   22.083 |    18.055 |   22.116 |    21.641 | 24.900 | 24.644 |    28.008 | 26.720 | Old Sorcerer Hat, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
       21.7 | 25.16 |   21.767 |    17.640 |   22.432 |    21.163 | 24.347 | 24.723 |    28.008 | 26.026 | Ringed Knight Hood, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
-      21.6 | 21.14 |   19.349 |    16.205 |   20.270 |    19.050 | 25.589 | 25.930 |    27.999 | 27.375 | Catarina Helm, Karla's Coat, Black Witch Wrappings, Iron Dragonslayer Leggings
       21.7 | 21.70 |   19.673 |    15.950 |   20.189 |    19.132 | 25.743 | 26.007 |    27.999 | 27.299 | Catarina Helm, Karla's Coat, Cornyx's Wrap, Iron Dragonslayer Leggings
-================================================================================================================================================================================
+      21.6 | 21.14 |   19.349 |    16.205 |   20.270 |    19.050 | 25.589 | 25.930 |    27.999 | 27.375 | Catarina Helm, Karla's Coat, Black Witch Wrappings, Iron Dragonslayer Leggings
+========================================================================================================================================================================================
 best  22.1 | 25.39 |   22.717 |    18.222 |   22.513 |    21.238 | 25.708 | 24.982 |    28.387 | 26.956 | Cleric Hat, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
       22.1 | 26.21 |   22.162 |    19.218 |   22.589 |    21.959 | 24.978 | 24.880 |    28.384 | 27.105 | Archdeacon White Crown, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
       22.1 | 25.46 |   22.083 |    18.221 |   22.274 |    21.481 | 24.505 | 25.274 |    28.384 | 26.489 | Conjurator Hood, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
@@ -396,8 +396,8 @@ best  22.1 | 25.39 |   22.717 |    18.222 |   22.513 |    21.238 | 25.708 | 24.9
       22.1 | 25.31 |   22.479 |    17.970 |   22.274 |    21.319 | 24.654 | 25.307 |    28.231 | 26.320 | Cleric Hat, Catarina Armor, Court Sorcerer Gloves, Conjurator Boots
       22.1 | 24.94 |   22.955 |    18.054 |   22.354 |    21.399 | 25.546 | 25.144 |    28.231 | 27.115 | Cleric Hat, Catarina Armor, Court Sorcerer Gloves, Black Witch Trousers
       22.1 | 25.02 |   21.850 |    17.808 |   22.042 |    20.598 | 25.473 | 25.528 |    28.161 | 26.879 | Black Witch Veil, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
-      21.8 | 25.24 |   22.478 |    18.055 |   22.195 |    21.562 | 24.823 | 24.094 |    28.160 | 26.342 | Cleric Hat, Catarina Armor, Desert Pyromancer Gloves, Court Sorcerer Trousers
-=======================================================================================================================================================================================
+      22.0 | 25.46 |   22.635 |    18.304 |   22.431 |    21.720 | 25.211 | 24.485 |    28.160 | 26.797 | Cleric Hat, Catarina Armor, Sorcerer Gloves, Court Sorcerer Trousers
+==============================================================================================================================================================================
 best  22.5 | 26.21 |   22.480 |    19.300 |   22.906 |    21.479 | 25.708 | 25.606 |    28.462 | 27.263 | Archdeacon White Crown, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
       22.5 | 25.46 |   22.402 |    18.305 |   22.592 |    20.998 | 25.238 | 25.996 |    28.462 | 26.648 | Conjurator Hood, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
       22.4 | 25.31 |   22.480 |    18.222 |   22.513 |    20.918 | 25.708 | 25.684 |    28.387 | 26.879 | Karla's Pointed Hat, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
@@ -407,19 +407,30 @@ best  22.5 | 26.21 |   22.480 |    19.300 |   22.906 |    21.479 | 25.708 | 25.6
       22.5 | 25.77 |   22.719 |    19.135 |   22.748 |    21.639 | 25.546 | 25.767 |    28.307 | 27.422 | Archdeacon White Crown, Catarina Armor, Court Sorcerer Gloves, Black Witch Trousers
       22.5 | 25.39 |   22.163 |    18.054 |   22.353 |    21.079 | 24.179 | 26.316 |    28.307 | 26.010 | Conjurator Hood, Catarina Armor, Court Sorcerer Gloves, Conjurator Boots
       22.5 | 25.01 |   22.641 |    18.137 |   22.433 |    21.159 | 25.075 | 26.156 |    28.307 | 26.808 | Conjurator Hood, Catarina Armor, Court Sorcerer Gloves, Black Witch Trousers
-      22.2 | 25.24 |   22.795 |    18.140 |   22.513 |    21.079 | 25.554 | 24.827 |    28.238 | 26.502 | Cleric Hat, Catarina Armor, Desert Pyromancer Gloves, Karla's Trousers
-================================================================================================================================================================================
+      22.4 | 25.46 |   22.951 |    18.388 |   22.748 |    21.238 | 25.938 | 25.214 |    28.238 | 26.956 | Cleric Hat, Catarina Armor, Sorcerer Gloves, Karla's Trousers
+=======================================================================================================================================================================
+best  23.6 | 27.28 |   21.721 |    19.769 |   21.960 |    20.812 | 27.731 | 26.545 |    28.462 | 30.116 | Archdeacon White Crown, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
+      23.6 | 26.54 |   21.642 |    18.780 |   21.642 |    20.328 | 27.275 | 26.930 |    28.462 | 29.525 | Conjurator Hood, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
+      23.0 | 26.44 |   22.794 |    19.545 |   23.062 |    21.558 | 25.938 | 26.066 |    28.388 | 27.339 | Archdeacon White Crown, Catarina Armor, Pyromancer Wrap, Karla's Trousers
+      23.0 | 25.69 |   22.715 |    18.553 |   22.748 |    21.078 | 25.470 | 26.453 |    28.388 | 26.724 | Conjurator Hood, Catarina Armor, Pyromancer Wrap, Karla's Trousers
+      23.2 | 26.47 |   21.960 |    18.697 |   21.562 |    20.570 | 27.731 | 25.929 |    28.387 | 29.820 | Cleric Hat, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
+      23.5 | 26.39 |   21.721 |    18.697 |   21.562 |    20.247 | 27.731 | 26.622 |    28.387 | 29.746 | Karla's Pointed Hat, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
+      23.2 | 27.28 |   21.400 |    19.687 |   21.640 |    21.297 | 27.022 | 25.829 |    28.384 | 29.964 | Archdeacon White Crown, Winged Knight Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
+      23.2 | 26.54 |   21.320 |    18.696 |   21.320 |    20.815 | 26.561 | 26.218 |    28.384 | 29.371 | Conjurator Hood, Winged Knight Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
+      22.8 | 26.29 |   22.715 |    19.464 |   23.140 |    21.479 | 25.938 | 25.836 |    28.314 | 27.263 | Archdeacon White Crown, Catarina Armor, Sorcerer Gloves, Karla's Trousers
+      22.6 | 26.07 |   22.559 |    19.219 |   22.906 |    21.320 | 25.554 | 25.452 |    28.314 | 26.811 | Archdeacon White Crown, Catarina Armor, Desert Pyromancer Gloves, Karla's Trousers
+============================================================================================================================================================================================
 best  25.6 | 28.96 |   24.595 |    20.851 |   25.320 |    23.860 | 25.784 | 26.143 |    28.536 | 26.585 | Archdeacon White Crown, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
       25.6 | 28.24 |   24.518 |    19.875 |   25.016 |    23.395 | 25.316 | 26.530 |    28.536 | 25.964 | Conjurator Hood, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
-      23.6 | 27.28 |   21.721 |    19.769 |   21.960 |    20.812 | 27.731 | 26.545 |    28.462 | 30.116 | Archdeacon White Crown, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
-      23.6 | 26.54 |   21.642 |    18.780 |   21.642 |    20.328 | 27.275 | 26.930 |    28.462 | 29.525 | Conjurator Hood, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
       25.2 | 28.16 |   24.825 |    19.793 |   24.939 |    23.628 | 25.784 | 25.523 |    28.461 | 26.275 | Cleric Hat, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
       25.5 | 28.09 |   24.595 |    19.793 |   24.939 |    23.317 | 25.784 | 26.220 |    28.461 | 26.197 | Karla's Pointed Hat, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
       25.2 | 28.96 |   24.285 |    20.770 |   25.013 |    24.326 | 25.056 | 25.422 |    28.459 | 26.425 | Archdeacon White Crown, Catarina Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
       25.2 | 28.24 |   24.208 |    19.792 |   24.708 |    23.863 | 24.583 | 25.813 |    28.459 | 25.803 | Conjurator Hood, Catarina Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
-      23.0 | 26.44 |   22.794 |    19.545 |   23.062 |    21.558 | 25.938 | 26.066 |    28.388 | 27.339 | Archdeacon White Crown, Catarina Armor, Pyromancer Wrap, Karla's Trousers
-      23.0 | 25.69 |   22.715 |    18.553 |   22.748 |    21.078 | 25.470 | 26.453 |    28.388 | 26.724 | Conjurator Hood, Catarina Armor, Pyromancer Wrap, Karla's Trousers
-============================================================================================================================================================================
+      24.1 | 27.50 |   22.038 |    20.012 |   22.118 |    20.892 | 27.955 | 27.000 |    28.388 | 30.188 | Archdeacon White Crown, Winged Knight Armor, Pyromancer Wrap, Karla's Trousers
+      24.1 | 26.76 |   21.958 |    19.026 |   21.800 |    20.409 | 27.500 | 27.382 |    28.388 | 29.598 | Conjurator Hood, Winged Knight Armor, Pyromancer Wrap, Karla's Trousers
+      24.7 | 26.74 |   24.214 |    20.379 |   23.456 |    22.759 | 25.473 | 25.762 |    28.387 | 26.341 | Undead Legion Helm, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
+      25.6 | 28.31 |   24.671 |    19.631 |   24.787 |    23.395 | 25.941 | 26.220 |    28.386 | 26.507 | Sunless Veil, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
+================================================================================================================================================================================
 best  26.6 | 30.26 |   25.722 |    20.712 |   26.140 |    25.698 | 24.110 | 24.802 |    28.611 | 26.874 | Iron Dragonslayer Helm, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
       26.4 | 28.99 |   25.378 |    20.290 |   25.260 |    24.649 | 24.901 | 24.485 |    28.532 | 26.721 | Cleric Hat, Catarina Armor, Catarina Gauntlets, Court Sorcerer Trousers
       26.3 | 29.20 |   24.088 |    20.259 |   24.018 |    22.980 | 27.806 | 26.464 |    28.461 | 29.166 | Cleric Hat, Winged Knight Armor, Dragonslayer Gauntlets, Karla's Trousers
@@ -427,8 +438,8 @@ best  26.6 | 30.26 |   25.722 |    20.712 |   26.140 |    25.698 | 24.110 | 24.8
       26.3 | 29.98 |   23.544 |    21.230 |   24.093 |    23.684 | 27.098 | 26.364 |    28.459 | 29.311 | Archdeacon White Crown, Winged Knight Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
       26.3 | 29.27 |   23.466 |    20.258 |   23.784 |    23.217 | 26.637 | 26.750 |    28.459 | 28.713 | Conjurator Hood, Winged Knight Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
       26.1 | 25.25 |   22.834 |    18.325 |   23.256 |    22.392 | 25.358 | 25.930 |    28.445 | 27.299 | Catarina Helm, Karla's Coat, Catarina Gauntlets, Iron Dragonslayer Leggings
-      25.8 | 27.80 |   23.472 |    20.841 |   22.517 |    22.104 | 27.503 | 26.699 |    28.387 | 29.229 | Undead Legion Helm, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
       26.4 | 28.99 |   25.293 |    20.951 |   24.705 |    24.265 | 26.091 | 25.368 |    28.387 | 26.653 | Cleric Hat, Catarina Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      25.8 | 27.80 |   23.472 |    20.841 |   22.517 |    22.104 | 27.503 | 26.699 |    28.387 | 29.229 | Undead Legion Helm, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
       26.4 | 29.77 |   24.757 |    21.913 |   24.779 |    24.957 | 25.366 | 25.267 |    28.384 | 26.803 | Archdeacon White Crown, Catarina Armor, Cathedral Knight Gauntlets, Court Sorcerer Trousers
 =====================================================================================================================================================================================================
 best  27.0 | 30.26 |   26.026 |    20.793 |   26.442 |    25.241 | 24.847 | 25.528 |    28.688 | 27.033 | Iron Dragonslayer Helm, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
@@ -440,8 +451,8 @@ best  27.0 | 30.26 |   26.026 |    20.793 |   26.442 |    25.241 | 24.847 | 25.5
       27.0 | 30.19 |   25.798 |    20.549 |   26.216 |    25.317 | 23.782 | 25.850 |    28.533 | 26.398 | Iron Dragonslayer Helm, Catarina Armor, Court Sorcerer Gloves, Conjurator Boots
       27.0 | 29.84 |   26.253 |    20.631 |   26.291 |    25.393 | 24.683 | 25.689 |    28.533 | 27.192 | Iron Dragonslayer Helm, Catarina Armor, Court Sorcerer Gloves, Black Witch Trousers
       26.7 | 28.92 |   25.150 |    20.290 |   25.260 |    24.342 | 24.901 | 25.191 |    28.532 | 26.644 | Karla's Pointed Hat, Catarina Armor, Catarina Gauntlets, Court Sorcerer Trousers
-      26.7 | 30.12 |   25.797 |    20.632 |   26.140 |    25.548 | 23.953 | 24.646 |    28.462 | 26.419 | Iron Dragonslayer Helm, Catarina Armor, Desert Pyromancer Gloves, Court Sorcerer Trousers
-===================================================================================================================================================================================================
+      26.9 | 30.33 |   25.947 |    20.872 |   26.364 |    25.698 | 24.345 | 25.034 |    28.462 | 26.874 | Iron Dragonslayer Helm, Catarina Armor, Sorcerer Gloves, Court Sorcerer Trousers
+==========================================================================================================================================================================================
 best  27.6 | 31.46 |   26.275 |    21.127 |   26.456 |    25.459 | 24.584 | 25.116 |    28.912 | 26.874 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
       27.2 | 29.77 |   25.456 |    21.422 |   25.943 |    24.416 | 25.631 | 25.836 |    28.685 | 27.188 | Archdeacon White Crown, Catarina Armor, Catarina Gauntlets, Karla's Trousers
       27.2 | 29.06 |   25.380 |    20.453 |   25.641 |    23.954 | 25.161 | 26.224 |    28.685 | 26.572 | Conjurator Hood, Catarina Armor, Catarina Gauntlets, Karla's Trousers
@@ -450,42 +461,64 @@ best  27.6 | 31.46 |   26.275 |    21.127 |   26.456 |    25.459 | 24.584 | 25.1
       27.5 | 29.21 |   25.380 |    20.453 |   25.563 |    23.634 | 25.470 | 26.758 |    28.611 | 27.408 | Conjurator Hood, Catarina Armor, Winged Knight Gauntlets, Karla's Trousers
       27.1 | 28.92 |   25.456 |    20.372 |   25.566 |    23.877 | 25.631 | 25.913 |    28.610 | 26.803 | Karla's Pointed Hat, Catarina Armor, Catarina Gauntlets, Karla's Trousers
       27.6 | 31.26 |   26.275 |    21.047 |   26.456 |    25.308 | 24.895 | 25.348 |    28.543 | 26.647 | Catarina Helm, Catarina Armor, Pale Shade Gloves, Court Sorcerer Trousers
+      27.3 | 30.33 |   26.250 |    20.954 |   26.665 |    25.241 | 25.080 | 25.758 |    28.540 | 27.033 | Iron Dragonslayer Helm, Catarina Armor, Sorcerer Gloves, Karla's Trousers
       27.1 | 30.12 |   26.100 |    20.713 |   26.442 |    25.089 | 24.692 | 25.374 |    28.540 | 26.579 | Iron Dragonslayer Helm, Catarina Armor, Desert Pyromancer Gloves, Karla's Trousers
-      27.2 | 30.12 |   25.876 |    20.633 |   26.368 |    25.089 | 25.080 | 25.758 |    28.540 | 26.957 | Iron Dragonslayer Helm, Catarina Armor, Karla's Gloves, Karla's Trousers
-==================================================================================================================================================================================
+============================================================================================================================================================================================
 best  28.0 | 31.46 |   26.577 |    21.208 |   26.757 |    25.000 | 25.317 | 25.840 |    28.989 | 27.033 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Karla's Trousers
       28.0 | 31.39 |   26.351 |    20.965 |   26.531 |    25.077 | 24.258 | 26.161 |    28.835 | 26.398 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Conjurator Boots
       28.0 | 31.05 |   26.803 |    21.046 |   26.606 |    25.153 | 25.154 | 26.000 |    28.835 | 27.192 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Black Witch Trousers
+      27.9 | 31.53 |   26.499 |    21.287 |   26.679 |    25.459 | 24.817 | 25.348 |    28.765 | 26.874 | Catarina Helm, Catarina Armor, Sorcerer Gloves, Court Sorcerer Trousers
       27.7 | 31.33 |   26.350 |    21.047 |   26.456 |    25.308 | 24.428 | 24.962 |    28.765 | 26.419 | Catarina Helm, Catarina Armor, Desert Pyromancer Gloves, Court Sorcerer Trousers
       27.8 | 31.33 |   26.127 |    20.968 |   26.382 |    25.308 | 24.817 | 25.348 |    28.765 | 26.798 | Catarina Helm, Catarina Armor, Karla's Gloves, Court Sorcerer Trousers
-      27.9 | 31.53 |   26.499 |    21.287 |   26.679 |    25.459 | 24.817 | 25.348 |    28.765 | 26.874 | Catarina Helm, Catarina Armor, Sorcerer Gloves, Court Sorcerer Trousers
       27.9 | 31.33 |   26.201 |    21.127 |   26.382 |    25.233 | 24.817 | 25.348 |    28.765 | 26.874 | Catarina Helm, Catarina Armor, Maiden Gloves, Court Sorcerer Trousers
-      27.8 | 31.19 |   25.903 |    21.207 |   26.605 |    25.158 | 24.739 | 25.348 |    28.691 | 26.874 | Catarina Helm, Catarina Armor, Black Witch Wrappings, Court Sorcerer Trousers
       27.9 | 31.67 |   26.201 |    20.968 |   26.530 |    25.233 | 24.895 | 25.425 |    28.691 | 26.798 | Catarina Helm, Catarina Armor, Cornyx's Wrap, Court Sorcerer Trousers
+      27.8 | 31.19 |   25.903 |    21.207 |   26.605 |    25.158 | 24.739 | 25.348 |    28.691 | 26.874 | Catarina Helm, Catarina Armor, Black Witch Wrappings, Court Sorcerer Trousers
       28.0 | 32.57 |   26.426 |    22.502 |   26.982 |    25.765 | 24.828 | 25.438 |    28.680 | 27.350 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Archdeacon Skirt
 ================================================================================================================================================================================
-best  31.1 | 34.01 |   28.579 |    22.722 |   29.050 |    27.275 | 25.394 | 26.375 |    29.063 | 26.352 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
-      29.1 | 32.45 |   25.858 |    21.666 |   25.858 |    24.364 | 27.351 | 26.776 |    28.989 | 29.894 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
-      30.7 | 34.01 |   28.286 |    22.642 |   28.759 |    27.720 | 24.662 | 25.657 |    28.986 | 26.192 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
+best  29.1 | 32.45 |   25.858 |    21.666 |   25.858 |    24.364 | 27.351 | 26.776 |    28.989 | 29.894 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Karla's Trousers
       28.5 | 31.67 |   26.874 |    21.447 |   26.905 |    25.076 | 25.548 | 26.298 |    28.916 | 27.108 | Catarina Helm, Catarina Armor, Pyromancer Wrap, Karla's Trousers
-      29.6 | 32.66 |   26.158 |    21.903 |   26.008 |    24.441 | 27.576 | 27.229 |    28.916 | 29.967 | Catarina Helm, Winged Knight Armor, Pyromancer Wrap, Karla's Trousers
       28.7 | 32.45 |   25.554 |    21.585 |   25.554 |    24.827 | 26.638 | 26.062 |    28.912 | 29.742 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Court Sorcerer Trousers
-      31.1 | 33.95 |   28.359 |    22.484 |   28.832 |    27.350 | 24.336 | 26.694 |    28.909 | 25.711 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Conjurator Boots
-      31.1 | 33.61 |   28.799 |    22.563 |   28.905 |    27.424 | 25.231 | 26.534 |    28.909 | 26.512 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Black Witch Trousers
+      28.3 | 31.53 |   26.799 |    21.367 |   26.979 |    25.000 | 25.548 | 26.069 |    28.842 | 27.033 | Catarina Helm, Catarina Armor, Sorcerer Gloves, Karla's Trousers
       28.1 | 31.33 |   26.651 |    21.128 |   26.757 |    24.849 | 25.162 | 25.687 |    28.842 | 26.579 | Catarina Helm, Catarina Armor, Desert Pyromancer Gloves, Karla's Trousers
       28.2 | 31.33 |   26.429 |    21.049 |   26.683 |    24.849 | 25.548 | 26.069 |    28.842 | 26.957 | Catarina Helm, Catarina Armor, Karla's Gloves, Karla's Trousers
-=========================================================================================================================================================================
-best  32.3 | 34.77 |   29.105 |    23.201 |   29.353 |    28.248 | 24.506 | 25.348 |    29.133 | 26.798 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Court Sorcerer Trousers
-      32.2 | 34.96 |   27.880 |    23.170 |   28.180 |    26.658 | 27.426 | 27.305 |    29.063 | 29.240 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Karla's Trousers
-      32.3 | 34.77 |   29.024 |    23.837 |   28.828 |    27.882 | 25.702 | 26.222 |    28.989 | 26.730 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Karla's Trousers
+      28.3 | 31.33 |   26.503 |    21.208 |   26.683 |    24.773 | 25.548 | 26.069 |    28.842 | 27.033 | Catarina Helm, Catarina Armor, Maiden Gloves, Karla's Trousers
+      28.1 | 31.67 |   26.573 |    21.366 |   26.605 |    25.535 | 24.817 | 25.580 |    28.838 | 26.950 | Catarina Helm, Catarina Armor, Pyromancer Wrap, Court Sorcerer Trousers
+      29.1 | 32.38 |   25.630 |    21.424 |   25.630 |    24.441 | 26.321 | 27.094 |    28.835 | 29.284 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Conjurator Boots
+      29.1 | 32.04 |   26.086 |    21.505 |   25.706 |    24.518 | 27.193 | 26.935 |    28.835 | 30.047 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Black Witch Trousers
+=========================================================================================================================================================================================
+best  31.1 | 34.01 |   28.579 |    22.722 |   29.050 |    27.275 | 25.394 | 26.375 |    29.063 | 26.352 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Karla's Trousers
+      30.7 | 34.01 |   28.286 |    22.642 |   28.759 |    27.720 | 24.662 | 25.657 |    28.986 | 26.192 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
+      29.6 | 32.66 |   26.158 |    21.903 |   26.008 |    24.441 | 27.576 | 27.229 |    28.916 | 29.967 | Catarina Helm, Winged Knight Armor, Pyromancer Wrap, Karla's Trousers
+      31.1 | 33.95 |   28.359 |    22.484 |   28.832 |    27.350 | 24.336 | 26.694 |    28.909 | 25.711 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Conjurator Boots
+      31.1 | 33.61 |   28.799 |    22.563 |   28.905 |    27.424 | 25.231 | 26.534 |    28.909 | 26.512 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Black Witch Trousers
+      29.4 | 32.52 |   26.083 |    21.824 |   26.083 |    24.364 | 27.576 | 27.003 |    28.842 | 29.894 | Catarina Helm, Winged Knight Armor, Sorcerer Gloves, Karla's Trousers
+      29.2 | 32.32 |   25.933 |    21.586 |   25.858 |    24.211 | 27.201 | 26.625 |    28.842 | 29.458 | Catarina Helm, Winged Knight Armor, Desert Pyromancer Gloves, Karla's Trousers
+      29.3 | 32.32 |   25.708 |    21.507 |   25.783 |    24.211 | 27.576 | 27.003 |    28.842 | 29.822 | Catarina Helm, Winged Knight Armor, Karla's Gloves, Karla's Trousers
+      29.4 | 32.32 |   25.783 |    21.666 |   25.783 |    24.135 | 27.576 | 27.003 |    28.842 | 29.894 | Catarina Helm, Winged Knight Armor, Maiden Gloves, Karla's Trousers
+      29.2 | 32.66 |   25.854 |    21.823 |   25.704 |    24.903 | 26.865 | 26.520 |    28.838 | 29.814 | Catarina Helm, Winged Knight Armor, Pyromancer Wrap, Court Sorcerer Trousers
+======================================================================================================================================================================================
+best  32.2 | 34.96 |   27.880 |    23.170 |   28.180 |    26.658 | 27.426 | 27.305 |    29.063 | 29.240 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Karla's Trousers
       31.8 | 34.96 |   27.584 |    23.092 |   27.885 |    27.107 | 26.714 | 26.596 |    28.986 | 29.086 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Court Sorcerer Trousers
       31.9 | 34.77 |   28.733 |    23.759 |   28.536 |    28.323 | 24.973 | 25.502 |    28.912 | 26.571 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Court Sorcerer Trousers
       31.7 | 33.63 |   28.865 |    22.876 |   29.340 |    28.037 | 24.770 | 25.758 |    28.910 | 26.957 | Iron Dragonslayer Helm, Catarina Armor, Catarina Gauntlets, Karla's Trousers
       32.2 | 34.90 |   27.658 |    22.934 |   27.958 |    26.733 | 26.397 | 27.620 |    28.909 | 28.624 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Conjurator Boots
       32.2 | 34.57 |   28.102 |    23.013 |   28.032 |    26.808 | 27.268 | 27.462 |    28.909 | 29.394 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Black Witch Trousers
       32.0 | 33.77 |   28.865 |    22.876 |   29.266 |    27.735 | 25.080 | 26.295 |    28.836 | 27.789 | Iron Dragonslayer Helm, Catarina Armor, Winged Knight Gauntlets, Karla's Trousers
+      31.3 | 33.63 |   28.573 |    22.796 |   29.050 |    28.478 | 24.031 | 25.034 |    28.833 | 26.798 | Iron Dragonslayer Helm, Catarina Armor, Catarina Gauntlets, Court Sorcerer Trousers
+      31.2 | 33.83 |   27.338 |    22.766 |   27.871 |    26.893 | 26.970 | 26.999 |    28.762 | 29.240 | Iron Dragonslayer Helm, Winged Knight Armor, Dragonslayer Gauntlets, Karla's Trousers
+      31.6 | 33.77 |   28.573 |    22.796 |   28.975 |    28.177 | 24.345 | 25.577 |    28.759 | 27.632 | Iron Dragonslayer Helm, Catarina Armor, Winged Knight Gauntlets, Court Sorcerer Trousers
+==================================================================================================================================================================================================
+best  32.3 | 34.77 |   29.105 |    23.201 |   29.353 |    28.248 | 24.506 | 25.348 |    29.133 | 26.798 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Court Sorcerer Trousers
+      32.3 | 34.77 |   29.024 |    23.837 |   28.828 |    27.882 | 25.702 | 26.222 |    28.989 | 26.730 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Karla's Trousers
       32.3 | 34.70 |   28.806 |    23.602 |   28.609 |    27.956 | 24.649 | 26.542 |    28.835 | 26.092 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Conjurator Boots
-=====================================================================================================================================================================================
+      32.3 | 34.37 |   29.243 |    23.681 |   28.682 |    28.029 | 25.540 | 26.382 |    28.835 | 26.890 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Black Witch Trousers
+      32.3 | 34.90 |   27.805 |    23.487 |   28.255 |    26.276 | 27.501 | 26.776 |    28.695 | 29.313 | Catarina Helm, Winged Knight Armor, Ruin Gauntlets, Karla's Trousers
+      32.3 | 34.36 |   29.247 |    23.040 |   29.272 |    27.048 | 25.317 | 25.916 |    28.695 | 26.730 | Catarina Helm, Catarina Armor, Millwood Knight Gauntlets, Karla's Trousers
+      32.3 | 35.83 |   28.879 |    25.088 |   29.047 |    28.617 | 25.216 | 25.822 |    28.680 | 27.049 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Archdeacon Skirt
+      32.3 | 34.83 |   27.583 |    23.252 |   28.034 |    26.351 | 26.473 | 27.094 |    28.540 | 28.698 | Catarina Helm, Winged Knight Armor, Ruin Gauntlets, Conjurator Boots
+      32.3 | 34.50 |   28.028 |    23.330 |   28.107 |    26.426 | 27.343 | 26.935 |    28.540 | 29.467 | Catarina Helm, Winged Knight Armor, Ruin Gauntlets, Black Witch Trousers
+      32.3 | 34.29 |   29.029 |    22.803 |   29.054 |    27.122 | 24.258 | 26.237 |    28.540 | 26.092 | Catarina Helm, Catarina Armor, Millwood Knight Gauntlets, Conjurator Boots
+====================================================================================================================================================================================
 best  32.7 | 34.77 |   29.395 |    23.279 |   29.642 |    27.806 | 25.239 | 26.069 |    29.210 | 26.957 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Karla's Trousers
       32.6 | 34.91 |   29.105 |    23.201 |   29.279 |    27.946 | 24.817 | 25.888 |    29.060 | 27.632 | Catarina Helm, Catarina Armor, Winged Knight Gauntlets, Court Sorcerer Trousers
       32.7 | 34.70 |   29.178 |    23.043 |   29.425 |    27.880 | 24.180 | 26.389 |    29.056 | 26.321 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Conjurator Boots
@@ -497,35 +530,79 @@ best  32.7 | 34.77 |   29.395 |    23.279 |   29.642 |    27.806 | 25.239 | 26.0
       32.5 | 34.56 |   29.395 |    23.837 |   29.050 |    27.200 | 25.394 | 26.375 |    28.768 | 26.957 | Catarina Helm, Catarina Armor, Exile Gauntlets, Karla's Trousers
       32.4 | 35.25 |   28.807 |    23.121 |   29.502 |    27.720 | 24.739 | 25.502 |    28.765 | 26.798 | Catarina Helm, Catarina Armor, Gundyr's Gauntlets, Court Sorcerer Trousers
 ====================================================================================================================================================================================
-best  34.9 | 39.36 |   31.778 |    24.848 |   32.246 |    31.499 | 23.525 | 25.358 |    29.221 | 26.953 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Iron Dragonslayer Leggings
-      33.8 | 35.71 |   28.704 |    23.725 |   28.779 |    27.194 | 27.276 | 27.003 |    29.210 | 29.822 | Catarina Helm, Winged Knight Armor, Catarina Gauntlets, Karla's Trousers
+best  33.8 | 35.71 |   28.704 |    23.725 |   28.779 |    27.194 | 27.276 | 27.003 |    29.210 | 29.822 | Catarina Helm, Winged Knight Armor, Catarina Gauntlets, Karla's Trousers
       33.0 | 34.91 |   29.395 |    23.279 |   29.568 |    27.503 | 25.548 | 26.604 |    29.137 | 27.789 | Catarina Helm, Catarina Armor, Winged Knight Gauntlets, Karla's Trousers
-      34.1 | 35.85 |   28.704 |    23.725 |   28.704 |    26.888 | 27.576 | 27.531 |    29.137 | 30.621 | Catarina Helm, Winged Knight Armor, Winged Knight Gauntlets, Karla's Trousers
       33.4 | 35.71 |   28.411 |    23.647 |   28.486 |    27.639 | 26.562 | 26.291 |    29.133 | 29.669 | Catarina Helm, Winged Knight Armor, Catarina Gauntlets, Court Sorcerer Trousers
       33.7 | 35.85 |   28.411 |    23.647 |   28.411 |    27.335 | 26.865 | 26.824 |    29.060 | 30.470 | Catarina Helm, Winged Knight Armor, Winged Knight Gauntlets, Court Sorcerer Trousers
       33.8 | 35.65 |   28.484 |    23.490 |   28.559 |    27.268 | 26.245 | 27.319 |    29.056 | 29.211 | Catarina Helm, Winged Knight Armor, Catarina Gauntlets, Conjurator Boots
       33.8 | 35.32 |   28.924 |    23.568 |   28.633 |    27.342 | 27.117 | 27.161 |    29.056 | 29.974 | Catarina Helm, Winged Knight Armor, Catarina Gauntlets, Black Witch Trousers
       33.4 | 35.71 |   28.329 |    24.279 |   27.955 |    27.270 | 27.726 | 27.154 |    28.989 | 29.604 | Catarina Helm, Winged Knight Armor, Cathedral Knight Gauntlets, Karla's Trousers
       33.0 | 34.84 |   29.178 |    23.043 |   29.351 |    27.577 | 24.493 | 26.922 |    28.983 | 27.160 | Catarina Helm, Catarina Armor, Winged Knight Gauntlets, Conjurator Boots
-==================================================================================================================================================================================
-best  38.0 | 41.62 |   33.639 |    26.292 |   34.368 |    33.577 | 23.604 | 25.896 |    29.295 | 26.272 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
-      36.0 | 40.24 |   31.110 |    25.285 |   31.415 |    30.918 | 25.608 | 26.300 |    29.221 | 29.818 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Iron Dragonslayer Leggings
+      33.0 | 34.51 |   29.613 |    23.122 |   29.423 |    27.651 | 25.386 | 26.763 |    28.983 | 27.946 | Catarina Helm, Catarina Armor, Winged Knight Gauntlets, Black Witch Trousers
+      33.0 | 35.71 |   28.035 |    24.202 |   27.659 |    27.715 | 27.017 | 26.443 |    28.912 | 29.450 | Catarina Helm, Winged Knight Armor, Cathedral Knight Gauntlets, Court Sorcerer Trousers
+=================================================================================================================================================================================================
+best  34.9 | 39.36 |   31.778 |    24.848 |   32.246 |    31.499 | 23.525 | 25.358 |    29.221 | 26.953 | Catarina Helm, Catarina Armor, Court Sorcerer Gloves, Iron Dragonslayer Leggings
+      34.1 | 35.85 |   28.704 |    23.725 |   28.704 |    26.888 | 27.576 | 27.531 |    29.137 | 30.621 | Catarina Helm, Winged Knight Armor, Winged Knight Gauntlets, Karla's Trousers
+      34.1 | 35.78 |   28.484 |    23.490 |   28.484 |    26.962 | 26.550 | 27.845 |    28.983 | 30.017 | Catarina Helm, Winged Knight Armor, Winged Knight Gauntlets, Conjurator Boots
+      34.1 | 35.46 |   28.924 |    23.568 |   28.558 |    27.037 | 27.418 | 27.688 |    28.983 | 30.772 | Catarina Helm, Winged Knight Armor, Winged Knight Gauntlets, Black Witch Trousers
+      33.9 | 38.30 |   31.266 |    24.453 |   31.955 |    31.718 | 23.044 | 25.044 |    28.921 | 26.953 | Iron Dragonslayer Helm, Catarina Armor, Court Sorcerer Gloves, Iron Dragonslayer Leggings
+      34.1 | 37.87 |   30.737 |    25.052 |   31.493 |    30.965 | 23.847 | 25.354 |    28.918 | 27.109 | Archdeacon White Crown, Catarina Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      34.1 | 37.24 |   30.666 |    24.128 |   31.214 |    30.543 | 23.366 | 25.745 |    28.918 | 26.492 | Conjurator Hood, Catarina Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      34.9 | 39.18 |   31.778 |    24.772 |   32.246 |    31.360 | 23.841 | 25.588 |    28.854 | 26.726 | Catarina Helm, Catarina Armor, Pale Shade Gloves, Iron Dragonslayer Leggings
+      34.4 | 38.49 |   31.544 |    24.682 |   32.093 |    31.787 | 23.283 | 25.507 |    28.847 | 27.029 | Iron Dragonslayer Helm, Catarina Armor, Pyromancer Wrap, Iron Dragonslayer Leggings
+      34.4 | 38.00 |   30.737 |    25.052 |   31.421 |    30.675 | 24.161 | 25.894 |    28.844 | 27.939 | Archdeacon White Crown, Catarina Armor, Winged Knight Gauntlets, Iron Dragonslayer Leggings
+=====================================================================================================================================================================================================
+best  36.0 | 40.24 |   31.110 |    25.285 |   31.415 |    30.918 | 25.608 | 26.300 |    29.221 | 29.818 | Catarina Helm, Winged Knight Armor, Court Sorcerer Gloves, Iron Dragonslayer Leggings
       35.4 | 39.55 |   32.054 |    25.076 |   32.383 |    31.568 | 23.762 | 25.819 |    29.148 | 27.029 | Catarina Helm, Catarina Armor, Pyromancer Wrap, Iron Dragonslayer Leggings
-      36.5 | 40.42 |   31.389 |    25.511 |   31.553 |    30.987 | 25.839 | 26.756 |    29.148 | 29.891 | Catarina Helm, Winged Knight Armor, Pyromancer Wrap, Iron Dragonslayer Leggings
+      35.2 | 39.42 |   31.985 |    25.000 |   32.452 |    31.499 | 23.762 | 25.588 |    29.074 | 26.953 | Catarina Helm, Catarina Armor, Sorcerer Gloves, Iron Dragonslayer Leggings
       35.0 | 39.24 |   31.847 |    24.772 |   32.246 |    31.360 | 23.367 | 25.204 |    29.074 | 26.499 | Catarina Helm, Catarina Armor, Desert Pyromancer Gloves, Iron Dragonslayer Leggings
       35.1 | 39.24 |   31.641 |    24.696 |   32.178 |    31.360 | 23.762 | 25.588 |    29.074 | 26.878 | Catarina Helm, Catarina Armor, Karla's Gloves, Iron Dragonslayer Leggings
-      35.2 | 39.42 |   31.985 |    25.000 |   32.452 |    31.499 | 23.762 | 25.588 |    29.074 | 26.953 | Catarina Helm, Catarina Armor, Sorcerer Gloves, Iron Dragonslayer Leggings
       35.2 | 39.24 |   31.710 |    24.848 |   32.178 |    31.291 | 23.762 | 25.588 |    29.074 | 26.953 | Catarina Helm, Catarina Armor, Maiden Gloves, Iron Dragonslayer Leggings
+      35.2 | 39.55 |   31.710 |    24.696 |   32.315 |    31.291 | 23.841 | 25.665 |    29.001 | 26.878 | Catarina Helm, Catarina Armor, Cornyx's Wrap, Iron Dragonslayer Leggings
+      35.1 | 39.12 |   31.434 |    24.924 |   32.383 |    31.222 | 23.683 | 25.588 |    29.001 | 26.953 | Catarina Helm, Catarina Armor, Black Witch Wrappings, Iron Dragonslayer Leggings
+      35.0 | 39.42 |   31.710 |    24.772 |   32.178 |    31.360 | 23.604 | 25.896 |    28.928 | 27.029 | Catarina Helm, Catarina Armor, Antiquated Gloves, Iron Dragonslayer Leggings
+      35.0 | 39.19 |   30.593 |    24.891 |   31.121 |    31.139 | 25.141 | 25.990 |    28.921 | 29.818 | Iron Dragonslayer Helm, Winged Knight Armor, Court Sorcerer Gloves, Iron Dragonslayer Leggings
+========================================================================================================================================================================================================
+best  38.0 | 41.62 |   33.639 |    26.292 |   34.368 |    33.577 | 23.604 | 25.896 |    29.295 | 26.272 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
+      36.5 | 40.42 |   31.389 |    25.511 |   31.553 |    30.987 | 25.839 | 26.756 |    29.148 | 29.891 | Catarina Helm, Winged Knight Armor, Pyromancer Wrap, Iron Dragonslayer Leggings
+      36.3 | 40.30 |   31.319 |    25.436 |   31.623 |    30.918 | 25.839 | 26.528 |    29.074 | 29.818 | Catarina Helm, Winged Knight Armor, Sorcerer Gloves, Iron Dragonslayer Leggings
       36.1 | 40.12 |   31.180 |    25.209 |   31.415 |    30.778 | 25.454 | 26.148 |    29.074 | 29.382 | Catarina Helm, Winged Knight Armor, Desert Pyromancer Gloves, Iron Dragonslayer Leggings
       36.2 | 40.12 |   30.971 |    25.134 |   31.346 |    30.778 | 25.839 | 26.528 |    29.074 | 29.745 | Catarina Helm, Winged Knight Armor, Karla's Gloves, Iron Dragonslayer Leggings
-========================================================================================================================================================================================
-best  39.6 | 42.29 |   34.397 |    26.824 |   34.915 |    34.062 | 23.446 | 25.588 |    29.441 | 26.878 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
-      39.1 | 42.46 |   32.989 |    26.720 |   33.562 |    33.013 | 25.685 | 26.832 |    29.295 | 29.163 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
-      39.2 | 42.29 |   34.052 |    27.356 |   34.162 |    34.131 | 23.920 | 25.742 |    29.221 | 26.651 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Iron Dragonslayer Leggings
+      36.3 | 40.12 |   31.041 |    25.285 |   31.346 |    30.708 | 25.839 | 26.528 |    29.074 | 29.818 | Catarina Helm, Winged Knight Armor, Maiden Gloves, Iron Dragonslayer Leggings
+      36.3 | 40.42 |   31.041 |    25.134 |   31.484 |    30.708 | 25.916 | 26.604 |    29.001 | 29.745 | Catarina Helm, Winged Knight Armor, Cornyx's Wrap, Iron Dragonslayer Leggings
+      37.2 | 40.36 |   31.876 |    25.285 |   32.177 |    31.476 | 25.916 | 25.996 |    29.001 | 29.963 | Catarina Helm, Winged Knight Armor, Pontiff Knight Gauntlets, Iron Dragonslayer Leggings
+      36.2 | 40.00 |   30.762 |    25.360 |   31.553 |    30.638 | 25.762 | 26.528 |    29.001 | 29.818 | Catarina Helm, Winged Knight Armor, Black Witch Wrappings, Iron Dragonslayer Leggings
+      36.1 | 39.49 |   32.536 |    24.848 |   32.999 |    32.053 | 23.841 | 25.050 |    29.001 | 27.105 | Catarina Helm, Catarina Armor, Pontiff Knight Gauntlets, Iron Dragonslayer Leggings
+=============================================================================================================================================================================================
+best  39.1 | 42.46 |   32.989 |    26.720 |   33.562 |    33.013 | 25.685 | 26.832 |    29.295 | 29.163 | Catarina Helm, Winged Knight Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
       38.6 | 41.28 |   33.904 |    26.439 |   34.636 |    34.273 | 22.965 | 25.275 |    29.142 | 26.878 | Iron Dragonslayer Helm, Catarina Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
       38.9 | 41.40 |   33.904 |    26.439 |   34.567 |    33.997 | 23.283 | 25.816 |    29.068 | 27.710 | Iron Dragonslayer Helm, Catarina Armor, Winged Knight Gauntlets, Iron Dragonslayer Leggings
-      39.4 | 42.11 |   34.397 |    27.356 |   34.368 |    33.507 | 23.604 | 25.896 |    29.001 | 26.878 | Catarina Helm, Catarina Armor, Exile Gauntlets, Iron Dragonslayer Leggings
       38.1 | 41.45 |   32.486 |    26.334 |   33.277 |    33.228 | 25.218 | 26.524 |    28.995 | 29.163 | Iron Dragonslayer Helm, Winged Knight Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
       39.1 | 43.15 |   34.446 |    27.244 |   35.096 |    33.725 | 23.767 | 25.577 |    28.986 | 25.391 | Catarina Helm, Catarina Armor, Dragonslayer Gauntlets, Catarina Leggings
+      39.0 | 41.98 |   33.639 |    25.988 |   34.231 |    33.577 | 22.735 | 25.050 |    28.928 | 26.575 | Catarina Helm, Catarina Armor, Iron Dragonslayer Gauntlets, Iron Dragonslayer Leggings
+      38.1 | 41.56 |   33.570 |    26.596 |   34.436 |    33.230 | 23.683 | 25.358 |    28.928 | 26.348 | Catarina Helm, Catarina Armor, Ruin Gauntlets, Iron Dragonslayer Leggings
+      38.3 | 41.01 |   33.777 |    26.292 |   34.436 |    33.300 | 23.288 | 25.742 |    28.928 | 26.272 | Catarina Helm, Catarina Armor, Ringed Knight Gauntlets, Iron Dragonslayer Leggings
+      38.2 | 41.28 |   33.557 |    26.974 |   33.880 |    34.342 | 23.442 | 25.430 |    28.921 | 26.651 | Iron Dragonslayer Helm, Catarina Armor, Cathedral Knight Gauntlets, Iron Dragonslayer Leggings
+      38.4 | 41.24 |   33.639 |    26.913 |   34.368 |    33.931 | 24.404 | 26.286 |    28.920 | 25.417 | Morne's Helm, Catarina Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
+==========================================================================================================================================================================================
+best  39.6 | 42.29 |   34.397 |    26.824 |   34.915 |    34.062 | 23.446 | 25.588 |    29.441 | 26.878 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      39.2 | 42.29 |   34.052 |    27.356 |   34.162 |    34.131 | 23.920 | 25.742 |    29.221 | 26.651 | Catarina Helm, Catarina Armor, Cathedral Knight Gauntlets, Iron Dragonslayer Leggings
+      39.4 | 42.11 |   34.397 |    27.356 |   34.368 |    33.507 | 23.604 | 25.896 |    29.001 | 26.878 | Catarina Helm, Catarina Armor, Exile Gauntlets, Iron Dragonslayer Leggings
       39.4 | 42.49 |   34.615 |    27.612 |   34.843 |    33.252 | 25.076 | 26.229 |    28.979 | 24.652 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Morne's Leggings
       39.5 | 42.14 |   33.996 |    30.309 |   32.599 |    35.101 | 25.966 | 26.186 |    28.943 | 26.372 | Catarina Helm, Cathedral Knight Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      39.2 | 42.40 |   32.920 |    27.022 |   33.632 |    32.664 | 25.762 | 26.300 |    28.928 | 29.236 | Catarina Helm, Winged Knight Armor, Ruin Gauntlets, Iron Dragonslayer Leggings
+      39.2 | 41.92 |   34.259 |    26.596 |   34.573 |    33.369 | 23.525 | 25.434 |    28.928 | 26.651 | Catarina Helm, Catarina Armor, Millwood Knight Gauntlets, Iron Dragonslayer Leggings
+      39.4 | 41.86 |   33.128 |    26.720 |   33.632 |    32.734 | 25.378 | 26.680 |    28.928 | 29.163 | Catarina Helm, Winged Knight Armor, Ringed Knight Gauntlets, Iron Dragonslayer Leggings
+      39.3 | 42.13 |   32.907 |    27.398 |   33.069 |    33.785 | 25.527 | 26.372 |    28.921 | 29.527 | Iron Dragonslayer Helm, Winged Knight Armor, Cathedral Knight Gauntlets, Iron Dragonslayer Leggings
+      39.5 | 42.08 |   32.989 |    27.337 |   33.562 |    33.371 | 26.463 | 27.217 |    28.920 | 28.342 | Morne's Helm, Winged Knight Armor, Dragonslayer Gauntlets, Iron Dragonslayer Leggings
+===============================================================================================================================================================================================
+best  40.7 | 43.12 |   33.755 |    27.249 |   34.117 |    33.502 | 25.531 | 26.528 |    29.441 | 29.745 | Catarina Helm, Winged Knight Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      39.9 | 42.41 |   34.397 |    26.824 |   34.847 |    33.785 | 23.762 | 26.127 |    29.368 | 27.710 | Catarina Helm, Catarina Armor, Winged Knight Gauntlets, Iron Dragonslayer Leggings
+      40.3 | 43.12 |   33.407 |    27.778 |   33.355 |    33.572 | 25.992 | 26.680 |    29.221 | 29.527 | Catarina Helm, Winged Knight Armor, Cathedral Knight Gauntlets, Iron Dragonslayer Leggings
+      39.7 | 42.13 |   33.257 |    26.866 |   33.834 |    33.715 | 25.063 | 26.219 |    29.142 | 29.745 | Iron Dragonslayer Helm, Winged Knight Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      40.7 | 43.81 |   35.194 |    27.769 |   35.638 |    34.209 | 23.609 | 25.268 |    29.133 | 26.003 | Catarina Helm, Catarina Armor, Catarina Gauntlets, Catarina Leggings
+      39.7 | 42.72 |   34.121 |    26.748 |   35.052 |    33.577 | 23.683 | 25.742 |    29.074 | 26.878 | Catarina Helm, Catarina Armor, Gundyr's Gauntlets, Iron Dragonslayer Leggings
+      40.0 | 42.25 |   33.257 |    26.866 |   33.764 |    33.437 | 25.373 | 26.753 |    29.068 | 30.545 | Iron Dragonslayer Helm, Winged Knight Armor, Winged Knight Gauntlets, Iron Dragonslayer Leggings
+      40.0 | 41.91 |   34.397 |    27.440 |   34.915 |    34.413 | 24.247 | 25.980 |    29.067 | 26.030 | Morne's Helm, Catarina Armor, Catarina Gauntlets, Iron Dragonslayer Leggings
+      40.5 | 42.94 |   33.755 |    27.778 |   33.562 |    32.943 | 25.685 | 26.832 |    29.001 | 29.745 | Catarina Helm, Winged Knight Armor, Exile Gauntlets, Iron Dragonslayer Leggings
+      40.3 | 42.03 |   34.397 |    27.440 |   34.847 |    34.138 | 24.560 | 26.515 |    28.994 | 26.872 | Morne's Helm, Catarina Armor, Winged Knight Gauntlets, Iron Dragonslayer Leggings
