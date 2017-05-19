@@ -560,7 +560,7 @@ int main(int argc, char** argv){
 			if(!i) cout<<string(prevlen, '=')<<endl;
 			prevlen = printf(!i ? "best" : "    ");
 			prevlen += printf("%6.1f | %5.2f | ", best.weight / 10., best.poise);
-			for(int i = 0; i < 8; i++) prevlen += printf(best.absorptions.all[i] <= -10 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
+			for(int i = 0; i < 8; i++) prevlen += printf("%*.*f | ", namelens[i], best.absorptions.all[i] <= -10 ? 2 : 3, best.absorptions.all[i]);
 			prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
 			cout<<endl;
 		}
