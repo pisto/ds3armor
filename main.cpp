@@ -461,12 +461,14 @@ int main(int argc, char** argv){
 		cerr<<"no weight can be negative"<<endl;
 		return 1;
 	} else weight_total_inverse += weights.all[i];
-	if(weight_total_inverse == 0.){
-		cerr<<"At least one weight must be > 0"<<endl;
-		return 1;
-	}
-	weight_total_inverse = 1 / weight_total_inverse;
+	if(weight_total_inverse == 0.f){
+		if(!poisefirst){
+			cerr<<"At least one weight must be > 0"<<endl;
+			return 1;
+		}
+	} else weight_total_inverse = 1 / weight_total_inverse;
 	auto score = [&](const armorset& set){	//basically a weighted sum of the absorptions
+		if(weight_total_inverse == 0.f) return set.poise;
 		auto x = set.absorptions;
 		if(harmonic_mean){
 			if(duskcrown) x.magic += 30;	//harmonic mean screws up with negative numbers
