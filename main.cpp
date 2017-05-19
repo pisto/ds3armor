@@ -417,7 +417,7 @@ int main(int argc, char** argv){
 	vec_absorptions weights;
 	bool harmonic_mean, duskcrown, poisefirst;
 	unsigned int maxtiers;
-	set<string> exclusions;
+	set<string> exclusions{ "Crown of Dusk", "Symbol of Avarice" };
 
 	boost::program_options::options_description options("Options for ds3armor");
 	try {
@@ -456,19 +456,19 @@ int main(int argc, char** argv){
 		return 1;
 	}
 
-	float weight_total_inverse = 0;
+	float weight_total = 0;
 	for(int i = 0; i < 8; i++) if(weights.all[i] < 0){
 		cerr<<"no weight can be negative"<<endl;
 		return 1;
-	} else weight_total_inverse += weights.all[i];
-	if(weight_total_inverse == 0.f){
-		if(!poisefirst){
-			cerr<<"At least one weight must be > 0"<<endl;
-			return 1;
-		}
-	} else weight_total_inverse = 1 / weight_total_inverse;
+	} else weight_total += weights.all[i];
+	if(weight_total == 0.f && !poisefirst){
+		cerr<<"At least one weight must be > 0"<<endl;
+		return 1;
+	}
+	float weight_total_inverse = 1 / weight_total;
+
 	auto score = [&](const armorset& set){	//basically a weighted sum of the absorptions
-		if(weight_total_inverse == 0.f) return set.poise;
+		if(weight_total == 0.f) return set.poise;
 		auto x = set.absorptions;
 		if(harmonic_mean){
 			if(duskcrown) x.magic += 30;	//harmonic mean screws up with negative numbers
@@ -477,21 +477,21 @@ int main(int argc, char** argv){
 		x.all *= weights.all;
 		x.v4[0] += x.v4[1];
 		x.v2[0] += x.v2[1];
-		float r = (x.v2[0][0] + x.v2[0][1]);
-		r = harmonic_mean ? weight_total_inverse / r : weight_total_inverse * r;
-		if(poisefirst) r += 10000 * set.poise;
+		float r = x.v2[0][0] + x.v2[0][1];
+		if(harmonic_mean) r = 1 / r;
+		if(poisefirst){
+			r *= weight_total_inverse;
+			r += 10000 * set.poise;
+		}
 		return r;
 	};
 
 	vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
+	if(duskcrown) exclusions.erase("Crown of Dusk");
 	for(auto& a: ds3armors){
 		auto it = exclusions.find(a.name);
-		if(it != exclusions.end()){
-			exclusions.erase(it);
-			continue;
-		}
-		if(a.id == 306) continue;	//exclude Symbol of Avarice
-		if(a.type == HEAD ? duskcrown == (a.id == 2) : true) armor_by_type[a.type].push_back(&a);	//use Crown of Dusk only if selected by the user (and force it)
+		if(it != exclusions.end()) exclusions.erase(it);
+		else if(!duskcrown || a.type != HEAD || !strcmp(a.name, "Crown of Dusk")) armor_by_type[a.type].push_back(&a);
 	}
 	if(!exclusions.empty()){
 		cerr<<"Unrecognized exclusions:"<<endl;
