@@ -41,11 +41,11 @@ A versatile build probably needs `--balanced 1`.
 
 The program outpus for each target weight the best set but then also a number of tiers (maximum is specified by `--maxtiers arg`). The best set is prepended in the list with `best`.
 
-### Symbol of Avarice and Crown of Dusk
+### Exclusions and inclusions: Symbol of Avarice and Crown of Dusk
 
-Symbol of Avarice is never considered for the head piece.
+It is possible to blacklist or whitelist individual armor pieces. By default Symbol of Avarice and Crown of Dusk are excluded.
 
-Crown of Dusk as well is always excluded, except if you pass the argument `--duskcrown 1`, which actually enforces it, for mages.
+In order to exclude a piece use `-e "piece name"`. To include only some pieces for a specific armor type, use `-i "piece 1" -i "piece 2" ...`. Inclusions have priority over exclusions.
 
 ## Precompiled lists
 

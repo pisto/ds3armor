@@ -1,5 +1,6 @@
 #include <vector>
 #include <set>
+#include <map>
 #include <iostream>
 #include <cstring>
 #include <string>
@@ -29,6 +30,12 @@ struct armor {
 	vec_absorptions absorptions;
 	float bleed, poison, frost, curse, poise;
 	armor_type type;
+	bool operator <(const armor& o) const { return strcmp(name, o.name); }
+	static armor key(const char* name){
+		armor r;
+		r.name = name;
+		return r;
+	}
 };
 
 //from mugenmonkey
@@ -399,9 +406,8 @@ const armor ds3armors[] {
 //arguments
 namespace{
 vec_absorptions weights;
-bool harmonic_mean, duskcrown, poisefirst, zeroweights = true;
+bool harmonic_mean, poisefirst, zeroweights = true;
 unsigned int maxtiers;
-set<string> exclusions{ "Crown of Dusk", "Symbol of Avarice" };
 }
 
 struct armorset{
@@ -416,7 +422,7 @@ struct armorset{
 		}
 		auto x = absorptions;
 		if(harmonic_mean){
-			if(duskcrown) x.magic += 30;	//harmonic mean screws up with negative numbers
+			if(head->absorptions.magic == -30.f) x.magic += 30;	//harmonic mean screws up with negative numbers
 			x.all = 1 / x.all;
 		}
 		x.all *= weights.all;
@@ -436,6 +442,7 @@ struct armorset{
 const int BESTN_TOT = 50;
 armorset weightrank[601][BESTN_TOT];	//60.0 is the maximum weight
 vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
+bool constrained_armor_pieces[4]{ false, false, false, false };
 
 #ifdef __x86_64__
 //XXX this would be so nice but it crashes gcc 6.3
@@ -446,7 +453,7 @@ int main(int argc, char** argv){
 	boost::program_options::options_description options("Options for ds3armor");
 	try {
 		using namespace boost::program_options;
-		vector<string> exclusions_v;
+		vector<string> exclusions_v { "Crown of Dusk", "Symbol of Avarice" }, inclusions;
 		options.add_options()
 			("physical", value(&weights.physical)->default_value(0.25), "physical absorption weight")
 			("vs_strike", value(&weights.vs_strike)->default_value(0.25), "vs_strike absorption weight")
@@ -457,9 +464,9 @@ int main(int argc, char** argv){
 			("lightning,l", value(&weights.lightning)->default_value(0), "lightning absorption weight")
 			("dark,d", value(&weights.dark)->default_value(0), "dark absorption weight")
 			("balanced", value(&harmonic_mean)->default_value(true), "penalize sets with a specific weakness using harmonic averages")
-			("duskcrown", value(&duskcrown)->default_value(false), "force the Crown of Dusk")
 			("maxtiers", value(&maxtiers)->default_value(10), "max number of tiers to display")
-			("exclude,e", value(&exclusions_v), "exclude armor pieces by name")
+			("exclude,e", value(&exclusions_v), "blacklist armor pieces by name")
+			("include,i", value(&inclusions), "whitelist armor pieces by name")
 			("poisefirst,p", value(&poisefirst)->default_value(false), "optimize poise first")
 			("help", "produce help message")
 			;
@@ -480,14 +487,19 @@ int main(int argc, char** argv){
 		}
 		if(zeroweights && !poisefirst) throw invalid_argument("At least one weight must be > 0");
 
-		exclusions.insert(exclusions_v.begin(), exclusions_v.end());
-		if(duskcrown) exclusions.erase("Crown of Dusk");
-		for(auto& a: ds3armors){
-			auto it = exclusions.find(a.name);
-			if(it != exclusions.end()) exclusions.erase(it);
-			else if(!duskcrown || a.type != HEAD || !strcmp(a.name, "Crown of Dusk")) armor_by_type[a.type].push_back(&a);
+		map<string, const armor*> armor_names;
+		for(auto& a: ds3armors) armor_names[a.name] = &a;
+		for(auto& i: inclusions){
+			auto it = armor_names.find(i);
+			if(it == armor_names.end()) throw invalid_argument("Unknown armor piece " + string(it->second->name) + " in inclusions");
+			constrained_armor_pieces[it->second->type] = true;
+			armor_by_type[it->second->type].push_back(it->second);
 		}
-		if(!exclusions.empty()) throw invalid_argument("Unrecognized exclusion " + *exclusions.begin());
+		set<string> exclusions;
+		exclusions.insert(exclusions_v.begin(), exclusions_v.end());
+		for(auto& a: ds3armors)
+			if(!constrained_armor_pieces[a.type] && exclusions.find(a.name) == exclusions.end())
+				armor_by_type[a.type].push_back(&a);
 	} catch(const invalid_argument& e){
 		cerr<<"Bad command line argument: "<<e.what()<<endl<<options<<endl;
 		return 1;
@@ -548,7 +560,7 @@ int main(int argc, char** argv){
 			if(!i) cout<<string(prevlen, '=')<<endl;
 			prevlen = printf(!i ? "best" : "    ");
 			prevlen += printf("%6.1f | %5.2f | ", best.weight / 10., best.poise);
-			for(int i = 0; i < 8; i++) prevlen += printf(duskcrown && i == 4 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
+			for(int i = 0; i < 8; i++) prevlen += printf(best.absorptions.all[i] <= -10 ? "%*.2f | " : "%*.3f | ", namelens[i], best.absorptions.all[i]);
 			prevlen += printf("%s, %s, %s, %s", best.head->name, best.body->name, best.arms->name, best.legs->name);
 			cout<<endl;
 		}
