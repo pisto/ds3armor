@@ -1,10 +1,10 @@
 CXXFLAGS:= -march=native -mtune=native
 override CXXFLAGS+= -std=c++1y -ffast-math -Wall
 OBJS:= main.o
-override LIBS+= -lboost_program_options
+override LDLIBS+= -lboost_program_options
 
 ds3-armor: $(OBJS)
-	$(CXX) $(LDFLAGS) $(CXXFLAGS) -o ds3-armor $(OBJS) $(LIBS)
+	$(CXX) $(LDFLAGS) $(CXXFLAGS) -o ds3-armor $(OBJS) $(LDLIBS)
 
 release: CXXFLAGS+= -O3
 release: ds3-armor
