@@ -31,11 +31,6 @@ struct armor {
 	float bleed, poison, frost, curse, poise;
 	armor_type type;
 	bool operator <(const armor& o) const { return strcmp(name, o.name); }
-	static armor key(const char* name){
-		armor r;
-		r.name = name;
-		return r;
-	}
 };
 
 //from mugenmonkey
