@@ -436,6 +436,7 @@ struct armorset{
 
 const int BESTN_TOT = 50;
 armorset weightrank[601][BESTN_TOT];	//60.0 is the maximum weight
+unsigned int setsofweight[601];
 vector<const armor*> armor_by_type[4];	//HEAD, BODY, ARMS, LEGS
 bool constrained_armor_pieces[4]{ false, false, false, false };
 
@@ -524,7 +525,9 @@ int main(int argc, char** argv){
 					candidate.weight = body_legs_arms_weight + head->weight;
 					candidate.calcscore();
 					auto& bestn = weightrank[candidate.weight];
-					if(candidate < bestn[BESTN_TOT - 1]){
+					auto& totsets = setsofweight[candidate.weight];
+					if(totsets < BESTN_TOT) bestn[totsets++] = candidate;
+					else if(candidate < bestn[BESTN_TOT - 1]){
 						bestn[BESTN_TOT - 1] = candidate;
 						sort(bestn, bestn + BESTN_TOT);
 					}
@@ -544,8 +547,11 @@ int main(int argc, char** argv){
 	cout<<endl;
 	armorset lastbest;
 	vector<armorset> tiers;
-	for(auto& bestn: weightrank){
-		tiers.insert(tiers.end(), bestn, bestn + BESTN_TOT);
+	for(int i = 0; i < 601; i++){
+		auto len = setsofweight[i];
+		if(!len) continue;
+		auto& bestn = weightrank[i];
+		tiers.insert(tiers.end(), bestn, bestn + len);
 		sort(tiers.begin(), tiers.end());
 		if(lastbest < tiers[0]) continue;
 		lastbest = tiers[0];
