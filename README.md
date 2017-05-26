@@ -45,7 +45,7 @@ The program outpus for each target weight the best set but then also a number of
 
 It is possible to blacklist or whitelist individual armor pieces. By default Symbol of Avarice and Crown of Dusk are excluded.
 
-In order to exclude a piece use `-e "piece name"`. To include only some pieces for a specific armor type, use `-i "piece 1" -i "piece 2" ...`. Inclusions have priority over exclusions.
+In order to exclude a piece use `-e "piece name/ECMAscript regular expression"`, for example `-e "Lapp|Cathedral"`. To include only some pieces for a specific armor type, use `-i "piece name" -i "piece name" ...`. Inclusions have priority over exclusions.
 
 ## Precompiled lists
 
