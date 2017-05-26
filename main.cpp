@@ -1,10 +1,10 @@
 #include <vector>
-#include <set>
 #include <map>
 #include <iostream>
 #include <cstring>
 #include <string>
 #include <algorithm>
+#include <regex>
 #include <boost/program_options.hpp>
 using namespace std;
 
@@ -449,7 +449,7 @@ int main(int argc, char** argv){
 	boost::program_options::options_description options("Options for ds3armor");
 	try {
 		using namespace boost::program_options;
-		vector<string> exclusions_v { "Crown of Dusk", "Symbol of Avarice" }, inclusions;
+		vector<string> exclusions_args { "Crown of Dusk", "Symbol of Avarice" }, inclusions;
 		options.add_options()
 			("physical", value(&weights.physical)->default_value(0.25), "physical absorption weight")
 			("vs_strike", value(&weights.vs_strike)->default_value(0.25), "vs_strike absorption weight")
@@ -461,7 +461,7 @@ int main(int argc, char** argv){
 			("dark,d", value(&weights.dark)->default_value(0), "dark absorption weight")
 			("balanced", value(&harmonic_mean)->default_value(true), "penalize sets with a specific weakness using harmonic averages")
 			("maxtiers", value(&maxtiers)->default_value(10), "max number of tiers to display")
-			("exclude,e", value(&exclusions_v), "blacklist armor pieces by name")
+			("exclude,e", value(&exclusions_args), "blacklist armor pieces by name/regular expression")
 			("include,i", value(&inclusions), "whitelist armor pieces by name")
 			("poisefirst,p", value(&poisefirst)->default_value(false), "optimize poise first")
 			("help", "produce help message")
@@ -491,11 +491,18 @@ int main(int argc, char** argv){
 			constrained_armor_pieces[it->second->type] = true;
 			armor_by_type[it->second->type].push_back(it->second);
 		}
-		set<string> exclusions;
-		exclusions.insert(exclusions_v.begin(), exclusions_v.end());
-		for(auto& a: ds3armors)
-			if(!constrained_armor_pieces[a.type] && exclusions.find(a.name) == exclusions.end())
-				armor_by_type[a.type].push_back(&a);
+		vector<regex> exclusions_regex;
+		for(auto& e: exclusions_args) exclusions_regex.emplace_back(e, regex::optimize | regex::ECMAScript);
+		cerr<<"Excluded pieces:"<<endl;
+		for(auto& a: ds3armors){
+			if(constrained_armor_pieces[a.type]) goto exclude;
+			for(auto& r: exclusions_regex) if(regex_search(a.name, r)){
+				cerr<<'\t'<<a.name<<endl;
+				goto exclude;
+			}
+			armor_by_type[a.type].push_back(&a);
+			exclude:;
+		}
 	} catch(const invalid_argument& e){
 		cerr<<"Bad command line argument: "<<e.what()<<endl<<options<<endl;
 		return 1;
