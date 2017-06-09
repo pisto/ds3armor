@@ -53,3 +53,5 @@ wait
 ../ds3-armor -p 1 --physical 0 --vs_strike 0 --vs_slash 0 --vs_thrust 0 > poise &
 ../ds3-armor -p 1 > poise_pure_physical &
 ../ds3-armor -i "Crown of Dusk" -p 1 > duskcrown_poise_pure_physical &
+
+unix2dos *
