@@ -487,7 +487,7 @@ int main(int argc, char** argv){
 		for(auto& a: ds3armors) armor_names[a.name] = &a;
 		for(auto& i: inclusions){
 			auto it = armor_names.find(i);
-			if(it == armor_names.end()) throw invalid_argument("Unknown armor piece " + string(it->second->name) + " in inclusions");
+			if(it == armor_names.end()) throw invalid_argument("Unknown armor piece " + string(i) + " in inclusions");
 			constrained_armor_pieces[it->second->type] = true;
 			armor_by_type[it->second->type].push_back(it->second);
 		}
