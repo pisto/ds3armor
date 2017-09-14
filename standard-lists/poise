@@ -11,8 +11,8 @@ best   4.9 |  1.89 |    7.319 |     6.359 |    5.877 |     5.686 | 21.346 | 20.3
        4.7 |  1.49 |    6.660 |     5.980 |    5.400 |     5.207 | 20.932 | 20.305 |    22.147 | 21.584 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.9 |  1.39 |    6.448 |     6.543 |    6.448 |     5.584 | 20.344 | 18.087 |    19.055 | 20.592 | Ragged Mask, Master's Attire, Antiquated Gloves, Loincloth
        4.7 |  1.30 |    6.660 |     5.885 |    5.400 |     5.016 | 20.601 | 20.388 |    21.903 | 21.829 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Loincloth
-       4.8 |  1.30 |    6.849 |     5.980 |    5.400 |     5.111 | 20.270 | 19.056 |    22.390 | 18.402 | Blindfold Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.8 |  1.30 |    6.566 |     5.790 |    5.305 |     4.920 | 20.767 | 20.721 |    21.741 | 21.666 | Pyromancer Crown , Desert Pyromancer Garb, Master's Gloves, Loincloth
+       4.8 |  1.30 |    6.849 |     5.980 |    5.400 |     5.111 | 20.270 | 19.056 |    22.390 | 18.402 | Blindfold Mask, Desert Pyromancer Garb, Master's Gloves, Loincloth
        4.8 |  1.29 |    6.543 |     6.637 |    6.543 |     5.774 | 20.262 | 17.491 |    19.390 | 20.509 | Ragged Mask, Master's Attire, Court Sorcerer Gloves, Loincloth
        4.9 |  1.20 |    6.832 |     6.261 |    6.452 |     5.108 | 19.527 | 16.735 |    18.227 | 19.527 | Thrall Hood, Master's Attire, Master's Gloves, Loincloth
        4.9 |  1.10 |    6.637 |     6.543 |    6.543 |     5.584 | 20.097 | 17.321 |    19.222 | 20.015 | Ragged Mask, Master's Attire, Desert Pyromancer Gloves, Loincloth
@@ -48,8 +48,8 @@ best   5.3 |  2.68 |    6.753 |     5.978 |    5.494 |     5.207 | 21.365 | 21.2
        5.3 |  1.60 |    5.499 |     5.594 |    5.499 |     4.819 | 20.633 | 19.084 |    19.348 | 20.304 | Shira's Crown, Master's Attire, Master's Gloves, Cornyx's Skirt
        5.3 |  1.59 |    6.941 |     6.074 |    5.400 |     5.302 | 21.819 | 21.114 |    23.018 | 22.383 | Shira's Crown, Desert Pyromancer Garb, Violet Wrappings, Loincloth
        5.3 |  1.59 |    6.920 |     6.920 |    6.731 |     5.869 | 20.509 | 18.002 |    19.306 | 20.592 | Ragged Mask, Master's Attire, Pyromancer Wrap, Loincloth
-       5.3 |  1.50 |    5.210 |     5.785 |    6.168 |     5.108 | 20.049 | 17.977 |    18.583 | 20.392 | Ragged Mask, Master's Attire, Master's Gloves, Deacon Skirt
-=====================================================================================================================================================================
+       5.3 |  1.50 |    6.168 |     5.880 |    5.880 |     5.495 | 20.478 | 17.801 |    19.191 | 20.478 | Ragged Mask, Master's Attire, Master's Gloves, Old Sorcerer Boots
+===========================================================================================================================================================================
 best   5.4 |  2.77 |    8.064 |     7.112 |    6.823 |     6.538 | 20.192 | 19.716 |    22.058 | 21.262 | Ragged Mask, Desert Pyromancer Garb, Shadow Gauntlets, Loincloth
        5.4 |  2.48 |    7.410 |     6.641 |    6.349 |     5.778 | 21.815 | 20.944 |    22.935 | 22.703 | Ragged Mask, Desert Pyromancer Garb, Cornyx's Wrap, Loincloth
        5.4 |  2.28 |    7.783 |     7.017 |    6.539 |     6.063 | 21.733 | 20.862 |    23.014 | 22.783 | Ragged Mask, Desert Pyromancer Garb, Sorcerer Gloves, Loincloth
@@ -76,8 +76,8 @@ best   5.6 |  3.37 |    9.124 |     7.700 |    6.648 |     7.805 | 18.155 | 18.3
        5.6 |  3.09 |    6.455 |     8.181 |    6.935 |     6.267 | 20.821 | 18.242 |    19.799 | 21.507 | Ragged Mask, Master's Attire, Master's Gloves, Archdeacon Skirt
        5.6 |  2.48 |    6.470 |     5.788 |    5.207 |     5.111 | 21.855 | 22.149 |    23.134 | 22.583 | Shira's Crown, Desert Pyromancer Garb, Master's Gloves, Cornyx's Skirt
        5.6 |  2.48 |    7.877 |     7.112 |    6.444 |     6.158 | 21.733 | 21.108 |    23.094 | 22.863 | Ragged Mask, Desert Pyromancer Garb, Pyromancer Wrap, Loincloth
-       5.6 |  2.38 |    7.132 |     6.074 |    5.590 |     5.784 | 21.703 | 20.915 |    22.985 | 22.752 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Old Sorcerer Boots
        5.6 |  2.38 |    6.184 |     5.978 |    5.879 |     5.399 | 21.280 | 21.084 |    22.405 | 22.669 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Deacon Skirt
+       5.6 |  2.38 |    7.132 |     6.074 |    5.590 |     5.784 | 21.703 | 20.915 |    22.985 | 22.752 | Ragged Mask, Desert Pyromancer Garb, Master's Gloves, Old Sorcerer Boots
        5.6 |  2.38 |    7.877 |     7.017 |    6.444 |     6.443 | 22.388 | 21.519 |    23.970 | 23.666 | Old Sorcerer Hat, Desert Pyromancer Garb, Court Sorcerer Gloves, Loincloth
        5.6 |  2.30 |    7.902 |     7.323 |    6.652 |     7.428 | 17.393 | 16.122 |    17.535 | 16.961 | Shira's Crown, Master's Attire, Master's Gloves, Shadow Leggings
        5.6 |  2.29 |    6.470 |     5.693 |    5.207 |     4.919 | 21.528 | 22.230 |    22.894 | 22.825 | Old Sage's Blindfold, Desert Pyromancer Garb, Master's Gloves, Cornyx's Skirt
@@ -2080,8 +2080,8 @@ best  49.2 | 48.06 |   35.081 |    32.586 |   35.277 |    33.419 | 26.871 | 30.1
       49.2 | 47.79 |   35.081 |    31.885 |   35.277 |    33.279 | 26.644 | 30.538 |    24.258 | 26.947 | Exile Mask, Havel's Armor, Black Iron Gauntlets, Havel's Leggings
       49.0 | 47.78 |   34.611 |    31.509 |   34.458 |    32.798 | 26.872 | 30.103 |    26.136 | 27.406 | Catarina Helm, Havel's Armor, Faraam Gauntlets, Havel's Leggings
       49.1 | 47.78 |   34.747 |    30.940 |   35.138 |    33.007 | 26.947 | 30.103 |    25.526 | 27.182 | Catarina Helm, Havel's Armor, Lothric Knight Gauntlets, Havel's Leggings
-      49.1 | 47.70 |   34.667 |    31.077 |   35.201 |    33.568 | 26.716 | 29.954 |    26.053 | 27.631 | Iron Dragonslayer Helm, Havel's Armor, Gundyr's Gauntlets, Havel's Leggings
       49.1 | 47.70 |   34.319 |    31.799 |   34.647 |    32.501 | 26.945 | 29.881 |    25.272 | 27.021 | Faraam Helm, Havel's Armor, Gundyr's Gauntlets, Havel's Leggings
+      49.1 | 47.70 |   34.667 |    31.077 |   35.201 |    33.568 | 26.716 | 29.954 |    26.053 | 27.631 | Iron Dragonslayer Helm, Havel's Armor, Gundyr's Gauntlets, Havel's Leggings
       49.2 | 47.65 |   35.218 |    31.148 |   35.411 |    34.053 | 27.177 | 30.838 |    25.736 | 27.402 | Black Iron Helm, Havel's Armor, Catarina Gauntlets, Havel's Leggings
       49.2 | 47.65 |   34.548 |    33.420 |   34.599 |    31.836 | 26.397 | 28.714 |    24.980 | 26.550 | Exile Mask, Havel's Armor, Faraam Gauntlets, Smough's Leggings
 ========================================================================================================================================================================
