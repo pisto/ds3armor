@@ -54,7 +54,7 @@ I generated a number of sensible default with this program in the [standard-list
 * pure\_{physical,fire,magic,lightning,dark}: score based only on {physical,fire,magic,lightning,dark}
 * {fire,magic,lightning,dark,mixed}\_{weight}: physical (weight 1) averaged with elemental at some specified weight between 0.1 and 0.9 - mixed is an average of all elemental damages with the same weights
 * {fire,magic,lightning,dark}\_unbalanced\_{weight}: same as above but with `--balanced 0`
-* duskcrown\_\*: some runs similar to above but with `--duskcrown 1`
+* duskcrown\_\*: some runs similar to above but with `-i "Crown of Dusk"`
 * poise\_\*: a couple of sample lists with focus on poise
 
 ## Download program
